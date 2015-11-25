@@ -27,7 +27,11 @@ image_url = 'https://pbs.twimg.com/profile_images/2911745249/576ef0e3f2cf7a8c51a
 # Create the AlchemyAPI Object
 alchemyapi = AlchemyAPI()
 
-response = alchemyapi.faceTagging('url', image_url)
+# Old code
+# response = alchemyapi.faceTagging('url', image_url)
+
+#New alchemyapi_python package
+response = alchemyapi.face_tagging('url', image_url)
 
 if response['status'] == 'OK':
     print('## Image Information ##\n')
