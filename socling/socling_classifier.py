@@ -17,7 +17,7 @@ class Classifier:
             name = f.readline()
             url = f.readline().strip()
             try:
-                value = get_age_or_gender.get_demographic(url,"gender",0.0)
+                value = get_age_or_gender.get_demographic(url,"gender",0.9)
             except:
                 print value
             if value != -1:
