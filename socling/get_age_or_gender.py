@@ -20,7 +20,7 @@ from alchemyapi import AlchemyAPI
 import json
 import sys
 
-def get_demographic(image_url,demographic):
+def get_demographic(image_url,demographic,threshold):
 
     # Create the AlchemyAPI Object
     alchemyapi = AlchemyAPI("fbfba639448679ae5b19e880f162aed9d7498284")
@@ -41,13 +41,17 @@ def get_demographic(image_url,demographic):
             genderscore=keyword['gender']['score']
             print("Gender: "+gender)
             print("Score: "+genderscore)
-            return gender
+            if genderscore >= threshold:
+                return gender
         elif demographic == "age":
             age=keyword['age']['ageRange']
             agescore=keyword['age']['score']
             print("Age: "+age)
             print("Score: "+agescore)
-            return age
+            if agescore >= threshold:
+                return age
+        print("Score less than threshold")
+        return -1
 
     if not found:
         print ("Could not determine gender or age")
