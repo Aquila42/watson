@@ -23,7 +23,7 @@ import sys
 def get_demographic(image_url,demographic,threshold):
 
     # Create the AlchemyAPI Object
-    alchemyapi = AlchemyAPI("fbfba639448679ae5b19e880f162aed9d7498284")
+    alchemyapi = AlchemyAPI()
 
     #New alchemyapi_python package
     response = alchemyapi.face_tagging('url', image_url)
