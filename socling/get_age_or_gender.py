@@ -41,7 +41,7 @@ def get_demographic(image_url,demographic,threshold):
             genderscore=keyword['gender']['score']
             print("Gender: "+gender)
             print("Score: "+genderscore)
-            if genderscore >= threshold:
+            if genderscore >= threshold and gender != 'UNKNOWN' and gender != 'INDETERMINATE':
                 return gender
         elif demographic == "age":
             age=keyword['age']['ageRange']
