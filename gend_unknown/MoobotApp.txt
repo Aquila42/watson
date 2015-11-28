@@ -1,0 +1,602 @@
+MoobotApp
+http://pbs.twimg.com/profile_images/1030788785/moobot-profile_image-7e48fb2f29c80f61-300x300_400x400.png
+@ms_owo Looks like Cbenni helped you out. Let me know if you're having any more issues.
+@bzin939 Blank screen when you play a song? Make sure YouTube is allowed to run javascript in your browser
+@Mime_Oner You can use your own playlist via the Song Request feature. Then use the commands and filtering attached to that.
+@DJ_Rains No, the streamer needs to add you as a Moobot editor. You can only add and edit some commands as a normal moderator. (from chat)
+@DJ_Rains You need to be a Moobot editor on their Moobot, and then go to their dashboard at https://t.co/hgI7DW0JhA
+@Funker_WoN You mean the expiration date? It's converted to GMT. I guess it could display as the tzone that was set, I'll have to add that
+@xxbob92 It's a mod but it's not joined to your chat. Click the "Join" button on the dashboard (under Quick controls)
+@StormlessUK Yeah that's the latest Chrome. Strange. If you have video footage then that'd most likely help, yeah.
+@xxbob92 In https://t.co/o7R1nkzIOi? Moobot isn't in that chat. You need to make it join at https://t.co/ki2N9wV6tA
+@Pick3dLast Just make a Moobot command like "!social" and put the social media links in it's text. Can auto post to chat if wanted.
+@Dangelo_Art Done. Should be transferred over to https://t.co/WxjSH8hRon now.
+@Dangelo_Art Sure. From which and to which Twitch account? I can transfer your points, unlocks and current subscriptions.
+@EpiccGamerWorld Aha. I'll likely add customizable restrictions to the new raffle syetem, so for example only regulars can enter
+@EpiccGamerWorld The whole system is getting a complete overhaul. How come you're running giveaways for only specific users?
+@KandeeCane Variations in a command's responses is something I'm looking into. What would you be using it for specifically?
+@EpiccGamerWorld Hmm, I was thinking of removing that command altogether. What purpose are you using it for exactly?
+@KandeeCane Thanks for the heads up!
+@GregPlease_ Thanks for the heads up!
+@John464646 Like, with a sound? It's possible, yeah. I have some ideas around that, but not in the immediate future.
+@Pick3dLast No problem, I'll be here
+@GregPlease_ &lt;3
+@GregPlease_ It's free
+@GregPlease_ Email partnerhelp@twitch.tv and ask to have Moobot subscribed to you as your personal bot.
+Be sure to enable Twitch's new two-factor account authentication, and your Moobot will be protected with it as well https://t.co/88mRRUZbNK
+@Gamer_Brains Sadly no, the cooldown is there so Moobot won't spam the chat.
+@Ganlorth Updating how? The !songrequest command isnt working at all?
+@PSNSmoke3320 Alright, that's good to hear
+@MaceDverji Yeah, it's a known bug. It's been rewritten in the next version. Thanks for reporting though!
+@PSNSmoke3320 The desktop notification sounds? Did they ever work under Windows 10? Try clearing your browser's cache, and reset the sounds
+@theOrangeDoom There's a button in the Features menu that will take you to the Moobot Assistant menu.
+@StormlessUK Hmm, alright. What version of Chrome are you using? (See https://t.co/UNqbhUgjsW)
+@ms_owo 2/2 Banned users list will definitely make it into 2.0, but not sure about voteskip.
+@ms_owo I do have quite a few ideas for the 2.0 version of song requests, yeah. Song history would be nice too, I've added that to the TODOs
+@Just_DK_isfine You will get a chat message as they follow. They'll be grouped up if it's more than one that has followed since the cooldown
+@mini_kaboom Looks like you've got it sorted now. The Twitch chat servers just rebooted.
+@Pick3dLast What are you having trouble with? Maybe I can help.
+@StormlessUK Does it stop playing when you minimize the window, if you're already playing? It shouldn't... I'll have to look into it more
+@StormlessUK That's a new "feature" of Chrome. You should still be able to hit play while maximized, and then have no issues though, no?
+@JakeProtagonist Sadly no, Moobot does not support donations (yet)
+@flexzuu Not a public API, no. I've made the arrangements for one in the next patch though, but we'll see. What are you looking to do?
+@MUD2MMO Cache clear should fix it. Or maybe it's a browser extension messing with it. Maybe @TwitchSupport can help?
+@hawkboy110 Did you try watching a YouTube video on how to set it up? I recommend this one https://t.co/Qg7kzmjuu7
+@MUD2MMO If you're having trouble with Twitch's chat embed try clearing your browser's cookies and cache
+@yonkoyonkov1 Currently songs are random, and not shuffled. In version 2.0 the songs will be shuffled.
+@MFJones0117 There's currently no !highlight command for Moobot, though you can have it say the uptime so you can note it for later.
+@Whiplashjay_ That's how it already is with the Links spam filter. Isn't that the case?
+@Morganafreya 2/2 I'll try to get a fix out for that bug as soon as possible.
+@Morganafreya 1/2 Been monitoring your chat, and there seems to be a bug where it goes inactive if it finds no channel to host in hours
+@Kaakmanstwitch Try clearing your browser's cookies and cache
+@Kaakmanstwitch Make sure Javascript is enabled, and that you have no extensions blocking it
+@MousePotates Create commands you mean? "!moobot commands add !command text..." in chat
+@MousePotates Looks like you've got it set up now. Let me know if you run into any more trouble.
+@MousePotates You also need to mod your bot in your chat
+@MousePotates (Moobot login is not the same as Twitch login)
+@MousePotates You're logging in to Twitch on your main account, not your bot. That's the only way that'd happen.
+@MousePotates It's 1. Log out of Twitch 2. Log in to Twitch on Bot username 3. Revoke username on Moobot dashboard 4. Enable the feature
+@MousePotates Click the revoke button, log out and log in on Twitch on your bot account, then enable the feature on the Moobot dashboard
+@coltonj96 Sure, I've now added it to my TODO list for the poll system rewrite.
+@coltonj96 You can't do that sadly. Only way is you'll have to save those in a text file and copy paste em into chat
+@coltonj96 Reset it? "!moobot poll reset"
+@THEETaylorB_9 Not in the current live version, no
+@Morganafreya Looks like it's working in your channel at the moment. What was the issue exactly?
+@JaiZo24 Hopefully Twitch will add a feature that lets users "whisper" Moobot for commands, that way the !command won't even show in chat
+@JaiZo24 No, Moobot will only whisper a command if it is being spammed. Why do you want to always whisper it?
+@JKap415 Set up Moobot and it won't ever leave your stream ;)
+@AllyAlexBarron It never did sadly. Version 2.0 will likely have a proper preview embed + external link. No eta on that.
+@THEvsnz Re-enable the Twitch stream widget in the Features menu.
+@CuttleSquid Yeah, it doesn't support emoji characters. No idea if it ever will.
+@BenMcDonald52 The Dashboard Follower Notifications feature will only pop up on your PC sadly.
+@TheSyntox Unfortunately, no, that's an issue with Twitch. Email feedback@twitch.tv and maybe they'll do something about it.
+@LorewaIker_Cho Yeah, that seems to happen sometimes. Should be fixed in the next version.
+@OyM8ISwrOnMeMum Thanks for the update! Your setup was likely bugged due to the win7 to 10 upgrade, yeah. I'll have to look into that.
+@baconbeak1998 Not across commands, no. But you can get !playing to display your current Twitch game after you've set it with !game
+@ms_owo @VindicatedAU Are you trying to make an !uptime command? I set it up for you on https://t.co/9KQ47o9Dy1
+@_LizardRock You can use any name of a Twitch account you own, and Moobot will act as that account.
+@MsCarsonelle Yup. It'll whisper command responses when they otherwise would be dropped, so that the main chat isn't spammed by Moobot.
+@BinouTV Sadly Moobot Assistant is in a very crappy state (+alpha), and there's not any resources to make it perfect atm. Might open source
+@BinouTV Hmm, yeah, Moobot Assistant isn't really tested on Windows 10 yet. Haven't heard of anyone else having issues on it though.
+@Bartman962 Unfortunately it's very unlikely that soundcloud will ever be added. What does soundcloud provide that YouTube doesn't?
+@flo_w13 Some unlocks require you to first be a Moobot contributor before you can unlock them.
+@RapidHaste Yeah, I'm looking to add pause functionality in the 2.0 version of the song request feature for sure.
+@Glock_19_Girl 2/2 If the Moobot event log says it was cleared then someone might have accessed your account to clear it.
+@Glock_19_Girl Fully clearing the secondary playlist should not happen unless you or one of your Moobot editors clicks the Clear button.
+@BinouTV Not sure what the cause of that would be. What Windows version are you running? Is it fully up to date?
+@Longwei_monk Timers work, they haven't changed in months. Only requirement is that chat needs to be active.
+Twitch is still experiencing random instabilities which can make Moobot think your stream is offline when it's online. Hopefully fixed soon.
+@themagicslayer That's what you use to add into OBS as a Text. Save it as a .txt file.
+@BinouTV There should be a menu when you click on Files button. Is it off-screen or something? https://t.co/k1LUVnlIko
+@StabbedPanda Like change the user's message? No, that'd have to be done by Twitch.
+@GregPlease_ &lt;3
+@Longwei_monk 2/2 The "Current set Twitch game" will only display what game you've currently set.
+@Longwei_monk You're trying to set the game with that? You need to use the "Twitch stream commands" feature for that.
+@themagicslayer Add the file as a Text in your OBS scene.
+@BinouTV The Files menu in Moobot Assistant is empty? Well, that's a first. I really have no clue why it'd do that for you. Antivirus?
+@MFJones0117 You need to be a Moobot editor to make advanced commands. Be added as one and use the streamer's Moobot dashboard.
+@koreybaby12345 A security issue with the host
+The server maintenance was successful, and Moobot is currently in the process of rejoining all chats again.
+Moobot is going down for the scheduled server maintenance. Estimated downtime is 1 hour.
+@BinouTV Yes, add the file to OBS as a Text.
+Moobot's host is doing some server maintenance in 12 hours. Estimated downtime is 1 hour.
+@91habbe Sadly, no, there's nothing like that at the moment. Maybe soon(tm)
+@8wayrun Nope. That's the endpoint, and it's a JSON response, that's all you need to know really.
+@Gazreyn I've now made this API endpoint no longer require authentication. Sorry about the delay! https://t.co/GBhd3FQE1P
+@8wayrun Yes, https://t.co/GBhd3G8eTn
+@princessrambeta Thanks! &lt;3
+Moobot's host is doing some server maintenance in 36h. Estimated downtime is 1 hour.
+@OyM8ISwrOnMeMum Not sure what would be causing the crash. Could be anything related to your setup really.
+@OyM8ISwrOnMeMum That means it's crashing on startup then. If an app crashes on Windows the icon won't be removed until you hover over it.
+@Rickdefijneman There's currently no set eta on the next version.
+@OyM8ISwrOnMeMum That is strange. Do you restart the application and it disappears again, on hover? Does it show in your Win Processes list?
+@AutoKorrectVG @mobcrush Why's that?
+@Stormy178 Just fixes for the current version
+@SomeBookshelf That usually means you have something interrupting your network connectivity, or a browser extension is messing with it
+@scania_the_best Alright, I'll see what I can do with it in the next patch.
+@scania_the_best Due to spam. What's a good minimum cooldown for it?
+@arcturus125 That's definitely something I want to do eventually.
+@SquirrelPowa Yes, see https://t.co/tVPITPaYXG
+@do_you_continue Should be good now, let me know if it happens again.
+@BCGamingHD Should be good now, let me know if it happens again.
+@KeyKaiphwvmd Make sure you have the _Dashboard_ follower notifications enabled, and click the Test button on it. + Keep the dashboard open
+@KeyKaiphwvmd Chat follower notifications? Working fine here in your chat http://t.co/uX5Fm1nUOL
+@iles_jonathan Moobot will only time you out in the original channel.
+@AceFlibble What's wrong? BibleThump
+@frogsmaster On YouTube videos? No, YouTube has ads on their videos.
+@Glaived_Tv It works but it requires a lot of code to work perfectly.
+@Glaived_Tv I believe most browsers are too restrictive with that. + you have to adjust for resolution changes (mess)
+@Glaived_Tv Since a full playlist will take at least a couple of hours to go through, it would kinda defeat the purpose
+@Glaived_Tv That would be even more complicated. First option + current would be best. Though not enough time for development.
+@Glaived_Tv Too complex for a lot of users sadly.
+@Glaived_Tv Definitely. Didn't notice it was unsorted, thanks!
+@AlbatrossX3 Like you can't use !songrequest cause it says the stream is offline?
+@KRIPTOE117 &lt;3
+@CameronRedGem Must've been the dashboard follower alerts.
+@CameronRedGem It always has.
+@UncleJosh029 And yes, if you want the requirement to be that they have to follow you to win, just draw another.
+@UncleJosh029 Users are only entered into the raffle once per raffle.
+@Ecn3rwal Do you have a lot of mods or something?
+@Geekdomo Thanks, I appreciate it.
+@Geekdomo He does not work for me. I'm the only dev and owner of Moobot. (created and maintained by Knudsen Apps)
+@Geekdomo Good. I'll have you leave me out of this drama then.
+@Geekdomo As I said, if you want to seek damages then do so in court with that person. You're a _business_.
+@Geekdomo If you want to seek damages then take it up with your malicious user, and don't bring Moobot or others in to it. That's slander.
+@Geekdomo What? I'm the only dev of Moobot. And you're an intricate part of Branebot, and invested in its success, I know that much.
+@Geekdomo @CBenni_O @notstyler @DeepbotSupport I'd advise you to cut the slanderous comments, and know you're speaking as a business.
+@Glock_19_Girl https://t.co/1sm7NC0uOf Should work by just installing it, logging in and setting it up in the Files menu.
+@Glock_19_Girl You need to set the file in the Files menu.
+@Joomz_ Yeah, it looks to be a bigger issue, I'll have to look into it more. Please keep Moobot out of chat for some hours.
+@LaughinWhale I disabled it for you. The list needs to have at least one entry to disable it.
+@Rob_Morg_Black There's a command list on your dashboard that can be linked to, but making a separate command that lists them would be best
+@Jhamez1996 2/2 Sadly it looks like a full reboot is required to fix it, but that won't happen until tomorrow (if it's still an issue then)
+@Jhamez1996 1/2 It's not happening anywhere else, so I'm not sure what's going on with your chat, and what makes it so special.
+@CARDS1031 Thanks, I'll keep you in mind. No idea when the alpha will be live though.
+@CARDS1031 Probably, yes. There will likely be quite a few bugs that'll need to be found.
+@JoshDoesIntros On the dashboard see Misc -&gt; Contribution logs, it should say what the points were spent on.
+I've been working a while now on a full rewrite to modernize Moobot for its 4.0 version. Updates will be scarce till it's out. Alpha soon™
+@Addexio Yeah, whenever I rewrite the raffle feature
+@Addexio Only way at the moment is sub-mode in chat.
+@botlr https://t.co/Qg7kzmjuu7
+@Varsity_Fury That's good to hear. PayPal was having issues yesterday.
+@alryr Possibly. Not sure how the new playlists will be integrated yet.
+@Arkpit That's likely an issue with your Network/ISP/DNS.
+@Atw3ll 2/2 The Moobot points will automatically be deposited to you once PayPal decides to get their shit together.
+@Atw3ll Thanks! Looks like PayPal is fucking up and the transactions are delayed by several hours. Hopefully they'll have it fixed soon.
+PayPal is fucking up at the moment, and is really delayed on transactions. Might take some time for it to go through till they fix it.
+@Atw3ll I'm not seeing any paypal transactions with that email. What's the PayPal transaction ID for your payment?
+@Atw3ll What's your Twitch username and PayPal email used to contribute?
+@Varsity_Fury What's your Twitch username and PayPal email address you contributed with?
+@MissMeOwh Alright, I've now transferred over your points and unlocks to http://t.co/BTwy7gUxnK :)
+@123sky_ Unfortunately there's no support for OBS multiplatform yet. Probably will be a while too, sadly.
+@sarigueya123 What's the issue? If it's not updating the song, it could be the firewall, or file permissions.
+@Optimality_ Hmm, yeah, I have something like that planned but it'd be more universal and requires a lot of time+effort to create sadly.
+@Optimality_ Blacklisting "dont copy" and "don't copy" should stop it.
+@TheRealKouna Alright, I've now transferred over your unlocks, subscriptions and points to The_Real_Kouna.
+@TheRealKouna Yes, I can transfer the unlocks/subscriptions and points for you if you want.
+@HelenaBelore Promotion is over, sadly. Will return next year D:
+@DoshKliGames Are you  connecting directly from http://t.co/hgI7DVJ7T0? (Purple button)
+@DoshKliGames Screenshot? Try clearing your browser's cookies and cache. Which browser are you on?
+@awood360 Not with Moobot, no. Not yet anyway.
+@Louu95Louu Aha! It should've told you that there was no commands to add - I didn't think of that. I'll have that fixed, thanks!
+@SalemProphet @Tredmar @SOAxTSUNAMI Yeah, just use the "Followed" tag in a Moobot command. http://t.co/svKrlcLQiy
+@BeefyFinger Not for support, no. Only Twitter/Facebook support.
+@Louu95Louu Looks like you figured it out. What was the issue?
+@Sonic_Biscuit When renaming you'll be asked to authorize the bot. Click the "not you?" button in the popup and sign in to the bot's account
+@Wunair Viewers voting on a song request skip is definitely planned for version 2.0 of the feature.
+@Sonic_Biscuit If you can enable features on his dashboard then you should be good. They would have to disable it purposely.
+@pocketsands Unfortunately whitelisting is the only thing that works without continously having to keep up with all the spam bots changing
+@Sonic_Biscuit That depends on the feature and if the channel owner allows you to contribute on their dashboard. Which features?
+@porkchopsellis Any audio file that your browser supports. Should list the supported types when you select the file.
+@porkchopsellis 2/2 Or use the Dashboards widget on your own dashboard to navigate to other dashboards.
+@porkchopsellis Just go to http://t.co/lFEe6koBVQ and replace USERNAME with whatever dashboard you want to access.
+@Louu95Louu 2/2 I guess you'll have to use a PC or tablet with a bigger screen to be able to do that.
+@Louu95Louu Looks like the input is falling off-screen there. The dashboard isn't really meant for small mobile screens sadly.
+@Louu95Louu They could change their system so that it's no longer possible. Or shut down Moobot entirely. And yeah, unlimited renames.
+@Louu95Louu 2/2 Monthly are so you won't get screwed over if Twitch decides to cut it off tomorrow, which would be out of my control.
+@Louu95Louu Unfortunately no, the server resources required are pretty heavy for custom names. 1/2
+@roopoodoo That's definitely on the TODOs.
+@PlayerOneTrent Hmm, even if I made an option to hide commands, someone would still be able to see them through the Moobot API sadly.
+@PlayerOneTrent Not at the moment. Why do you want that?
+@TylorWilke That's Twitch's built in banned words filter http://t.co/CpvrlBlfSS
+@Zalcens Song request menu -&gt; Request filtering -&gt; Max requests in queue per user
+@Konami707 Caps is caps. And it's up to the streamer to decide how much that entails.
+@Twitch You better be, I missed this one. BibleThump biggest regrets.
+@Josh555N Means the Twitch API is down/having issues
+@vanbornnor Ah. I see there have been some issues with the Twitch API the last days, but only like 3-4 times. How many errors did you have?
+@vanbornnor Aha. What's your usual viewer count when they request?
+@vanbornnor What browser are you using? How does Moobot disconnect? I'm not seeing any disconnects in your Moobot event log.
+@smaczny Unfortunately no. Though you can watch the event log and see what they fucked up, and revert what they did.
+@maeglin73 Then it should just keep hosting the one it's currently hosting, yeah.
+@Josh555N Alright, I'll make a rewrite of that system.
+@LB_Darkfire3814 No eta. Probably gonna be a while.
+@VE7ZBG More likely I'll be adding Destiny stats directly into Moobot.
+@Greenthunder96 Followed. DM.
+@VE7ZBG In what way?
+Still hoping to see a Moobot cosplay on the #TwitchCon stream though. That would be pretty sweet Kreygasm
+Moobot won't be at #TwitchCon this year sadly, as spending $5k of your donations on that ain't gonna happen (EU ftw) Saving up for next year
+@EcoXVII Disconnect Moobot in your Twitch settings (Connections tab)
+@Rolltheredlive You can't log in to your Moobot dashboard? Try clearing your browser's cookies and cache.
+@mackenzietodd_ Sadly no, Moobot no longer has a quote feature. It might return at a later date though.
+@HappyGamer__ Yes, by following that tweet you'll be able to edit the command from chat.
+@WDA_Punisher @LonoB That usually means it's a network/ISP issue between you and Twitch.
+@TechTheShark ノ(ಠ_ಠノ ) ＬＯＷＥＲ ＵＲ ＤＯＮＧＥＲＳ ノ(ಠ_ಠノ)
+@WDA_Punisher @LonoB It communicates with Twitch chat like any other stream viewer, which won't have any affect on anyone else viewing.
+@WDA_Punisher @LonoB Moobot runs on our own servers, and won't negatively affect your computer nor your Twitch in any way.
+@HappyGamer__ See https://t.co/7SJdjIVqRL
+@kinky_gaming ?
+@scottkovacs2 I've disabled self-promotion in the next patch, thanks for the feedback!
+@petepistol007 Moobot only supports Twitch at the moment, sadly.
+@ItsEton Works fine here. If you're still having issues try clearing your browser's cookies and cache.
+@Chessat3 Should be. There's Google Chrome for Mac.
+@DaliminDataru Auto shuffle for v2.0, but no eta on when that will be live
+@DevilinPixy Clear cache + run without any browser extensions enabled
+@DevilinPixy Looks to be an issue with @BetterTTV and Twitch's embed. Maybe they can help.
+@LolRiTTeR Thanks! Add ".ua/" as a blacklisted phrase until a fix is live.
+@OliverJW I have have no idea then. Maybe @TwitchSupport can help since it's just a Twitch chat embed.
+@Chessat3 Looks like you're all set up, there's no additional things to do. Moobot will post any new follows as long as your chat is active.
+@Chessat3 Moobot will sometimes detect the follow as a fake follow, and ignore it. You can turn that off in the menu if you wish.
+@Chessat3 Well, yeah, you can use anything as long as you feed the audio into OBS.
+@Glaivedfr Yup, the menu will have a built in preview embed for when version 2.0 hits.
+@OliverJW Justinfan usually means there's something wrong with Twitch's embed. Clear your browser's cookies and cache and it should work
+@scottkovacs2 Shoutout message? You mean like you can't use !shoutout on yourself?
+@Chessat3 Follower alerts in chat? You don't have to do anything, Moobot will post in chat whenever some one follows (that isn't fake)
+@RainbowTomahawk Just do a Rejoin and Moobot should detect it once it rejoins the chat again
+The Moobot automatic 24/7 channel hosting feature should be good again now. Twitch did some changes that broke parts of it.
+@CorrosiveBullet A loyalty system has been in the works for a while. No eta yet though.
+@sowhoyou They shouldn't, unless you're deleting the command that they're attached to.
+@GamingYordles Possibly. I'll have to see how easy it is to move over there.
+Reminder: Subscribe on http://t.co/JjrXSddBVI to get email updates about Moobot's #YouTubeGaming integration. #Kappa http://t.co/RDXVu5iMu8
+@Aksuli83 Means you can access that channel's Moobot dashboard at http://t.co/hgI7DW0JhA Just navigate to it from there
+@Abonafide Make sure the title after the comma is at least 2 characters long. The red alert border will disappear then.
+@pingeeecast Not at the moment. Custom keyword is coming with the full rewrite of the giveaway feature. No eta on that yet.
+@Wzagorski89 No, unfortunately there will always be cooldowns to prevent command spam by non-mods.
+@Fianchetto123 The *** is when Twitch censors the word. Turn off Moobot's Banned Words spam filter to not time out those messages.
+@xUnique_Gamer Try Chrome/Firefox and see if the same problem is there.
+@xUnique_Gamer If you pasted it then it probably messed up. Who knows, it's IE, anything can go wrong.
+@xUnique_Gamer IE 11 is most likely the issue then. Tons of bugs in that browser, and not really supported.
+@xUnique_Gamer What browser are you using? Got a screenshot of the input?
+@xUnique_Gamer Are you pasting in the link? What browser are you using? Got a screenshot of the input? Is it deleted like "&lt;deleted link&gt;"?
+@Pr0ggieTweet Could be a ton of reasons. Firewall/antivirus blocking, not able to communicate with OBS etc. Try adding OBS to firewall
+@Elpollomyloco At the moment you can only select one and one. Why do you want to select several raffle winners at once?
+@maeglin73 Thanks for the heads up, I'll look into it.
+@Thundershot75 Moobot no longer has a quote feature. It might return in the future.
+@Goran360 See https://t.co/7SJdjIVqRL
+@MaxAharon Yeah, you need to feed that audio into your broadcasting software
+@NihilGFX Wait, you actually got it to work? It's displaying the correct song name? That's a first, if so.
+@NihilGFX It needs to communicate with your OBS software to update the file. You need to have it open and streaming through it.
+@NihilGFX That means it can't fetch the song, due to a firewall or something else, or it can't communicate with OBS.
+@TheOtherGuy47 Some features are available for contributors only, sadly.
+@MaxAharon Song requests work with XSplit, but you just won't be able to display the song title on screen.
+@ClyfordHDGamer I restored the account for you.
+@ClyfordHDGamer 3/3 but don't put up any chargebacks in the future cause your account will be automatically suspended
+@ClyfordHDGamer 2/3 I can restore the account and detuct the refunded payment if you want
+@ClyfordHDGamer Alright, your clyfordhdgamer account was permanently suspended due to a fraudulent PayPal chargeback. 1/2
+@ClyfordHDGamer What's your Twitch?
+@dustdust56 If you made an account then it was a fake follow. Your friend probably already followed, so that wouldn't trigger it.
+@dustdust56 As long as chat is active and they're not detected as fake follows, yes.
+@dustdust56 It'll take a bit to get your follow list. It'll also attempt to ignore fake follows (You can turn that off if you wish)
+@wdyftw https://t.co/7SJdjIVqRL
+@Gazreyn Currently in the process of a massive rewrite, so the next patch probably won't be out for a while unfortunately.
+@Dark_Warri0r110 If you can't access someone else's then you're no longer a Moobot editor on that dashboard
+@Dark_Warri0r110 So you're logged in but you can't access your own dashboard?
+@WOLFvDRAGON Are you feeding the audio into OBS/XSplit?
+@WOLFvDRAGON You need to play the music through the player on your Moobot dashboard, and feed that audio into your broadcasting software
+@Dark_Warri0r110 Not that I know of. Are you logged out and connecting through the front page? Try clearing your browser's cookies and cache
+@MaxAharon See this for song requests https://t.co/1sm7NC0uOf
+@legomyninjas Where ever you chose to save it. Add it as a text to your OBS scene.
+@ChrisPresslie Yeah, it can take a bit for Twitch to propagate when streams go online/offline. Shouldn't take more than 5 minutes though.
+@Zelakto @Mamasp00n What's up with Moobot? Not seeing any issues with it here
+@spitfire_game You need to feed the song request player's audio from your PC into your PS4 somehow. (like audio splitter into mic port)
+@MaxAharon See this YT video, https://t.co/Qg7kzmjuu7
+@EpicGamerWorld Yup. http://t.co/JjrXSddBVI
+@EpicGamerWorld Yeah, that's planned as well. Will take a lot of time to make user friendly, but it's coming.
+@EpicGamerWorld I definitely have that planned, but it's pretty far off at the moment. Too much on my TODO list.
+@EpicGamerWorld Nah, everything is 50% off, so you spend 50% less points.
+@Militant82 Not sure what's up with that. Must've just been slow to give you contributor status.
+@Militant82 Looks like you got it working now.
+@imagoodbanana You need to play the songs through the song request player on your Moobot dashboard
+@BrianGlory No, there's no username banlist for song requests (yet)
+@frigginbigguy If you're seeing the ignores in the event log then you still have ignored turned on.
+@frigginbigguy How so? Are you seeing the ignores in the Event log?
+@simixster To only allow mods to trigger a command in chat, set the command(s) up in advanced settings like this: http://t.co/eVIID63T4H
+@ScabbGaming It's intended for big brands, and is actually 2490 points usually when there's no birthday sale. Requires a ton of server power
+@SebastianSve It'll gather regulars for a couple of days, otherwise it'll greet _everyone_. You can turn that off in the menu if you want.
+@Ashclapp DM me
+@LostDstnyGaming Not sure what it can be then. Only option is to try Chrome. I haven't changed anything with that system in over a year.
+@Gazreyn Alright. I'll @reply you when I've changed the endpoint to not require auth.
+@LiamDoesYoutube What are you having trouble with exactly? Your /liamdoesyoutube account seem new. Do you need things transferred over, or?
+@LostDstnyGaming Try clearing your browser's cookies and cache, and clear the stored sound.
+@LostDstnyGaming In what browser?
+@Gazreyn Yeah, you can use Moobot's undocumented API for that, but you need to be authenticated at the moment. What are you using it for?
+@LiamDoesYoutube Just go to Twitch and sign in to the account, then go to http://t.co/P6BbyQlptu and click Log Out, then Connect again
+@Gazreyn As far as I know there are no bots with public (documented) APIs
+@Gazreyn For Moobot song requests? Yeah, but a private API. And a chat command.
+@Wafflemastah38 No clue. TODO list is huge.
+@Wafflemastah38 I have a solution for the same song playing again, but it wont be live till version 2.0 of it, sadly.
+@Wafflemastah38 You want to make it go down the list one by one?
+@Tesdey Yeah, unfortunately @lastfm's API is still broken after their site update. See this earlier tweet https://t.co/U88flDnTne
+@SlyFoxC Thank you! &lt;3
+@DerTomekk Not looking for additional devs at the moment, sorry.
+@SlyFoxC Unfortunately no, you can only get one month at a time since it's always uncertain if Twitch will interfere the next day.
+Moobot celebrates its 7th year on Twitch this week with 50% off every unlock! Thanks for all the support guys &lt;3 http://t.co/eS35iLRd0G
+@DerTomekk There are no immidate plans to translate Moobot, but I'll keep you in mind for when that possibly happens.
+@Geezzaz Done
+@Geezzaz  I enabled the feature for you in /jesusnazaret
+@Geezzaz I see. I've fixed that bug now, but it wont be live till later. Use a different browser to turn it on once, and it should work.
+@Geezzaz Safari should be supported now after I switched to HTML5 yesterday. Are you still having issues?
+@kamek257 No idea. Maybe with BTTV, though I don't have anything to do with that.
+@aecid Unfortunately not yet. I have that planned.
+@Abonafide There's no way for normal users to vote skip songs at the moment, though that is planned for version 2.0
+@Nick28T You'll have to change some of your commands to allow them to be set via chat. See this tweet https://t.co/7SJdjIVqRL
+@Unimatrix36 The Twitch video player is still Flash, but Moobot doesn't use that yet. Their chat is now entirely HTML5.
+@TheBroBQ Regulars are people you add manually to your Regulars list. You have none, so don't worry about it.
+@TheBroBQ Did it for you, actually. Let me know if it happens again. And make sure it's Moobot that is timing out. Dash log should say.
+@TheBroBQ Yes. Make sure you do it on every single one of the spam filters.
+@TheBroBQ In which channel? http://t.co/2OxYXxaH3e has all the spam filters set to include subscribers.
+@TheBroBQ Are they getting timed out by the spam filter you excluded subs in, or something else? You need to exclude em in all the filters
+@slimwess I've now moved the player to HTML5 for you. Let me know if you're seeing any difference. Also rewrote some of the error handling
+HTML5 will reduce your CPU use when using the dash, and tablets can now use the chat and song requests! iPad pictured http://t.co/A8I9fb98bR
+Moobot's song request player and dashboard chat are now using HTML5. Begone with you, Flash! Let me know if you're seeing any issues.
+@AutoKorrectVG If it's not giviing a direct error message then it means it got the OK from Twitch. Not sure why you're not seeing the ad
+@AceZanarkand How so? Haven't been any downtime in forever.
+@Sedkalol Make a command like something like this: http://t.co/jGT4bqdNCi
+@MooseAndRignar Moobot isn't a mod in your chat. Type "/mod moobot" and then make Moobot rejoin your chat.
+@Abonafide Yeah, that's not possible. If those had 1 song it'd take like 15 hours just to go through it once.
+@MooseAndRignar Which command, and what is your Twitch?
+@Kelarik @YouTubeGaming soon™ http://t.co/JjrXSddBVI
+@Nadermane You only need to be in one of the allowed groups. A mod can also be a sub, regular, editor, and/or subscriber.
+@reeceyp96122 Not yet. It's going to take a ton of effort to make user friendly. Low priority at the moment until the Loyalty system is out
+@ZultraOrbitant No confirmation email in the spam folder even? D:
+@Nadermane Unfortunately the auto whisper messages will not be customizable since they then can contain spam. Will have translations though
+@Abonafide Not at the moment. Do you want to reduce or increase the amount of songs?
+@123sky_ Yeah, the @lastfm API is still broken after their site update. Nothing I can do but wait till they get it fixed unfortunately.
+@AutoKorrectVG Do you have the "Twitch stream commands" feature enabled? The command isn't responding at all?
+@tclearinghouse It's still bad, but hopefully it will massively improve over the next year.
+Subscribe on http://t.co/JjrXSdvcNg to get email updates about Moobot's #YouTubeGaming integration. http://t.co/kopDKhJJAR
+@mivixof Thank you for that, I never would've figured it was a bug :)
+@mivixof Ah, yeah, seems to be a bug with using &amp; in the !command. Won't work till I fix that unfortunately.
+@mivixof Working fine here. Can you take a screenshot of the input? And which browser?
+@AutoKorrectVG Yeah, that's what I'm thinking
+@mwthecool I guess you could contact their support team, but do they even have a support team? Being Google and all.
+@SirStendec No clue. I've only heard of the mod features, never actually seen them for myself. Impossible to find.
+@erynies Yeah, the streamer definitely has to turn it on. But even then I don't think every country can donate.
+@erynies Not completely sure. https://t.co/kF1KbqcjlG Doesn't explain very well. I can't see the donation option anywhere though.
+@EposVox No clue. But some donations are coming in, so it must be working for someone?
+Delayed chat that is refreshed every X secs, horrible mod features, region locked donations (7 countries), no sub option, no Kappa. YT pls.
+@mivixof Losing how? It wont save? Wont post to chat?
+@Abonafide Change it in the Song request filtering menu http://t.co/jBKIyKHGUT
+@SattelizerGames 2/2 Unfortunately there's no way to put the sub count into those messages yet. I might add that.
+@SattelizerGames 1/2 The Chat subscriber notification feature in the Features menu will message when a new sub subs http://t.co/ZPj3qd4vFD
+@bgeorge What the actual fuck... WutFace
+@SattelizerGames You mean, turn the feature off, or send a message? The sub notification feature will send a message every time someone subs
+@mattisony No IRC, and no API. So not really readily available.
+@DarthOrigin WHAT?! That's insane...
+So, YouTubeGaming is really meh. Should I even bother using time integrating Moobot into it? Its chat is even worse than Hitbox's. Thoughts?
+@TheGXPjew Email me from the PayPal email you used, with which channel to transfer from, and which to transfer to. Use email from my profile
+@MaxAharon You need to feed the Moobot song request player's audio into your broadcasting software
+@slimwess It taking ages to load likely indicates that there's an issue with your internet at the time. Prob packet loss. Should contact ISP
+@slimwess If the error you get is "YouTube player error", it means the YouTube embed couldn't get the YT vid. Maybe bad net, ISP block w/e
+@slimwess Any browser console errors?
+@slimwess Does it say which error?
+@RockLeeSmile Not a command, no, only a message from the Chat subscriber notifications feature. Why?
+@Official_Alim Where ever you choose.
+@Oh_Bozo What isn't working?
+Moobot now has tags for sub count, latest sub, and time since the latest sub subscribed. If you're into showing that. http://t.co/XXeY25sgLK
+Reminder: To change a command's text through chat you'll now need to change the command to something like this: http://t.co/lFSDCN4nnd
+@Ramona_E_Menden You need to specifically set up the command to be changed from chat now. See this earlier tweet https://t.co/9GtKp2fWPM
+@gerhardoh Unfortunately no, there's currently no custom API cause barely anyone use it for NB. It's planned though, just not prioritized.
+@Ramona_E_Menden What isn't working as usual exactly?
+@KasumayStudios That's pretty strange. All the things NB can do, Moobot can do better. And NB doesn't offer any of the paid features. Or?
+@zbone100 What data would you like to see from Playstation put into Moobot?
+@TheMatthewRhode Sub count is now live! Was prioritized since I got another request for it. Can be set up like this: http://t.co/oG84qtqidO
+@RockLeeSmile I've now added a sub count to commands, since it was a good idea. You can add it like this: http://t.co/rtPYeR6kaQ
+@ColinEverson1 https://t.co/YqFHkfDrUO
+@yoshy_the88 https://t.co/YqFHkfDrUO
+Moobot is doing a quick reboot with a small patch. Should be back in a bit.
+@Glaivedfr Poll system will be completely rewritten when I have time. Without charts probably. Adding to 2. list is from the player only atm
+@Glaivedfr Good idea, but it's a browser dependent input (number input), so too hacky.
+@Glaivedfr No, and that's intentional. You wouldn't show in any of the directories.
+@Erikiniz So for PS4 you need to feed the PC audio in through the mic I believe. Could possibly work with an audio splitter.
+@slimwess Unfortunately no, YouTube does not have the genre data available.
+@SkyGambol Twitch's chat does not allow for message formatting unfortunately, so it'll just be one line.
+@Erikiniz You need to feed the song request player's audio into your broadcasting software.
+@iGiAnT01 You need to feed the song request player's audio into your broadcasting software.
+@do_you_continue Definitely. And bigger menus. I'm saving up all that for version 2.0 of the song request feature.
+@redglitch25 You need to set it up once in the dashboard so that you can do "!test text" in chat. Set it up like in the image.
+@JanTandaHD No issues here. What error are you getting, if any
+@Alex_J89_twitch What's the issue?
+@GronamOxLive Twitch is under heavy load right now. If you're still having issues just try again in a bit.
+Twitch chat is understandably derping right now, with ESL+LCS and all. Moobot may appear somewhat delayed in some chats due to this.
+@thejoekinley No issues here. Still having trouble? If so, try clearing your browser's cache and cookies.
+@Pcyden_ To edit commands in chat you need to set em up like in the link https://t.co/6N5bFoBktQ with a "Text set from chat" tag
+@Pcyden_ Yeah. See the tweet I linked
+@Pcyden_ Don't work how? Working fine here. You mean updating through chat? See this tweet https://t.co/6N5bFoBktQ
+@ninjamonkey24 Just request with the full YouTube link. "!songrequest link"
+@oDARKFOXo You gotta contact @TwitchSupport then. I'm not sure why their embed would be doing that.
+@oDARKFOXo Clear both your browser's cookies and cache completely. It's an issue with Twitch's chat embed.
+@oDARKFOXo Have you tried clearing your browser's cookies and cache? What isn't working exactly? Not showing up? Using Internet Explorer?
+@Thundershot75 See this tweet https://t.co/7JaZKSsFJh
+@redglitch25 See this tweet https://t.co/9GtKp2fWPM
+@iGiAnT01 Are you playing the songs through the Moobot dashboard song request player?
+@exoticverydance Sadly no, you can't trigger a command manually without the ! (yet)
+@Glaivedfr Architectural reasons.
+@Glaivedfr Unfortunately no, since there's currently no popout for the song request player.
+@RockLeeSmile Alright, thanks for the feedback &lt;3
+@RockLeeSmile No problem at all. I do very much like to hear what I can add and improve.
+@RockLeeSmile Like current sub count shown in a command? Chat analytics like what exactly?
+@RockLeeSmile What features are you looking for exactly?
+@scania_the_best Bug is with the "Removal of messages that consist of only emotes" option. So you can turn that off.
+@scania_the_best Thanks, I've now fixed the bug and it'll be out with the next patch.
+@scania_the_best What's the full message you're sending to chat?
+@XGISKIPPY :/ not good.
+@pingeeecast Yeah, it's completely broken. Hopefully it'll get fixed by them soon.
+Looks like @lastfm broke their API with their recent site update, so Moobot's integration isn't working atm. Hopefully it'll be fixed soon.
+@pingeeecast Yeah, looks like Last.fm is fucking up. How long has this been going on? You mean the last.fm site update? When was that?
+@FilthySerf WutFace
+I've fixed some more bugs. Please @reply me if you see some more still.
+@Asaddine That means Moobot can't communicate with OBS, or it fails to fetch the song name. Can be a lot of things causing that sadly.
+@Asaddine Pretty much.
+@Asaddine Just login to Moobot Assistant, go to the Files menu, create a file for the song request, and then add it as a text to your OBS.
+@mattisony Let me know if you have the issue again. There are some issues I know of that will be fixed with the next patch.
+@lovexombie That's an issue with the alpha version. Could be your anti virus / firewall blocking it, or .NET framework / windows not updated
+@mattisony Hmm. Copy-pasting should already work in Chrome. What are you trying to copy? Cut doesn't work though.
+@mattisony Yeah, I'm fixing that in the next bug-patch. What browser are you using?
+@lomadia 2/2 I recommend Twitch Alerts or TNotifier if you aren't using them already. They have full sub lists available for viewing.
+@lomadia I double checked with a Twitch admin for you, and yeah, no subs or repeat subs on 17th Aug for http://t.co/4bfA8axqC3 (1/2)
+@lomadia Last recorded sub on http://t.co/4bfA8axqC3 was on 12th Aug. You can download the full sub list on your Twitch dash and doublecheck
+@lomadia What Twitch channel? I can check for you if any came in. I only store new subs though, no repeat subs.
+@lomadia And yeah, Moobot's dashboard alerts are very barebones cause there are separate solutions for that, like Twitch Alerts +++
+@lomadia You lost the sub data from Twitch Alerts? If you have Moobot in the chat then I might be able to help. What data exactly? New subs?
+@VeteranHarry @lomadia Moobot has nothing to do with Twitch Alerts though.
+@VeteranHarry @lomadia If you use Twitch Alerts you should be able to see the subcriber list at http://t.co/dEdlFGv4sX
+@lomadia @VeteranHarry And Moobot doesn't interact with any overlays or OBS/XSplit. You'll have to contact the overlay app you use.
+@lomadia @ThomasKilltom84 Moobot has never stored subs. The list for the dashboard sub-notifications is cleared when you refresh the page.
+@therealgravvy The only way to earn points at the moment is to contribute. There are other things planned, but there's no eta on that.
+@SamTinfoil Sadly Moobot can't interact with OBS/XSplit in that way yet.
+@Beergrim Copying text into the command text on the dashboard, yeah? If so, yes. I've fixed that bug and it should be patched soon(tm)
+@slimwess Is this a recent thing? Has it worked properly before? If so, you could try clearing your browser cookies and cache.
+@slimwess I have no idea then. You're the only one that is experiencing the issue. Could try using the Firefox browser for it.
+@slimwess Any errors in the console?
+@slimwess Try disabling adblock and then doing it. And check your Chrome console for errors. (CTRL+SHIFT+J to open it)
+@slimwess So you just get the YouTube loading, or it won't even respond to the click?
+@slimwess Aha. What if you stop the player and click play again?
+@slimwess So if you click any of the other menus on the Moobot dashboard, nothing will work?
+@slimwess Definitely weird that it would crash the site, I've never heard that happen before. Most likely Adobe Flash that is fucking up.
+@slimwess Works fine here in Chrome. Make sure you don't have any browser extensions interferring, and update your Adobe Flash player.
+@slimwess What browser are you using? Do you have a slow internet connection? Does the site crash, or does the song just stop?
+@SquirrelPowa I managed to reproduce the bug in Firefox. It messes up when you copy from web sites. I'll have that fixed, thanks!
+@SquirrelPowa What's the link to the site where I can copy the link from?
+@SquirrelPowa That link looks strange. What are you pasting that from? And what browser?
+@SquirrelPowa Take a screenshot of the edit menu for me?
+@SquirrelPowa Works here. Create the command for me please, you removed it 8 minutes ago.
+@SquirrelPowa What's your Twitch, what's the command, and from where are you setting it?
+@Glaivedfr Actually, that doesn't seem to work either. You'll have to rename all your timers to "Timer X" for that to work I think.
+@Glaivedfr Thank you, I was able to reproduce it thanks to that video. I'll have that fixed. You can use "Timer 90" till then.
+@Glaivedfr What's your Twitch? Where are you creating the timer? The separate Timer menu?
+All known bugs with yesterday's Moobot patch should now be fixed. @reply me if you still see some.
+@EagleEclipse Just have them go to their Moobot dashboard at http://t.co/zpqHryXKFc, and then navigate to different dashboards from there.
+@LucasSims The Moobot dashboard uses an API, but it's not documented. Will also change without notice.
+@Riposte_This All subscriptions are monthly, that way if Twitch decides to remove some features it won't affect you as much.
+@SkyHawkMcWaffle Basically anything can be an issue. It's a very fickle app, so it depends from set up to set up.
+@scania_the_best Might post one in the coming days.
+@SkyHawkMcWaffle That's an Internet Explorer embed by the way, so there might be a setting there that wont allow you to input (It bugs out)
+@SkyHawkMcWaffle Hmm, that's new. Very strange. Try updating your .NET framework, and reinstall the app if you haven't already.
+@SkyHawkMcWaffle Got a screenshot?
+@SkyHawkMcWaffle White screen? Can be a lot of things (Firewall / antivirus / win version) The alpha is very hit and miss depending on setup
+@mattisony It will only whisper a command when it would otherwise be dropped cause of too many commands within the last X seconds.
+You can now easily see which #Twitch emotes you can use for your Moobot. http://t.co/Ivs8vN1TjK
+@merkery Sure. DM me which account to transfer from, which account to transfer to, and what email you used to pay with PayPal.
+@Leerelx @juiceDiem You now need to set commands up in a special way to be able to change them via chat. Like this https://t.co/9GtKp2xxHk
+If you want to change a command's text through chat you'll now need to change the command to something like this: http://t.co/IVFkMggimc
+@Josh555N @Wzagorski89 Yup, looks good. There are no fully customizable random responses available to commands (yet.)
+Moobot's #Twitch whispers now come from the "Moobot" username, thanks to the awesome @xangold and @IncendiaryMedia &lt;3 http://t.co/jpksGYbo9v
+@Glaivedfr Yeah. The whole raffle system is getting scrapped and rewritten completely. When I have the time.
+@JAHGaming_ Fixed it for you. &lt;3
+Successfully patched! The new Moobot should be back in most chats by now, and rejoining the rest. Click the Rejoin button for faster rejoins
+@PinkuuPls Scheduled patch downtime will always be a thing. There were server issues last week which led to downtime. See past tweet history
+Moobot is going down for patching. Estimated downtime is 30 minutes.
+Moobot is going down for patching in 1 hour. Estimated downtime is 30 minutes.
+Moobot will go down for patching in 8 hours. That's at 10am GMT. Estimated downtime is 30 minutes.
+@CMC888_KI4Life Here http://t.co/jPyWq688t5
+@msf_actual It uses an Internet Explorer embed to connect to Twitch
+@Maranal_Habbo If you've successfully /unignored, then I have no idea. Might be a browser extension interfering.
+@N3v3rNeutral Just do "!moobot remove" in chat.
+@HDWonTwitch You can buy one for a couple of dollars at an electronics store I believe. Something like this https://t.co/ZGGJPjOrnk
+@HDWonTwitch Not 100% sure, but you may be able to feed the audio from your PC to the PS4 via your mic with an audio splitter.
+@PhoqueYouBeach Enable the Song Request feature in the Features menu, and go over your Filtering settings if there's !songrequest cmd issues
+@Glaivedfr Yup, it's already ready to go in the next patch &lt;3
+I did some server magic yesterday, and it actually worked! Moobot is stable and snappy again now~ FeelsGoodMan
+@bienemont You can lower it to 30 seconds or something, I think?
+@IndigoSoldiers1 I think there's a way to feed the PC's audio (songs) into your XB via the mic, using an audio splitter or whatever.
+@TheMatthewRhode Yeah, the poll system is really old (It's been years since it was last updated) When I have the time I'll fully remake it.
+@MrKirbyXIII @LightUpTheBeez Should be all good now, as of 30 minutes ago. Still seeing issues?
+@IndigoSoldiers1 Just use Moobot's Song Request feature (see Features menu), and feed that audio into your OBS/XSplit, or via mic input.
+@Dat_Code_Man No, whispers are private. The spam filter chat announcement messages are different, and you can turn those on/off.
+Network issue should be resolved, and Moobot should be rejoining chats. Might take a bit till it's fully responsive again.
+Host is having some issues with the network. Moobot may be unresponsive in some chats.
+@jordan69463821 Follower notifications? Just enable it in the Features menu on your Moobot dashboard.
+@SquirrelPowa That issue should now be fixed/much better. Thanks for the heads up!
+@SquirrelPowa No problem. Let me know if it happens again.
+@SquirrelPowa What's your Twitch?
+@FeaRMoho Yes, set it up like this: https://t.co/pisWDal11f
+@Essentia_Modica I get the uptime directly from Twitch, so can't do much about that. How long has it been offline between streams?
+@KeyKaiphwvmd It will attempt to detect and ignore fake followers. You can turn that off in the settings if you want.
+@dreameryoutube Not decided
+@hhTerribel That's from chat. You can add them as a Moobot editor and they'll be able to add it from your Moobot dashboard.
+@hhTerribel "!moobot commands add ace Text..."
+@Dilllly_ Alright, I'll monitor your chat for a bit.
+@Dilllly_ At least that's what it's supposed to do.
+@Dilllly_ It was rebooted every day this week as I was working on the server, so it would've left and then joined again later on its own.
+@Dilllly_ How many times a day? What's your Twitch?
+@Dilllly_ Leaving, like Twitch says Moobot left and then joined again? Is that still happening as of 2 hours ago?
+@SonOfLiberty796 Indeed. People understandably go nuts when Moobot isn't around Kappa
+@AutoKorrectVG What command, and what's your Twitch?
+@ShinodaCM Will do
+@WwALSOR Re-enable the Twitch stream widget in the Features menu.
+@ShinodaCM Alright, cool. I'm definitely adding that to the feature, but I dunno when yet. Too much to do at the moment.
+@ShinodaCM I do, and that has indeed been suggested, and is planned for v2. What games do you think you'd whitelist?
+@csRobbaN Just do a rejoin on Moobot. You're probably in the join-queue after Moobot's reboot, if Moobot hasn't already joined.
+Decided to put off the patch since it was taking too long. Won't take Moobot down during the weekend, so it'll likely go out on Monday.
+@bienemont I've been doing server things this week during off-hours, so Moobot have been down those hours. Hopefully back to normal soon.
+Moobot should be rejoining all chats now. Might take a bit till it rejoins all and is fully responsive again.
+@uhTrance_ http://t.co/SqZjOC4SnJ ;)
+There's an issue. Most likely won't be fully up till 13:30 GMT, which is in about an hour.
+Moobot should be back as planned in around 10-30 minutes if no more issues occur. Will keep you guys updated on the progress.
+Moobot is going down for patching and server upgrades. Estimated downtime is 2 hours.
+@PhiL1170 Specs, not performance. ;)
+@GuiMachadu I believe there is an option in OBS that you have to set so that it adds space at the end. Not sure what it's called though.
+Moobot is going down for patching and server upgrades (+200%) in 1 hour. Estimated downtime is 2 hours.
+Moobot will go down for patching and server upgrades (+200%) in 15 hours. Estimated downtime is 2 hours.
+@jknuckles002 &lt;spam deleted&gt; is a BTTV feature, &lt;link deleted&gt; is a Twitch feature. http://t.co/bcsX5hOOxa Is that what you mean?
+@Glaivedfr Yup, I've added it to the TODOs, thanks! You can do it like "!songrequest N6rx315nEn0#start=30&amp;end=2m35s" for now
+@h1z1_swizzle OBS multiplatform currently isn't supported by the Moobot Assistant alpha
+Already seeing much better results from this new server, with faster joins and no timed out connections to Twitch. Thankfully!
+@MBCrouton https://t.co/9XU6qZPNAH
+@vanbornnor Fixing the server. No new things until it's fully fixed.
+Moobot is going down for the scheduled server migration. Estimated downtime is 2 hours.
+Moobot is going down for the scheduled server migration in 1 hour. Estimated downtime is 2 hours.
+@AcidzDesigns DM me on here
+New server is terribad. Will be moving to a different one tomorrow at 10am GMT, which is around 8 hours from now. 2h estimated downtime.
+@TheMatthewRhode No problem! I've added it to the TODOs as a feature, though it will probably take a while till it's live.
+@TheMatthewRhode 2/2 Moobot could request that permission as well, but I've never heard of anyone wanting to show sub count until now.
+@TheMatthewRhode Yeah, you have to authenticate and give that app specific permission to get your subscriber count. 1/2
+@TheMatthewRhode Like total number of subscribers for a channel? If so, no, that number isn't publicly available.
+@Glaivedfr You can't make aliases for those type of commands, but I'm adding that possibility later. (no eta)
+@SoggyyyPlays https://t.co/eotDJaL6zJ
+@Bamsebomsen That's why I waited with the server migration till yesterday ;)
+@TakaishiiPepe Yup, that means it's in the progress of joining your chat. It just rebooted so it can take a bit unless you're prioritized.
+@CARDS1031 What do you mean all commands are disabled?
+@ajben123  Should be fixed now
+@CARDS1031 Likely it'll go out tomorrow. Some irregularities.
+@Nadermane Internet Explorer... sigh.
+@ThyregodTV 500 points when signing up.
+@Nadermane Good idea, I've written it up. Thanks!
+@Nadermane There's a notification in the dashboard event log. You mean a whisper notification to the user that requested?
+@Nadermane Yup. Whispers are currently disabled, but will return in the next patch. (Hopefully tomorrow)
+@TheBizarreFox Yes, just make an uptime command. See https://t.co/sNbk4gZtOE or https://t.co/pisWDal11f
+@Thats_theDj_WAY Moobot currently has no loyalty system, but we've been working on one. No eta on when it will be publicly available.
+@iiZantes I plan to make it so no songs will play twice before the entire playlist has finished, but that change is not live yet sadly.
+@Whiplashjay_ Yes, XSplit support is planned, but sadly Moobot Assistant is very low priority right now. Might open source it.
+@Nadermane Like, for song request commands specifically?
+@aksel703 There are no logs for Twitch chat, no. You'll just have to find the rogue mod somehow.
+@mattisony Indeed :/
+Moobot should be back in some chats, and slowly joining the rest. Twitch's join restrictions are brutal, gonna take at least 24h for all :/
+@h1z1_swizzle See https://t.co/T0UpAmtpsi Should be coming back from maintenance now.
+@RobNuts See https://t.co/T0UpAmtpsi
+Moobot is going down for the scheduled full server migration. Estimated downtime is 2 hours.
+@iZantesYT There shouldn't be a pause button. Is there one? You can only stop, not pause.
+@Ravelux_ Not yet, the patchnotes will be out once the patch has successfully been applied.
+@CARDS1031 See https://t.co/XXQ6UI1HKB New patch is planned for Tuesday
+@Nadermane See https://t.co/XXQ6UHK6m1 New patch is planned for Tuesday.
+The new Moobot patch will likely go out on Tuesday if tomorrow's server migration is successful.
+@Ravelux_ The new patch will likely go live on Tuesday, if tomorrow's server migration is successful.
+Moobot will go down for a full server migration tomorrow at 9am GMT. That's 19 hours from now. Estimated downtime is 2h.
+@the1janitor Moobot does not currently have a queuing feature, but we're working to integrate that with a loyalty system.
+@AvallancheGamer Sadly, yeah, Moobot Assistant doesn't work with the new OBS multiplatform until it's updated again. Might take a while.
+@OrestasN Just enable the Raffle feature in the Features menu
+@DemonicSoulWolf Yes, all contributions are handled automatically, and you should receive your points within seconds after payment.
+@teamspooky Detect resubsribers and notify in chat, or on the dashboard? Chat ones are planned, but wont be added for a while
+@TwitchClips Sadly no, there's no way to do custom HTTP requests with Moobot currently, but it would be pretty easy to add if there's demand
+@TwitchClips Not at the moment. What would you use that for?
+@kristenhinrich1 It's so when people do just "!8ball" they'll know how to use it. You can type in whatever, just explain how to use it.

@@ -1,0 +1,614 @@
+munmap
+http://pbs.twimg.com/profile_images/1169564974/n1319276627_30162466_5288456_400x400.jpg
+@BerneCampbell Advisories will be made available on @MWRLabs as vendors patch their products. :-)
+RT @BerneCampbell: @munmap A PE forwarding a tagged packet RX'd on an IP interface is bad!
+RT @Alchemic_SH: Georgi Geshev, warranty void if label removed https://t.co/pqbjIiuKzM
+RT @victordorneanu: Attacking MPLS networks https://t.co/TWMCyxpUqe #infosec #security #networking
+RT @RedDragon1949: Attacking MPLS Networks https://t.co/UhsXMNLXWH
+Security contact at @Brocade, anyone?
+@tombkeeper Great talk! Is Hyperchem Ma on Twitter? #PacSec
+RT @ForeverAgile: @Enno_Insinuator @munmap Very interesting article.
+@ForeverAgile @Enno_Insinuator Thanks! More stuff to be added for my @ZeroNights talk.
+@timb_machine There's a few vendors who didn't even bother replying to my emails. @mikrotik_com is not one of them though.
+@agelastic Really? Sarcasm, right?
+@timb_machine @portcullislabs You're welcome! It's always good to give credit where due. :-)
+@nmonkee But, but... :-(
+@CodeRunnersBG @PacSecjp Thanks for sharing that piece of research. :-)
+@BerneCampbell https://t.co/hLmz2AHwSK
+- What is Phrack?
+- Fuck you, you dumb ass bitch.
+That @FiloSottile guy is the best telemarketing salesman I have ever seen. Thanks for making sure we all use the right CSRPNGs, duh. #PacSec
+Yay, @Xbox games with the @Intel guys, some Chinese dudes offended by my @KiwiCon #7 t-shirt, research shared and the best ramen! #PacSec
+@BerneCampbell https://t.co/N2E5CiLGQA
+@BerneCampbell Nope, sorry for the misunderstanding. https://t.co/oMJoWKZtPY #PacSec #MPLS #VRFHopping
+It's great to see some truly inspiring research from more companies like @QIHU_Official and Tencent. Keep up the good work, guys! #PacSec
+RT @kapitanpetko: Early morning #PacSec https://t.co/tvVfPtVHuG
+RT @mwrinfosecurity: Starting 9am JST @PacSecjp - @mwrlabs @munmap "Warranty Void if Label Removed – Attacking MPLS Networks" - https://t.c…
+Congrats to @oldfresher for his silent / unattended APK install from within @GoogleChrome! #Pwn2Own #PacSec
+@Huawei was the last vendor to be notified and the first one to fix their implementation. https://t.co/tz2x9XE9XW #MPLS #VRFHopping #PacSec
+There are a number of implementations that would process MPLS encapsulated traffic received on IP interfaces. #MPLS #VRFHopping #PacSec
+No, you don't need a misconfigured PE interface to perform VRF Hopping. #MPLS #VRFHopping #PacSec
+By the way, there were a few minor inconsistencies in the one from @ekoparty. These were because of copy/pasting and editing IP addresses.
+All right, it looks like my #MPLS security slide deck from @PacSecJP has now been uploaded... https://t.co/dzLynz9e5X
+RT @Enno_Insinuator: Slides of @munmap's cool talk "Warranty Void If Label Removed: Attacking MPLS Networks":
+https://t.co/CztNRoRNeW https…
+@Enno_Insinuator Bugger, this slide deck was supposed to be released in a couple of weeks. Anyway, I'll update the content for @ZeroNights.
+Huzza, I've got my Russian visa and I'm looking forward to catching up with all the great comrades at @ZeroNights!
+RT @nicowaisman: @mwrlabs @nils @munmap Hey MWR! Who in the team is sending an abstract for @InfiltrateCon 2016? &lt;3 https://t.co/jGioptUbE3
+@volvent @PacSecjp Thanks, Matt!
+RT @mwrinfosecurity: This week @mwrlabs @munmap will be presenting "Warranty Void If Label Removed - Attacking MPLS Networks" @PacSecjp - h…
+@kylekyle It's good to know I wasn't the only one wandering around until 05:00 AM this morning. See you at @PacSecJP! #PacSec
+You do information security and you still think #MPLS stands for Minneapolis? Come and see my talk at @PacSecJP! https://t.co/udvV3vTVd3 :-)
+@MWRLabs We'll certainly think about it, @nicowaisman! @InfiltrateCon definitely seems like one of the top-notch conferences these days. :-)
+@richinseattle Hey, I'll see you there! :-)
+Is there such thing as a security response team @MikroTik_com? #MPLS #Security
+Anyone's got a security contact @Alcatel_Lucent? #MPLS #Security
+I'm going to @PacSecJP for a second year in a row! I'll talk about service provider networks and MPLS L3VPN attacks. Who's coming? #PacSec
+By the way, that Halloween @BeaccchHoussse and @dustinwong gig @o2sbe was pretty darn sweet. Thanks heaps for the great evening, guys!
+RT @dlitchfield: In 16 hours I've found 8 high risk, easy to find SQLi bugs in Oracle EBS 11.5. Oracle has had over 10 years to find these.…
+RT @jpdborgna: This will make it up for the other pic.. @munmap you are like "1.21GWAAATTTS" but with packets https://t.co/w1hxUhic8F
+@serj_ab @WEareTROOPERS @onapsis Hey, @gutes! You coming? #TR16
+RT @WEareTROOPERS: On another note: right now we receive great submissions on a daily basis. Today we accepted a very cool one from Alex Pl…
+Yay, Alex Plaskett and I will be presenting some interesting piece of research at @WEareTROOPERS next year! Stay tuned for updates... #TR16
+@jpdborgna Now, that's a good one! You can even see the bottle of vodka. Damn, I'm gonna miss that stage... :-D
+Shame on you, @jpdborgna! You didn't show up for the final party.
+@tkeetch Yes, that's me. It was nice chatting with you last night @DC4420 and see you around.
+Alright, who's going to #DC4420 tonight?
+RT @ZeroNights: Georgi Geshev @munmap "Warranty void if label removed – attacking MPLS networks" #ZeroNights
+- What kind of clients do you work with?
+- I don't see how is this relevant...
+- It is always relevant when you speak to a customs officer.
+RT @elpardua: Amazing talk by Georgi Geshev about MPLS attacks at #eko11 https://t.co/tu1EqBvOjU
+RT @4Dgifts: Now at @ekoparty. MPLS LSR enumeration using RR IP option...gift hat keeps on giving
+RT @rfb_: Ahora en #eko11 expone Georgi Geshev "Attacking MPLS Networks"
+@ekoparty https://t.co/TZCTrfRb1T
+RT @MaxiSoler: @munmap rocking right now at #ekoparty
+Warranty Void If Label Removed - Attacking MPLS Networks https://t.co/C6aaclYTLe
+It would have been nice to have @ekoparty and @ruxcon at least a week apart from each other. Maybe next year? #eko11 #RuxCon15
+Вперед, товарищи! I'll be presenting my research on MPLS @ZeroNights in November. Увидимся в Москве... https://t.co/yfGGSY7M7V #ZeroNights
+@antisnatchor @Enno_Insinuator @MaxiSoler @ruxcon I've always been way too confident with my demos... I'm having a video next time. :-(
+@_argp Check your direct messages in a couple of days. ;-)
+RT @ekoparty: ¡Thanks for the talk @munmap!
+RT @ekoparty: Ahora en la #eko11 @munmap con su charla "Warranty Void lf Label Removed - Attacking MPLS Networks" https://t.co/JTePN1oeam
+RT @ekoparty: Ahora la anteúltima charla de la #eko11 "Warranty Void If Label Removed - Attacking MPLS Networks" de @munmap https://t.co/ii…
+@jpdborgna @ekoparty Muchas gracias por todo, amigo! I'll see you back in London! #eko11 #ekoparty Damn virtual machine...
+Thanks for having me and I'll see you all next year when I come back to perform my demos, ops. #eko11 #ekoparty
+I'll say that one more time. I'm so damn glad for finally making it to @ekoparty. This conference is absolutely brilliant. #eko11 #ekoparty
+@antisnatchor @MaxiSoler Thanks! Well, it was an alright talk but my demos failed miserably. :-(
+@action_dk @Friz_N Thanks, although this was simply a sloppy LDAP wildcard interpretation problem in GlassFish.
+@Raaka_elgupo There's always next year! It's my first time around although #ekoparty has been on my plans for damn long time now.
+I'm finally chilling in Buenos Aires. Who's up for a pint tonight? #eko11 #ekoparty
+RT @ekoparty: Are you ready for the #eko11 week?
+RT @ekoparty: SPEAKERS @munmap will be a speaker at #eko11. Learn more about his talk at https://t.co/DtaocA2oSc http://t.co/AclXnykjDx
+RT @ekoparty: SPEAKERS Presentamos a @munmap como orador de la #eko11. Conocé más de su charla en https://t.co/DtaocA2oSc http://t.co/3m2Qo…
+@SecureSun @utkan0s If cocktail means beer and that one night isn't the one before my talk, then count me in! :-)
+@utkan0s @SecureSun @fede_k @ekoparty Me, me, me! See you all in Buenos Aires! #eko11 #ekoparty
+@Charlie_N_B @Amy_Bryce Way to go, dude! Congratulations!
+Big up to @ThePCCLondon for screening another all-time classic Sci-Fi last Saturday. Keep 'em coming! #BladeRunner #FinalCut
+@d1sh4 @ekoparty Yeah, tell me about it. I'm still having trouble explaining this to my FSB vetting officer. :-)
+@mwrlabs @nmonkee Wait, this looks like a few #BB8 droids right there! Damn...
+RT @SwiftOnSecurity: Eventually, all the bugs are going to be fixed and hackers won't be able to pay their mortgages.
+RT @mwrlabs: Interested in service provider network security? See @ekoparty talk by @munmap on attacking MPLS http://t.co/fB5Hqv7Ysa #ekopa…
+@kargig Sure, I'll fit as much information on the slides as possible.
+Interested in service provider network security? Come and see my @ekoparty talk on attacking MPLS! https://t.co/epYCIaifTo #ekoparty #eko11
+@hackerfantastic Honestly, I thought this was a joke, turns out the only joke here is nothing but the British government representatives.
+@juliocesarfort @CiscoSecurity Well, that's sad. Farewell, @Portcullis and @PortcullisLabs.
+@jpdborgna Not really everyone, only a bunch of cool dudes. ;-)
+@MaxiSoler Gracias and see you in Buenos Aires! :-)
+Spending a day at #Banksy's #Dismaland was great experience and definitely worth all the hassle to get there. http://t.co/kPDLQttPhQ
+About to watch Hackers with my girlfriend @ThePPCLondon, yay!
+@jduck Last year's @44Con drinks will be remembered for a long time though. :-)
+Hiya, @djorm! Do you have your @44Con slides available online?
+Ah, finally sobering up after another crazy @44Con. It was nice catching up with some old mates and meeting heaps of new ones.
+@_samdb_ I have no idea what are you talking about. Are we event at the same conference? ;-)
+It's always a damn good talk from @j00ru! #44Con
+Come to Track Two for some phishing knowledge from @antisnatchor! #44Con
+@Shiftreduce Where are you, dude? :-(
+That was a nice EFI introduction by @osxreverser. #44Con
+Ended up in the wrong talk... Turns out smart meters aren't that boring. #44Con
+RT @mwrlabs: Lots of @mwrlabs crew headed to #44CON for what we're sure will be another top notch event. Looking forward to uber hacks and …
+@volvent @44CON @alien8 @stevelord I'll have at least a dozen for you and @pi3ch!
+This year's @44Con line-up looks pretty damn good, surprisingly enough. Well done to @alien8 and @stevelord. #44Con
+Don't miss some great opportunities to work for @MWRInfoSecurity! https://t.co/q7mxY3LPQl #Mobile #RedTeam #Defense #Development
+RT @HockeyInJune: Hiring for security might be harder than security itself.
+Australia's @CySCAExCon showing the UK dummies from @CyberChallenge how things are done Down Under! https://t.co/wgCPfqjRoN
+@beefproject @antisnatchor @44CON Looking forward to catching up, buddy!
+@_samdb_ @44CON Dang, I'll have to pretend I don't know you. :-(
+@antisnatchor @rootkovska This is indeed a cruel abomination, a very sweet one though! :-)
+@hackerfantastic Hooray, that's some very dark humour. I love the way this country is rapidly turning into the worst of the Five Eyes.
+@jpdborgna @grsecurity Ah, what have you done? :-)
+It looks like there may not be a mobile #Pwn2Own this year. Can anyone confirm? @DragosR @TheZDI @MaliciousInput @WanderingGlitch
+@chrisrohlf I simply refuse to speak to people who have never heard of #Phrack. Honestly, fuck these guys.
+RT @0x1C: Everyone knows the number of stickers on one's laptop is directly proportional to one's ability to hack computers.
+@jduck Joke, right? :-)
+I had a litre of vodka last night and I was mostly okay until I looked at rebel's OverlayFS exploit. Then I threw up violently...
+RT @djrbliss: Thankfully, @ExodusIntel finished the work that @jduck started and Stagefright is now 100% secure.
+Regarding last tweet, check for a case where Google takes more than 4 months to patch despite their own 90 days disclosure deadline. :-)
+Interesting #Android bug compromises the Google Admin application sandbox. Credit goes to @mwrlabs' @trotmaster99! http://t.co/YhTOc9AL5S
+RT @dlitchfield: When you outlaw reverse engineering, only outlaws will reverse engineer. Oh, and nation states. Don't forget them.
+@shawnmoyer @chrisrohlf IMHO, it's probably the best #BHUSA line-up for the last 3 or so years.
+@daveaitel's Remember The Titans rant is pure gold, so go read it *now*. https://t.co/2jdTF82Tyd
+@xntrik @innoying @_defcon_ Really? Similar research has been presented some several times in the past five years. :-)
+@NerdKernel Well... either that or he could at least provide me with some turnips. :-)
+@juliocesarfort @antisnatchor Have a great time, guys!
+Instead, he sold me an overpriced Makarov and ran away. I should probably see a doctor.
+I had this crazy dream last night where I was in a nightclub buying a Glock from a Russian vulnerability broker...
+Finest, most elegant mobile #Pwn2Own entry I've ever seen. Also, hilarious! Well done, @securitea and @trotmaster99! http://t.co/1KY04EvumU
+@_argp I don't know you any more, can't believe I shook hands with you. :-(
+@volvent @elttamsecurity @pi3ch Way to go, guys! That's some exciting news!
+A few years later, it's still awkwardly annoying to recognise some of the items on the VBI asset list. Well, another lesson learnt. :-)
+RT @dinodaizovi: Some people were lucky enough to learn all of this in their formative years on the Internet, others spend an entire career…
+@jpdborgna Surely this is traditional English tea.
+@Shiftreduce Coming over to the UK? :-)
+@IOActive @jduck Will this be recorded or at least slides made available?
+@nmonkee Ah, kids these days... what a newbie, honestly. :-)
+There's plenty of awesomeness published on @MWRLabs' blog this week, including a #Pwn2Own exploit chain walk-through! http://t.co/OIgmy3jnO9
+RT @mwrlabs: Advisory: (#Mobile #Pwn2Own) Amazon Fire Phone Certificate Install User ID Check Failure - http://t.co/AYLDQYXbub
+RT @mwrlabs: Advisory: (#Mobile #Pwn2Own) Amazon Fire Phone Silent Certificate Install - http://t.co/CIVOlDnB1r
+RT @mwrlabs: Advisory: (#Mobile #Pwn2Own) Amazon Fire Phone No Secure USB Debugging - http://t.co/kNL3DSLWyJ
+@DC44131 Are there any fellow hackers from around Edinburgh? Anyone up for drinks tonight?
+You've got no code, no porn, and you're ugly.
+RT @SwiftOnSecurity: We can head into this audit together,
+You don't have to live in fear,
+Because for the first time in forever,
+We are in…
+@nmonkee You guys did alright but we all know there was only one truly 1337 team. :-)
+I've got no words to describe this year's #HackFu experience. Heaps of thanks to everyone involved in the organisation!
+The point of no return has come. Fuck everything and everyone, I'm off to #HackFu!
+@crypt0ad @0vercl0k How's life in China, Axel? :-)
+There are rumors @NoSuchCon won't happen this year. Is this really the case @endrazine, @_Sn0rkY, @newsoft? That would be sad...
+Analyse de sécurité de technologies propriétaires SCADA
+https://t.co/5v4d1QmEV1 #SSTIC
+Les risques d'OpenFlow et du SDN
+https://t.co/2Ac2Qqhkbe #SSTIC
+FlexTLS - Des prototypes à l'exploitation de vulnérabilités dans TLS
+https://t.co/GuUIYkAUAv #SSTIC
+Rétro-ingénierie matérielle pour les reversers logiciels - Cas d'un DD externe chiffré
+https://t.co/4SPOoCq3lU #SSTIC
+Triton - Framework d'exécution concolique
+https://t.co/WNHrD2SRbs #SSTIC
+Yay, I survived my first #SSTIC. Check following tweets for some of my favorite conference materials. See you all next year!
+Now it's time to hit Rue de la Soif. Gardez vos lunettes! #SSTIC
+Some great and inspiring content presented today at @SSTIC by @JonathanSalwan, @JulienTinnes, @AirbusGroup, @Inria, @QuarksLab et al.
+@antisnatchor @bl4sty @jduck @skier_t Definitely, there's no point in trying to stop him. :-)
+@bl4sty @jduck This cannot possibly work with @skier_t.
+RT @DonAndrewBailey: When debugging is outlawed, only outlaws will debug. #Wassenaar
+@p3tand @jamadharma Congrats, guys!
+RT @dinodaizovi: Forcing security research and tools completely into the domain of large defense contractors will totally make the Internet…
+Oh, and fuck systemd.
+@ae0n_ @Agarri_FR Slides, slides, slides! :-)
+@amastoris Well, not until I start spilling, I'm looking at you, Mr. @amastoris. :-)
+There's no better way to end the week than with a few pints of @FeralBrewing's Hop Hog straight from the Swan Valley!
+RT @hackerfantastic: Current recommended reading selection for hacking Android devices. http://t.co/iGeydLV6qC
+RT @pusscat: If the entire point of your research is to make your brand look better, you're in marketing.
+RT @chrisrohlf: There are some things you should put before your reputation and bragging rights, such as the safety of others.
+RT @daniela_murphy: Regardless of your politics, desecrating a war memorial is absolutely disgraceful. #LondonProtest http://t.co/PXZ2iotLyW
+С Днем Победы, товарищи! o/
+@NTarakanov Isn't this something similar to Ilja's talk from last year's PacSec?
+@antisnatchor @inquisb @fedoverseas Great catching up with you guys and @jpdborgna! Oh, and fuck the royals.
+RT @dinodaizovi: @taviso I know we disagree on full disclosure, but clearly attackers can and will move faster than Apple rewriting that de…
+RT @dinodaizovi: Perhaps Google's right hand would care to release such a product to protect users from increased exploitation caused by th…
+@miaubiz I'm just concerned about preserving your wisdom, especially when it overlaps with my thoughts. :-)
+Fuck you, #BHUSA, you're just an American version of #BHASIA. -- @miaubiz
+@miaubiz @ortegaalfredo You mean @fede_k, @jpdborgna and that other dude? :-)
+#Сахаров, #Циолковский, #Котельников, #Курчатов, #Корольов, #Зельдович, #Сагдеев, #Комаров, #Вернадский, #Шкловский, #Капица
+I thought this @44CON cyber thing was some funny prank. Good thing there's still @DC4420 around for non-cyber people to meet up.
+You have wasted your childhood, if you haven't been part of some #ACRONYM hacking community. http://t.co/zE6JK9qPXr
+RT @jduck: I've never been so insulted in my whole life. Thanks @lcamtuf and the patch rewards program.
+@juliocesarfort This will remain the best conference appearance of all time. #w00w00 is #p00p00! #GOBBLES #GOBBLES #GOBBLES #GOBBLES
+@EnglishRussia1 @agelastic I don't know if Russian, but that's certainly the most Bulgarian picture on the Internet.
+@timb_machine This will only happen if you have IP TTL propagation enabled on the ingress LSR and ICMP tunnelling enabled along the LSP. :-)
+RT @mwrlabs: Advisory: Apache Cassandra JMX/RMI Remote Code Execution from @mwrlabs http://t.co/FUBl7Ynzd9
+I'm so much looking forward to #HackFu this year! Come drink^w play with us... https://t.co/PdmVCk0LmP
+Nous vous confirmons qu'une place pour @SSTIC 2015 a bien été
+réservée. &lt; Allons, on y va!
+@dlitchfield Congrats, David! Still staying in Australia? :-)
+If you want to meet at RSA, I reckon you're a cunt. -- @miaubiz
+@ae0n_ @BAESystemsInc @stratsec They got what they deserved. I don't think there's such thing as @BAESystems_AI in Australia anymore.
+@juliocesarfort Huh, sounds like @antisnatchor left @SpiderLabs right on time.
+- This is entertainment to these people? It's pathetic!
+- They're Bulgarian, they have very simple tastes.
+Barack Obama's executive order from today is a bloody joke, right? https://t.co/CwmbDtqtxj https://t.co/RSaT5EcH5B http://t.co/8k9yS8NhKK
+@_argp I hope to get an honourable mention for sending them a logo for the next jailbreak. http://t.co/01AlmEehat
+@jduck I wish this was the case, but it's more that there's no talks from people like @jonoberheide, @ortegaalfredo, @j00ru, @antic0de, etc.
+@hubert3 Huh, #SyScan is my all-time favourite conference. What I meant was I realised the line-up was quite exceptional compared to BH.
+RT @jonoberheide: @nudehaberdasher Between dress codes, NSA envy, and hugs, I'm not sure if anyone's actually interested in solving securit…
+Nonetheless, this is still the least exciting #SyScan line-up for the last 3 or maybe 5 years.
+Seriously, I considered this year's #SyScan line-up to be surprisingly poor. Thanks to #BlackHat Asia for providing a reality check though.
+@kavasilo @AthC0n @ChristianPapa_ @antisnatchor Hey guys, there's gonna be AthCon this year, right?
+RT @djrbliss: I know there's a security conference going on when everyone suddenly starts arguing about the same topics without any apparen…
+RT @mwrlabs: Advisory: Apache ActiveMQ and ActiveMQ Apollo XML External Entity Data Parsing from @mwrlabs @munmap http://t.co/vyLvNXvijj
+RT @mwrlabs: Advisory: Apache ActiveMQ LDAP Wildcard Interpretation from @mwrlabs @munmap http://t.co/mt8LNe90Jd
+@buherator Nope, I may look at it in the future, but I'm taking a break from MQ for now. Check @MWRLabs for some old IBM WebSphere MQ stuff.
+By the way, Oracle's OpenMQ was found affected by a similar LDAP wildcard handling bug.
+And... I'm done with #MQ, last two advisories are out. https://t.co/VdCNFGV2IQ https://t.co/yPD1gDOlfi #MWRLabs
+@pi3ch @wireghoul You missed @RuxconBPX!
+@RolfRolles I've heard @MWRLabs will have some cool summer internship openings. ;-)
+Two more MQ advisories are out this week, few more to go. https://t.co/IAHuB58JUE
+@EduardKovacs @Ionut_Ilascu Stay tuned for a follow up on the vulnerabilities. :-)
+Cheers to @EduardKovacs from @SecurityWeek and @Ionut_Ilascu from @Softpedia for writing on the Apache Qpid bugs that I recently reported.
+@carnal0wnage Grab the old ActiveMQ Debian package for easy testing: https://t.co/RQoQ5V5Okn
+@carnal0wnage The LDAP wildcard expansion one is nothing but brute forcing passwords for username '*'.
+@carnal0wnage You're more than welcome. Also, just realised @drspringfield has published his full code now: http://t.co/ffrwQNMZHN
+@carnal0wnage And my quick and dirty Bash script wrapper is here: http://t.co/DEv2EaIrp3
+@carnal0wnage This one's pretty much based on @drspringfield's brilliant blog post: http://t.co/PSK3iWN4Q7
+@carnal0wnage Which attack you're interested in?
+@carnal0wnage I may drop some PoCs once all the brokers are fixed. Maybe keep an eye for incoming advisories or shoot me a mail?
+I had the best time today at @BletchleyPark! I love this place and can't wait to go back.
+@xntrik This must be the best advice I've been given lately.
+I really want to punch myself when, at the end of the day, my exploit consists of a Python script, two Java files and a Bash wrapper.
+@juliocesarfort @fabsx00 Links, please?
+@MarioVilas @agelastic @juliocesarfort Touché.
+@agelastic Go home, @juliocesarfort, you're drunk.
+@agelastic Dang, see you at @SyScan then?
+@agelastic I guess this includes Russian ones. До встречи в России? :-)
+@_topo I know, right? I should probably seek help. :-)
+Lat night I had a dream that @McDonalds' Happy Meals come with man pages for @SQLmap. I had mixed feelings about it.
+@Shiftreduce Sorry, mate, I won't make it to CCC. Maybe see you at @SecuDayLille1?
+Just reported a few more bugs in an MQ broker. Also, my #NoSuchCon slides have now been made available on SlideShare. http://t.co/QgaEU6kn9g
+@jamadharma I may or may not, no plans for that yet. I'll try to submit for @PHDays though. :-)
+@jamadharma Well fucking done, fellas! Поздравляю! #Bushwhackers #RuCTFe #SecLabMSU
+@jduck Heh, right back at you, mate! :-)
+The best and most thorough article on MS14-068 that I've seen so far, well done! https://t.co/80qIR1W3xi
+I hate absolutely everyone attending #KiwiCon right now. ;-(
+@snare It's me, Zoidberg! From work... and LinkedIn. :-)
+RT @mwrlabs: Things are getting festive in the @mwrlabs office! http://t.co/R1Wt3v3I3A
+@solardiz' keynote speech from @ZeroNights must have been awesome! Video please?
+#DC4420 is great, but I still miss #SecTalks and drinking with @nanomebia @pi3ch, @xntrik, @volvent, @kronicd and the rest down in Oz.
+RT @snare: How good's when you don't plan to get drunk but you accidentally do. It's like a nice Christmas present.
+@onapsis Are you guys publishing the slide deck from your #EKO talk on attacking RMI frameworks?
+@j0hn__f Congrats, well deserved! #MWRIcon
+RT @mwrlabs: MWR Labs researcher @munmap has been to Japan and Paris in the last week speaking about MQ security &amp; bugs. Slides: http://t.c…
+Great hanging with @gutes, @__x86, @elvanderb, @Myst3rie, @endrazine, @zer0mem, @Agarri_FR, @richinseattle, @Shiftreduce, @RolfRolles et al.
+Thanks to @endrazine, @newsoft, @vloquet, @_Sn0rkY and all the rest of the @NoSuchCon crew for putting together a great event! #NSC14
+@jamadharma Unfortunately, didn't get my Russian visa on time for the conference. #хуйня Maybe see you at #PHDays. ;-(
+@nrathaus Never mind, just saw your tweets. Catching up? :-)
+@_gauravb_ @beyondsecurity See you around. @nrathaus are you coming?
+@scadasl @arbitrarycode Добрались до Токио? #PacSec
+Any #PacSec people around in Tokyo already?
+RT @djrbliss: If a single failed exploit attempt on a router takes your entire country off the Internet, maybe the NSA isn't your only prob…
+@YPapazov ще говори в зала Варна за уеб сигурност. Явор е основател на @CTF_BG. #OpenFest
+@Rado_G Къде е достъпна тази уводна лекция на професора от Харвард?
+@Rado_G и Наков изсипаха купчина нелицеприятни истини. Хубаво е хората да изказват откровено гледните си точки за проблемите. #OpenFest
+@bozhobg По-важно беше съдържанието на лекцията, която отговори на няколко мои питанки. Сега спокойно мога да кажа, че подкрепям. #OpenFest
+@Rado_g Зяпам онлайн и чакам твоята лекция със @SvetlinNakov. Изглежда да бъде интересна. :-)
+Софтуерът с отворен код бил по-сигурен. #OpenFest
+Адекватен, но безкрайно отегчителен и монотонен @bozhobg. #OpenFest
+My all time favorite @PenTestMag cover always makes me laugh hard. http://t.co/pJ21RGEOP8
+RT @HockeyInJune: @jduck @chrisrohlf @tmanning Vulnerability research implies novel advances.  Everything else is vulnerability discovery a…
+@nanomebia @xntrik @dave_au @asteriskinfosec I'm locked in a dark room somewhere writing reports. Maybe should get @snare_ebooks to do this?
+@xntrik @dave_au @asteriskinfosec Wow, cool one! Also, hello @nanomebia! ;-)
+@AusCERT Login? You can't be serious... #AusCERT2015
+@wireghoul I believe so, but how about you come over to Japan instead? ;-)
+It looks like I'll be speaking on my MQ research at @PacSecJP, @ZeroNights and @NoSuchCon. This means Tokyo, Moscow and Paris within 7 days.
+#Citizen4 was good. It's a shame @LauraPoitras was unable to attend the London premiere. Looking forward to see the next one with Assange.
+RT @i0n1c: @reversity It is a vulnerability in the database API core. It works on stock.
+RT @i0n1c: It seems little known that SQL injection in PHP apps using PDO are more dangerous because they allow stacked/multi queries by de…
+RT @i0n1c: Disclosure has become so much more work. Requesting a domain and co-worker working on a logo…
+Моя футболка с чебурашкой пришла вовремя #ZeroNights. ;-) http://t.co/fxPSKQ83hh
+@msftsecresponse thought @lcamtuf was trolling them. Apparently, these guys at Microsoft need some reality check. http://t.co/zFJZzxRhKs
+Can't wait to catch up with @_argp and finally meet some MSU comrades et al. at #ZeroNights. @jamadharma @p3tand @webpentest @NTarakanov
+RT @snare: Are you guys talking about computer hacking?
+@jamadharma Звучит как пиздец. ;-(
+@jamadharma В какой конференции?
+RT @dinodaizovi: Instead of teaching students cyber-offense, we should teach them how to build defenses for how attackers don't actually co…
+Random people messaged me on IRC in regards to the Linux kernel bugs database. Yes, it is on GitHub. https://t.co/WXFe8JfbO8 #Linux #Kernel
+These Bulgarian fellas are getting way better at skimming these days. Now finally using 3D printers... https://t.co/TUMfDHq2JN
+RT @chrisrohlf: This career. Everyday is a new argument. Everyday is another war.
+RT @fotisl: @_argp Aren't they getting bored of finding new OS X bugs?
+RT @snare: How’s your day going, @snare_ebooks?
+Alright, who's going to this #DC4420 thing?
+Thank you sloppy devs for leaving your continuous integration management console wide open. Great way to start a week! :-)
+No vulnerability is officially critical until fucking @hashbreaker says so.
+All Burp operators are not equal.
+Wait, if this is @snare, who is @snare_ebooks?!
+RT @i0n1c: Believing that OSS players are mostly altruistic is a fairytale you tell your kids.
+@xntrik I miss every single bit of Australia and each one of you guys. :-(
+Never been a fan, member or anything of @AISA_National, but still...
+All my 'straya mates should totally vote damn @nanomebia for @AISA_National's rookie of the year! @pi3ch @memoryresident @michael et al.
+@wireghoul @AnthonyBriggs @thegrugq Or more like... security receives least number of patches because there is virtually *no* security? ;-)
+RT @evacide: Encryption is for criminals. Pseudonyms are for criminals. Anonymity is for criminals. P2P is for criminals. Man, criminals ge…
+Here's the numbers of Linux kernel security patches per group of components / modules for the 2007 - 2014 period. http://t.co/ES921yLdXb
+RT @i0n1c: So bug bounties pay way more than developing defensive mitigations.
+I will also be getting rid of the complexities. Feel free to contribute ideas or content.
+Currently, all the contents come from automated scraping. I'll hopefully be adding most of the missing stuff gradually.
+@_argp @fabsx00 @antisnatchor @jduck I committed the Linux kernel bugs database I was working on. https://t.co/q7BIhutj2E
+Way to go @snare! https://t.co/QkuqDy8Fxg #SecT
+@antisnatchor Good job spotting this one! Anyway, you've got to admit he's got a marvellous profile picture. :-)
+@wireghoul @dave_au How about @NCCGroupInfosec's BurpSuiteLoggerPlusPlus?
+RT @dinodaizovi: Man, #44Con sounds like it was the place to be this week.
+RT @44CON: Thanks to the #44CON crew for all their hard work. Well done!
+Looking forward to revisiting @DonAndrewBailey's slides from #44CON. Also, do you plan for a blog post or anything like write-up?
+@snare Can't make it tonight but maybe tomorrow after finishing some work.
+@snare Are you flying out tomorrow?
+@rich0H LOL, I always thought my #OPSEC is extremely shite. I was sitting to the right of @thomas_coseinc at the restaurant. ;-)
+Also, fucking @thomas_coseinc been fucking epic as always! He's my favorite #PLA commando.
+#44Con overly exceeded my expectations. It was great drink^W catching up with @jduck, @snare, @thomas_coseinc, @matalaz and some other guys!
+RT @matalaz: Don't worry Comodo, I'm not a plagiarist, I'm just looking for vulnerabilities. Peace. http://t.co/UAbX57Nv1Y
+Catching up with @pi3ch and @volvent last night was great as always. Also, loved the Persian food. :-)
+@agelastic What about #ZeroNights?
+Achievement Unlocked: Missing the last train because... beers with @snare.
+@matalaz Awesome, looking forward to the new additions and you making the vendors cry once again. #44Con :-)
+@matalaz Hey, didn't realize you'll be presenting at #44Con! Are you adding something on top of your #SyScan talk? :-)
+@jduck Definitely, also looking forward to your Android cluster talk! #44Con
+@_argp Are you making your #BalCCon2k14 slides available?
+RT @manicode: The X-Frame-Options header is going away. https://t.co/s7bkvuKK09
+Glad I'll be attending the one and only major conference in the UK. See you at #44Con next week! Also, what's the #44Con IRC server?
+@JZdziarski What a great finding! Have you lived under a rock or something?
+RT @nudehaberdasher: If guessing a password is now sophisticated hacking, heap overflow exploitation must be fucking magic.
+@agelastic Flipping hell, you could have mentioned this when I was looking for a company in Oz. :-)
+@agelastic What do you mean your pub? Company pub?
+@LUMCisDEAD @_argp He is truly an expert in his field.
+RT @mwrlabs: Quite a rare opportunity, @mwrlabs are hiring for a senior researcher position: https://t.co/epCSIW3Eod
+This is the first time I hear about these so-called celebrities. Stupid average people and their lousy perception... #iCloud #iHack
+@CSAW_NYUPoly @HockeyInJune Who would think they have a CISO...
+@kargig @hackerspacegr Dang, I wish I was around.
+@rhcp011235 If you want exploits, go get @lazytyped and sgrakkyu's Attacking the Core and code them yourself.
+@rhcp011235 I'm sorry to disappoint you but this is a *thesis* work, not an exploit pack, lol. Should have some practical value though.
+@kargig Thanks mate!
+@fabsx00 I will be probably pushing my database to GitHub next weekend.
+@fabsx00 Thanks, it's another correlation of cyclomatic complexity with density of vulnerabilities thing. Sort of Linux kernel case study.
+Still *lots* of missing ones though. Also, automation needs to be significantly improved for my project to be of any practical use.
+Kinda done with my BSc thesis. By the way, here's the list of Linux kernel CVEs along with files affected by patches: http://t.co/XXjMGJMVzn
+Several people complaining about me laughing the fuck off while watching some security conference talks. @amastoris, who said this was SFW?
+@agelastic What, you didn't get enough of hogwash from BlackHat? You're either broken or getting old.
+RT @daniel_bilar: @thegrugq  You can argue with a root shell. Just as you can argue with a barn tree or a German. It just won't do you any …
+Cool browser fuzzing stuff from @demi6od at HitCon: https://t.co/nfxagWVlMq and @tentacolo_Viola @SyScan360: https://t.co/oidFW9BZKd.
+@antisnatchor If this is a truly honest and unbiased review, it only means she did way better than expected.
+RT @snare: Azimuth has decided to abandon computer security. We're moving into making gold mining reality shows in Alaska.
+RT @djrbliss: Last night I dreamed that I invented an efficient integer factorization algorithm and broke RSA, but then completely forgot h…
+Compliments to @MWRlabs intern Jérémy for his work on bypassing DEP + SMEP! https://t.co/ucy1GvmRLP
+RT @44CON: Final reminder: Today is the deadline to register your team for the @MWRLabs @44CON CTF to qualify without tickets! http://t.co/…
+RT @mwrlabs: Registration for @mwrlabs @44CON CTF is live! Sign up, it's going to be epic! Hurry, spaces are limited... http://t.co/qzocOeE…
+@kronicd Yes, weird to say at least... They seriously need to consider importing some bogans from Down Under.
+Apparently, calling your mates cunts may be quite offensive in the UK. I don't think the weather here is my primary concern anymore.
+#HackFu was nothing like I've seen before and certainly one of the most creative and inspiring events. Thanks @MWRLabs for making it happen!
+@xntrik @nanomebia You guys are my favorite couple. :-)
+@jduck @shakacon Can we get the slides?
+@xntrik Some pretty good tunes there! Thanks, mate. :-)
+@jduck I remember being a P-Rod fan back in days when he was riding for City Stars.
+RT @i0n1c: Weekend. The two days of the week when you have enough time to think about how shitty the rest of your week was.
+Turns out this McCabe cyclomatic complexities 'calculator' was buggier than the code I was analysing: http://t.co/Fypz6aAcHu #SIGSEGV
+@rmallof @NTarakanov Alright, maybe he was finally recruited by the KGB. ;-)
+Anybody knows if @NTarakanov was kidnapped or something?
+@antisnatchor I like the CSS3 selectors method of searching... but I'm not a Ruby fan in the first place.
+@antisnatchor @_argp Sure, will push and visualise the database accordingly. Don't know about the shitty web scraping scripts though. :-)
+Sneak peek of my hopeless attempt at classifying / clustering Linux kernel vulnerabilities: https://t.co/2ebM6rJ2AM Also, I hate XPath.
+Thanks @xntrik for getting me into DEP and mathcore. https://t.co/blLX61s583
+Now that I have my proper lock pick set, I need to practice with some innocent Love Locks.
+Tracking Linux kernel vulnerabilities is virtually impossible due to a myriad of silently fixed ones. Any better reference than CVEs?
+Thanks for the great time in Australia and hope to see you all again at #RuxCon and/or #KiwiCon! ;-)
+As most of you will know by now, I left Oz and moved back to Europe to work with easily one of the very best companies in the industry.
+RT @_argp: @snare @i0n1c What community? I don't see any community.
+@action_dk Well, according to their license, obtaining data from the website in a programmatic fashion is prohibited. http://t.co/HnrMGw0XFz
+Wait, @OSVDB's API access is, by default, limited to only 2 queries per day? Huh...
+@jduck Yes, looks like I'll be doing it after all.
+@xntrik @snare Sure, I gotta say this mathcore thing is pretty darn good. Thanks for spreading the love, heh. ;-D
+Is there any list of Linux kernel vulnerabilities clustered by components like file systems, network communications, et cetera?
+@ignisf What the flip is this shit?! Mate... that's awfully lame on so many levels. Really.
+I don't always leave my secret lair, but when I do, there must be a #SecTalks meeting in town. @pi3ch @nanomebia @dave_au @xntrik
+@jamadharma Отлично, поздравляю! #Bushwhackers
+@nanomebia Nah, poor gypsies are still doing it the old-school way blowing up the ATMs instead. Skimming is way too sophisticated for them.
+...report, which looked at a total of 130 incidents from last year. The breaches mostly involved ATMs and gas pumps." http://t.co/pGGhlLuSgU
+"Most skimmer attackers in 2013 were from Bulgaria, followed by Armenia, Romania, Brazil and the United States, according to the Verizon...
+@snare Bring @miaubiz for spectacular commentary.
+I spent some great time reading through http://t.co/hOk7y9deWh this weekend. Thanks @Stratsec Perth for the gift. http://t.co/IlnwNwTbys
+RT @snare: If you don't regularly think everything you do is shithouse, you're not doing infosec right.
+Fuzzing without proper instrumentation is, effectively, masturbation. -- @RantyBen
+@xntrik @nanomebia @pi3ch I reckon this was the best slide. :-)
+Let's hope @iDefense's VCP will be all fine without @bannedit0 behind it. :-)
+I would only watch #MyKitchenRules if they were cooking Android ROMs... or maybe meth.
+@agelastic It's actually two guys coming out of a microbrewery and pissing against each other in a Tiger bottle. Sort of U-A-Free. #SyScan
+Going out for dinner and last night drinks in Singapore with @agelastic. #SyScan
+Another fabulous conference is behind us now, heaps of high quality and inspiring content was presented.
+Are @aionescu and @daniel_bilar's slide decks available already? #SyScan
+Playing #ChippyPin was awesome, @hg79 totally rocked it.
+Great to catch up with @volvent @mwrlabs @nils @iantshaw @securitea @nmonkee @Charlie_N_B @ortegaalfredo @Metlstorm et al. at #SyScan!
+RT @mwrlabs: Team @mwrlabs en route to @SyScan, come find us to chat tech and drink! If you're missing out watch this space for a surprise …
+@_topo @ortegaalfredo Ah, sounds familiar. @PMBureau saved my ass last time I ended up drunk as fuck and arguing with the authorities here.
+@_topo Eh, I was looking forward to some Cisco IOS discussions but maybe next time...
+@_topo Aren't you coming to #SyScan?
+On a side note, I'll be catching a flight to Singapore later today. See you all at #SyScan!
+Today is my last day with @BAEsystems_AI, formerly @Stratsec. I had great time here in Perth, friends have been made, shells been popped.
+RT @dlitchfield: If you can't have your work challenged by your peers then don't publish.
+@ignisf This guy's a frigging legend, hey!
+@ignisf Wow, Dr. Bontchev?! That's gonna be bloody awesome. Are you attending?
+This Swedish death metal gig was a blast! Haven't seen so many people wearing black since @KiwiCon.
+Eh, @SyScan used to have discount rates for attendees from previous years. Anyone with a spare ticket? #SyScan
+Porting exploits to CANVAS... because Ruby is for hipsters.
+RT @daveaitel: Part of what is annoying about white hats is the constant hero worship of people who are years behind.
+There's probably not a single EU institution I truly respect but @enisa_eu must be the worst of them all. Please consider a mass suicide, K?
+I'll never understand why people like @antisnatchor and @mario_vilas waste their time arguing with mentally challenged individuals on #FD.
+RT @i0n1c: People apparently retweet everything without reading it carefully first.
+RT @marciahofmann: Many security people seem to go through phases of intense pessimism and despair about their work. Is there a word for th…
+RT @djrbliss: Announced on the same day: Coverity bought for $350M, WhatsApp bought for $16B. Sort of makes you wonder if you're in the wro…
+I really like fishing and how you can sit there doing nothing and its acceptable, similar to pentesting. -- Anonymous
+RT @djrbliss: Remember when $1B seemed like a lot of money to buy some photo filters? Apparently text messaging over XMPP is worth $16B.
+I didn't know @miss_sudo used to be a man... I love this industry, har, har, har!
+Hey, who's attending @AppSecAsia? #OWASP #AppSec #AsiaPac
+@bannedit0 Brilliant, thanks for the update.
+@_argp Thanks, still good to hear from @bannedit0 about the program status though.
+@jduck Thanks! @bannedit0 Can you please advise on the status of the program?
+@iDefense still brokering bugs? If that's the case, can someone hook me up with a contact?
+By the way, this guy authored numerous iOS application security articles for @InfoSecEdu.
+This somehow reminds me of the notorious Tracer-T hacker: http://t.co/1ssTXxypWy
+RT @dlitchfield: If you understand assembly, there's no such thing as closed source.
+Yay, another Perth #SecTalks session this week! Matt from @Volvent will be talking about how ridiculously bad is libpurple. :-)
+RT @snare: Why the fuck do so many people follow Asher Wolf? She's dangerously stupid.
+@MattBlaze is funny as fuck. Really, what a dumbass!
+RT @_argp: @pod2g @chrisrohlf @dinodaizovi @winocm That's not a zero day. That's a backdoor.
+@nils, @ortegaalfredo, @matalaz and @snare between the #SyScan14 speakers. That's too much of awesomeness at one place!
+New Year's Resolution: Don't get #CISSP certified, no matter what the circumstances.
+RT @i0n1c: Imagine a security con that bans alcohol in favor of fresh juices and only serves healthy food. That will be a feast for all 3 a…
+I don't always retweet @i0n1c, but when I do, it's totally worth it.
+@dlitchfield Pretty epic and handy compilation, thanks.
+@xntrik @pipes True that! See you at @KiwiCon #8? ;-)
+I find @Verge's move to be gross and wrong on many levels.
+RT @shawnmoyer: @chrisrohlf As an initial risk taker myself I will fully grant you that, but going massive never goes well for anyone but t…
+RT @shawnmoyer: Another big InfoSec merger. Congrats to the 10 suits who will benefit and condolences to all the countless clients and empl…
+@grsecurity Sure, and I've got a magical unicorn in my backyard.
+I can't blame a signal intelligence agency for planting crypto backdoors. I can only blame crypto 'experts' for not assessing the standards.
+@antisnatchor I had no idea you've got a blog?!
+Female tennis must be the only socially accepted form of tennis. #BoringShit
+RT @snare: To Barnes! *raises glass again*
+@jamadharma 3то хорошо, я предпочитаю http://t.co/vhC3sDgsy2. Not to mention http://t.co/LLP9VlwpRP. ;D
+Stay low, keep your 0days cool and don't kill innocent bugs in the new 2o14 year. Happy Freaking New Year y'all!
+@antisnatchor @_argp @xntrik @meder @agelastic @pipes etc. etc. Looking forward to see you all in 2o14! @antisnatchor Giorgio rocks! ;D
+@fabien_duchene @celilunuver @NTarakanov So, #BHUS12, #BPX2012, #NoSuchCon, #NSC2013, #INFILTRATE2013, #30C3, etc. Yep, that's preposterous.
+Will you drama queens stop whinging and do some reverse engineering instead? Fuck it, this industry is full of shit! #evasi0n7
+Thanks for catching the low-hanging fruits and making me dig deeper... cunts. ;-) #NoMoreFreeBugs
+Nothing motivates me more than seeing clueless people killing any of my long time buried bugs. #NoMoreFreeBugs
+@agelastic Ay, caramba! Get me one of these!
+@jduck Maxim Linde? You mean Petr Parlin? http://t.co/0uXLkF1ndj
+CTF*BG will take place on-site on 15th of December at ESI CEE. Register your team, rock the challenges and get drunk! http://t.co/1MOu83SBag
+Big up to all the crazy mates @p3tand, @skyramp, @jamadharma, et al. from #Bushwhackers for winning @UCSBiCTF!
+RT @_argp: @snare Only 14? Pussy.
+RT @snare: 14 instances of IDA is definitely too many.
+@pi3ch @nanomebia @xntrik @dave_au @dlitchfield @kronicd @memoryresident @c1phertxt Hope you're all coming to the Perth #SecTalks tomorrow..
+@antisnatchor @NTarakanov He may be simply looking for to get one of those notoriously awesome Bulgarian dogs? ;D http://t.co/N2ZWTMxh3i
+@antisnatchor Ah, saw this on the news a few days ago and thought it's a joke. I know this is sad, but money can get you anything, right?
+A massive *fuck* you to all the vendors out there silently patching critical vulnerabilities! I hope you get raped by a pack of unicorns.
+RT @_argp: Today was a good day. The heap was sprayed. The metal was black.
+@mdowd @azimuthsecurity Congrats guys, keep up the awesome work! :-)
+@xntrik Thanks mate and make sure next time you join us for the beers afterwards. #SecTalks
+@NTarakanov Ah, next time then. By the way, how was #PoC? Any slides available?
+@NTarakanov I thought you registered for #Pwn2Own? What happened? :-)
+@_argp Well said, I'll refer all of them to your tweet, heh.
+Apparently, drinking too many #CyberFriends made me randomly offend and annoy whole bunch of people during @KiwiCon.. `;-7
+@xntrik I couldn't think of any other more suitable opening talk. Thank you @Amberleigh_Jack!
+I somehow survived this utterly crazy thing called @KiwiCon. Cheers to all the people involved and especially @Pipes and @Metlstorm!
+About to board my flight to New Zealand. Here I come @KiwiCon!
+What do you call big data? Several megabytes big http://t.co/tFDtUIiehn view state. (cc @c1phertxt)
+@OpenFestBG Marketing.. and geeks? @YPetrova Go home, you're drunk! #OpenFest
+RT @ruxcon: A big thank you goes out to our speakers, sponsors, and staff, and everyone who attended. What a great community! See you all n…
+Always so good to catch up with people like @antisnatchor @meder @agelastic @snare @volvent @pipes @antic0de @xntrik @mdowd et al. #RuxCon
+@RuxCon @Kaddiz @Volvent @AzimuthSecurity @HackLabs Thanks for making this happen! #RuxCon
+Back in Perth after a fabulous @RuxCon weekend.. Awesome people, heaps of alcohol, epic stories, plenty of lulz, etc. #RuxCon
+RT @volvent: Breakpoint and #Ruxcon were amazing this year. Thanks to all involved.
+Melbourne is awesome and crazy! #Ruxcon
+I'll be attending my first @Ruxcon this weekend! Can't wait to see Melbourne and crash with some mates.. #Ruxcon #Awesomeness
+@pi3ch @volvent @dave_au @xntrik Yay, finally some proper tech event taking place in Perth on the 14th of November!
+@xntrik @elGumso @pi3ch @jrod_burns @dave_au @ChdeMde @asteriskinfosec Always good to catch up with you! See you next week in Melbourne..
+@xntrik Yep, AISA. Meet you there! :-)
+@xntrik Are you guys delivering a talk?
+RT @shawnmoyer: Mostly, paranoia is narcissistic. Most of us aren't that interesting.
+@Ruxcon Why do you even bother replying to @Asher_Wolf?! I bet this is @RantyBen in disguise.
+Beer tastes better when it's raining shells.
+@jduck I admin it was good, but still..
+@_argp Thanks, mate! \m/
+@p3tand Thanks!
+@pi3ch Shhh.. Don't mention Papa Smurf!
+@timb_machine Cervecería Modelo is the only vendor that never let me down! ;D
+Spent my birthday chatting on IRC, reverse engineering and drinking beer. I guess I'm getting old or something.
+You should read @Amberleigh_Jack's My Brother, My Hero or.. Who was Barnaby Jack? http://t.co/Cy4NWAGv5Q
+I wonder if they actually contacted @NagiosInc about this one. #SSD
+It looks like Denis Andzakovic's SQL injection in Nagios XI / NagioSQL was also reported to @BeyondSecurity's #SSD back in February..
+I haven't noticed one of my silly OLE bugs got recently patched.. http://t.co/puZt6T4HCe (MS13-070/CVE-2013-3863)
+@antisnatchor @xntrik Sure thing, sounds like a decent plan to me. ;D See you in Melbourne!
+@xntrik @volvent Good to catch up with you guys!
+@pipesec @kiwicon No worries, I'll sort this out myself. @antic0de I always have some in my back pocket.
+@antic0de @pipesec @kiwicon I think I'll go for the poverty plea. First-come, first-served?
+RT @silviocesare: You've gotta laugh when someone calls their research system the same name as yours and then plagiarises by cut and pastin…
+@_clem1 Oh, almost forgot about your #GSoC protocol stacks fuzzer. Awesome, looking forward to your slide deck!
+@_clem1 Nice! Always fuzzing the IPv6 stack?
+@JulioCesarFort Wait, which one was this? CVE? :-)
+@RIPE_NCC What's the reason behind allowing AXFR for so many years? Do you consider zone transfers so cool? :-)
+Anybody played with @evdokimovds and @andreycha's Tangerine? It only works with the old XAP format, right?
+RT @_argp: Therefore, heuristics.
+@RuxCon Any RuxMon Perth meetings scheduled for the near future?
+RT @djrbliss: @ochsff @defendtheworld Expect Android devices to be patched in 2016.
+RT @ochsff: @djrbliss @defendtheworld We had reported it over a month ago. :-)
+@juliocesarfort You play @eb_CTF? How's #OHM2013 so far?
+P. S. There's nothing like travelling business class! ;D
+I finally moved to Perth after a few months of unpredicted problems and hurdles. Can't wait to start my new job and get my hands dirty.
+I've been pretty busy offline for a couple of weeks now. Some terrible news and heaps of other things to catch up with..
+On very rare occasions, interacting with academia is mandatory. ;-)
+Packing and leaving for a one-week summer school on cryptography and cryptanalysis.
+RT @ochsff: I finally understand why responsible disclosure does not work.
+Your bug submission was not eligible for a bounty for the following reason: Another researcher already discovered the bug. #KThanksBye
+I wish I was at #HackFu right now. Have fun, folks!
+RT @taviso: @NTarakanov I'm going to block you because it's painful talking to you.
+RT @djrbliss: PS4 evidently runs a FreeBSD derivative. I guess there will finally be a place to use FreeBSD 0days besides Defcon CTF!
+@geraldcombs You guys officially suck at managing software bugs.
+@geraldcombs What about replying to my email from a few days ago?
+RT @djrbliss: And there I was, thinking Twitter is just for trolling and cat photos.
+The State Agency for National Security's website has been regularly defaced for the last year and a half. They give a darn.. #ДАНСWithMe
+@jamadharma No, not really. More like having extra spare time for competitions. ;D We'll be in touch!
+@jamadharma @sadiesv @p3tand @webpentest Any plans for upcoming CTFs? You are always busy delivering talks around the world, heh? :-)
+These guys are kidding, right? Where's my f* visa?! #ДАНСWithMe
+Merging foreign intelligence agency with domestic counter-intelligence structures and putting a local media mogul as Chairman.. #ДАНСWithMe
+@NTarakanov Kind of epic, right? Killing QuickTime bugs has always been fun.
+RT @_argp: #AthCon 2013 was awesome, got to hang out with old friends and make some new ones.
+Some more inspirational talks at #AthCon today. Heading back home tomorrow afternoon.
+I've always been in love with Athens, but walking down the streets and listening to death/gothic metal feels unusually good and authentic.
+Don't forget to attend @_argp and huku's Firefox Exploitation talk tomorrow.. Neat content + cool demo! #AthCon
+Nice talk delivered by @antisnatchor today.. #AthCon
+Anybody else attending #AthCon? Catch ya there! :-)
+@atodorov_ Not really, more like a server setup problem. Everything's fine now.
+Wireshark's Bugzilla returning 500 after filling a bug report.. This can't be good.
+I killed a total of 5 (useless?) bugs in QuickTime 7.7.3. Thanks to @TheZDI for processing and communicating the vulnerabilities.
+Now it's time to catch up with what has been (actually) happening around at #SyScan.
+Silly me, I have just realized how f* awesome was @gynvael and @j00ru's talk at #SyScan. I must have been totally wasted back then. :(
+RT @halvarflake: Back to debugging. Twitter is no place for a retired man like me. Too many people with 0day and private techniques make me…
+I spent some wonderful days in Singapore. I'll miss you, Lion City! Oh, yeah, #SyScan was good too..
+@Gunther_AR Mate, I've been in Singapore for 3+ days now.
+I'm pretty sure I saw @beist dancing with Jackie Chan at Orchard Towers. #SyScan
+One year later, I'm happy to confirm that Singapore still has the hottest chicks on earth. Majulah Singapura!
+@Gunther_AR Any plans for tomorrow? Are you attending any training classes?
+@matalaz Have a nice flight! Ping me if you'd like to hang out for a few beers.
+@nrathaus Yep, I'm warming up already. What about you? Are you coming anytime soon? :)
+@Gunther_AR Hey, are you in Singapore yet?
+@MarioVilas No worries, good to know, though.
+Awesome real-world crypto case study and slide deck by fellow #Bushwhackers @jamadharma, @webpentest and @p3tand! http://t.co/2Yi0ELsyEQ
+@pmbureau Thanks, indeed, it really was. Catch you somewhere else soon! ;)
+Exactly one year later, I'll be attending another #SyScan, courtesy of @NRathaus and @BeyondSecurity! Let's discuss this over a #Tiger?
+I've heard #Berezovsky killed a few of @NTarakanov's 0days.. So, who's next on the hit list?
+@DidierStevens Sure, have fun playing with IOS! This actually reminds me, I've got a few things to ask @_topo about.
+@DidierStevens Luckily, @_topo  and @ortegaalfredo's research comes to the rescue when dealing with Cisco IOS internals. ;)
+@DidierStevens Good point, although I haven't seen that many Cisco IOS heap buffer overflow exploits circulating during the years.
+@DidierStevens What's the idea behind altering the canary value this way? Initial steps towards backdooring the image? I'm just wondering..
+The sad truth is, many of those are mostly attention-seeking hypocrites. Deal with it, okay?
+Researchers always tend to blame the industry for not taking security seriously enough.
+Shame on me, I had never heard of the Voynich manuscript up until now. #crypto
+@beist Okay, I'll bother you with an email.
+@beist Are you idling on IRC? ;)
+I've just read through @asintsov's #BlackHatEU slide deck. Okay, I've had a good laugh, really.
+RT @fjserna: Killing some more bugs today… report sent to vendors.
+@_argp @richinseattle @pa_kt My exact thought when I saw this! Keep 'em coming, please.
+@pmbureau Nice, sounds like a lovely community you have there.
+@_argp Ping me if you run out of bug supplies. All jokes aside, I had no idea you were that kind of a bug killer.
+@pmbureau Olala, c'est toi, Pierre? http://t.co/N2gZnwojcc
+Obviously, you can't tweet about fuzzing without bothering @rantyben.
+Good to see @Nils is finally on twitter! Good luck breaking Chrome, mate! #pwn2own
+The worst thing about fuzzing is that you never know when to give up.
+@_argp I'm sorry for your loss, guys. ;(
+RT @tqbf: Will never understand the people who look forward to RSA. It’s like a thermonuclear ISACA meeting.
+Summer internships? You should definitely check out the opportunity to work with the awesome folks from @mwrlabs! http://t.co/j4Pr3pEg
+Turns out I've been chasing nothing but heisenbugs for the last few weeks. D'oh!
+@endrazine I guarantee that you'll be significantly more disturbed if you can get to (personally) know the people working for the #ENISA.
+@BBCWorld about #Bulgaria's cultural and moral decay: http://t.co/pHiUeBb8 ..Easy money, shady deals, aggressive men and promiscuous women.
+#HP #Fortify is looking to hire a Technical Evangelist (Pre-Sales) in Sofia, Bulgaria. Please feel free to ping me if you're interested.
+@NTarakanov I definitely know what you mean, these guys haven't even bothered to take a look at my ASCII kittens. Пиздец бля!
+@Paterva Thanks for the credit, though.
+This year's #SyScan lineup is awesome, no wonder my ASCII kitten didn't make it to the list.
+@Raaka_elgupo Much better, thanks! I'm almost fully healed now.
+My 0day discoveries are dropping proportionally to the number of exams at the end of each semester. #Academia
+@_gauravb_ Got it, reply sent.
+DNS zone transfers are bad, mkay? http://t.co/AAWZ2EhW
+Happy Australia Day, Mates! ;)
+@CodenomiconLTD Thanks, will consider applying!
+RT @aionescu: Java is the win32k.sys of the Internet.
+@fjserna @NTarakanov Maybe check on the rest of the conversation with @thedude13 instead?
+@SadieSv Great! Another joint work with @jamadharma? Anyhow, looking forward to your talk!
+@CodenomiconLTD What about this year's internships?
+@miya_hay Jajaja, por supuesto, fue una noche maravillosa! Plus, I've improved my Spanish since then. I hope you enjoyed your stay here? ;)
+@NTarakanov С днем рождения, товарищ Тараканов! Пью за ваше здоровье! ;)
+It'd be very convenient if the various CFP review boards really provided constructive criticism about personal submissions.
+RT @_argp: @NTarakanov If your goal is to be on TV you're in the wrong type of business.
+@__suto What about the IE8 compatibility mode? Is it really necessary?
+@NTarakanov @090h Congrats, comrades! I've heard you'll be throwing 0days party, right? ;D
+@miya_hay Hola! Estoy en Bulgaria y tu? Como estas? By the way, how did you find me? ;)
+People enabling AXFR are totally ruining the fun of the network reconnaissance. There are still so many misconfigured DNS servers out there!
+@jduck1337 It's also been the last I discovered in 2012, though.
+Smoking cigars, drinking whisky and listening to punk rock. Let's rock the new year!
+@NTarakanov That's right, these precious bugs are never enough! I'm killing the last 0day for 2012 at exactly 00:00 AM.

@@ -1,0 +1,653 @@
+PiotrGoreckiJr
+http://pbs.twimg.com/profile_images/623453041128148992/qY94ckTL_400x400.jpg
+@OfficeDelve @thurrott I prefer Windows Phone version. Oh wait...
+@HorhayAtAMD limited use case IMHO. Not sure if people will be ready to quit their laptops- they need them outside where there're no screens
+@HorhayAtAMD exactly. Cutting bdgt phones + foucising on Surface flagships = lower costs, bigger margins, strategy that is easier to manage
+@HorhayAtAMD from pure brand perspective - not yet. But from hardware execution point of view - much bigger interest than 950/950 XL.
+@HorhayAtAMD I don't think apps are THAT important in global scale. Most people use browser, mail, maps, music...
+@HorhayAtAMD plus carrier exclusives, limited global availability, lack of true flagships...
+@HorhayAtAMD I think hardware is THE PROBLEM. Low marketshare is CAUSED by uninspiring cheap hardware.
+@HorhayAtAMD my point is, phone market is so much bigger it may be more than 5M. More Surface phones sold than Surface hybrids.
+@HorhayAtAMD I think It would be much more. Smartphone market is WAY bigger than hybrid or even laptop market.
+@HorhayAtAMD I don't think so. 950 is a plastic Nokia phone, not the iconic Surface design and brand.
+2/ I can imagine Surface phone sold in 1% of total. With high price and big margins, it would be a really profitable business.
+1/ Apple shipped only 13% of total shipped smartphones last quarter... taking 94% of global smartphone profits.
+@dstorey already did :) What I mean, now interface is the same for both touch and mouse - and it's oriented for the latter.
+@dstorey Is there a plan to slightly redesign UI/UX for Edge in Tablet Mode (bigger touch targets, auto-hiding tab/adress bar, etc...)?
+@getwired I was asked same dumb question few days ago. Moron who asked didn't know me and my wife host brave Syrian woman with her daughter.
+Right on the spot https://t.co/z6ZAWwpuPJ
+@maryjofoley @Florian_Si AOSP = (basically) Linux kernel + Java VM. Astoria was supposed to be Windows NT kernel + custom Java VM / APIs.
+Window 10 changes everything. But... WU still a crap, Edge not stable and functional, bridges cancelled or delayed, 1st party UA dissapoint
+@Florian_Si @maryjofoley It's not emulation. It's java virtual machine - as "native" as on Android phones
+@maryjofoley @Florian_Si actually, it's more complex IMHO. You can google-translate my old post about that
+https://t.co/kTaYhQtQsp
+@Florian_Si @maryjofoley another possibility: Android subsystem contains Linux kernel (GPL license) and it would force MS to opensource W10M
+@thurrott @ricrocks12 @cwoodruff @maryjofoley I prefer "I don't agree" when talking about uncertain future events ;)
+@thurrott @ricrocks12 @cwoodruff @maryjofoley I don't agree on that. W10M can fight for 5-8% marketshare with greater efforts on SW/HW side
+@thurrott @ricrocks12 @cwoodruff @maryjofoley and with current device strategy - nothing will
+@Florian_Si @maryjofoley on Yoalla they're emulated. On W10 Mobile - they have own subsystem parallel to WinRT runtime with same privilages.
+@thurrott @cwoodruff @maryjofoley my take on that in comment: https://t.co/cNEcISVsfC
+@jerrynixon What happen to Project Astoria bridge?
+@maryjofoley Not sure if this is the real reason to abandon Astoria. Thre's surely a way to block it or make it REALLY difficult.
+@thurrott @cwoodruff @maryjofoley That's probably separated issue. W10M could turn second Android with vulnerabilities caused by sideloading
+@maryjofoley Wouldn't work via Windows Store. But it's already doable (dev unlock -&gt; load GS -&gt; load Snapchat .apk). That's the problem.
+@thurrott @cwoodruff @maryjofoley 100% true. But it would be probably the only way to aquire Snapchat and other apps that won't be ported.
+@thurrott @cwoodruff @maryjofoley true, but dev-unlocking, sideloading GS and apps packages (.apk) from untrusted sources is not a solution
+@maryjofoley sure, but apps using Google Services wouldn't work properly (AOSP doesn't have GS). Apps without them will run just OK.
+@cwoodruff @maryjofoley @thurrott Using Google services and inferior experience (app nav / UI) wouldn't be a win for Microsoft... and users.
+@maryjofoley @thurrott @cwoodruff and dev unlocking was to easy. Unlock -&gt; install Google Services -&gt; install .apk. Also security threat.
+We have great office productivity suite for #UWP called... Office. Now we need exeptional creative suite for #UWP. Adobe? Autodesk?
+@gcaughey "#UWP is our future, we're 100% commited". And in the end, Facebook app will be a custom-ported iOS app. Not good.
+Awwwww... WANT https://t.co/G2jJPbteAP
+@Sean_Michael_UK THIS
+@tomwarren Islandwood is native machine code. Astoria - emulated subsystem inside W10M eating resources and killing stability. No-brainer.
+Ouch ;) https://t.co/GQ7d3d12yp
+@SwiftOnSecurity @edbott And when Apple screws up, there a lot of angry young people in Starbucks coffees around the world
+@stevesi @AndrewWrites huge battery, big power consumption - nothing really surprising. Plus mobile benchmark to compare it with PSs
+iPad Pro. I love the hardware but stop pretending it's something more than bigger iPad. Maiking it bigger doesn't make it magically capable.
+@getwired with security vulnerabilites
+Microsoft should work closely with Intel and make custom chips for next Surface Pro and Book generations. Or it's just me?
+@DrPizza "that would never happen to a Mac"
+@ZacB_ https://t.co/fWaQ6GfU7b
+@ZacB_ only +$200 to the base model
+@ZacB_ for a brief moment there were Surface Book SKU with 128/8GB and nVidia GPU. I ordered that version.
+@Er_Harsh_Raj it's native code that can run on both mobile and x86 so it is "universal" in that sense. But it doesn't use #UWP framework.
+@workjon struggled? What in particular? It's definitely not a perfect tablet but still the only tablet to have your work done.
+There is a hope for the humanity as long as such people stay among us
+https://t.co/hKMmXAtiDK
+Yes, calm dawn @gruber 
+https://t.co/0GGzsxRtaQ
+@Er_Harsh_Raj if Microsoft can't even encourage Facebook to use UWP framework, why would devs care?
+@Sachin_990 @winphanIN @windowscentral @Daniel_Rubino If it's really iOS code, #UWPP is dead already.
+ICYM: Snapping apps directly from Task View is probbly the best feature otf the TH2 update. If you use tablet mode often, like I do.
+@tomwarren I'm not sure iPad Pro will sell in more units that SP4
+@getwired @bdsams Tim Cook: "we finally created a tablet that can replace your laptop"
+@BenedictEvans excuses? Rather causes.
+@Daniel_Rubino count me in. I hope it died in agony and misery
+RT @drbarnard: “the iPad Pro [isn’t] a viable productivity platform for anyone but…executives, retired folks, &amp; masochist bloggers” https:/…
+@DrPizza @Daniel_Rubino so basically "fuck Universal Windows Platform"
+We have to remember that Lumia 950 / 950 XL camera will compete with Galaxy S7, not already phenomenal S6.
+@SurfaceProArt so not a "Wacom / Surface" killer yet?
+There is Lumia camera/imaging team and Surface camera/imaging team. Curious how they merge or cooperate in 2016 under @panos_panay.
+@bdsams strange. So much attention to details, but this seems just wrong by design. Shame.
+@bjorndori Time will tell and I wish the best to #UWP, but it would be great if the adaptation was quicker
+@bjorndori We can only hope
+#UWP - great concept but in practise almost ll 3rd party universal apps are either mobile or PC. Not both. And that's a big problem.
+@mi_checinski ja czekam aż przestanie gwałcić CPU i zawieszać karty
+@mi_checinski jedynej. Łudzę się, że wkrótce problemy ustaną ;)
+If you think that design is a relatively new concept, you should look back to the 60s
+https://t.co/1KinpZa784
+Finally found time to clean and reorganize my Start Menu https://t.co/f2oLhwB2bt
+@asegPL chyba przejadę się do starbania, jak dotrze do mnie Surface Book. Szczyt hipsterstwa.
+I mean how, according to iReviewers, Note Pro was just a big tablet failing to replace a laptop, but iPad Pro IS THE FUTURE?
+@BucksterMcgee @ZacB_ and even Apple (Tim Cook actually) doesn't get that, despite famous "gorilla arm" metaphor from Steve Jobs.
+@BucksterMcgee @ZacB_ the problem is - it is not. Not for mainstream computing where precise and ergonomic (8h/day) input is the key.
+I don't want to compare iPad Pro to Surface. I'm curious however, what you CAN do on iP Pro that you CAN'T do on 2 years old Note Pro 12.2
+This https://t.co/XRiBRDjV1N
+@dstorey oh, that's plain stupid
+RT @GoodThings2Life: @bdsams Agree on first part. For UWP to be taken serious, MSFT needs to have top notch examples not half-baked crap.
+@ralfgroene that's impressive!
+iPad Pro, so innovative!!! 
+12.2", active pen, keyboard cover, split screen... Oh wait... January 2014. https://t.co/dGSqgSd6Gl
+@ZacB_ or dog breeds names for versioning. Still better than current scheme.
+@detkodave antyhing to share yet? :)
+Follow Friday: @ralfgroene, @stevesi, @detkodave, @arturot, @jerrynixon https://t.co/ejjEEQmpXM
+@BucksterMcgee @jacobrossi another month without a fix (stability, high CPU usage) and I'm switching back to Chrome.
+@BucksterMcgee @jacobrossi Same story here. Screw the add ons, I want the Edge I'm using as my main and only browser to be stable.
+@BucksterMcgee @jacobrossi "but hey, Windows as a Service" ;)
+RT @jacobrossi: @bdsams lots of reliability work in this stable build and more to come through WU. She'll hold together! https://t.co/QMh3a…
+@dstorey https://t.co/y4gIcW8F3R
+@chudzik_k nic nowego (web app) https://t.co/KvIS8fcKZV
+@akipekka @MichaelGillett yep, there was a slide, but for now it's PC-only (x86) and huge in install size (+200 MB). Strange.
+@akipekka @MichaelGillett so you think FB will make its own mobile version soon?
+@akipekka @MichaelGillett It was released month ago for Windows 10 Mobile - hardly "old"
+@MichaelGillett weirdest thing - It was supposed to be #UWP app but we have two separate: 
+https://t.co/UuvsyolFS9
+https://t.co/n4D28WfZpV
+@bjorndori I'll check it when I come home
+Facebook for Windows 10 https://t.co/b1r31s2R9J
+@jerrynixon @andy_wigley We were promised Universal Facebook W10 app- why are they separate?
+https://t.co/UuvsyolFS9
+https://t.co/n4D28WfZpV
+Universal Facebook Beta for Windows 10 PCs
+https://t.co/UuvsyolFS9
+On November Update, Windows 10 seems faster and Edge is more stable and less resource-hungry. Still far from perfect, however.
+@edbott still makes more sense than iPad Pro
+I'd say: It solves some problems, creating new ones https://t.co/k8NmroPAg2
+@surface it's Surface 3, not Surface Pro 3
+iPad Pro is much bigger threat to Microsoft and Intel than people seem to realize. Yes, 1st gen is not perfect, but it's good enough.
+Because fuck you, Windows Update https://t.co/xbIj4xuVLd
+@JoannaStern I can imagine Samsung / Microsoft presenting iPad Pro-like device an all the sarcasm and usefulness questions from the press ;)
+@TimothyNeinherz If we have to wait another 1.5 years for new generation, it's surely possible within that timeframe.
+@TimothyNeinherz That's why I hop that fanless Cannonlake will bring such performance
+@DiabloRobotico @JoannaStern because ARM and easy to maintain OS-es are the future. Windows is the present. All Apple has to fix is input.
+@TimothyNeinherz I'd leave horsepower for Surface Book
+@DiabloRobotico @JoannaStern I love the hardware but It's hard for me to think about iPad Pro as something more than a companion device
+@JoannaStern it's an honor :)
+@JoannaStern my only complain? Tech journalists are almost always too forgiving about iProducts and their flaws.
+@dstorey I'd love to use Edge as my main browser but:
+1) it kills the battery (crazy high CPU usage)
+2) it freezes and crashes way too often
+Surface Pro 5 has to be fanless in all configurations. Surface 4 has to be different.
+Typical @tomwarren:
+- they won't make it on time!
+- it's still buggy just before launch!
+- OH, THEY MADE IT...
+https://t.co/2cHtCq7mDW
+@SurfaceProArt So apparently you have to wait for Apple to bring the best pen tech on the market. In first generation. Disturbing.
+@KatarzynaPura @KubixRevan tak się dzieje, jak recenzuje się sprzęt, który się lubi i realnie używa
+@MichaelGillett @MicrosoftStore in Poland we have regular and dual sim versions to preorder
+@getwired sure, I was talking about 3rd party apps
+@getwired Because Office is probably the only iPad-Pro-optimized app.
+iPad Pro success would be a good thing for both Apple and Microsoft
+1 - to reverse negative iPad trend
+2 - to prove hybrids are here to stay
+@getwired @tlowdermilk Also, I love my SP3 form factor, but when I have to have my work done effciently, it's always docked (2 ext monitors)
+@getwired @tlowdermilk I mean, great COMPANION device, not yet ready to REPLACE the PC/Mac.
+@getwired @tlowdermilk That's my problem with touch-first. Ergonomy. If it's 8 hours every day, 200 days in a year, it becomes a problem.
+@getwired @tlowdermilk For artists/photographers (drawing, sketching, painting) - yes, but it's very limited use case in global scale)
+@getwired @tlowdermilk I do both and can't imagine using Illustrator and Photoshop (even rewritten to be touch-first) with touch/pen only.
+@tlowdermilk @getwired I like the game-pad analogy. It's more fun, easier to learn but pro gamers are still way efficient with kbds and mice
+@getwired @tlowdermilk I mean, it's basic ergonomy and precision of input / interaction. Touch is simple and pleasent, but not magical.
+Rather unexpected #SurfacePro4 https://t.co/hiTjAnruVK
+@getwired @tlowdermilk love the hardware but it's hard to imagine touch-first interface for prolonged professional usage ("gorilla arm")
+@DanielLaycock @panos_panay @fxshaw @ralfgroene @sbathiche rather disturbing results. Do we have any explanation? https://t.co/8dxzweTrDH
+@Daniel_Rubino my mistake. It froze after logging in portion and stayed in Web view. Restart fixed it. Sorry.
+That can be HUGE
+https://t.co/Pb0cehiyeW
+#TwitterForWindows - we need this in Windows 10 app https://t.co/LfNPQOcHLe
+ouch https://t.co/sLiruwj0EZ
+@LanceUlanoff or Putin. Can't tell the difference.
+@JoannaStern @gruber someone has to tell Tim Cook about "gorilla hand syndrome" and not having precise input for prolonged proffesional work
+Apart from stylus for artists (marginal use case), what is that thing that iPad Air can't do that iPad Pro can?
+Tim Cook did a great job making the buzz around rather boring and flawed product. At the end of the day it's still (a bigger) iPad.
+Biggest advantage and disadvantage at the same time of Surface devices is... Windows 10. Operating system of the present.
+RT @manan: I replaced iPad Pro w/ Surface Pro in @gruber's article &amp; the result is amazing in defense of Microsoft — https://t.co/tXFcVqW5u0
+@bdsams seems faster
+So is iPad Pro the ultimate Surface RT?
+@SurfaceProArt I'm sure apps will come. My problem - lack of precise input (mouse) and no docking solution. But from artist perspective...
+@tomwarren can't imagine Pro device without docking mechanism (monitors) and precise/ergonomic input for prolonged work. Touch is not enough
+@SurfaceProArt Unfortunately it seems that 1st-gen Apple Pencil performs way better that Microsoft pens after many iterations...
+@stevesi What I mean - ergonomy. If you're working for +1h, touch/pen input physically hurts.
+How Apple Is Giving Design A Bad Name
+https://t.co/bVCbNHZpmg
+@stevesi but what we really need is an iOS laptop (plus apps). And no, I'm not buying this "THE LACK OF A MOUSE IS THE WHOLE POINT!!!" thing
+Love some of the features of the iPad Pro, but it's still WAY too limited to replace my PC. Lack of pro software, docking solution, cursor.
+@tomwarren @waltmossberg but 8.7...
+@JoannaStern you should add pencil price to this table (SP4 comes with a pen) https://t.co/uqJn71VAor
+@bdsams @thurrott next - the logo :)
+@getwired It's probably cheaper, faster and "better" way
+@getwired followed by Windows 10 Version 1511 Service Pack 2
+@workjon but is it necessary a good thing? Always a good thing?
+@Chemilinski This Surface line can't be just cheaper and smaller Pro. Surface 3 struggles because of that.
+Because all we need are people taking photos with Surface Books https://t.co/aDbVEEUazh
+RT @jsoltero: Dear guy who tried and failed to get on the plane by scanning your Apple Watch: you've impressed no one &amp; are holding up the …
+@tomwarren people were excited about touch interfaces after iPhone, but then realized that cursor and kbrd is the way to go for serious work
+@getwired @MarkXA @bdsams don't get me wrong. iOS is probably on the path to replace OSX. But iPP is just not the right hardware for that.
+@getwired @MarkXA @bdsams or Mac users. "iPad Pro, a tablet that can replace your MacBook"
+@MarkXA @getwired @bdsams I don't have problem with expensive toys, but marketing it as a ultimate device for pros to replace PS is annoying
+@getwired @bdsams than a Chromebook is probably a better and much cheaper alternative.
+@getwired @MarkXA @bdsams iPad Pro is aimed for "Pro" users, and that's not my idea, it's Tim Cook
+@SurfaceProArt I'm actually glad than my Book ships to me just before Christmas - avoiding a lot of frustration
+@MarkXA my problem with it (beside price) is, it's not better than laptop at laptop things and not a most convenient tablet. Time will tell.
+@MarkXA @getwired @bdsams but then, why not x2 cheaper iPad Air that is better as a tablet, has good keyboard accessories and the same iOS?
+@bdsams @getwired or Surface RT for $99 ;)
+@thurrott @bdsams to realize that pen(cil) input is actually revolutionary and one-angle kickstand is surprisingly good on your laps.
+@MarkXA @getwired @bdsams also no mouse support, inconvenient keyboard, poor accessories support, terrible file management, limited storage
+@getwired @bdsams but how is it better than a laptop? Not great PC replacement and mediocre tablet experience. Reversed Surface RT problem.
+@bdsams @DrPizza https://t.co/T0BJYqE3Fe
+Surface Pro 4 was designed and engineered using SP3. Will iPad Pro 2 be created using iPad Pro? Answer it and acknowledge "post PC" fallacy.
+@thurrott impressive
+So yes, with fanless SP4, MS has to kill "regular" Surface or make Surface 4 special. Not a smaller and underperforming SP4 little brother.
+@getwired I don't defend this particular use case, but nowadays every data analysis is "spying". Telemetry, usage, image recognition...
+RT @nvision42: Tech Journalists don't forget to include these details when you favor #iPadPro over #SP4 in your upcoming reviews. https://t…
+@stevesi #blameSinofsky
+@asegPL https://t.co/QZgKAGQLgp
+One can argue there're better looking smartwatches. But when someone ask you about your sw, TAGHeuer sounds better than Samsung Galaxy Gear2
+@raywongy @TAGHeuer and you have to pay another $1500 for that
+$1500 for TAG Heuer would be OK, if that thing wasn't obsolete after 2 years
+@Windows ok but first fix the crazy-high CPU usage and stability issues ("not responding")
+@marypcbuk They've been busy making Android Wear TAG Heuer watch.
+Awkward? Hilarious? Bizarre? https://t.co/vP2BfkfLzp
+I love new TAGHauer smartwatch design, but hey, it still runs Android Wear.
+Worst streaming award of 2015 goes to TAGHeuer. Hands down.
+@priard do trzech razy sztuka https://t.co/6n940Xr0Je
+@bdsams is your integrated GPU brave enough?
+@bdsams @thurrott tech reporters will suddenly find hundreds of practical use cases for stylus, and the "lappability" will be "just fine"
+@bdsams 8.6 on The Verge. If lower, you have a dinner when you come to Poland ;)
+I won't lie if I tell that MY BODY IS READY https://t.co/DrNVPXJd45
+@priard Jeżu, oni dalej nie kumają... https://t.co/swJHkKmufj
+@tomwarren actually, they are based on both personal usage and universal database
+@michaln20 ludzie używają @TweetiumWindows
+@tomwarren @Mkeallison the problem is - It's learning from your input... It's just like with Google Ads.
+@priard najgorsze, że po zwróceniu uwagi nadal uważają to za "weekendowy żarcik"
+@astroXP yes, TV series in 60', but I haven't seen it.
+@stevesi I wished to be funny and tweet "maybe it was Surface RT" but I realized I loved mine and it's still my mom's main computing device.
+@edbott @gajewskimaciej "Windows 10 spies on me, I have to post about it on my FACEBOOK!!!"
+The Man from U.N.C.L.E. is actually a very entertaining and well written movie. Positively surprised.
+@Chemilinski ...on a Surface Pro 3. And it's supposed to run smoothly on small Atom tablets and hybrids.
+@Chemilinski I don't mind the absence of add-ons / features that much, but for now Edge is just a battery-killing unreliable mess.
+@astroXP I totally don't mind it to be optional but default save should be one-click action (save = default, save as = as in original tweet)
+@sbisson @getwired from yesterday https://t.co/GxeQJT5jdL
+@PiotrGoreckiJr cc: @ZacB_ @Daniel_Rubino @MichaelGillett @bdsams
+Actual number of taps and screens to save a Facebook photo on Windows 10 Mobile. MADNESS: https://t.co/cUin2Z5Sin
+@chudzik_k Obecnie chodzi na W10M preview i jest wolniej niż na WP8.1. Zobaczymy co przyniesie konsumencka finalna kompilacja już niedługo.
+@chudzik_k niestety dość wolny zarówno jeśli chodzi o AF jak i uruchamianie samej aplikacji
+@chudzik_k manuala mogę używać robiąc zdjęcia swoim aparatem z dużą matrycą, a nie na smartfonie podczas rodzinnego spotkania ;)
+Did 10586 build fixed Edge stability (not responding tabs) and CPU usage issues?
+cc: @dstorey @frankolivier @naeubanks @jacobrossi
+My 3 years old Lumia vs "one of the best mobile cameras on the market". WTF? https://t.co/Ds7xitH4Xm
+@HorhayAtAMD @jkendrick Exactly. Just like gamepads sometimes are not as efficient for playing complex games- keyboard+mouse way more useful
+@JoannaStern how does it feel to talk about Windows devices/OS with people who are completely ignorant about it? (Vergecast 176)
+@ZacB_ design is much more than look
+iVerge in one picture https://t.co/j35NxXZepG
+@jkendrick that's just not true. Try advanced video edit on iPad's iMovie.
+@stevesi sure, but regardless of the UI design / input paradigm, touch will never be more efficient than precise pointing devices.
+@stevesi or "precise input". Touch can't replace mouse/pen for some more advanced tasks. Even for touch-first interfaces.
+@sikorskiradek złośliwi powiedzą "bo nigdy nie sprowadziliście oryginałów taśm" ;)
+@stevesi  iPad Pro has already more powerful GPU than new MacBook. Plus the security / maintenance advantages. But lack of mouse support...
+"Can you please check my report for tomorrow? But please don't use these fancy comments and versioning - just mark it red".
+Face =&gt; PALM
+@ZDNet @stevesi @jkendrick Apple will realize (as Microsoft did) that people want laptops. iOS based "new Macbook".
+@pnosalski #ośmiorniczki
+@gcaughey that would be too easy and obvious
+Putting tons of sensors on fitness bands before developing advanced OS and platform is ok only if it's 1st gen product. Looking at you Band2
+RT @Pogue: My new column+video: Microsoft’s Band 2 smartwatch is fantastic—and actually comfortable! https://t.co/oy2Q47nJvU https://t.co/p…
+@getwired @teroalhonen @maryjofoley @lseltzer Edge devs say: "almost none"
+@colega55 and maybe Band 2 if I sell my kidney :)
+@colega55 950XL and Surface Book
+@marypcbuk best thing? WP Twitter app is so forgotten it doesn't even have sponsored tweets.
+@colega55 they ar and will be, but it is the market that will verify if Windows Mobile is here to stay.
+@marypcbuk it is showing me CNC machines for last few days, because I tweeted that SP2 was injection molded, not CNC machined.
+@thurrott today, it's Nadella who does that
+@colega55 that's the worst case scenario. But viable.
+So how long before Microsoft, like BlackBerry, realizes that it's counterproductive to have own mobile platform and makes Android phone?
+@venturafelipe some app devs complain on iOS and WP that they're too limited / don't let deep OS integration. That's the price for security
+@venturafelipe OS level security that prevents apps from rooting device, for starters? It's called sandboxing ;)
+Security level: ANDROID 
+https://t.co/urdTw9keoT
+Former Polish president and Nobel prize laureate. This is the most Polish picture EVER. Lech Wałęsa a his best. https://t.co/k5WRlNVFga
+Newest version of Android introduced months ago is on 0.3% of Android devices.  Funny. Not.
+@ZacB_ you can change UI Lang to en-us in command prompt in recovery mode
+@DrPizza it doesn't have to anymore
+@LumiaPoland będzie promocja z dowiem Continuum gratis jak to było w UK i Niemczech?
+@JoannaStern @DrPizza you can't provide quick update when using own custom OS layer
+@bdsams you mean 15860, right?
+Your personalized telemetry data. And you're afraid of Windows 10... That's funny. https://t.co/Fm4xackRrv
+@edbott And all these hypocrites who write about about "Windows 10 privacy concerns" use GA on their blogs / websites without hesitation.
+@edbott yup. What I meant, Google Analytics is much more intrusive - broader telemetry + your IP
+@ZDNet @edbott not more of a threat than Google Analytics on web pages
+@bdsams @thurrott it's clean and actually user friendly, but this cup of coffee in the logo. So ninetees :)
+@bdsams now all we need is front end refresh proving @thurrott also lives in XXI century :)
+@Rysio_z_klanu Ja mam z pracy Xperię Z3. Masakra wydajność.
+My mom 3 weeks after switching WP-&gt;Android: "Fix this phone for me, it's terribly slow". Checked it and... it was quite snappy for Android.
+@Daniel_Rubino and in Poland on 28th November
+@Daniel_Rubino depends on the phone nad on the... night. On L920 it's sometimes 10% and sometimes 50%
+Shouldn't @panos_panay compare SP4 to MacBook 12 instead of MBA13?
+@Sean_Michael_UK It's called Xamarin ;)
+@priard brzmi jak tagline zapowiadający jakiś nowy startup ;)
+@Daniel_Rubino in Poland, new Lumias will be shipped 28th November https://t.co/23X32XTAxy
+RT @Gizmodo: The Surface Pro 4 has the most accurate tablet display ever made: https://t.co/978Al44hp6 https://t.co/YPIs73IjxE
+@BucksterMcgee @WithinRafael hey hey, not too fast
+@TheCheekyTaurus performance + snappiness + consistency and I will never miss WP8.1 UI/UX
+@TheCheekyTaurus it seems they are in fixing mode https://t.co/vLg5QGCcJ0
+@arturot no
+Lumia 950 / 950 XL available in Polish Microsoft Store for preorder. No dock bundle however. https://t.co/23X32XTAxy
+Hate to say that, but I probably prefer Chrome eating my RAM than Edge abusing my CPU time
+cc: @MSEdgeDev
+@detkodave oh hello! Can't wait to see some sample photos from you from the camera.
+To some tech reviewers. It's not injection molded magnesium since Surface Pro 3. Now it's pure CNC machining due to bigger size of the case.
+Can you imagine Apple using renders of a 1.5 year old previous-gen device in new press materials? Me neither. https://t.co/yC7M28w3SA
+@BenThePCGuy my wife always wanted a MacBook. But she told me: 
+- We'll have Surface Book
+- You like it more?
+- Not sure yet, but I like YOU
+What a surprise... Maybe, just maybe, flaws are caused by Android architecture / nature. https://t.co/cP4CWnBjXo
+@panos_panay what happend to #SurfaceBook SSD write speeds? :/
+@bdsams it's not the Walt I've known
+@bdsams cooperating with iWalt, because there too little Apple fanboys among iVerge authors.
+If you use Google Analytics on your blog and complain about Windows 10 telemetry / privacy, you're fucking hypocrite.
+@TheCheekyTaurus and these morons are using Google Analytics on their blogs and websites. A tool that collects x10 more telemetry than W10.
+RT @tomwarren: Microsoft opens up its Cortana for iPhone beta https://t.co/wQrLJZxDXG https://t.co/aIOxjg0nOf
+@gajewskimaciej nigdy nie miałem problemów
+@Sean_Michael_UK that's why WP in Poland is first class citizen with almost all local popular apps (~15% market share, more than iOS).
+@gcaughey you'll have to pay additional $500 and will get 128GB/i5 ;)
+Android notifications are the worst
+RT @RudyHuyn: I just launched Google Plus - not sure why I was excited to try a new thing, it's basically Facebook minus features and frien…
+Microsoft stock in big trouble after today's OneDrive scandal. Oh wait... https://t.co/fZ1sOiqXaI
+@WithinRafael browser
+@TheCheekyTaurus if we don't sin, Jesus died for nothing
+@Pilka91 you're probably right. If it's compiled only for x86.
+@TheCheekyTaurus From what I've been told, WP8.1 app is in maintenance mode (only bug fixing)
+@TheCheekyTaurus @brandonleblanc it's the same app that for W10 (UWP). My sources tell me the mobile view will be ready for W10M launch.
+@Daniel_Rubino streams, quote retweets - It was missing few weeks ago. @workjon, @aangelalam and #twitterforwindows team are doing great job
+"Forget Jesus, stars died so you could be here today"
+~prophet @LKrauss1
+@joshuatopolsky so forget Jesus, stars died so we could be here today
+@DrPizza the goal is to empower every people and every organization to do more in a mobile-first cloud-first world
+@Pilka91 so technically you can extract the .AppX file for W10 Twitter and load it on dev-unlocked W10 Mobile device already
+@Pilka91 it's already Universal for W10 but devs manually blocked it from downloading to mobile, before finishing the mobile view/layout
+@Pilka91 Not really. W10 app is Universal and mobile version will be unlocked in upcoming weeks, my source (inside twtr design team) claims.
+Windows 10 Twitter app was updated in DAY ONE - just after introducing new feature. Nothing will surprise me today. https://t.co/QDvtDHLQQA
+@Sergio_TheOne Exactly. If someone has 10GB stored now (or 25GB with camera bonus) they will likely upgrade to O365 to keep the files.
+@Sergio_TheOne IMO it's also about not screwing their partners (Box, Dropbox, etc). Unlimited offer with O365 was a killer. Total no-brainer
+#twitterdoeswhaaaaat?
+@Sergio_TheOne Were better than competition. Now it's the same or worse. Don't like it personally but it may be the price of cooperation.
+I don't mind "unlimited offer is over" thing but I don't get "it's over because people were using unlimited space to store large archives".
+But that's probably a good marketing move long term. Easiest way to keep/upgrade your storage is to subscribe to Office 365.
+So now, OneDrive has to compete with features, stability, performance. And that's probably a bad news for Microsoft.
+RT @Snowden: Journos: UK officials don't want to "ban encryption" -- they want to ban encryption that *works*. Deceptive intent. https://t.…
+@tomwarren a fan of feeding trolls?
+@Daniel_Rubino it's subsidized with bios rootkits and malware
+@brandonleblanc that's scary however. These series were terrible https://t.co/6Zpg6cLL1Y
+What's Microsoft's mobile (smartphone) hardware strategy (both first party and OEM). Is there any? What should they do?
+@TheCheekyTaurus I know, my tweet also. Material Design is good looking, but it's UX ugly mess
+@TheCheekyTaurus Jony Ive of Google
+@MatiasDuarte you guys seem scared.
+@thurrott @Daniel_Rubino and the head of design at Google
+@marypcbuk because monthly chart shows W7 share in November below 48% while it's actually steady ~50%
+Surface Book vs Dell XPS 13 https://t.co/sRVA82xUKJ
+@marypcbuk that's why probably the best horizontal scale is "weekly"
+@marypcbuk but the last dot in the first chart is November. And November (for now) is just one non-working day where W7 struggles.
+@marypcbuk This is what's really happening (full weeks only) https://t.co/mzVsDByI9k
+@marypcbuk The graph is plain wrong. November = data from one day. The last dot is really missleading (data from Sunday - non-working day).
+@MatiasDuarte that was cheap
+@DrPizza if iOS wasn't boring enough
+@panos_panay something is wrong https://t.co/POzfNnvYpo
+@gajewskimaciej skype to rak ;)
+@gajewskimaciej @Medium ale Twitter bez limitu znaków przestaje (dla mnie) być Twitterem :)
+@gajewskimaciej jest taki Twitter bez limitu znaków. Nazywają go @medium ;)
+After decades of putting crapware, ugly stickers and crappy touchpads on laptops, OEMs are surprised people want to pay +$1500 for quality.
+Great #SurfaceBook review from @DAVE2Dtv. I disagree on hinge however- I LOVE how it looks like. It truly stands out https://t.co/ahiG229LOS
+@BenThePCGuy with all due respect, I don't believe that human being can damage L920 :)
+Rockchip is trying to make Windows 10 based on Android 5.1. Rather funny. "Make tablet DOING MORE" https://t.co/5STxmcHMXr
+Surface Book has done more for PC market revival than "PC does whaaat?" camping will ever do. The latter is rather pathetic and un-cool.
+@getwired and Google's ad-free mondays
+Surface Pro 5 has to be fanless even on high-end variants. Or it's just me?
+@mgnoonan @BenThePCGuy exacly same story here
+@BenThePCGuy how did you damage L920? This thing have Nokia-3310-indestructability class :)
+@TheCheekyTaurus jeeez, it's ONE app and two header styles... https://t.co/JhoWPSaHYv
+@TheCheekyTaurus They gave more freedom for 3rd party app interfaces, bit their own apps should be VERY consistent
+@TheCheekyTaurus it's all Segoe UI, but I agree. All caps, no caps, different sizes, sometimes even slightly different hamburger icon
+To be honest, I love the small fonts / typography in W10 Mobile. Much better that huge interface of WP8.1 https://t.co/6mnQ8HoU2R
+#twitterforwindows badly needs polls and hashtags autocompletion
+@SurfaceProArt I just got 128GB/i5/dGPU. An SKU that's no longer listed in the store.
+@KatarzynaPura Skarzysko ;)
+@TimothyNeinherz or sandboxed Win32 apps downloaded and updated via Windows Store. Adobe is a close partner so it's not impossible.
+F#$&amp; you Adobe Creative Cloud https://t.co/DqiIZU4Hdr
+@SurfaceProArt did you get replacement Book or just returned it?
+@broper00 don't worry, you're not alone https://t.co/c9nhHXMqcW
+@evleaks windows mobile for sure
+My wife (psychologist, tutor) would probably prefer new MacBook, but she will get Surface Book. Overkill? Probably. Reasons? She's my wife.
+@Chemilinski that a lot of WP users are enthusiasts
+@Chemilinski Before official W10 launch, less than 2% was running W10 TP.
+@Chemilinski https://t.co/RM3QdFOqRH
+@slikey_dev @tomwarren feels like home (127.0.0.1)
+Well, well, well, what do we have here... :&gt; https://t.co/oTuEB4lVR4
+@dzejzipl nie...
+@shanelandry @dstorey or "hey cortana, read the https://t.co/QwJbkpWyDe", "hey cortana, previous one"
+@shanelandry @dstorey 1. Open page in Edge2. Ask Cortana to read (using hey cortana or search)3. Control playback with OS audio controls
+@ZacB_ Astoria has never been meant for full Windows. It's strictly Windows 10 Mobile project.
+Imagine that in mobile Edge: "Hey Cortana, read this article for me". I would give my kidney for such feature.
+cc: @shanelandry @dstorey
+@marypcbuk @edbott @sbisson I don't need it. My Surface Pro 3 will be replaced with Surface Book :)
+@edbott @marypcbuk @sbisson rather different use cases. New MacBook is just a crazy expensive netbook, not power user machine.
+@edbott @marypcbuk @sbisson again - 90% of my time all I need is keyboard and good touchpad. Yes, there's still that 1% (10% x 10%).
+@marypcbuk @edbott @sbisson I'm personally 90% time on battery, 10% charging
+I'm not entirely sure that laptop-first Surface Book has the most fortunate form factor. Which one do you prefer?
+@edbott and I'm not defending it, after a lot of thinking I choose Surface Book instead of new MacBook for my wife.
+@edbott With solid 8hrs of battery life, how often do you need to have it charging? It's an accesory for sporadic use (thumbdrives, SD card)
+@marypcbuk @sbisson @edbott I don't agree with a lot of their design choices but can appreciate attention to details
+https://t.co/CvsSCIWtqM
+@edbott @sbisson @marypcbuk Probably. But cloud+wireless is the future. We live in the present, but...
+@Chemilinski I'm afraid it will never be as smooth.
+@sbisson @marypcbuk @edbott I find this solution practical and elegaant. And I'm Surface / Lumia / Band fan and owner.
+Microsoft Band should be much more proactive. MEASURING your bio data is only one side of the equation. Suggestions and insights are needed.
+10581 "seems faster" but still not as smooth as WP8.1 which makes me sad.
+@gcaughey I have 2 external monitors and don't use SP3 screen or keyboard when docked.
+@gcaughey Worth upgrading from SP3 Type Cover? I'm on the fence.
+@gcaughey @onovotny @GraniteStHacker iPad Pro stylus is probably also non-active. Non-active ones usually lags more and are not that precise
+@gcaughey @onovotny @GraniteStHacker https://t.co/7QB1fDPKhI
+@gcaughey @onovotny @GraniteStHacker Sure there'e already a lot of iPad blutooth pressure sensitive styli. But they're not as good as active
+@gcaughey @GraniteStHacker @onovotny mice or keyboards don't need special hadrware inside the smartphone. N-Trig pen needs it.
+@gcaughey @onovotny @GraniteStHacker what I meant, you need hadrware tech in the screen to suport N-Trig stylus
+@onovotny @gcaughey @GraniteStHacker Doubt it. If it has, you can use the Surface pen for that already.
+@onovotny @gcaughey @GraniteStHacker Nope - Bluetooth is only for OneNote. Screen needs physical tech to supprot N-Trig stylus
+@GraniteStHacker @gcaughey @onovotny sketching - yes. But precise marks / notes on 4.5-5" screen? Difficult.
+@GraniteStHacker @gcaughey @onovotny doesn't make any sense (IMHO) without penabled W10 Mobile smartphone
+@ZacB_ I hope it's dead
+No, Microsoft doesn't have and Google won't have "one OS". Shared kernel, runtime and app platform != one OS.
+This time I agree with @tomwarren  https://t.co/yqP23OcAMQ
+@JoannaStern Microsoft has few OSes, just one runtime and app platform.
+@Rysio_z_klanu 930 zdecydowanie
+@stevesi @LaurenGoode cons:
+- not Apple
+- Cortana doesn't work with my beloved iPhone
+@jerrynixon thank you Ballmer!
+RT @JBoman32768: Apple attached a keyboard and pen to their iPad, it won't be long until they make a Hybrid then @futurepaul will have perm…
+@gcaughey and is Astoria back?
+@Daniel_Rubino Honeymoon is over. Windows will be Windows forever, I suppose. Hope they'll fix it soon.
+Should be very strong quarter for Microsoft devices revenue. Surfaces, premium Lumias and Band. Strongest ever?
+@gcaughey in this iReview there's more pictures of iDevices than actual Band
+@dzejzipl jeśli zaopatrzysz się w jakąś myszkę - zdecydowanie tak. Jeśli nie - czeka Cię frustracja i zgrzytanie pośladków
+@dzejzipl ogólnie na plus, z kilkoma irytującymi drobiazgami (nóżka, złącze klawiatury, gładzik)
+@ZacB_ and leapfrogged Win XP and OSX
+@dzejzipl wypadałoby kupić, jak przystało na fanboja, ale trochę się waham. Dok gratis brzmi nieźle i mógłby mnie sprowokować ;)
+@dzejzipl polski MS Store https://t.co/IesW3d2l0d
+@dzejzipl https://t.co/wWC5fRZGHM
+@dzejzipl Ładnie sobie policzyli. Ale niestety taka cena dolara.
+@dzejzipl W PL na razie nie ma jej w oficjalnym sklepie. Mam nadzieję, że się pojawi.
+@gcaughey have to check Polish store then
+@gcaughey they are?
+I think @Surface should hire @sean_ong to join the marketing / evangelism team :)
+@shanselman I love new touchpad
+People didn't need tablets. They needed better laptops with new input methods.
+@DrPizza @JoannaStern @futurepaul with my current workflow, I cant't imagine using a device without pen input. Not touch, not detachableness
+@DrPizza @futurepaul @JoannaStern MacBooks are probably best laptops for majority of users, but there're people who NEED (not want) more.
+@futurepaul @JoannaStern you said even more. "is a state of mind". If there is (or rather will be) a device that do more than laptop then..?
+@futurepaul @JoannaStern for you (and probably 90% of users). IMHO claiming that laptop is the ultimate computing device is somehow naive.
+@futurepaul @JoannaStern so what is laptop and why it's the best there ever was and the best there ever will be?
+@futurepaul @JoannaStern clam shell. I agree with some points of the article but whole "state of mind" metaphor is a gibberish for me.
+@JoannaStern @futurepaul I mean, laptop is not a magical device. It's just a form factor. Good for some tasks, worse for others. USE CASES.
+@JoannaStern @futurepaul pompous gibberish
+Edge and CPU time consumption is even worse than Chrome + RAM consumption. I don't give a damn about browser extensions, but performance?
+@JoannaStern unfortunately it's "stupid-crazy" not "innovative-crazy"
+@windowscentral @Daniel_Rubino available for preorder in Poland from retailers. Shipping November 18th.
+@jerrynixon it makes no difference if there is only one user per machine. But when there's multiple users, identification + auth is great.
+@jerrynixon first situation doesn't require my (user) interaction. Second - I have to provide who am I (my login) before the auth by Hello.
+@jerrynixon or
+Identification -&gt;
+Hello: oh, it's you Peter, come in
+Authentication -&gt;
+Me: I'm Peter, log me in
+Hello: Oh, it's you, come in
+@jerrynixon Not entirely. https://t.co/JKmjha7ALm
+So Windows 10 is now bigger than OSX (all versions) and Windows XP. That was quick. https://t.co/lXDx6crDVM
+@ZacB_ he means "we will deploy it smoothly"
+@pierce whaaat? https://t.co/Mg7jnawakQ
+ICYM: The inside story of Surface
+https://t.co/S1D5XvCFT6
+@maryjofoley so I think it depends. Works more than OK for me. Maybe because SP3 is my daily driver.
+"The Surface Book is on sale today. Pre-orders have been huge — Panay says they’re selling laptops faster than they can make them."
+@maryjofoley @SurfaceProArt why?
+@bdsams @thurrott do you accept foreign currency?
+The problem with social media marketing? @jerrynixon with one tweetstorm did more than @Surface and @Lumia accounts for weeks. Authenticity.
+@JoannaStern I think it's the contrary. Big margin + (surprisingly) good sales = ...
+@jerrynixon it's authentication or also a identification system?
+@DrPizza it's unbindled on W10 Mobile (?)
+@SurfaceProArt I heard it runs much smoother on newest Insider build (?!)
+@SurfaceProArt that's sad
+@Cube189 they are scared :)
+@ralfgroene You may enjoy reading that. Surface line is the only true opponent.
+https://t.co/zBVDNAr4fO
+@LanceUlanoff what happened to this machine when they were designing iPad Pro keyboard cover?
+@jsoltero if zombie = spam, newsletters, subscriptions - he's not that far form the truth
+@BenThePCGuy @brandonleblanc Almost every tweet is a link to 950 product page with one sentence of meaningless marketing phrase. UNINSPIRING
+@BenThePCGuy @brandonleblanc If you guys have any influence on official Twitter accounts, please do something about @Lumia. (1/2)
+.@Lumia is the worst MS Twitter account. Posting same links over and over again and photos of 1.5 year old devices (Lumia 930, SP3).
+@sean_ong Does Core m3 Surface Pro 4 really not have fans? Does it have holes for air intake in the chassis, however?
+@theto3k Przy 5-5,2 calach tak. Ale przy niemalże 6-calowcu, każdy milimetr zaczyna mieć znaczenie
+REALLY impressive and also something to worry about https://t.co/MBFXkWBPyT
+@theto3k i przednich głośników w Neksusie
+5.7" vs 5.7" vs 5.5". Dat bezels. https://t.co/7M14L35WCL
+That's what I thought. Thanks @sbathiche! https://t.co/5a4rygeJtc
+iPad Pro (w/ pen and keyboard) - 32GB, 2GB RAM - $1070
+Surface Pro 4 (w/ pen and keyboard) - 128 GB, 4GB RAM - $1030 https://t.co/qWx1LHWD5e
+@gcaughey same situation here
+@ralfgroene @mccabeio @thurrott that hurts!
+7/ Pens. Surface Hub has bulky marker pen, Surface has regular pen and... Surface Phone should have small stylus hidden in the silo inside.
+6/ After a +1yr we can see that cancelling Surface Mini was wise. Regular tablet sales are decreasing. We have post-iPad era.
+5/ Surface 4 has to be different. That formula is over. It can't be just a slower and smaller Surface Pro. Thant's not what it's all about.
+4/ Surface went from underground project to +$1B business. We can only hope that the youthful enthusiasm will still be there. It's crucial.
+3/ We need Surface Phone to save Windows Mobile. Lumias with Hello and great cameras - that's just not enough in current market situation.
+2/ Microsoft out-appled Apple in craftmanship, engineering, innovation and attention to details. But will it be enough to make a difference?
+1/ Promoting @panos_panay from Surface head to MS devices head is great for convergence but is it great for Surface line? Who's in charge?
+Prepare for tweetstorm about Microsoft devices. Or mute me for few minutes.
+@tomwarren Threshold 2
+@sbisson Mini + Book? Sounds perfect. WANT.
+@sbathiche please think about tilt sensitivity in next generations of Surface pen
+RT @cwarzel: let us never forget that when Steve Jobs unveiled the iPod 14 years ago, his presentation was in Comic Sans https://t.co/W6QQ0…
+@MKBHD I'm pumped that you will review it. Waiting for main.
+@maryjofoley yo dawg we heard you like Dell PCs, so we put a Dell shop into PC shop so you can shop Dells while you shop PCs
+@thurrott @shanselman at his best
+@TheCheekyTaurus it gave me anal cancer
+@bdsams it's authentication or also identification?
+If every product mngr was as passionate about products as MS device boss @panos_panay world would be a better place. https://t.co/Q5h3ZiPZ5L
+I'm pumped to be an early adopter. Thank you @panos_panay, @ralfgroene and the whole team! https://t.co/S1D5XvCFT6
+@panos_panay @surface @MicrosoftStore I'm pumped!
+@marypcbuk on smartphones it's probably not a big deal now (one smartphone = one user), but for tablets, laptops and PCs...
+@BenThePCGuy What if I'm getting both?
+@marypcbuk if so, it would be a real differentiator. All biometric systems for Android/iOS are auth-only.
+@marypcbuk so if you have few users on a device, you don't have to select the account before proceeding to biometric auth?
+@marypcbuk but it's still authentication, not identification
+@pnosalski @wipler oby obeszło się bez awantur
+@getwired even if Astoria brings some missing apps it's not a long term solution I'm afraid. And without W10M UWP seems futile for whole W10
+@getwired unconvincing hardware, app gap, Windows as a Service (or "construction site" in plain English). I'm not optimistic.
+@getwired will it help?
+Remember when I told that mobile Windows may not survive the winter? Still valid.
+@SurfaceSupport 128GB/i5/dGPU model disappeared from the listing. Is it temporary or permanent?
+@Cube189 let's be serious ;)
+Microsoft reinvented productivity but now has to reinvent these safety cables that kill the in-store user experience https://t.co/nwDZFgmgzI
+@gcaughey That would be great. True diffrentiator. All current Android/iOS biometric solutions = authentication.
+@workjon @aangelalam autosuggestions. Check this out - desktop vs mobile https://t.co/EW6OdpDSvY
+@BenThePCGuy sure thing, but they can be "less intrusive" or just less ugly. robably custom like in: https://t.co/gu7dFVA7CV
+@BenThePCGuy I get the safety reasons, but these cables are SO ugly and kill the in-store user experience. https://t.co/61ymePIsk1
+@surface can't wait for my dGPU Surface Book :)
+Really? Please... https://t.co/oTYi5h1bPi
+@nathan19th for me, yes. Bit for people that render a lot of videos...
+Next year: Surface Book Pro. A laptop than can replace your desktop.
+Making inspiring products is VERY hard even if you have tons of money for the R&amp;D and design. iPad Pro and Pixel C are the best examples.
+Can't believe you can be so biased claiming otherwise. Thumb down big time.
+https://t.co/SPwwOM0tlt
+@WojtekWebDev @asegPL nie będą mieli z tym problemu - nikt nie kupi ich smartfona
+At the last Apple event the iPad Pro part was so uninspiring I expected Tim Cook to say "...guess what it runs OSX apps". That didn't happen
+@ZacB_ but "it's Windows as a Service" bullshit
+@gcaughey one guestion - Windows Hello is authentication only or also identification?
+@ralfgroene I totally dislike his obvious bias towards MacBook Pro, but he has (very) few valid points
+https://t.co/SPwwOM0tlt
+@shanselman @jerrynixon Any chance you can tell me if Windows Hello is an authentication mechanism or also an identification tool?
+@DrPizza @marypcbuk @maryjofoley @thurrott @Daniel_Rubino I mean https://t.co/9eFNOomVYT
+Is Windows Hello only an authentication mechanism or also recognition?
+cc: @DrPizza @marypcbuk @maryjofoley @thurrott @Daniel_Rubino
+@tomwarren if you have multiple users (faces) it automatically logs in on proper account or you have to select the account first?
+@jalakarhu is there a chance that with W10M some of the software features / algorithms will come to older Lumias (920, 1020, 930, 1520)?
+#twitterforwindows, please prioritize the following/followed users when prompting 
+cc: @workjon
+@WojtekWebDev @asegPL pisałem o korpo-zastosowaniach. Tam Android to trochę smiech, z jego dziurami bezpieczeństwa
+@asegPL applestorm in 3.. 2.. 1..
+Can't say I agree with everything in the article from @Daniel_Rubino but in general he has a point to say the least
+https://t.co/QIs6g1FEUq
+@ZacB_ it's available even in Poland. For more than a week.
+@TheCheekyTaurus I've been strong advocate of WP8.1 UI/UX until I reverted to 8.1 after prolonged use of W10M. Some apps need polish, but...
+@Daniel_Rubino I'm not saying it's not the right strategy :) All I'm saying Win32 runtime on mobile device is VERY problematic.
+@Daniel_Rubino if they don't wanna complete screw the OEMs. Or they already give up on that (OEMs for W10M).
+@gcaughey @tomwarren people like me :)
+@DominicPease @Daniel_Rubino I'm afraid that virtualized Win32 would have performance issues. I want to be wrong about that.
+@DominicPease @Daniel_Rubino @derekakessler adding complex runtime to OS is not that simple, in my opinion
+@tomwarren Does Hello work as authenticator or also as identificator? I mean, if you have multiple users, will it log you automatically?
+@Daniel_Rubino @derekakessler there's no W10 mobile SKU with Win32 runtime. Plus, Win32 on a phone = battery drainage,  viruses, perf issues
+@asegPL z Flanellą
+Steve Ballmer just call a MacBook Pro an iMac. Can't imagine Nadella making such mistake. He knows the competition well.
+@thurrott @Daniel_Rubino @WithinRafael so your anecdotal evidence is better than my anecdotal evidence ;)
+@thurrott @Daniel_Rubino @WithinRafael plus I've never experienced any slow downs during mass updates on WP on my three Lumias.
+@thurrott @Daniel_Rubino @WithinRafael strange. It's just downloading a package for WP. On android it's full app compilation to machine code
+@BrettHowse I meant, vast majority of existing apps in the store are still compiled "just in time" in virtual machine on the device.
+@BrettHowse @thurrott @Daniel_Rubino @bdsams it (AoT) will be a thing. Now it's JiT. And it will be compiled to machine code directly in VS.
+@BrettHowse @thurrott @Daniel_Rubino @bdsams c# apps are compiled to byte code in VS and compiled to machine code JiT on the device.
+To all Azure onanists, the Bing you hate adds x2.5 more to Microsoft's revenue than Azure.
+@bdsams wrong link https://t.co/3m8wkQGXth
+@bdsams Wired https://t.co/rnOnDEBVvR https://t.co/4zLcoIWl3X
+@bdsams Actually, Surface casing is made of magnesium alloy, but the hinge is aluminum.
+@thurrott no, but the difference is the Android ecosystem is not dying and OEMs are making great devices.
+@sbathiche do you still work closely with Surface team or now you have more general responsibilities in research / applied science?
+FYI: Surface business is twice as big as Azure business (revenue wise). So stop getting too exited about Azure being "so important".
+@dinabass great job Dina!
+@LanceUlanoff You guys had the best Surface coverage of all tech magazines. Comprehensive and exclusive content with great photos / videos.
+@LanceUlanoff Maybe I've lived under thew rock, but after interview with Surface managers I discovered that Mashable have GREAT tech section
+I'm positive that #SurfacePhone can save Windows 10 Mobile. And I'm also sure than Lumia line can't do that. That game is already lost.
+Listening to Microsoft's Conference Call with x1.5 speed. Amy sounds ridiculously fast, but @satyanadella... just normal ;)
+@polarrist @BrandonLive so porting it to Windows Phone / Windows 10 Mobile should be rather easy :)
+@BucksterMcgee @DrPizza so you think there will be 10 Mobile SKU with Win32 runtime side by side with WinRT and Android Runtime? I doubt it.
+@BucksterMcgee @DrPizza In other words - there's no W10 SKU for mobile that have Win32/.NET runtime (even if they're repacaged store apps)
+@BucksterMcgee @DrPizza there's no operating system that:
+- is mobile
+- can run Win32 / .NET apps
+
+Bridge for desktop apps is for full W10.
+@BucksterMcgee @DrPizza so what's the point in using inferior x86 chip instead of ARM? Intel is not there yet with perf/power consumption.
+@BucksterMcgee @DrPizza x86 full Windows on a phone = performance issues, rapid battery drain, viruses / security issues.
+@polarrist @BrandonLive One more question - are the Android / iOS apps native (Java / Objective-C) or also JavaScript?
+@JinzhanJin @polarrist @brandonleblanc I'm afraid I started a storm ;)
+RT @rodtrent: Surface Book vs. MacBook Pro: It isn't twice as fast. It's three times as fast | PCWorld https://t.co/SMIeUG1T6T
+@thurrott but is still negligible
+@MichaelGillett this quarter last year was SP3 market launch, this year everyone waited for SP4. Nothing to worry about.
+@polarrist cc: @naeubanks @dstorey @frankolivier @jacobrossi
+@polarrist oh, I'm surprised, it's really snappy
+@polarrist it's C++, C# or something else?
+@polarrist @brandonleblanc @windowsdev ouch...
+@brandonleblanc @polarrist You HAVE to make a featured blog post on Windows blog about this app. It shows that #UWP apps can be powerful.
+@polarrist If it's Universal Windows 10 app, please consider making a mobile (smartphone) version with simplified layout. REALLY impressed.
+GREAT photo editing "Lightroom-like" app prom @polarrist. Worth every penny. https://t.co/3dTTucpk3j
+Wow #twitterforwindows! Today I noticed that there's finally a conversation view in main timeline. It makes me switch fully to the app ☑
+Wise words from @fmanjoo  https://t.co/kOaAmnumQt
+Extensions are overrated
+@tomwarren is it dGPU i7?
+@ZacB_ Fanless solution, better pen and screen, Hello, lighter - seems a better choice.
+Microsoft should consider creating Surface OS - a streamlined version of Windows 10 with shared core and runtime, but optimized for Surface.
+@kosa64 w takim razie iOS, na Androida nawet nie patrz. Używam służbowo i po początkowej fascynacji nie ma śladu https://t.co/Ml6RCoLJ6w
+@gcaughey @JoannaStern Yup. There's always SOMETHING on Surface launch.
+Something for fetishists and masochists (or how they call them these days - for JavaScript developers) https://t.co/kRhtyoSglI
+That's groundbreaking, guys. Great work!!! Always ahead of the curve!
+OH WAIT... https://t.co/09jBlmnP72
+Sony RX1R II or Leica Q?
+@RudyHuyn @PGE4Me you have Vietnamese roots?
+@Daniel_Rubino these are Canadian pesos, not USD
+@fxshaw will have the same dilemma when Book comes to support my Pro 3
+@elonmusk more modern (flat, simpe) Interface - less "chrome", more "digital"
+@gcaughey @MicrosoftStore the only good thing is i5/128GB/dGPU is in stock for October 26 shipment
+@Platforma_org @adam_korol szkoda, że nie mieliście jej przez ostatnie 8 lat. Ale teraz to się magicznie zmieni, prawda? Wasz wyborca.
+14 hours of battery. Spectacular. https://t.co/sws4Rb7g2X
+@joebelfiore are you going to come back?
+@MichaelGillett @surface @mashable did a great job reviewing Surface Book
+The only Surface Book review you have to read https://t.co/QoE8WQUmHK
+.@ralfgroene please don't listen to the vocal minority - Surface Book hinge and the gap between the screen and base are GREAT. The way to go
+@DrPizza exactly. Whatever the size and form factor will be
+@gcaughey SeemsFaster™
+True story. Already preordered mine. https://t.co/BLJBom7UCf
+RT @Daniel_Rubino: lol, I swear..."This build may have a 1-in-5 chance of killing someone you love. Should we release?" 80% yes from Inside…
+I won't, but... https://t.co/eWQm22UvYK
+@JoannaStern htc was first with this design
+@Commadore_Bob @ALASKANJACKSON legacy support wont solve mobile apps problem and it's a solution for maybe 3-5 years. MS has to look further
+@Commadore_Bob @ALASKANJACKSON Sells - yes. But it's a dead end
+@Commadore_Bob @ALASKANJACKSON 
+https://t.co/1vh27j3B7f
+@thurrott @gcaughey @rodtrent @panos_panay @ralfgroene it's "less 1st gen" than original SurfacePro. Much bigger budget, team and experience
+@thurrott @gcaughey @rodtrent great interview with @panos_panay and @ralfgroene on that on Mashable. https://t.co/J007FjeMcg
+@joshuatopolsky say whatever you want, but StarGate without Picard is not a true StarGate.
+Initially I wasn't sold on #SurfaceBook  hinge. After 2 weeks and reading Mashable interview, I think it's absolutely phenomenal.
+@Daniel_Rubino please cut the crap. Pixel C tablet is the only reasonable choice @thurrott
+@Chemilinski Windows Defender was unable to remove it?
+@astroXP With such toolset you can be a front end developer / Wordpress nijna on your phone. That would be great.
+So my Surface Book preorder was cancelled and now shipping estimate time is 6 weeks. I won't make it before christmas. Thank you Microsoft.
+@SurfaceSupport Do you have supply issues in US/CA for Surface Book? I can't order one with shipment before christmas :/
+@astroXP with code syntax highlight - like Notepad++ or (even better) Visual Studio Code

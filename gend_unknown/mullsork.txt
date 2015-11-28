@@ -1,0 +1,538 @@
+mullsork
+http://pbs.twimg.com/profile_images/378800000244946671/948c3589416c8d98a2bafb9c1b7f5e58_400x400.png
+@slackhq really got it right with the new message hover menu
+Kind of wish I used Clojure at work just so that I could take part of their beautiful ecosystem. https://t.co/aiuPuRCRZX
+RT @ReactJSNews: Dynamic routing with react-router https://t.co/IPEmWkysZN
+RT @gfredericks_: This, is, what, code, in, other, languages, looks, like, after, using, a, lisp, for, a, while.
+@speak_io I wish more companies shared this kind of stuff. Keep it awesome guys! I miss the standups :)
+@andrestaltz Ah, too bad. If you end up recording the talks then do share. :-)
+@autiomaa Good luck
+@autiomaa That's the spirit! :)
+@autiomaa Only one way to find out. ;)
+dayumm. All I see is barren trees, grey sky and the occasional train driving by.
+@autiomaa @futurice hint hint
+@autiomaa @futurice that's a pretty damn central office location. Neat!
+@autiomaa @andrestaltz @futurice in Helsinki or Berlin? I'm in Berlin :)
+@autiomaa @andrestaltz would love to listen/watch. The clojure &amp; om talks would be really interesting!
+@andrestaltz is this joinable in the Helsinki office, or is there a chance to listen/watch in Berlin as well?
+Few things annoy me more than seeing a DOM full of inline styles. I hate this trend.
+I tweeted some weeks ago that react-router is a mess. With the 1.0.0 release it is absolutely fantastic!
+@andrestaltz I can imagine you've got tons to do. Thanks for the answer! Looking through the other examples as well. :)
+@andrestaltz in a larger project I'd assume there'd be more abstractions. The localStorage sink/source especially.
+@andrestaltz it might be because I'm new to both Rx and Cycle.js, but I don't find it very easy to read or "take inspiration" from.
+@andrestaltz if you were to start over, would you make https://t.co/1EeFq2GjgO any different?
+View is a translation from one language to another: from binary data to English and other human-friendly languages - https://t.co/55uayePC3p
+@SavannaSocial cringe.
+Half way through https://t.co/3Y3sHwOzzj examples/docs. Once it starts to make sense it's just… wow! Well done @andrestaltz and gang(?)!
+Playing with Cycle.js @andrestaltz. Mind is both blown and confused. I keep repeating "the car is better, the car is better" :')
+RT @dan_abramov: Read this amazing intro to Cycle.js by @fkrautwald: https://t.co/vmo6Vna1M2
+Great intro to Big O notation! https://t.co/TpmCsXEQbi
+RT @_cmdv_: Superb talk from @andrestaltz on Cycle.js and @ReactiveX a MUST watch!!!
+ https://t.co/vBOXRB0AJD #JavaScript #Cyclejs #RxJS
+I really need to start a side project to familiarise myself with Redux.
+@dan_abramov puts it just right. As usual. :) https://t.co/kHIl6RYmhl
+Why hasn't anyone reviewed the Lumia 550 yet? Ping @engadget @verge
+RT @ValaAfshar: "Every Unix command eventually become an internet service. 
+
+Grep -&gt; Google
+rsync -&gt; Dropbox
+man -&gt; stack overflow
+cron -&gt; …
+Listening to that glorious Finnish accent makes me warm and fuzzy inside. Yay @vaadin! #CodemotionBLN
+RT @mikeal: lol robots https://t.co/T2kI5ouHEL
+RT @HenrikJoreteg: Promises are here to stay, I use them, etc. People should learn them. But that doesn't mean I have to like them. I think…
+RT @sadserver: For halloween I'm wearing barely any firewall rules.
+
+Don't you get it?
+
+I'm Slutty Server, duh.
+Mass emails from noreply@ emails are just the worst. Paying customers should get to give you feedback, not be ignored.
+@StartupLJackson It's annoying even when paid for.
+@speak_io is now also available on Windows! https://t.co/y8HiivpnBg
+Things are finally moving forward. https://t.co/wwvYMyA3bT
+My dog's levelling up in life https://t.co/DDXPpVc0qI
+That kind of optimisation belongs with stable features that no longer need rapid development. Or things sucking performance.
+I say that's setting yourself up for really slow iteration.
+Lots of talk lately in the react community of using shouldComponentUpdate in favour of pure components.
+Published 1.0.0-alpha of alt-mutators. Dead simple mutating of remote data with alt stores. Feedback most welcome! https://t.co/8SiabjbAj1
+@Aftonbladet makes sure the perp gets the attention he wanted by plastering his name all over their front page. For shame.
+RT @mfikes: Xcode 7.1 lets you try on devices wo a dev membership. Another reason to give ClojureScript React Native a spin. ;)
+
+https://t.…
+@SlackHQ looks like photo uploading on WP might be broken. Progress bar doesn't move.
+@palmerj3 See https://t.co/3PwpjrzRFl :)
+@palmerj3 the __mocks__ directory doesn't work as advertised either.
+@palmerj3 jest.setMock will mock any following require() with that mock.
+@palmerj3 Yes. I desperately tried turning auto mocking off and then mock _one_ file. Wouldn't work. The whole mocking API is buggy.
+Once again Apple Music craps out around 5pm.
+@cjihrig Ah.. duh! From the readme it kind of read as if it was an actual linter, rather than a nice set of default eslint settings :)
+@cjihrig Looking at the source I suppose there's some beautiful styling in the output maybe :)
+@cjihrig What's the upside over the binary that aslant already provides?
+@mullsork Jest - Painful JavaScript Unit Testing
+A testing framework needs to be *solid*. Issues going unnoticed for 10 months is all but that.
+If auto-mocking &amp; overriding mocks doesn't work as described I'd mock nothing at all.
+Working with Jest for testing anything else than simple unit tests &amp; it's buggy mock functions is so damn annoying.
+RT @aseitzwald: Donald Trump called Bernie Sanders a "maniac" and a "communist" last night. How does Sanders camp respond? http://t.co/ByhD…
+@myabc Spotify's cpu usage is so darn high.. though it's mostly high when showing ads. Still, enough for me to CMD+Q.
+@myabc Has happened about daily since I started using it, usually late in the day. Perhaps due to the Americans logging on.
+@myabc in the current playlist I'm playing, I can play about 50% of them.
+@myabc yes. Those damn songs ain't startin'! :]
+Apple has some nerve to charge 10€/month for a service that is so unstable
+iOS's picture in picture video is so awesome ❤️
+Nice article on using @circleci and Docker. Especially the workaround for the lack of image caching is gold. http://t.co/kFcMVzvcMs
+Nice primer on make, something we should know vaguely if not for its usability then for its historical importance. http://t.co/MjfojwAVUS
+@domenic That looks hell-a cool!
+Promises swallowing errors are just the worst. Even more so when they're swallowed within a framework relying on them. #js
+Chrome has support for fat arrow functions but no thin arrow function syntax in sight yet? :scream:
+@pizza_de is just the worst.
+RT @sadserver: i've leaked thousands more files than @snowden and nobody seems to care
+@tommoor T_T
+Sites that force languages on you based on location are the worst. There's a fucking http header available with my language preference!
+@getsentry Getting real tired of constantly having to log in.
+I don't understand why @Medium keeps suggesting their damn Android app for my Windows phone.
+@maponblackboard with object.add(key, value) returning a new object that can't is unequal to the original.
+@maponblackboard while interesting, that just freezes an object. I'm thinking a "native" version of Immutable.js :)
+@maponblackboard sorry, poor question. I want immutable types in JS, specifically immutable arrays and objects. :)
+Is there work being done on native immutable maps/sets for JavaScript?
+Yolk looks so cool. #rx #frontend https://t.co/2eZVqoZWx3
+Coolest thing I've seen in a long time! @smartereveryday https://t.co/2WBQPkaQni
+RT @speak_io: Still using Skype for your team communications? Maybe today is a good day to try something new 😉#skypeisdown
+@intercom Nice. Maybe something you could add to the doc page :)
+@intercom is this seriously still true? SPA's seem common enough to me… http://t.co/XkXh1yQNFe
+@scaleway looks so good for so little \o/
+@trello feature request: Auto complete links to other cards using # - like github does for issues &amp; PRs.
+@SlackHQ I'm putting your app at second place on the top-WP-apps, right after @BaconitWP ;)
+@SlackHQ now that the windows phone app's crash has been fixed... Well done! We need a technical blog post about the process.
+Performances like these are why Led Zeppelin are still unparalleled https://t.co/FrbsqFyA3j
+@LAOLA1TV do you no longer have the BBVA rights for Germany?
+@mikeal would be interested in hearing more about this.
+RT @sadserver: January 1, 1970.
+
+#NeverForget
+3/ Pure components (react-pure-render or PureRenderMixin) &amp; Immutable.JS are amazing tools to simplify &amp; optimise your React code.
+2/ A much better solution is to stop re-rendering when you don't need to.
+1/ Common first instinct when running into React &amp; flux stores performance issues is to listen to less events.
+@ryanflorence :)
+@ryanflorence why not a promise?
+Thank you @reactjs &lt;3 http://t.co/VxdiAlAFxx
+Safari you've become worse than IE.
+@cathy_birdy Lovely! As a Windows Phone user I'd love to see more of these on iOS :)
+“An iOS Developer on React Native” by @chalkchisel https://t.co/mlCwk2Bzwt
+So many 15 minute talks that could be condensed into a 5 minute read gist instead.
+RT @mmu_man: https://t.co/7pcIAJqrsU
+
+Changelog:
+* Add Haiku support
+
+\o/ cc @haikuOS
+Force Touch and the evolution of interaction design http://t.co/6u0klOX6IR
+@jasonfried @dhh the more blog posts you guys write the more I realize yours is my kind of company. Need to read those books!
+@SlackHQ feature request! https://t.co/5JLKR4G0Ug
+@webbc @slackhq &gt;:(
+@slackhq I suppose but I don't see why when it's there in the emoji list :o
+@SlackHQ Why is :flag-fi: not available as a reaction emoji? 🇫🇮
+God forbid you leave a Slack channel with a GIF open.
+Is there a keyboard shortcut to clear current filters in @trello?
+RT @EarnKnowledge: http://t.co/KTBS1m30wl
+@circleci's UI is such a joy to work with after spending months on cadetship.
+@neiltyson Really? I get http://t.co/EefILA7vXH
+I keep accidentally downloading images on Slack instead of viewing them. That hover menu could really use a delay.
+@imcatnoone Contemplating whether I should leave. :D
+@imcatnoone woot! In Berlin?
+FB/TW/Google registration on web but no such login on mobile makes for a pretty shoddy experience…
+Über asked me what language I would like to use it in. I picked English. Naturally they the web page is in German instead based on location.
+Github's reviewing interface beats Bitbucket's, but the latter's PRs are more powerful in general. 1) easier to set up 2) multiple assign
+I wish git blame was available while reviewing PRs on Github.
+RT @Eomera1: The forever war between designers and developers, "I thought you just have to change some CSS" http://t.co/Rg1nzHQI0J
+RT @lisamarkwell: Please don't just wring your hands if you're able to do more. Five practical ways to help, via @Independent http://t.co/9…
+@lisamarkwell @independent awesome. Amazon wish lists must be easiest thing in the world to engage anyone in helping.
+Thanks AWS/EB, that is very helpful. I like having choices. http://t.co/13Y7LAHw8z
+AWS/EB at its most helpful best. http://t.co/EVMHWRlb80
+RT @fredhgnr: Good initiative: http://t.co/Q8kvyx42tD Give refugees - and your old laptop - a brighter future!
+RT @swb1192: Apple exec #1: “What’s an iOS feature we can make that Android won’t copy?”
+Apple exec #2: “Ad blocking?”
+Apple exec #1: “😈😈😈”
+@imgur that is the one I'm referring to. Happy to see that a few of the bugs I frequently came across are gone though :)
+@imgur the iOS app. Scrolling within a post is horribly laggy, as is scrolling between them.
+Ugh @imgur just absolutely borked their previously smooth UI with something... Well not to smooth. :( UX should come before pretty.
+Though that can also be attributed to the ridiculous amount of unnecessary dependencies node projects typically have.
+After spending lots of time re-install my nom dependencies from scratch, I'm beginning to miss bundler.
+RT @ebidel: How badass will CSS @apply() be! @polymer has it polyfill'd for use w/ custom properties &amp; style sharing. Super good. http://t.…
+RT @alex_macdonald: I will fight to support the Oxford comma until I draw my last breath. http://t.co/Y0T6c3F4iI
+StackOverflow got a lot more enjoyable once I added jquery to my ignored tags.
+@LAOLA1TV WHAT! RAGE &gt;_&lt; this is why we stream illegally.
+@LAOLA1TV and now the Barca - Malaga stream that I just paid for to watch isn't working because I'm in Germany and it's not available here.
+@LAOLA1TV "Simultaneous PREMUM LIVE-Streams are limited to one device only" ... I'm not viewing any other stream. For the love of god!
+Why must it be so hard to build a binary on a fat docker image, and copy it over to a thin one? Seriously… why?
+I'm trying out a bunch of CI services and they all end up confusing me rather than enlightening me with their stupid intro tours
+If you have a quick start guide for your whatever-service. Please; instead of creating a shitty intro just link to that doc.
+RT @ReactJSNews: How are you working with React? https://t.co/vcDH6ayEWb
+@mlocher @codeship I can only get so … ! awesome
+@mlocher @codeship all I need is the make, docker &amp; AWS CLI. Tests are run in a container that has all dependencies set up. Possible? :)
+@mlocher @codeship sweet! Just signed up. We've got two projects coming up that are deploy to elastic beanstalk using docker.
+@codeship what's the status on docker support?
+Suggestions for CI?
+1. docker build -t build-image .
+2. docker run npm test
+3. docker build -t deploy-image
+4. docker push
+5. eb deploy
+@BeShippable aand now it works
+@BeShippable visiting your site redirects me to some http://t.co/6NsT8WXbfW URL which gives me a 500. :(
+RT @MengTo: Spent nearly 3 months on this. Glad it's finally out – iOS 9 GUI: https://t.co/yin91qpiGo
+RT @sadserver: infrastructure as a disservice
+@carhillion @myabc :(
+@carhillion @myabc did you get to meet him? I can't remember
+@goatslacker will try to help out in the coming days.
+@goatslacker well crap apparently clocks* 😅
+@goatslacker got caught up in something else tonight but let me know how you would like help. Just looking through issues and PRs
+RT @myabc: Enjoying pairing with my new colleague.
+
+(thanks @mullsork for bringing him in today!) http://t.co/wqdNgafKYp
+Is it me or does browserify work worse and worse as time goes by?
+Are there any decent iOS apps to review PRs on @github?
+My take on create, update &amp; delete actions with Alt. Early feedback welcome. https://t.co/Re5DdDpjVX
+@goatslacker PRs since may with no activity since could probably be closed? Will have a closer look on more of the documentation PRs tonight
+@goatslacker 3 PRs that are just spell fixes. Ready to be merged. https://t.co/Bbd5WE0nll
+https://t.co/B1UytbPRvb
+https://t.co/Rh8ySt3WA1
+RT @lifehacker: No pain does not equal no gain. Here are 10 of the worst exercise myths that just won't die: http://t.co/DmShp30FSV http://…
+@goatslacker what's the state of alt right now? Need help reviewing PRs? Some no-brainers in there that should just be merged.
+@lieferando FYI the links in your "Review your oder from &lt;restaurant&gt;" email is broken. Good news for the restaurants I've tried.
+Microsoft/Xbox keeps sending me emails in Finnish... I just fucking love it when languages are extracted out of location. ******* NOT
+Tip: Work from small to big. Implementing for desktop &amp; adjusting for mobile is harder than mobile first. :)
+RT @ReactEurope: an open source @SlackHQ clone using react.js for the interface and golang for the backend http://t.co/PScizxFPnt
+@rrhoover @ProductHunt very disappointed to see times in PDT, when it could so easily be converted to my local timezone. :-(
+RT @rrhoover: 1/Introducing @ProductHunt LIVE 💬, a place to chat w/ amazing founders, artists, &amp; makers. http://t.co/blNrjgU3ls http://t.co…
+Wish @duolingo would go ahead and create keyboard shortcuts for the entire user flow.
+@mseiplax @mickhinds Har aldrig haft en e-boksläsare (förutom iPad med iBooks/Kindle), men skuggan gör ingenting bättre på datorn iallafall.
+@mseiplax @mickhinds intressant. Hur mäter ni success/failure?
+@mickhinds @svenska_yle syns väldigt bra i webbläsarn (chrome stable, osx). Not so much på bilden. :)
+@mickhinds @svenska_yle javisst! http://t.co/i6GVfvJ3jA
+@imcatnoone not sure I've seen any sign of German efficiency since moving here. Certainly not at the Bürgeramt 😁
+@svenska_yle herregud ta bort skuggan på texten på http://t.co/HPqsJalV0Y! Svårt att göra det sämre för läsaren..
+The definition of a non-thought out UI. Come on @twitter give WP some love. http://t.co/Pj2urMg7qK
+We're using @speak_io at @qLearningApp to reduce communication friction when some of our members are remote. Check it out, it's awesome!
+@io_domains gah. So hard to trust a company with a website that bad... :)
+Recommendation for registering an .io domain?
+Yes, Apple Music, I really want to listen to f*****g Katy Perry's influences.
+RT @qLearningApp: We are #hiring: Looking for a Business Development Intern for the DACH region to start asap in #Berlin.  #Internship  htt…
+There's a special place in hell for those who cannot indent their code properly and consistently. ****
+@AlexeiRWhite they still haven't. EB is pissing me off royally &gt;:(
+@imcatnoone mine had the same idea today. Must be the heat! https://t.co/1jZphy6BbE
+RT @ChromiumDev: ES6 Arrow functions are now in Chrome 45: bind to `this` lexically with ease
+
+Sample: https://t.co/u4L5XyXOky
+
+Docs: https…
+RT @faridw: @mdo They don't drop anymore, they float down gracefully like a leaf in the wind.
+RT @axelk: PDF becomes 4th most popular religion http://t.co/tsQvJwiAdR
+react-router ... what a mess.
+@goatslacker once I figure out client caching with localstorage (needs docs) I'm gonna love the hell out of that
+@goatslacker right now? Data sources. Replaces something absolutely horrible we had in-house :)
+@goatslacker I wasn't a big fan of ~0.16 of alt, but upgrading to 0.17 I am very impressed! :+1:
+Apple Music is oh so lovely but iTunes is oh so damn bad &gt;:(
+RT @eisaksen: Yay @googlechrome Canary has arrow functions! =&gt; http://t.co/4Cruf2Z38t
+RT @JI: #ReactNative for #Android makes its debut. Currently closed-source. https://t.co/pvaAPLGRE0
+RT @tommoor: Great post from our man @willbarrettdev - how does your team stack up? "The Speak Test for Remote Working" http://t.co/OGgXxXB…
+RT @speak_io: Been hankering for screen sharing, or how about multi party video chat? Because we just released a new version with both..! *…
+RT @VincentKompany: On May 29th a "new" president will get elected to run world football on behalf of all of us who love the game. So how d…
+RT @qLearningApp: So #excited for the #launch of our new online platform and our new investor @HTGF_ . Check out http://t.co/Fe4Wq0CSR6. #s…
+@awsmsrc part of me wishes I was still working remote so I could try this out for realsies :D
+Speak: Push-to-talk audio w/ your team for Mac w/ Slack integration http://t.co/FhMHFfFGTk
+@spotify's OS X client's quality is so poor compared to what it used to be. Everything's slow, broken or both. :(
+RT @mdo: We peaked technologically at plug-n-play USB devices.
+@michael_xander @imcatnoone yay thanks for the tip! Now I can buy Tupla in Berlin &lt;3 http://t.co/CAPwH1vHvi highly recommended :)
+@XboxSupport It has not. Is it allowed to include my account when I sell my xbox?
+@XboxSupport Thanks for the concern! My subscription has ended and no payment option is available. Should be good!
+@XboxSupport Not that I noticed. I only wished to remove my details as I'm selling my xbox :) (no hard feelings right?)
+@XboxSupport I have 0.00€ on my account, if that's what you mean. :)
+@XboxSupport However, My Account&gt;Payment options at http://t.co/zbeDSY0NF6 is currently very broken.
+@XboxSupport Indeed it is. I managed to remove my subscription &amp; payment option through http://t.co/0OZIXcLZbB
+@meetup_support Go here https://t.co/sHLoESdg1V and https://t.co/r3q5wUqulf - should be replicable.
+@XboxSupport I tried in latest Chrome, Safari and Firefox on OSX.
+@XboxSupport I can't delete any payment options for my live/xbox account. In fact most of that page is broken. What to do?
+@meetup_support Facebook login/signup seems broken. No buttons visible!
+@imcatnoone walks don't do it for our guy. Dog park works every time though!
+@marciplan @imcatnoone just start typing numbers... Insanely unintuitive isn't it? 😉
+Pretty darn cute, no? http://t.co/R8rzOkBSMq
+RT @NewYorker: The Daily Cartoon by @EmilyFlake: http://t.co/soo6dEhpDI http://t.co/tWDGExx1wf
+@tommoor mark as spam. That's how I get back at them! :)
+@awsmsrc sweet! How long are you staying this time?
+RT @TheTweetOfGod: You should not vaccinate your children unless you are absolutely sure you love them.
+@rrhoover apptivism?
+Is there a @googlechrome extension similar to http://t.co/c1AkFGOjWk, but for improving your English vocabulary?
+@sketchapp is this still in the pipeline? Would be nice!
+@imcatnoone @LiberioApp Sounds good, hope to hear back from ya then :)
+@imcatnoone @LiberioApp oh seems like I clicked "Yes" already.. probably without any words to go with it. :)
+@imcatnoone @LiberioApp ooh y'all are finally hiring! Sending my application for sure :)
+For once I'm enjoying doing mockups &amp; design, thanks to @sketchapp &lt;3
+RT @abt_programming: "As machines become more and more efficient and perfect, so it will become clear that imperfection is the greatness of…
+@MengTo would've loved if the assets zip was mentioned in the start of an article. Put me off quite a bit until I finally scrolled down...:)
+Help a blind person see with the #BeMyEyes app - the app that connects blind people with sighted helpers! http://t.co/t50wV4cn12
+Just bought the Design+Code book: Learn iOS design and Xcode by @MengTo: http://t.co/FAYARxblMB
+@awsmsrc as a non-Brit this confuses and slightly disturbs me...
+@tommoor @Escrowcom doesn't get much more stupid than that.
+@imcatnoone huh... We* just* :)
+@imcatnoone se just lut kibble in ours, seal it with the kong stuffing and freeze it. Occupies him for a long time and no mess :)
+Great stuff from @steam_games :] http://t.co/cAqwZpEGLC
+@awsmsrc a lil bit yeah :)
+@awsmsrc what I really meant to ask was when are you going back to SF? :)
+@awsmsrc when are you going back?
+#np https://t.co/7ZgcHtE3qs
+“Senses and Sensibility” by @intel https://t.co/fqrijudDrR
+@granze mmm that looks lovely!
+How I did on Twitter this week: 2 New Followers, 1 Retweets, 1.04K Retweet Reach. How'd your week go? via http://t.co/VxzrpSGXId
+@mdo Sass
+@sal_matteis page not found :)
+Job listing on AngelList for Visual Basic... I did not expect that.
+@imcatnoone anything but his own food for mine. Unless I sprinkle it with something tasty in the kitchen.. Such as water. :)
+@imcatnoone mine's nuts over cucumbers. Pretty I sure he'd choose that over a steak!
+@LiberioApp You have me all excited. Guess I've got stuff to do :) any tips on how to get going?
+@LiberioApp The idea is that it'll help the reader to understand how a dog's thinking, instead of trying to treat a puppy like a human
+@LiberioApp I have this recurring idea about a diary from a puppy's POV.  I need to start writing out the bullet list I have in my head..
+@LiberioApp @sqwiggle I have something in mind actually! If I weren't such a crappy writer... :-) @ericbieller writes a bunch as well
+Jackie Chan - How to Do Action Comedy on Vimeo http://t.co/B2aBNKLszt
+Ridiculously good mix: https://t.co/RtW6L71Aw1
+God damn though, React &amp; Flux is sweet. &lt;/Rant&gt;
+It's actually easier to build a full fledged SPA JS app using the rails asset pipeline.
+With that in mind, I'm very happy that I skipped grunt/gulp/whatever for pure npm &amp; npm run.
+Writing a modern JS single page application I find myself working with(against) the build tools more than on the actual app.
+RT @granze: Relieving Backbone Pain with Flux &amp; React http://t.co/xwkEIAossl /cc @guidoneafricano @mirkodrummer
+RT @dhh: The new Basecamp for iPhone 2.0 app is a perfect continuation of The Hybrid Sweetspot: HTML + Native, https://t.co/Gj3YjXECaL
+RT @ericbieller: Less is More http://t.co/HwHie8h3jJ
+Great write up. Flux is so simple, yet seems so hard when you first start looking at it. http://t.co/SNgeKu3k9Y
+@wycats have a look at @sqwiggle :)
+@viaplay valencia - barcelona is broken. Big surprise.
+First day of sunshine in well over a week? Yes please! Get up... GET. UP. #trinitygotupsocanyou
+How I did on Twitter this week: 1 Replies. How'd your week go? via http://t.co/VxzrpSGXId
+Protip: don't feed your dog quinoa. You'll thank me when you're not cleaning his butt... Just had the pleasure of doing just that.
+http://t.co/Oif5oe7ZXW
+@GiulioCanti @Vjeux finally! :)
+RT @JollaHQ: To celebrate #JollaTablet's #PeoplePowered $1M success, we're offering Jolla at a crazy price! http://t.co/xlHXYTEvfB http://t…
+How I did on Twitter this week: 1 Replies. How'd your week go? via http://t.co/VxzrpSGXId
+Dogs usually don't have a great smelling breathe, but holy **** when a puppy's teething it smells like death. Thought I'd let y'all know.
+@EatBanza lots of gluten allergenics(?) in Finland..! Come on, let me buy a case :)
+@SumAll your onboarding tour hangs after step 2. Leaves me unable to interact with the page. (over at /now)
+Nothing gives me more joy than seeing ActiveAdmin hang instead of giving me an error message.
+@__tosh it's odd how many things they got wrong in iOS8. Shift key state gets me every time
+http://t.co/hxlvXTcFSu
+“Raising Entrepreneurs” by @thejakers https://t.co/EVZx61lvd1
+@ProductHunt new iOS version is a massive improvement! The iPhone layout would work just as well on an iPad mini retina.. hint hint!
+@__tosh are you guys using Clojure at blossom?
+Why we should stop using Grunt &amp; Gulp http://t.co/WkjPtAvwbJ
+RT @TroyGoodfellow: The coding error that made Gandhi the nuke-happy warmonger that all longtime Civilization players remember.
+
+http://t.c…
+@granze I've been looking for something like this for a few days now. Thanks! Ridiculous how hard things can be to just get started...
+@webbc @Microsoft do it! For science.
+Such cool stuff! https://t.co/VrlM9jZ7wn
+https://t.co/11FAjEaep4
+@flaviar_com heads up, saw this little glitch on /deals http://t.co/tK4wBf3N7b
+One week, or more I haven't counted, without morning coffee. Still just as tired.
+@PossessionStats Cheers!
+RT @abt_programming: "Certain developers were allocating memory before it was cool. They are called heapsters" - @lrz
+@barcastuff @PossessionStats anyone have a better quality version of this?
+@ericbieller oh and just plain walking supposedly helps correct posture as well.
+@ericbieller getting up for just a minute or two every hour as well, probably the most important one.
+@ericbieller same problem here, not at eye level. The dead hangs have helped me quite a bit though.
+RT @awsmsrc: BBC News - Google is developing cancer and heart attack detector http://t.co/chIsdTy6Ze
+@ericbieller try hanging for 30s every hour or so. Dead hangs are great. And stop slouching.
+@flaviar_com it doesn't close fully, you know? IDK, it's something I noticed :)
+@flaviar_com although it bugs me a bit that the package can't be "closed" completely.
+@flaviar_com the instructions &amp; copy that were in my tasting box were a joy to read! Well done.
+Just received my first #Flaviar tasting box, cool schtuff!
+Hacking Trail Leads to Russia, Experts Say http://t.co/41XHghbuRr
+@iamjayakumars I haven't received any invites to hand out at all. Sorry :)
+Very much digging it on the iPad though, except the odd horizontal mode glitch + scaling for the retina display. Still very usable.
+@inboxbygmail is super awesome to use, but there's a ton of animation and stuff that makes it very choppy on Chrome.
+Although funnily enough it complete bugs out when I try to actually run the app.
+Not to mention the awesome new Size Classes introduced with Xcode 6, that's hell-a awesome!
+I used to not be a fan OSX full screen mode, but XCode does it really well.
+@allanbranch @Shpigford yeah me neither. I keep the camera on manual mode so I'm the one updating my picture, instead of automatic updates.
+@Shpigford but then again I actually started working for @sqwiggle so I might be biased... I'd like to think it's an unbiased opinion. :)
+@Shpigford just went from Slack to Sqwiggle, insane how much of a difference it is! Hopping onto Skype just isn't as easy.
+RT @heathercmiller: Carved something scary into pumpkin cc/ @jamesiry @databricks (office jackolantern) http://t.co/sqiNaYGDQy
+RT @titmeister: Amen. http://t.co/8Y5NYXFWEX
+Although I've only tested that with an inbox at zero. @inboxbygmail you seeing this? iPad mini 2 / iPad mini retina. iOS 8.1
+Interestingly #GoogleInbox DOES have horizontal support. Double click the home button and watch it adjust, then go back into the app.
+Inbox 0, 'tis nice! Bit wonky, kind of ugly on the iPad.. but nice! #GoogleInbox http://t.co/loMqEZpTTv
+@awsmsrc @CapsuleCRM beautiful! :D
+RT @verge: Ikea hopes its new motorized standing desk will get you out of your chair http://t.co/lAHcSO8tVW http://t.co/7bvbsIbJ4L
+Day 3 without morning coffee.. Feeling just fine!
+http://t.co/JnDKgxpxn8
+Pep's use of Robben as an inverted wingback dismantles Roma http://t.co/B0kl9BU4Sc
+RT @JollaHQ: Looks amazing! RT @andrewzhilin: We're almost there with #Jolla #TOHKBD. Stay tuned. (Hi-res: http://t.co/MVxFxR8iFe) http://t…
+@Viaplay_fi @viaplay well thanks for not replying in English... yes my IP's Finnish. Works just fine from my laptop.
+@Viaplay_fi And now there's a frickin' problem with your service AGAIN! How do I get refunded for this waste of money?
+@Viaplay_fi is there any way around this? Odd that you'd have it working on the website but not for the app.
+@Viaplay_fi the xbox app doesn't work as it should from Finland. I'm seeing the Swedish sports package's selection instead the Finnish one
+@barcastuff FFS!
+@SlackHQ is setting yourself away supposed to suppress notifications? Or is this a feature that is not yet implemented?
+RT @sal_matteis: A new app to sell your gadgets insanely fast for a guaranteed price. #gadgets #tech #electronics http://t.co/viVRKUV4po
+@GaryLineker What about 5?
+How to make filthy water drinkable http://t.co/N5aH6X5gwv
+RT @prodnose: Football. Fucking football. Imagine not being into it. Those poor, poor half-alive bastards.
+@GaryLineker Ah, ye olde 7-2-1: https://t.co/QRDbaQBVqU
+@Viaplay_fi it came on again but went away a minute or two after. Decided to cancel my subscription for now, will try again next season. :)
+@Viaplay_fi Barcelona - Athletic Bilbao is broken, stream died 2 minutes before match start.
+“Quality is not a tradeoff.” by @joulee https://t.co/ZZBxC1OVJx
+RT @_GRRM_: I'm the reason marriage rates have been declining.
+Anyone have a company to recommend for registering .fi #domains?
+@gabrielecirulli kudos for saving games between sessions in 2048 - great to be able to play during 5 minute breaks!
+The 4096 tile, finally!
+I scored 46320 points at 2048, a game where you join numbers to score high! #2048game http://t.co/YiztP21XQW via @gabrielecirulli
+RT @Jibly: Techcrunch covers Milkster http://t.co/IlpTXUG7Er
+RT @romaindillet: Milkster Is A Maker-Friendly Launchpad For Interior Design Enthusiasts http://t.co/aQ52NKuJE3 by me
+Catalan derbie time, whoopiee!
+@Jibly college on the other hand...
+@Jibly because the important things we learn in school are things not in the curriculum, the social education is much needed
+RT @Milksterdotcom: LINkage lamp combines traditional linen manufacturing and an industrial steel cage: http://t.co/SWZw4ZoUzM http://t.co/…
+@GaryLineker I had assumed it was impossible for that man to keep his mouth shut.
+Make changes to the backend, keep the output from the decorator the same. Views won't have to change. Awesome.
+Thinking of decorators as the API response for your views makes it easier to see why they're so important.
+Hey @neiltyson - you will love this! http://t.co/EbfqIlU6pb
+I scored 20424 points at 2048, a game where you join numbers to score high! #2048game http://t.co/Dl01gMbqb9 via @gabrielecirulli
+RT @Jibly: Results of an amazingly #passionate &amp; #creative process blossoms in this #chair http://t.co/OeqkDQobNf #milkster
+I have not played a better game in years! http://t.co/smQHkRr1qV
+RT @OptaFranz: 6 - Bayern Munich needed so few saves that they wouldn't have lost any of the last 6 Bundesliga games even without a keeper.…
+And I've only been using it for a couple of days so far.
+If you're flat footed and/or have knee troubles, I strongly recommend getting a balance board. What a world of difference mine has made!
+RT @dhh: @wycats It's a buzzword patience test. If you manage to read it all the way through, you're finally ready to become an IT sales pe…
+@heroku What do I do when a dyno just won't die? Our web.2 dyno keeps on serving requests, H12 Timeout every single time.
+Refactoring stuff is going to be fun instead of dreadful from now on. Yay for separating concerns!
+Extracting business logic out of Rails models into services is scary, but the result is so good!
+RT @Milksterdotcom: The Making Of: The Milkster Logo #design #brand #visualdesign #graphicdesign #goldenratio http://t.co/u4jjlB9m4Q http:/…
+RT @Milksterdotcom: Featuring David Graas's creation: a sustainable vase from recycled plastic bottles http://t.co/4l7p0BOOnc http://t.co/a…
+Maybe the problem is that I resort to crying in a corner any time I try my hands at Photoshop, so why should this be any different :)
+@balsamiq actually seems to have something like it, but their desktop app is the most confusing one I've ever worked with..
+I want to mock pages by screen resolutions next to each other, desktop - tablet - mobile #stuffsomeoneshouldmake
+Is there really no good #mockup software out there?
+@GoDaddy Just followed, a DM with info if you have anything for me would be most appreciated :-)
+@GoDaddy http://t.co/jSmyZxfzZA is down (in most parts of the world, it seems), is this because of the recent outage you had?
+@NicolaFranchini VenoBox - responsive jQuery lightbox plugin http://t.co/k9DMupThFE
+@goodreads Your site is currently broken. CSS and JavaScript won't load. Guessing you guys are asleep, thought I'd mention it though :-)
+Despite knowing so much about me Google can't figure out which language I prefer and which languages I don't even speak...
+@borealkiss Did you ever find out? :)
+@theCSSguru Answering myself.. dependent on compass. It's right there in the header at http://t.co/QIwNKOgJcX and I missed it! :)
+@theCSSguru undefined mixin 'experimental' using _animate.sass. Am I missing some lib you're depending on?
+Great read: Why are software development task estimations off by a factor of 2-3? http://t.co/9nmF37DizZ
+@heroku Platform errors all over! Status page has no indications. What's up guys?
+@exceptional Guys, your site has been broken for almost a week now! Can't view individual exceptions. Let me what email to contact you with.
+The effects of Computer Programming on the Brain http://t.co/IQ3ojRGqL5
+Spoiled myself with a brand new Lumia 820 by @Nokia :)
+@FCBarcelona @QF_FCB_en Signup is broken.
+Say hello to the future of e-mail at http://t.co/E3U2OXs7 Follow @sendhello for hot news and updates #email #productivity
+@pinterest Your image grabber loads https:// images incorrectly as well, http:// works fine, https does not.
+@pinterest Please consider open graph: http://t.co/TQJRujsg - your image grabber is quickly ruining my day.
+Just pop'd my git stash in the wrong branch - not a great start of the day and a bad forecast for the weekend
+@Holvi Sweeeeeeeeet! I'm sold. &lt;3
+@Holvi I love your site. But I can't transfer money from my OP bank account to Holvi at this point, right? Good job btw!
+@HBOse Varför lämnas HBOs bästa serie, dvs Oz, bort?
+@fog @geemus is there a way to get the url to my AWS bucket from Fog? Thanks for an awesome gem :)
+@JollaMobile am I completely missing it or is there no website about Jolla? All I see is the linked in page
+Retweet to enable Namecheap $0.98 com/net/org registration or transfer! @namecheap #ncsale. Details:  http://t.co/6c997o8V via @namecheap
+My tests can't decide if they're green or red today. I wish I understood why they're going back and forth...
+I like these kinds of error messages, because you instantly know where the error is. http://t.co/dXOkP4sf #solr
+@rbates Would be cool if you checked if flash plugin is present, so us with flash block can 'default' to html5 :)
+When removing your cache/assets folder makes your cucumber(-webkit) features pass you know you're on the road to misery. #rails #rubyonrails
+@wagenet @wycats way to go on the new site, looks awesome!
+Wow, MongoDB + MongoID is awesome!
+Are there any good, free blog sites for coders out there?
+How to get 4x the performance out of Heroku with Unicorn http://t.co/FGQxzJLN
+Nice article explaining the P vs NP problem by @alecbenzer http://t.co/qfchlR1p
+Have had Lion since December and it took until now to realize how nice fullscreen mode is :]
+Took 5 minutes to fall in love with Sublime Text 2, I hope it stays that way.
+The animation to go into fullscreen in osx lion is so damn annoying. Is there a way to disable it?
+RT @dhh: Great info graphic on why legalizing weed is long overdue: http://t.co/nJModTJs
+@wycats I think the criticism here is that the focus on those events is drinking rather than talking tech ("JSconf should be about JS")
+@wycats Ping.
+Wow.. Xcode's source editor is really sucky for Ruby.
+It sucks to have to inject a bunch of HTML through JavaScript just to get a consistent interface.
+I really wish ActiveAdmin was more customizable, or that their documentation was more extensive.
+@rbates @mullsork Nice. Even though Flash works OK for me I still always switch to HTML5 (for the greater good, or something).
+@rbates I seem to recall HTML5 being the default 'format' on Railscasts, now it's flash.. why? :-(
+Great resource for learning some of the quirks & features in JavaScript: http://t.co/hY8N36oJ
+@wycats "use up much of the time that they have dedicated to bootstrapping learning Rails". bootstrapping and Rails in wrong order?
+RT @ID_AA_Carmack: Apparently some large scale supercomputers can take a half hour to boot, which is interestingly ironic.
+TIL what the first part of my twitter name means in Engish https://t.co/welBPhgT
+Good read: Get Rid of That Code Smell – Attributes http://t.co/n04ZvvlY
+@defunkt I wonder what they'll say if Symbian^3 ever gets it...
+Really enjoyed the first 20 or so problems on rubeque, check it out! http://t.co/KO9byGjt
+Naturally I found the answer to my problems as soon as I asked about it publicly. http://t.co/Ek5Rfmmy
+`assert_index': No such middleware to insert before: "Rack::Sendfile" Getting a weird error :o http://t.co/FysSDyEM
+Having trouble tracing down a query. A MyModel.create is lurking somewhere in my code…
+@dhh In that case I will NOT get one. Wouldn't want to make my MBP seem crappy :)
+@nmerouze Well written article. Been thinking the same, though I have no read world experience with Node.
+RT @wycats: Just launched a kickstarter for Rails.app.  Help me build an isolated setup that's as pleasant to use as Rails itself http:/ ...
+Late cup of coffee and Tosin Abasi means a potential all nighter on youtube. http://t.co/zRHvcHBf
+@rbates That's weird, feels like I loose 500mb of total RAM after 3-4 weeks of uptime.
+I really need to check all my specs before committing. And stop breaking things.
+@rbates Curious to know, aren't you having any problems with the amount of free memory available disappearing with that sort of uptime?
+All of a sudden it's 4:40am.. damn you DST!
+Nice little Ruby style guide from the folks at @GitHub: https://t.co/pCUUDGc8
+Pls RT: ISPs are selling out customers by pushing a backdoor #SOPA. Take action: http://t.co/FGpRfZuT via @demandprogress
+#redis is definitely loads of awesome :)
+Exploring #redis for the first time. Yet another project I've already found millions of uses for, and regret not learning about it earlier.
+RT @day9tv: Just found out that my career ends on 5.15.  And, I can preorder it.
+Oh us barbarians and our uncivilized metric system http://t.co/MGNlSXJD
+Very interesting read, I wasn't around when _why was here. Probably a great read for anyone in the #ruby community! http://t.co/A2rFuTlH
+@wycats LOL! Old farts...
+@coderwall seems pretty cool, now gimme some points for tweeting about you!
+@mhartl Also, thanks for a wonderful read. Your book is what got me into Rails and I haven't looked back. :)
+@mhartl You might want to remove any links to Insoshi on http://t.co/HWU8DhOV, the domain name expired.
+You know what grinds my gears? When I lost connects on Elance due to jobs going to people outside of the site. http://t.co/IWuXVsBa
+@josevalim Need more information about rails new --http!
+@sstephenson Thanks for a very informative post, exactly what I needed to read! (regarding event capturing to improve load times)
+Some people not only plays the guitar, they make love to them. http://t.co/eZTFsmDc
+Is there a #jquery template plugin this is actively maintained?
+Closed down YouTube-tab, from 0 to 800mb memory free. I do not like you flash, not one bit.
+RT @icculus: ProTip: Programming when the baby cries? Add a syntax error before getting up, so you remember what you left half-finished  ...
+@rails_apps Really liking that gem, never heard of it before. Looking forward to trying it out some day :)
+I really liked your article @benjamincoe, some help for the future for me too. :) http://t.co/Zbsk7CSn
+@sniemela Hey there! Cool to see some other Rails developers in Vaasa! Which school are you in?
+So many #iem games to watch, not enough time :-(
+@atomozero Got some automatic "thanks for the mention" stuff going on? You should remove it man.
+IEM Hannover… sleep? Na. School? Na.
+@atomozero Something tells me we'll see a blog post about this soon enough. Do you know if kallisti5 got his hands on a RBP device?
+@atomozero I'm guessing Haiku doesn't boot on the Raspberry Pi yet though the boot loader was committed?
+@dhh The progress timeline looks absolutely gorgeous! Whoever designed it gets a star from me. http://t.co/EFyQnL8w
+@BLChampions servers down the whole day? :(
+I accidentally the retweet button.
+RT @xenStyles: @emlkufu sorry, I should have said Xenforo skin coder ;)
+Never saw this one before, hilarious! https://t.co/4pwsbHD8
+@xenStyles I'm a coder.
+The Belle update really turned my N8 into both a usable and aesthetically pleasing phone. Good work #nokia !
+Finally have a working setup. nginx + unicorn and capistrano deployment, zero downtime on updating. Used this guide:  http://t.co/RhvRCAL3
+Using #capistrano for the first time today. I feel sad for not reading up about it earlier. This is going to make my life so much easier.
+Quite amazing how little I can get done when stackoverflow is done for maintenance.
+RT @dhh: Ten Years After Decriminalization, Drug Abuse Down by Half in Portugal: http://t.co/BbOWxG2t
+RT @BrynaAtHP: Guys, if you are seeing http://t.co/0S0PkWk - IT IS FAKE!! Do not buy from there. It is not associated with HP at all. PL ...
+Understanding “Prototypes” in JavaScript http://t.co/kxZosK7
+RT @pulletsforever: "I am going to extend the staff meeting so we can figure out why the team is falling behind" -My Manager
+Happy 10th birthday Haiku! #haikuos
+@wycats and which one might that be?
+@joshkalderimis @rbates Registered, commented & hopeful! Thanks for the link.
+@dhh I love pjax-rails project, but I need more documentation. Perhaps it is PJAX that should be documented rather. Thumbs up nonetheless!
+Check out http://t.co/4ntxxLv - look at the stats. Linux folk WILL pay for your game, and they'll pay more than others. ;)
+RT @Quagmire_G: The main reason Santa is so jolly is because he knows where all the bad girls live #giggidy
+@Jcrudess You keep a truck full of spare parts for that thing? ;) http://ow.ly/i/dlLB#Kpc
+Whooop! http://t.co/P6ie67R &lt;3
+@day9tv Include http in your links damnit, make 'em clickable
+@kallisti5 Sweet, now give me NVIDIA 1920x1080! =) looking forward to alpha3, just repartioned my old PC to save room :)
+I can relate. http://xkcd.com/903/
+@dot_cloud man you guys are smart. I'm gonna use dotcloud.
+@voidgmr I am jelly :(
+RT @BronxZoosCobra: City may not sleep, but I'm ready to. Ooh a chimney! I bet you bragged to your friends about having a working firepl ...
+Starting the day with a 30 or so minute jog is awesome
+Installing various versions of Windows in school. Learning lots.
+Stop them from changing US law to outlaw WikiLeaks--sign this petition: http://t.co/OOMLSKw via @demandprogress
+What's a good recent build to go for? Finally getting Haiku back on my old PC. #haikuos
+Anyone know when/if the #blackberry #torch is coming to Sweden, or better yet to Finland?
+RT @tweetsow: Back in the days... First ever Warsow pickup game! » http://www.warsow.net/forum/viewtopic.php?id=9113
+friday \o/
+@day9tv yup! Happy b-day :-)
+Fullmetal Alchemist: Brotherhood is too awesome!
+Great blog post regarding UI by PulkoMandy: http://tinyurl.com/233gmcq #haikuos
+is working on something pretty cool for Haiku
+First time in four years that I actually want to watch TV and the damn thing is hogged :(

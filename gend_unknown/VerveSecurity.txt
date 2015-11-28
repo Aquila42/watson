@@ -1,0 +1,662 @@
+VerveSecurity
+http://pbs.twimg.com/profile_images/1977500922/V_Verve_400x400.png
+Could not agree more. #controlsystem #ICS #cybersecurity  https://t.co/LKbLfKqkxx
+Emphasis should be on lack of #ICS experience and those pretending to know the differences.  https://t.co/mDFsQxQtrR
+@VerveSecurity utilizes two flavors of change management. Tradtional IT AND a layer for #ICS #logic #graphics, etc. https://t.co/XLX2IwbP3x
+#NIST releases Guide to Application Whitelisting. More protection than antivirus #ICS #cybersecurity  https://t.co/q3OS5f8dNz
+Centralized security suite built specifically for #ICS systems https://t.co/aEfuwHnTsu #pauto #defenseindepth https://t.co/3wOutYie4G
+@RknealInc is currently looking for an experienced #NERC CIP #cybersecurity Specialist in St. Louis, MO https://t.co/vbJqngYLJt
+RT @cimtrak: Cimcor is proud to promote CimTrak at @DataConnectors #technology #security event in #Schaumburg #Illinois http://t.co/eaeS9Ls…
+Contact @RknealInc to setup your @VerveSecurity product demo. #ICS #DCS #pauto
+US plans on spending $100 billion on critical infrastructure #cybersecurity by 2020. #ICS http://t.co/P1V5fe4d7m
+If you haven't checked out @VerveSecurity in a while, now is the time. We have added a number of features #cybersecurity @RknealInc
+RT @InfosecurityMag: Israel Eyes China in Widespread Cyber Attack http://t.co/xv8bOKanJE
+One year on twitter! Thank you to all our followers! #VerveSecurity
+Proper documentation is the leading culprit for #NERC CIP audit violations. What are you doing to document? #vervesecurity
+#VerveSecurity has the ability to monitor all USB devices and executable content introduced to your network #stuxnet http://t.co/gcxCzmRg
+Only whitelisted applications will run. Alerts admin if unauthorized programs attempt to execute. #VerveSecurity http://t.co/wqzQnW3W
+Proper documentation is the leading culprit for #NERC CIP audit violations. #VerveSecurity includes Change Management
+Allows plant personnel to track control network changes to graphics, logic, database files &amp; networking code  #VerveSecurity
+Anti-virus has been proven to only block about 30% of potential threats. Whitelisting is more effective. #VerveSecurity
+Instead of operating reactively to the growing list of viruses, #VerveSecurity proactively blocks any unapproved executable via whitelisting
+Top 10 Financial Services Cyber Risk Trends for 2013 http://t.co/VgEr86bv
+Each layer of #VerveSecurity was designed and selected to minimize the increasing number of #cyberattacks http://t.co/q613WqsX
+Anti-virus added to #VerveSecurity for 3reasons:1) NERC CIP requires it 2) Verifies no virus prior to whitelisting 3) multi-layer protection
+Industrial Control Systems Security #ICS http://t.co/SMqdUePL
+Caution: Active Response to Cyber Attacks Has High Risk http://t.co/67EBVUMr
+Our SIEM provides required long-term consolidated logging, #NERC reporting, alerts &amp;correlation. #VerveSecurity http://t.co/tzx2oqrE
+#FF @DebbieMahler @e_kasperky @PatrickCMiller @cyber @InfosecurityMag @SecuritySpeak  #InfoSec #cybersecurity #followfriday
+Stops unauthorized USB drives from being placed on control system &amp; doesn’t allow any inbound ports into control system #VerveSecurity
+#VerveSecurity has the ability to monitor all USB devices and executable content introduced to your network #stuxnet http://t.co/sI8AHBhJ
+Patches and anti-virus updates can be deployed in a simple and controlled process with minimal impact on operations #VerveSecurity
+#VerveSecurity Center consists of several components: AV, Whitelisting, Patching, SIEM &amp; more http://t.co/zOypBL9E
+#VerveSecurity alerts administrator if unauthorized programs attempt to execute. Whitelisting is integrated with AV http://t.co/mBcf9Kg9
+End users can see changes made to control system logic, graphics, databases, firewalls, routers &amp; switches. #VerveSecurity
+If you or someone you know is looking for a job as a Business Analyst, check out our Careers page. http://t.co/WF3MxDO4
+Patches, AV updates &amp; whitelisting databases can be automatic, air-gapped, or semi airgapped for more secure environments. #VerveSecurity
+Only whitelisted applications will run. Alerts admin if unauthorized programs attempt to execute. #VerveSecurity http://t.co/4CGhQLBp
+#VerveSecurity Center consists of several components: AV, #Whitelisting, #Patching, #SIEM &amp; more http://t.co/iHrB7Hz4
+#VerveSecurity captures both image &amp; custom control system vendor backups that can recover a whole machine, even to dissimilar hardware
+We are looking for a Business Analyst in the St. Louis area. If you are interested check out the job description: http://t.co/7icdfBsw
+#FF @DebbieMahler @BryanjCarr @PatrickCMiller @cyber @InfosecurityMag @SecuritySpeak @e_kasperky #InfoSec #FollowFriday #Security
+#VerveSecurity has the ability to monitor all USB devices and executable content introduced to your system http://t.co/nndb6v3d
+Allows plant personnel to track control network changes to graphics, logic, database files &amp; networking code  #VerveSecurity
+Instead of operating reactively to the growing list of viruses, #VerveSecurity proactively blocks any unapproved executable via whitelisting
+#Cybersecurity Involves Federal, Industry Partners, Allies  http://t.co/gSlitcYq
+Anti-virus added to #VerveSecurity for 3reasons:1) NERC CIP requires it 2) Verifies no virus prior to whitelisting 3) multi-layer protection
+RT @kowask: Cybersecurity News is out! http://t.co/TBMaTwVH ▸ Top stories today via @solutionmaniacs @VerveSecurity @FedNetworks
+Eight important cyber security steps for holiday shopping online  http://t.co/LNufi2Yx
+U.S. government report: China is the biggest #cybersecurity threat to the country
+ http://t.co/s0ZPn6ZO
+U.S. Cyber Commander: Threats Are Relentless, Education Is The Key
+ http://t.co/276xlHx7
+Has the ability to monitor all USB devices and executable content introduced to your system. #VerveSecurity http://t.co/Xpnt6eff
+RT @RknealInc: Agencies join effort to promote use of critical controls for #cybersecurity @GCNtech
+ http://t.co/IWQeGhYt
+'Cyberterror' and Chinese hackers   http://t.co/yaX7FfUz
+Feds, US Businesses to Link Arms on Cybersecurity  http://t.co/ON9eOgtH
+Volunteering falls short on threat information sharing   http://t.co/mDE24QTr
+UK cybercrime victims get response team to call on after attacks  http://t.co/CLv73OMu
+Computer hacking scam  http://t.co/a2Yv18EO
+How secure is the U.S. voting system?  http://t.co/1yrDofaa
+U.S. followers: make sure to exercise your right to vote! #election2012 Tweet us a pic of your #Ivoted sicker or polling place lines!
+Coke Gets Hacked And Doesn’t Tell Anyone  http://t.co/eyVZaqY7
+#VerveSecurity has the ability to monitor all USB devices and executable content introduced to your network #stuxnet http://t.co/2SrjUpem
+Thanks for the RTs @EnergyHeretic &amp; @yxofymejes
+Tech-savvy psychologists a boon for security  http://t.co/IOfRCfsu
+Cybersecurity: Distinguishing a Romney from an Obama Presidency
+ http://t.co/WxThOvgV
+Proper documentation is the leading culprit for #NERC CIP audit violations. #VerveSecurity includes Change Management http://t.co/DrdmAbuA
+DHS official suggests sharing IT resources to survive hacks  http://t.co/KSuymxEz
+After #Stuxnet: The new rules of #cyberwar  http://t.co/7rt3PLuz
+James Bond, #cybersecurity and sloth  http://t.co/MgqBdGAb via @BillMcCluggage
+NASA Ames Research Center Wins 2012 National Cybersecurity Innovation Award
+ http://t.co/eGXNcUWY
+Morgridge Institute lands cybersecurity grant  http://t.co/bxSaVggE
+Amid Recent Cyberattacks, Senate Poised to Revive Cybersecurity Bill
+ http://t.co/RHvusnWt
+California's New Solar-Wind Hybrid Power Plant Greens The Grid  http://t.co/Hj5cNq2H
+What's the price of a new Windows 8 zero-day vulnerability?  http://t.co/ZWG6kYhq
+When #Hacking Was in Its Infancy http://t.co/g75Zb9yv
+10 Computer Crooks Who Have Secretly Made Your Life Miserable  http://t.co/uwDx1T7B
+Headteacher: 'We didn't trick alleged school computer hacker'  http://t.co/c55ivLj5
+Anti-virus has been proven to only block about 30% of potential threats. Whitelisting is more effective. #VerveSecurity http://t.co/cW3OwRhP
+Army ramps up cybersecurity skills training  http://t.co/S4kBEHcz
+DHS Chief Uses 'Sandy' to Underscore Cybersecurity Threats http://t.co/l8cjWkKV
+Upstate lawyer files suit against SC for computer hacking  http://t.co/6xq0wQHx
+A "Cyber Reserve” of #security experts to be called upon in the event of a crippling #cyber attack http://t.co/rG8DdlN6
+International cybersecurity exercises grow in popularity  http://t.co/AsxgYIaZ
+Army, businesses seek a few good hackers to combat cyber threats
+ http://t.co/sVUZ8QUN
+Future of business cyber security tied to US election result http://t.co/TLfHbOWn
+FBI cybersecurity shift draws skepticism from experts  http://t.co/64hzUsJ1
+Federal Government Lacks Experts To Address Cyber Security Threats
+ http://t.co/p8o9vVo2
+Irked by cyberspying, Georgia outs Russia-based hacker -- with photos http://t.co/Mt5rC6lF
+DHS Proposes Cybersecurity Education to Begin in Kindergarten   http://t.co/eN0wSofn
+South Carolina governor seeks to calm taxpayers after security breach
+ http://t.co/ocxjdsKn
+Killing the Computer to Save It: redesigning computers and software from a “clean slate"
+http://t.co/n2nStRz9
+How a Google Headhunter’s E-Mail Unraveled a Massive Net Security Hole via @KimZetter http://t.co/c7tR0CQn
+DHS Warns of ‘Hacktivist’ Threat Against Industrial Control Systems http://t.co/xdBPO8Zq
+Norton releases new Windows 8 compatible apps http://t.co/vqLK2JrA
+Hackers Who Attack US in Line for Lucrative Payout  http://t.co/QG73Ragk
+US and Canada to launch joint cyber security plan  http://t.co/oz90K75K
+Each layer of #VerveSecurity was designed and selected to minimize the increasing number of #cyber attacks http://t.co/OOu9Qs6s
+Cyber Security Fails As 3.6 Million Social Security Numbers Breached In South Carolina
+ http://t.co/rAaAU74M
+Lie on the Internet, advises UK web security official http://t.co/ZmcEArvS
+Experts: Hackers will crack election systems  http://t.co/ziqzxTLf
+Auditor General struggles to determine if cyber-security dollars had desired effect
+ http://t.co/9jNnT9Yo
+Cybersecurity Awareness Month Is Nearly Over, But Here Are Some Password Tips 
+ http://t.co/QcVyzp90
+Cybersecurity chief: Attacks on US banks tough to pin down   http://t.co/6VydNrdm
+Cyber Security Research Alliance: Intel, Lockheed And Others Team Up To Tackle #Cybersecurity   http://t.co/ir7IAuna
+Google's email security flaw is embarrassing, but no catastrophe  http://t.co/uUWUtoJp
+Thanks for the #FF! RT @debbiemahler @ITechSpecialist: #FollowFriday @m2sys @VerveSecurity @securityspeak @SCMagazine @threatpost #Security
+Hacker's email raises minister's hackles  http://t.co/qgRdocuv
+How Hackers Could Steal the Next Election http://t.co/DFvRjrds
+On Lockheed Martin campus, tech-savvy students build on #cybersecurity 101
+ http://t.co/QIr3vWBX
+Cyber-Security Chief on Wave of Web Attacks  http://t.co/e75XDMie
+Our SIEM provides required long-term consolidated logging, #NERC reporting, alerts &amp; correlation. #VerveSecurity http://t.co/zpfXwnrM
+Did Iran Hack The World's Biggest Oil Company?  http://t.co/GQLCCjEq
+National High School Cyber Security Competition Draws 1,200+ Teams, Reaches All 50 States  http://t.co/NH8h2qAi
+Presidential Candidates Ignored Cyber-Security in Final Debate  http://t.co/NIX1dX0O
+Obama to compromise on cybersecurity executive order  http://t.co/m3MmLn04
+Duke Energy Hires @RknealInc http://t.co/1wmwNqJV #DCS #Energy #Controls
+Check out the Rkneal October Newsletter: http://t.co/rmJ9mgab
+#Cybersecurity Flaws at Department of Labor Continue the Trend of Government Cyber Failures http://t.co/ye9EQEnn
+Senate Majority Leader Harry Reid, has pledged to take up the #cyber-security bill again in November http://t.co/s6zSBrCm
+Hackers Sell Access to Fortune 500 Computers http://t.co/HNeZskDc
+Warning: Mom-And-Pop Shops Not Safe From Cybercriminals  http://t.co/JAyZS9r5
+ICDL urges educational authorities and schools to put IT Security at the top of their agenda   http://t.co/EYcgY2jM
+Stops unauthorized USB drives from being placed on control system &amp; doesn’t allow any inbound ports into control system #VerveSecurity
+nProtect Hits 100 Million Active Users  http://t.co/Iqqu3Vxr
+Can #hacking be ethical?  http://t.co/JS3ZHsuS
+Kaspersky's exploit-proof OS leaves #security experts skeptical  http://t.co/T6zCqog4
+The Militarisation of #CyberSecurity as a Source of Global Tension  http://t.co/br2EbQaS
+First European #Cyber #Security Month going well  http://t.co/EIgwEmNq
+Another view: Holes in U.S. #cyber security need fix  http://t.co/feze0byL
+iPhone #hacker 'Comex' let go from work with Apple  http://t.co/SMfcYDwp
+Patches and anti-virus updates can be deployed in a simple and controlled process with minimal impact on operations #VerveSecurity
+So what's Mitt Romney's take on cyber #security?  http://t.co/dy8TctZI
+#Cybersecurity business, jobs expected to grow through 2016  http://t.co/KfIXEdDJ
+The New Cyber Wars: Out of the Flame and Into the Fire   http://t.co/cSXMrU4X via @erelmargalit #cybersecurity
+Opinion: #Cyber #security should be a national security priority  http://t.co/141GUxTR
+RT @DebbieMahler: #FollowFriday @m2sys @cansecsystems @vervesecurity @siliconshecky @securityspeak @scmagazine @thehackersnews @ThreatPo ...
+The Cyber Threat Is Real and Must Be Stopped  http://t.co/Bpv9PZAA
+Fear Pays the Bills, but Accounts Must Be Settled: President Obama's #cybsersecurity initiative center http://t.co/aFkqX64z
+#VerveSecurity alerts administrator if unauthorized programs attempt to execute. Whitelisting is integrated with AV http://t.co/OWb1tgdg
+Canada beefs up cyber security amid reports of Chinese hacking  http://t.co/jODjfjMp
+Pacemaker hacker says worm could possibly 'commit mass murder'  http://t.co/SkFwd9Z4
+Should Industry Face More Cybersecurity Mandates?  http://t.co/aqcXrfFR
+Pitt hacker threats suspect set to plead guilty http://t.co/q1yrkREd
+Japanese hackers prey on innocent computer users  http://t.co/eWnHQ3uU
+Kaspersky Labs Building a Secure OS for Industry and Infrastructure ICS
+ http://t.co/Fx11Hmyq
+RI announces first statewide cyber security plan  http://t.co/BcZhgqB7
+Holes in U.S. cyber #security  http://t.co/lX3YmZZm
+Hacker gets access to 8,500 UGA personnel files http://t.co/saKTXZQe
+Baby boomers need to improve security for their computers and mobile devices http://t.co/K3sC4n5t
+Britain Refuses to Extradite Computer #Hacker Sought in U.S. http://t.co/38uobQBz
+Baby boomers need to improve security for their computers and mobile devices http://t.co/BmnroCD9
+Cyberespionage malware 'miniFlame' discovered  http://t.co/npLgy6T7 #Flame #Gauss #miniFlame
+End users can see changes made to control system logic, graphics, databases, firewalls, routers &amp; switches. #VerveSecurity
+Republicans Warn Obama: #Cybersecurity Executive Order Will Practically Destroy the Internet  http://t.co/7I62zWWV
+UC Berkeley researchers investigate “brain hacking”  http://t.co/4tXNTuMD
+University of Washington computer scientist finds #security flaws in phones, cars, pacemakers  http://t.co/05b8PtoB
+Rise In U.S. #Hacker Attacks Against China  http://t.co/2smubcI8
+Task Force Tells DHS to Offer ‘Cool’ #Cybersecurity Jobs to Gov. Workers and Test Them Like Pilots  http://t.co/izzTvhYw
+Patches, AV updates &amp; whitelisting databases can be automatic, air-gapped, or semi airgapped for more secure environments. #VerveSecurity
+New Survey Shows U.S. Small Business Owners Not Concerned About #Cybersecurity
+ http://t.co/N1jPtQCa
+New security threat at work: Bring-your-own-network via @CSOonline http://t.co/ntgGfPwL
+#FF @PatrickCMiller @SCADAhacker @InfosecurityMag @DebbieMahler @securityspeak #FridayFollow
+Illinois agency plans training on cyber security http://t.co/qDjHO2dg
+US: Hackers in Iran responsible for cyberattacks  http://t.co/GeNJlxxM
+Cyber-Security Awareness Month: Avoid getting scammed  http://t.co/ZY8fg07s
+Panetta lays out new cybersecurity policy  http://t.co/SIKQ5bTj
+Presidential candidates quiet on cyber policy  http://t.co/TmMJVY14
+Minnesota could become cyber-security hub, speakers say  http://t.co/MnUzgRqm
+Hiring to Stop Hackers: Cyber Security Jobs Grow 19%  http://t.co/q3HWHFbT
+Hackers steal thousands of student records from computers at Florida college 
+ http://t.co/4rbflaIz
+Conficker worm still being tracked, but evidence collection slows  http://t.co/hSjHFKri
+WHY IT MATTERS: Cybersecurity  http://t.co/jQcryUED
+Only whitelisted applications will run. Alerts Admin if unauthorized programs attempt to execute. #VerveSecurity http://t.co/7oSPAsBa
+#VerveSecurity Center consists of several components: AV, Whitelisting, Patching, SIEM &amp; more http://t.co/wbfLHzwh
+SQL Injection Hacker Attacks Are On The Rise. Here's How To Defend Your Servers
+ http://t.co/UB92sSQX
+Capital One Target as Cyber Attacks Resume on U.S. Banks  http://t.co/xCOa0NuS
+Chinese Telecom Threat Used to Push Cybersecurity Bill   http://t.co/WO7bhpvd
+$4.3 million NSF grant to CACR will strengthen cybersecurity in research projects
+ http://t.co/UeGPtUwL
+Hackers exploit Skype API to infect Windows PCs  http://t.co/S9J2SpL7
+Student, 19, accused of hacking UT computer system http://t.co/c1XV2CvM
+Job-seekers must beware online identity theft   http://t.co/WYTgebr0
+Top cybersecurity expert speaks in Bend  http://t.co/PQZQmtHB
+Protecting oneself during Cyber Security Awareness Month  http://t.co/fvwfUi35
+Wash. National Guard focuses on cyber-attacks   http://t.co/DShpg11u
+#VerveSecurity captures both image &amp; custom control system vendor backups that can recover a whole machine, even to dissimilar hardware
+Hack in the Box kicks off jam-packed security conference  http://t.co/6OxnWQ8B
+Stewart Baker on the Poor Cybersecurity of Hackers http://t.co/IHx3evVo
+Straight Talk: Beware of computer 'security checks' http://t.co/3rD6pW3C
+#FridayFollow @scadahacker @securityspeak @SCMagazine @TheHackersNews @threatpost @debbiemahler @PatrickCMiller #Security
+Computer servers at five Japanese universities hacked http://t.co/2hAUUKZ9
+Allows plant personnel to track control network changes to graphics, logic, database files &amp; networking code  #VerveSecurity
+New cybersecurity threat could revive legislation  http://t.co/pABJeT3g
+HP enters India's computer security market  http://t.co/h87fLwct
+Cyberattacks on banking websites subside - for now  http://t.co/OeUxYGCA
+Computer equipment seized from home of Darlington 16-year-old following hacking attempt  http://t.co/EIDeDa3j
+The European Network and Information Security Agency  http://t.co/hzdWQ0sK
+Instead of operating reactively to the growing list of viruses, #VerveSecurity proactively blocks any unapproved executable via whitelisting
+Opposition to cybersecurity executive order among Republican senators  http://t.co/o1ZSuLOz
+Fake Antivirus Ringleader Must Pay $163 Million  http://t.co/DCCoYBX3
+Portrait of a teen hacker  http://t.co/1dK6OsC1
+Cisco hosts cyber security event in Doha  http://t.co/2NIi0Yy7
+Turning cyber security on its head  http://t.co/zG3Ktf1r
+Should you give up e-mail?  http://t.co/HnyFUelw #security
+Third Worldwide Cybersecurity Summit: opinion  http://t.co/HbaqkYkS
+Google Warns of New State-Sponsored Cyberattack Targets  http://t.co/2rr52Ylg
+Cyber security concerns keep mounting  http://t.co/DquuEfv2
+Famous hackers and their bold hacks  http://t.co/FMa4bHpj
+On #cybersecurity, small businesses must stay only one step behind  http://t.co/PtOo4VfV via @onsmallbiz
+October is Cyber #Security Awareness Month in Wisconsin http://t.co/xDc1uSbD
+Anti-virus added to #VerveSecurity for 3reasons:1) NERC CIP requires it 2) Verifies no virus prior to whitelisting 3) multi-layer protection
+3 reasons major corporations lag on cyber security  http://t.co/lWWfcqjt
+L-3, Virginia Tech open cybersecurity center  http://t.co/XXhw5Qbx
+Companies seeking to train employees on cybersecurity  http://t.co/hBP44mGz
+Nebraska to host national cyber security event  http://t.co/9kVOamuM
+Washington confirms Chinese hack attack on White House computer  http://t.co/TVFLimm9
+As demand rises for cybersecurity professionals, so does their pay  http://t.co/iXf2lMvb
+#Cybersecurity could be casualty of sequester ax  http://t.co/WyLeofv9
+Why state regulators may soon be on your case about cyber security http://t.co/mN6byRCI
+U.S.: Chinese Hackers Bent on Breaching Pentagon’s Computer System http://t.co/w8fKnhUj
+Cyber Attacks on U.S. Banks Expose Tech Vulnerability  http://t.co/aXB3rquU
+Thanks for the #FF @ITechSpecialist @DebbieMahler Have a great weekend!
+RT @DebbieMahler: #FollowFriday @m2sys @cansecsystems @vervesecurity @siliconshecky @securityspeak @scmagazine @thehackersnews @ThreatPo ...
+Televent's network security breached, customers warned  http://t.co/GgbhWYCv
+U.S. and Russian experts turn up volume on cybersecurity alarms  http://t.co/I2BgGnAY
+Has the ability to monitor all USB devices and executable content introduced to your system. #VerveSecurity http://t.co/ODIm1v4d
+U.S. Needs to Get Tough on Hacking  http://t.co/2ISAv26Q
+FERC ramps it up on energy cyber security  http://t.co/4crb4qT6
+Cyber Security: 75% of data breaches are inside jobs   http://t.co/l7yN5hYx
+Government said to be making larger strides in cybersecurity  http://t.co/aCPinIpF
+Celebrate National Cyber Security Awareness Month this October http://t.co/46TOdzww
+Make sure to take a quick look at this month's newsletter: http://t.co/awdF10hZ
+Cybersecurity executive order should clearly exclude some sectors, says Lofgren http://t.co/UFYoYJdh
+Chinese Hackers Blamed for Intrusion at Energy Industry Giant Telvent  http://t.co/fLgiaTGp
+Cybersecurity executive order should clearly exclude some sectors, says Lofgren
+ http://t.co/RjzfAWhe
+Health Information Technology Cyber Security Advances in Michigan http://t.co/gHOsPu1k
+Cyber-security contest in RI opens to students  http://t.co/4ffN6C07
+#VerveSecurity has the ability to monitor all USB devices and executable content introduced to your network #stuxnet
+White House said to plan executive order on cybersecurity  http://t.co/RiYL9FlB
+Iran sees cyber attacks as greater threat than actual war http://t.co/J3ECrZ1O
+New FERC Cybersecurity Office Has Lofty Oversight and Outreach Goals http://t.co/0yoiq4q0
+Bitcoin exchange comes back online after hack  http://t.co/jS6CVj6q
+Iran sees cyber attacks as greater threat than actual war  http://t.co/k78wvAX6
+Foreign cyber crime sparks Australian internet security warning http://t.co/N6BQjTKh
+White House Readies Executive Order on Cybersecurity  http://t.co/8f1ZeQmw
+Stonesoft to Host First Cyber Security Summit in New York City http://t.co/3GtSVUT4
+New FERC Cybersecurity Office Has Lofty Oversight and Outreach Goals  http://t.co/uocN5QNz
+New FERC Office To Focus On Cybersecurity  http://t.co/xWEcJEn8
+Proper documentation is the leading culprit for #NERC CIP audit violations. #VerveSecurity includes Change Management
+Bank of America website attacked by Iranian hackers  http://t.co/4HtGij3v
+Iran readies domestic Internet, blocks Google  http://t.co/K9mZwuXq
+Upside Potential With Cybersecurity Stocks  http://t.co/C1RF61wF
+Virginia to hold cyber security competition for high school students http://t.co/hL0yqa0u
+Energy firms must acknowledge cybersecurity as more than an IT problem, paper claims
+ http://t.co/P0v7mNVC
+Electric grid regulator creates cybersecurity office  http://t.co/Ar84tPYw
+What to learn from the $10 million Subway POS hack  http://t.co/F15iK6ED
+BlackBerry network goes titsup inopportunely again  http://t.co/VOymfTVr
+Internet Explorer security hole being plugged  http://t.co/sljP8j1m
+Have you seen the case study by @bit9 on the #VerveSecurity Center? http://t.co/OeBjctiY
+Pentagon Warns Private Computer Networks on Vulnerability to Cyber Attacks
+ http://t.co/xZGKp5Ca
+Anti-virus has been proven to only block about 30% of potential threats. Whitelisting is more effective. #VerveSecurity http://t.co/C2VasEbh
+Microsoft offers one-click workaround for IE vulnerability, permanent fix coming Friday
+ http://t.co/zi6SfEBY
+'Need 400,000 skilled people to address cyber security'  http://t.co/pgaU2IR5
+US-China cybersecurity talks in a cul-de-sac http://t.co/8B2Zo4GL
+Cybersecurity concerns trouble feds  http://t.co/j9GuEzQP
+FBI warns cyber criminals are targeting banks to conduct wire fraud http://t.co/gFdbZDLP
+FBI warns cyber criminals are targeting banks to conduct wire fraud  http://t.co/qAKuZ3Sz
+Cyber security a 'threat' to Universal Credit  http://t.co/i58KZK53
+Cybersecurity: Kay Bailey Hutchison condemns Obama’s ‘heavy handed, regulatory regime’  http://t.co/2wHD5trQ
+Cyber security professionals in high demand battling 'cyber weapons'  http://t.co/vHyfMgJN
+GCHQ in new challenge for cyber security wannabes  http://t.co/MHoDzGSI
+Stuxnet Tricks Copied by Computer Criminals  http://t.co/CaUN9S2Q
+Columbia Basin College to start cybersecurity program http://t.co/HtUikfKt
+Windows Phone 8 has 'baked-in cybersecurity goodness'  http://t.co/cFrhoQ2G
+5 St. Louis tech startups will each get $50,000 tonight in new Capital Innovators class
+ http://t.co/7zXV2eSq
+New DHS website to highlight education, training in cybersecurity  http://t.co/wTPIFNum
+Questions loom about Obama's cybersecurity plans  http://t.co/BSXtwwBO  via @PCWorld
+Flame analysis reveals more cyberespionage malware http://t.co/KoFe3Lzc
+Computer security experts warn Microsoft Internet Explorer users to switch browsers
+ http://t.co/uOhkaeHz
+Thanks for following! @T0p1as @CarlMBishop @CurseYouKhan View our Verve Security Center video here: http://t.co/wbfLHzwh
+RT @RknealInc Don't Install Acronis Backup and Recovery on Windows 8 http://t.co/Soae6HEi
+Change in Your Pocket: A Computer Tune-Up http://t.co/3FhHOec0
+Each layer of #VerveSecurity was designed and selected to minimize the increasing number of #cyber attacks http://t.co/yodTn3vt
+2012 AntiVirus Software Review http://t.co/hPwFjmLJ
+UK's GCHQ announces a new cyber security institute  http://t.co/kKOWt2vl
+DHS Website Will Help Your Cybersecurity Career   http://t.co/8BBKis6F
+Cybersecurity News Roundup: Emma Watson is the New Face of Cyber Evil via @CurseYouKhan http://t.co/7bcpNi1r
+Our SIEM provides required long-term consolidated logging, #NERC reporting, alerts &amp;correlation. #VerveSecurity http://t.co/D38r1mzH
+#FF @PatrickCMiller @SCADAhacker @InfosecurityMag @DebbieMahler @SecuritySpeak #FridayFollow
+Thanks for the #FFs! @DebbieMahler @ITechSpecialist #FollowFriday
+Microsoft admits millions of computers could be infected with malware before they're even out of the box   http://t.co/MNqPtWuX
+6 Ways to Protect Your Work Computer http://t.co/uQF0MHBf
+Protecting Americans from cyber attack   http://t.co/O2j5hpaE
+Indian envoys' meet: Cyber security, Arab Spring on agenda  http://t.co/wLX78jlw
+Insiders suspected in Saudi cyber attack  http://t.co/Td7yr7vM
+Hackers Hit Cancer Center  http://t.co/Y36iIHlP
+Protecting Americans from cyber attack http://t.co/kwZub5VZ
+Towson receives cybersecurity grant  http://t.co/JopFuckb
+Spies and professors band together for UK cybersecurity research institute
+ http://t.co/2vZGeBeV
+Domino's Pizza says website hacked  http://t.co/eXPg17GP
+What really caused the massive GoDaddy outage?  http://t.co/KjP2w5BT
+Cyber security seeks tools in difficult battle http://t.co/JtS7JRI3
+Cyber security: mandates or volunteers?  http://t.co/uEWXe7J9
+Stops unauthorized USB drives from being placed on control system &amp; doesn’t allow any inbound ports into control system #VerveSecurity
+The 3 biggest mistakes made by security pros  http://t.co/uXW4mdxP
+SecureWorld draws 500 St. Louis computer security experts  http://t.co/83Ae4P9X
+Gucci Hacker Gets Prison Time  http://t.co/FtiosEEm
+Apple Device IDs Leaked by Anonymous Traced to App Developer Blue Toad
+ http://t.co/TB7BPWna
+GoDaddy Outage Takes Down Millions Of Sites, Anonymous Member Claims Responsibility http://t.co/3bYWg1YN
+Congress returns as cybersecurity executive order is in the works  http://t.co/413BPlcx
+Napolitano: Cooperation needed on cybersecurity  http://t.co/zIiT8Hh6
+The Grill: NASA's Adrian R. Gardner works to manage cybersecurity challenges
+ http://t.co/6mRwBQmn
+Napolitano to discuss cybersecurity in Philly  http://t.co/wfwYRI8J
+11 years later: security and privacy following 9/11  http://t.co/SPZJkO9O
+Patches and anti-virus updates can be deployed in a simple and controlled process with minimal impact on operations #VerveSecurity
+Google acquires cybersecurity startup VirusTotal  http://t.co/n0pZjHrf
+Debora Plunkett, NSA's Cyber Defense Director, Says Foreign Cyber Attacks Are Increasingly 'Reckless'   http://t.co/h5i9FTw9
+Have a great weekend!
+Businesses Beware: Heavy-Handed Tactics Planned for Cybersecurity
+ http://t.co/MkATEAj9
+25 of today's coolest network and computing research projects  http://t.co/wp8CD7qn
+If you think like a hacker, you can make money snuffing them out  http://t.co/7PFqfXNb
+UK to decide on NASA hacker extradition by Oct. 16  http://t.co/uvTlxroW via @computerworld
+RT @ITechSpecialist: #FollowFriday @m2sys @cansecsystems @vervesecurity @siliconshecky @securityspeak @scmagazine @thehackersnews @Threa ...
+Security firms see rise in smartphone cyber-attacks  http://t.co/o1ajhhBZ
+Thanks for the #FollowFriday @DebbieMahler @ITechSpecialist
+Computer user discovers first Irish language virus  http://t.co/xHtXWIbO
+Apple, FBI deny hackers' claims  http://t.co/0LFK46N8
+Obama vs. Romney on cybersecurity  http://t.co/aUlKN43y
+Who has cybersecurity authority in the utility industry?  http://t.co/7d2VimX0
+Media Trends in Cyber Security  http://t.co/fzAQbA61
+#VerveSecurity alerts administrator if unauthorized programs attempt to execute. Whitelisting is integrated with AV
+NPPD Lacks Strategy to Guide International Cybersecurity Efforts http://t.co/LYpkrIjP
+Cyber security a concern for students  http://t.co/Z47VLyIG
+Millions of iPhoners ‘at risk’  http://t.co/OdZNp04H
+Despite Weak Economy, Businesses Heighten Cyber Security  http://t.co/jqo0zD08
+Chinese telecoms gear maker Huawei calls for cybersecurity cooperation, promises no spying  http://t.co/HoqKbcAe
+Hackers Ready 'Fake' Windows 8 Antivirus Tool  http://t.co/miPTrw4h
+FBI hack yielded 12 million iPhone and iPad IDs, Anonymous claims  http://t.co/L6kh0HNE
+End users can see changes made to control system logic, graphics, databases, firewalls, routers &amp; switches. #VerveSecurity
+Global cyber-security tab hits $10 billion  http://t.co/NIV9qwPD
+Playing Politics with Cybersecurity  http://t.co/wDMPGlA7
+Democrats push for open Internet, cybersecurity  http://t.co/qMS5r1Xo
+University computer systems hacked http://t.co/ideY53Y8
+Oracle offers fix to Java bugs that expose computers to hackers  http://t.co/aBBheE9k
+Thanks for the #FollowFriday @DebbieMahler @ITechSpecialist  Have a great Labor day weekend!
+RT @DebbieMahler: #FollowFriday @m2sys @cansecsystems @vervesecurity @siliconshecky @securityspeak @scmagazine @thehackersnews @ThreatPo ...
+Air Force Seeks Offensive Cyber Weapons   http://t.co/mD9uA96g
+Antivirus detection gap widening, say security researchers  http://t.co/8EdtgXEF
+#FollowFriday @SCADAhacker @threatpost @DHSgov @e_kaspersky @OnCybersecurity @DebbieMahler #FFSec
+When Your PC is Likely Infected  http://t.co/8XHd7B74
+State-Sponsored Cyber Espionage Projects Now Prevalent  http://t.co/VCs3XoH2
+Obama Weighs Broad Program to Defend Networks From Cyber Attacks
+ http://t.co/UKojXHyU
+How Following Cybersecurity Standards Saves Money  http://t.co/XdeGnwJG
+Patches, AV updates &amp; whitelisting databases can be automatic, air-gapped, or semi airgapped for more secure environments. #VerveSecurity
+GOP platform seeks more aggressive U.S. cyber deterrence policies  http://t.co/S6ELYsfh
+Cyber Security Of Power Sector In India  http://t.co/wsrU4xBM
+College IT personnel wish students knew more about security http://t.co/Sg3y8VuE
+Latest Java software opens PCs to hackers  http://t.co/548MRLtz
+How to guard against cyber security risks  http://t.co/V6gFtoS4
+University hacking claim probed   http://t.co/mkHktRXt
+GOP platform slams Obama administration on cybersecurity  http://t.co/LtiaC5xH
+U.S. Navy offers cybersecurity scholarships  http://t.co/hgVhLda4
+'Don't Turn Around': Michelle Gagnon chats YA debut  http://t.co/CoqCR2qS
+Waiting for the hacker attack: preparing for cyberassault on the electrical grid
+ http://t.co/txrUBWIe #cybersecurity #power
+Cybersecurity alert - these days, it is the devices that are most vulnerable
+ http://t.co/UrGJLpJ0
+Department of Homeland Security Addresses Cyber Threats  http://t.co/j5H4GKnT
+Only whitelisted applications will run. Alerts administrator if unauthorized programs attempt to execute #VerveSecurity http://t.co/X2XSapvJ
+Hacking the mind: 3 new brain hacks expose new realm of security &amp; privacy risks
+ http://t.co/QDeKUnpH
+New security flaw uncovered in smart grid gear  http://t.co/QZPdNFaj
+Cyber security incidents rarely reported http://t.co/m8qHgfyx
+Canada Says ‘Anonymous’ May Attack Energy Firm Computers  http://t.co/06yTjhiA
+Iran forever altered cyber security view  http://t.co/ojlCecGl
+DoD plan to buy cybersecurity tools hits speedbump  http://t.co/IY98Zs21
+The continuing evolution of utility cybersecurity  http://t.co/eqDgfQsc #McAfee #NERC #Energy #cybersecurity
+Twitter finally deletes six fake PMO accounts   http://t.co/gBC3lyj0
+10 Security Reasons to Bring Outsourced Services Back Home  http://t.co/vFrqgv4c
+Is the government dropping the ball on cybersecurity?  http://t.co/psxWQU5Z
+Coal shortage:Seven power plants in north have 'critical' level of stock http://t.co/fJRdGKT9
+#VerveSecurity Center consists of several components: AV, Whitelisting, Patching, SIEM &amp; more http://t.co/wbfLHzwh
+Adobe Flash Player hit by hackers on both ends  http://t.co/i7pHgGeV
+Where does cybersecurity begin and when exactly does physical security leave off? http://t.co/nDMbA5HD
+Obama faces delicate decisions as cyberattack fears rise  http://t.co/08t5MHgN
+Girl Scouts of the USA Joins U.S. Department of Homeland Security's Cybersecurity Campaign http://t.co/Wn1XOSgn
+BBB Warns Consumers of Computer Hackers and Viruses  http://t.co/OMaRKAT7
+Security weaknesses ‘pervade’ EPA systems, audit finds  http://t.co/KqjtxAcD
+Woman sentenced in global computer hacking scheme  http://t.co/MCwBoh0C
+U.S. looks into claims of security flaw in Siemens gear  http://t.co/cTFAnYEA
+Check out the August Newsletter: http://t.co/9hWukinc
+Even More Security Pros Discuss US Cybersecurity Laws  http://t.co/3K9vtNhz
+Former White House Cybersecurity Official Joins Start-Up  http://t.co/4UdNvcsp
+#VerveSecurity captures both image &amp; custom control system vendor backups that can recover a whole machine, even to dissimilar hardware
+Anonymous hits UK government websites in Assange protest http://t.co/cyxtK4uT
+Your smartphone can easily fall prey to hackers and malware http://t.co/SIy4NOnD
+Hackers Now Target Larger Systems That Run Everything Else  http://t.co/VhZFGkAG
+The Michigan Cyber #Security Initiative Helps Michigan Stay Secure Online 
+ http://t.co/nEJwRx9N
+Experts hope to shield cars from computer viruses  http://t.co/2fdG9gyq
+Deadline looms for second UK Linux security challenge  http://t.co/06lQQuHJ
+Cyber attack using PDFs targets industries  http://t.co/5TWdrCys
+Cyber wars: US, Israel raiders of the virtual world  http://t.co/xVMjfT1A The Times of India
+What you should know about #Flame, #RSA, and other cyber-attacks.Webcast Aug 22 http://t.co/2MprpjeJ
+Allows plant personnel to track control network changes to graphics, logic, database files &amp; networking code  #VerveSecurity
+New Quantum Computers Could Change Cyber Security For The Better http://t.co/95DjDEo8
+@ryanzahn Thanks! There should be new features coming soon as well. We want to have a customer login in the near future.
+RT @debbiemahler: IT Security Unprepared for Targeted Attacks: Businesses are struggling to prevent targeted... http://t.co/04YAtbGJ
+We released an updated website this morning. It has a new look and more information about what we do. Take a look! http://t.co/8M35V2dD
+Instead of operating reactively to the growing list of viruses, #VerveSecurity proactively blocks any unapproved executable via whitelisting
+Solving "Gauss"  http://t.co/BiCgNhOJ #security #cybersecurity
+Cyber security boot camp to educate potential cyber spooks
+ http://t.co/cT3JBC0E
+Reuters hacked again  http://t.co/O3wF3KPu
+Live webcast Aug 22: What you should know about #Flame, #RSA, and other cyber-attacks. http://t.co/M3zD9wbU
+Medical Cybercrime: The Next Frontier  http://t.co/iidZ1apq
+Opinion: Security is the Achilles heel   http://t.co/7ewxQ4tN
+Companies Are Getting It Wrong On Cybersecurity  http://t.co/X9nzLK3L
+Obama urged to issue cybersecurity executive order  http://t.co/WS4aiRY0
+Anti-virus added to #VerveSecurity for 3reasons:1) NERC CIP requires it 2) Verifies no virus prior to whitelisting 3) multi-layer protection
+Mysterious font left by malware befuddles  http://t.co/biqYxhCH
+Cybersecurity Is Top of Mind for General Counsel and Co. Directors http://t.co/nMuV5sJm
+Bitcoinica, twice hacked in 2012, is being sued  http://t.co/PrX3Oa8N
+A Perilous Cyber World: Guarding Personal Information from Hackers and Thieves
+ http://t.co/5dbscYQH
+Could The New Air Traffic Control System Be Hacked?  http://t.co/vYUSpZoa
+Obama may bypass lawmakers with cybersecurity executive order  http://t.co/8bjSmwIK
+Welcome to our recent followers! Excited to have you! @NatashaHickmans @willissamantha @mmurray @enahsweb
+Upstarts Gaining on Big Cybersecurity Firms: Analyst  http://t.co/J7hQclQT
+Cybersecurity: Lawmakers urge Obama to act http://t.co/78z3aG4Y
+Has the ability to monitor all USB devices and executable content introduced to your system. #VerveSecurity http://t.co/wbfLHzwh
+DOE to utilities: Create cybersecurity governance NOW  http://t.co/CO9MgRCW
+Executives advocate a military approach to cybersecurity  http://t.co/b9mNHx2z
+RT ‏@wireheadlance: State Sponsored Malware Takes Over Mars Rover http://t.co/Awr2CFgn  | @infosecisland
+Computer hacker sentenced to 7 years in prison  http://t.co/QTHaHVg8
+RT @RknealInc: Energy Dept wants utilities to make cybersecurity top priority  http://t.co/HTGvZGJb #energy #utilities #cybersecurity
+Gauss: Designed to Monitor Online Banking Accounts  http://t.co/u2b34Svf
+NSA chief seeks help from hackers  http://t.co/W8jovbMk
+RT @debbiemahler: Apple, Amazon Security Fails: Time For Change: What will it take for cloud service providers to... http://t.co/irLiDwvx
+Cybersecurity Tops Federal IT Priorities List  http://t.co/F4K2SEru
+U.S. infrastructure vulnerable to attack  http://t.co/AfsvYcil via @ryanzahn
+#VerveSecurity has the ability to monitor all USB devices and executable content introduced to your network #stuxnet
+RT @scmagazine: Twenty-six bugs patched in Google Chrome 21 release | http://t.co/B5wLMFsm #InfoSec
+#FollowFriday @DebbieMahler @ITechSpecialist @securityspeak @SCMagazine @TheHackersNews @threatpost @ESET #Security
+“I’ve Been Hacked!” The Must-Know Tips for Protecting Yourself Online
+ http://t.co/DqBFeV4E
+Proper documentation is the leading culprit for #NERC CIP audit violations. #VerveSecurity includes Change Management
+RT ‏@RobCairns: Facebook's stock: The bleeding just won't stop | Internet &amp; Media - CNET News http://t.co/VtXqrFg7 #Facebook
+How to Protect Your Computer  http://t.co/IiPn3nZf
+RT @SecurityWeek: LinkedIn Says it Will Spend $2-3 Million in Security Upgrades Before the End of This Year http://t.co/Q0vGN2rh #infosec
+Case Study on #VerveSecurity Center http://t.co/cZdhjWxy
+Ten Tips For Protecting Your Computer From Hackers And Viruses
+ http://t.co/e8UEQwHO
+Anti-virus has been proven to only block about 30% of potential threats. Whitelisting is more effective. #VerveSecurity http://t.co/yJIyvjE2
+Each layer of #VerveSecurity was designed and selected to minimize the increasing number of #cyber attacks http://t.co/RH5YKtuH
+University launches degree to train future cybersecurity combatants  http://t.co/pEAqrtNe
+Facebook says it has 14 million 'undesirable' user accounts http://t.co/9zBd456p
+Congress should encourage bug fixes, reward secure systems  http://t.co/TD2jJYdF
+Tired Of Security Problems? Change Rules Of Writing Code  http://t.co/RY0eekOn
+NIST Updates Computer Security Guides  http://t.co/VBZUTm0Y
+Verve Security Center featured in Energy Case Study http://t.co/ICgEdg4H
+The Best Hacking Film You Haven't Seen (Yet)  http://t.co/lxvOAId8
+EPA security breach exposes personal information of 8,000 people 
+ http://t.co/YyQjPSDT
+Cybersecurity Bill Is Blocked by G.O.P. Filibuster http://t.co/nkljrldS
+Obama official: Feds need more cybersecurity oversight for electric grid
+ http://t.co/s9hmr5Aa
+Our SIEM provides required long-term consolidated logging, #NERC reporting, alerts &amp;correlation. #VerveSecurity http://t.co/ka6YWu2a
+Cybersecurity at Risk http://t.co/b5KNlTEJ
+UK remains oblivious to Olympic cyber scams   http://t.co/78aq2RiY
+Hey, Hackers: Defense Is Sexy, Too  http://t.co/WdRvllEQ
+Hackers Targeting Home Computers To Beat Corporate Security
+ http://t.co/YihUlKHC
+Protect Your Assets: A Buying Guide to Office Security Systems 
+ http://t.co/PnLKYbuS
+Banks wrestle with cyber security  http://t.co/ICzQ9t0c
+Pentagon sets cybersecurity sights on social media http://t.co/Uvf4uAa7
+The Cybersecurity Act of 2012  http://t.co/4TaaOK1I
+Cybersecurity: Bit9 Gets $34.5M From Sequoia, Others For Its Whitelist Approach To Fighting Attacks  http://t.co/FlVRLVXr
+Sorry for the lack of tweets last week! It was a busy week for the whole company! :)
+Thanks for the #FF @itechspecialists &amp; @DebbieMahler
+Stops unauthorized USB drives from being placed on control system &amp; doesn’t allow any inbound ports into control system #VerveSecurity
+Patches and anti-virus updates can be deployed in a simple and controlled process with minimal impact on operations #VerveSecurity
+Universities to help nurture new cyber security experts  http://t.co/jupslUo6
+Cybersecurity isn't a border-based threat, it's a viral threat http://t.co/GLrYERDV
+The President talks cyber security, or is it just for political gain?
+ http://t.co/34tUhPEg
+State warns businesses of cyber security threats  http://t.co/tkGffyCu
+Updated Cybersecurity Act unveiled in US
+ http://t.co/RlC9jKT2
+#VerveSecurity alerts administrator if unauthorized programs attempt to execute. Whitelisting is integrated with AV
+End users can see changes made to control system logic, graphics, databases, firewalls, routers &amp; switches. #VerveSecurity
+Government-sponsored hackers target commercial secrets http://t.co/90EGavjP
+Teen Hackers: 10 Stories Of Young Code-Crackers  http://t.co/ugsQeJCQ
+Estonian Man Gets 7-Year Prison Term in Hacking Cases. http://t.co/s6hrUwf1
+The Top Five Cybersecurity Threats of Olympic Proportions
+ http://t.co/0LjwVji7
+Cyberspy program targets victims in Iran, Israel, companies say  http://t.co/Gy155saI
+Cybersecurity the Agile Architecture Way  http://t.co/ENmog6yg
+Legal, regulatory risks keep firms from sharing cyber threat data http://t.co/T2reqP53
+Researchers Say They Took Down World’s Third-Largest Botnet
+ http://t.co/VdhWDzTa
+Patches, AV updates &amp; whitelisting databases can be automatic, air-gapped, or semi airgapped for more secure environments. #VerveSecurity
+University of Maryland Smith School of Business Launches Cybersecurity Leadership Program http://t.co/hkPtaLS5
+China to Tighten Info Security Measures  http://t.co/jirTK6wZ
+Anonymous hackers target energy majors http://t.co/VqrPY0Ba
+Password Protection: Smart Tips for Fortifying the First Line of IT Security  http://t.co/rAsupL1W
+Senators debated #cybersecurity and the electricity grid http://t.co/ipC5bCro via @OnCybersecurity
+RT @securityspeak: 2012 Summer Olympics: Go for the Gold in Cybersecurity http://t.co/EreDURr0
+Bingaman to push for expanded oversight of power grid in cybersecurity bill
+ http://t.co/hmqNynAN
+Don't let down on cyber security http://t.co/oVE4q49v
+Ohio Lawmaker Wants To Create Cyber Security Council To Protect Residents’ Information  http://t.co/WettdKRJ
+Only whitelisted applications will run. Alerts administrator if unauthorized programs attempt to execute. #VerveSecurity
+Cybersecurity: The Role for Data Analytics http://t.co/wcBzsz98
+Lieberman Seeks Cybersecurity Changes to Add Senate Votes
+ http://t.co/oPla4Mjh
+5 Reasons Why #Cybersecurity Is a Tough Nut to Crack  http://t.co/OY6Ro5OG
+How to Enhance #Cybersecurity and Create American #Jobs  http://t.co/QB1lNSRi
+Symantec Enterprise Antivirus Update Sparks Blue Screen of Death for Some Win XP Users  http://t.co/ysK1SvF9
+Yahoo confirms 400,000 email accounts hacked and passwords stolen
+ http://t.co/21Rrsw5o
+Cybersecurity chief worries about al-Qaida http://t.co/NDQsnQXk
+FBI uses cybersecurity heavyweights to tackle fuzzing attacks
+ http://t.co/18Zkr233
+DHS Blue Teams bear out agency compliance with cybersecurity rules
+ http://t.co/a2CO63sC
+Cybersecurity compromise still uncertain  http://t.co/nu2C6CpH
+How to survive attacks that result in password leaks?  http://t.co/KifL191J
+RT @bit9: Security threats explained: Internal excessive privilege http://t.co/X8GdyKit
+Opinion: Cyber war on Iran has only just begun  http://t.co/3ZgSwh5E
+America's Top Cyberwarrior Says Cyberattacks Cost $250 Billion A Year
+ http://t.co/aH3Oziz6
+RT @debbiemahler: #FF @m2sys @CansecSystems @VerveSecurity @SiliconShecky @securityspeak @SCMagazine @TheHackersNews @threatpost @ESET #Sec
+#VerveSecurity Center consists of several components: AV, Whitelisting, Patching, SIEM &amp; more http://t.co/Zvad0hWr
+Future Homeland Security Threats Comprise Smaller Groups, Cybersecurity Vulnerabilities, Experts Say http://t.co/oKiZXppI
+5 Most In-Demand Security Skills http://t.co/vhvj28S1
+Hackers Hit Storage Wars Stars' Computer http://t.co/v53Fcqk3
+Yahoo hack: Details of 453,000 users exposed online  http://t.co/UHI3wl86
+Sens. Whitehouse, Blumenthal call for action on cybersecurity legislation
+ http://t.co/FR6iqF61
+RT @debbiemahler: 100,000 Users Have Downloaded Malware From Google Play - Forbes http://t.co/Hw6AcbmF
+Privacy trumps cybersecurity, poll shows  http://t.co/Ulxh2qRU
+Cyber Security Awareness Day draws over 630,000 pledges  http://t.co/ryrMSUBq
+Industrial giants making forays into cyber security  http://t.co/5j9PTKvc
+Govts should focus on cybersecurity education, not militarization  http://t.co/aWSQy4Q3
+Our View: Cybersecurity – This Is The Time For Action  http://t.co/ArpzCEkZ
+US urged to recruit master hackers to wage cyber war on America's foes http://t.co/0AWBpqoh
+#VerveSecurity captures both image &amp; custom control system vendor backups that can recover a whole machine, even to dissimilar hardware
+Hack the diagnostics connector, steal yourself a BMW in 3 minutes  http://t.co/Elp5qlBM
+Hack Yourself First: Interview Jeremiah Grossman  http://t.co/FpJuYyxu
+RT @RknealInc: Smart Energy Grids Need Protection From Cyber Attacks http://t.co/Thg7ZhNi
+U.S. Cyber Challenge and Delaware Universities to Host 3rd Annual Cyber Security Summer Camp &amp; Competition  http://t.co/uUPSgiRW
+Cyber Security firm, Passfaces Corporation, adds Federal Marketing Partner
+ http://t.co/BFexXeAB
+Cybersecurity chief urges action by Congress  http://t.co/JTffVbRE
+Olympic Officials Brace for Hackers Competition  http://t.co/WdeoHvXG
+Internet 'Monday Malware' shutdown: how and why hackers did this?  http://t.co/qMBMZ5J9
+The internet will never be secure: Sourcefire   http://t.co/nvM7bcVO
+Industry expects to see compromise Senate cybersecurity framework soon
+ http://t.co/DS8W3fIn
+Hackers target small businesses  http://t.co/nljRbinh
+'The Analyzer’ Gets Time Served for Million-Dollar Bank Heist  http://t.co/b8DGMn6O
+How Hackers Attack . http://t.co/aYetZnbj
+6 new ways hackers are using malware  http://t.co/YlUfErlD
+RT @DebbieMahler: #FollowFriday @m2sys @cansecsystems @vervesecurity @siliconshecky @securityspeak @scmagazine @thehackersnews @ThreatPo ...
+How to Protect Your Computer From Looming Malware Virus  http://t.co/nCv35t9K
+Android Botnet Caught Red-handed  http://t.co/zzFUpWxu
+Bug catching activities beneficial, but obstacles exist  http://t.co/flx6VVGa
+Cyber security market to grow to approximately $120.1 billion http://t.co/oAx9C4FN
+An Unhappy Birthday For Uncle Sam On Cyber Security  http://t.co/Zf1iCFhV
+Homeland security cites sharp rise in cyber attacks  http://t.co/zdDJL0DO
+Ethical hackers secure Olympics' online presence  http://t.co/81z4bIR3
+Instead of operating reactively to the growing list of viruses, #VerveSecurity proactively blocks any unapproved executable via whitelisting
+Senate Working on Cybersecurity Bills  http://t.co/oA6VFiCI
+Keep Pets Safe on July 4th  http://t.co/6ALKB0j3
+Deadly July 4th can be avoided with these driver safety tips http://t.co/czxcu4ca #4thofJuly
+Water Safety Tips for the Fourth of July http://t.co/sq6AhBdU #4thofJuly
+Be safe and have fun tomorrow! #4thofJuly
+PandaLabs Offers Security Tips to Stay Safe This Summer  http://t.co/Zepe4KWX
+Cyber Security Program in Oklahoma Now Accepting Fall Applications for Full Scholarships and Stipend  http://t.co/e2auoG8x
+Moving Forward with US-Japan Cybersecurity Cooperation http://t.co/Ujmds0Cu
+Network Security a Growing Virtualization Concern, But Also an Opportunity
+ http://t.co/08svTz0j
+Cyber Security Rule #1--There is no Security  http://t.co/Xuttf1A1
+RT @RknealInc: Chinese hackers breach Indian navy computers via flash drives http://t.co/nNazx0kQ
+Europe needs cyber-insurance market to improve IT security http://t.co/kScDQCOS
+Locking Private Sector Shields Against Cyber Attacks  http://t.co/7XaqPeyx
+Anti-virus added to #VerveSecurity for 3reasons:1) NERC CIP requires it 2) Verifies no virus prior to whitelisting 3) multi-layer protection
+High school grads landing high-tech security positions  http://t.co/25Wk1BfS
+BYU recognized as one of nation's premier academic institutions in cybersecurity education http://t.co/qMlFM9kD
+Senate ready to move on cybersecurity legislation, but differences remain
+ http://t.co/l6AGFLn5
+Lookingglass Cyber Solutions Announces Diamond Sponsorship of Black Hat USA 2012
+ http://t.co/FO6eTgeC
+McCain Amends SECURE IT Cybersecurity Bill to Address Privacy Concerns http://t.co/Tcpkh9XR
+76% of Information Security Professionals Believe U.S. Cyber Security Has Increased Over the Last 12 Months http://t.co/V4wgrv6V
+. @kaspersky Flags Up Olympic Cyber Security Threats http://t.co/2jXycTLf #security #olympics
+Energy Department Develops Tool to Help Utilities Strengthen Their Cybersecurity Capabilities #vervesecurity http://t.co/1oGYw7OU
+Cybercrime disclosures rare despite new SEC rule  http://t.co/DTizo71j
+#FollowFriday #FFSec @securityspeak @scmagazine @thehackersnews @wireheadlance @ThreatPost @DebbieMahler  #Security
+Bad Hackers Turned Good Get Top Spot in Facebook Manhunt  http://t.co/ChHeZgUH
+Federal judge in Boston sentences hacker to three years in prison  http://t.co/p5KV0HUG
+DHS hones dynamic approach to securing agency computer networks  http://t.co/Lajll4ix
+Has the ability to monitor all USB devices and executable content introduced to your system. #VerveSecurity http://t.co/45i03xQ2
+Cyber Security Challenge candidates fail to utilise free training  http://t.co/3VT373f0
+Cybersecurity center aims at increasing business-government collaboration
+ http://t.co/G1rPbfhN
+GOP Senators revise cybersecurity bill  http://t.co/4mdpcAcl
+The urgency of a computer virus nonproliferation treaty http://t.co/8JVSWbL4
+San Jose State University officials deny hacker's data theft claims  http://t.co/q0a9ZQPx
+F.B.I. Says 24 Are Arrested in Credit Card Theft Plan http://t.co/cVZJ5bAq
+Budget pressures, workforce woes and cyber threats converge  http://t.co/KuxpSu3c
+Network security: Is new technology bypassing traditional controls?  http://t.co/uRCmIPWo
+Twitter, Terrorists and Turmoil  http://t.co/HQt7cEeE
+Online banking hackers 'a step ahead of us' http://t.co/TETjsV9N #security
+Here is the June 2012 newsletter: http://t.co/U28ClxwU #cybersecurity #vervesecurity
+British computer hackers admit CIA and police cyber attacks  http://t.co/MrwrHJ6B
+Building Computer Networks With Security in Mind http://t.co/cPQXIcRZ
+Breakthrough? Cyber bills could reach Senate floor in July http://t.co/BshKu2UO
+MI5: ‘Astonishing’ Level Of Cyber Security Attacks Hit UK  http://t.co/l78q5RcU
+Check out our new product video for #VerveSecurity Center on @YouTube http://t.co/Bev3cvqg
+RT @wireheadlance: Hacking Strikes Fear in the Heart of Texas Bureau of Prisons: http://t.co/Me9uiR79 | @InfosecIsland #infosec
+Proper documentation is the leading culprit for #NERC CIP audit violations. #VerveSecurity includes Change Management
+Anti-virus has been proven to only block about 30% of potential threats. Whitelisting is more effective. #VerveSecurity
+Microsoft dangles $250k prize for hackers doing security research 
+ http://t.co/N1mcTX3r
+Lulzsec hackers plead guilty at London court  http://t.co/Y720onc7
+Lack of cyber plan leaves U.S. vulnerable  http://t.co/erDOdArn
+Achieving Internet Order Without Law  http://t.co/bhbh6pYa
+Center for Internet Security Unveils New Business Division  http://t.co/vChVfsaf
+In Computer Hacking, the Latest Isn’t Always the Greatest  http://t.co/2nN0unMQ
+Cyber security is not just about protection from hackers  http://t.co/dwgzN2rj
+Cyber security panel offers advice for protecting your identity  http://t.co/pHP0LfyY

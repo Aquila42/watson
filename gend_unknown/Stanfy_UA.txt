@@ -1,0 +1,619 @@
+Stanfy_UA
+http://pbs.twimg.com/profile_images/524918311381762048/ymMY7e0I_400x400.jpeg
+RT @Tika_: Любомир из @stanfy рассказывает о KPI метриках на #uamobitech https://t.co/HgDgMC0guS
+RT @stanfy: Data processing components architecture in mobile apps. by @VitaliyMal https://t.co/veYI30klxC #mobile #appdev
+@mesmerizingsnow угу, все наши на фото)
+RT @anatinge: Team top view :) with @vixentael #stanfyeveryday #agile #demo #stanfy https://t.co/urGCNWsogx
+RT @UXDesignTop: Creating Apple TV apps. Key things to keep in mind — Stanfy. Designing Mobi... https://t.co/0s0xrsMbr9 via @stanfy https:/…
+RT @vixentael: pushed some our animations from TransplantHero app to #dribbble https://t.co/XhN2dcdTVv https://t.co/yQa1RTYHy2
+RT @aleks_muse: “product design is problem solving that covers the full stack of design” — @jenndodd https://t.co/WVDzzD3qaZ https://t.co/z…
+Конфа @uaMobiTech уже в эту пт, 14.11 в Днепре! Мы тоже там будем: @lostapiv CFO в Stanfy выступит с докладом! Join! https://t.co/CshZnNCevx
+RT @nlutsenko: My talk about inside of Parse SDK is now available on GitHub. https://t.co/dSRspol7ja #doiOS
+RT @vixentael: if you don't wanna wait too long until conf ends --&gt; my dodo-foxy-slides https://t.co/qu4i4fpCaa #doios #dodoios https://t.c…
+RT @dlosunadev: Great security talk by @vixentael at #doiOS https://t.co/BSeCGSGoee
+RT @AppAcademyNL: Hands on iOS security tips from @vixentael on @iOSConf #doiOS https://t.co/zWfHVCDiqq
+RT @iOSConf: These speakers are working well together: @vixentael just recommended the Valet lib by @TheFederman for key management.
+RT @brunoscheele: This is why dodo’s are extinct! #doiOS @vixentael https://t.co/OQaHNgRXld
+RT @iOSConf: For shame, Evernote! Did @vixentael just show us plain text email and password data  using Burp proxy? #doiOS #dodoiOS #everno…
+RT @tTikitu: .@vixentael at #doiOS: “Unlike with normal programming, with security working harder does not always get you better results.”
+RT @tTikitu: Great talk by @vixentael. Starts light and funny, gets scary quick. “We as developers should be ashamed of this.” #doiOS
+RT @akosma: copy-pasting code from Stack Overflow has clearly become a core part of our craft – @spolsky can be proud 
+
+cc @vixentael @iOSC…
+RT @bashmakov: Our @vixentael is giving the talk on #doiOS @iOSConf about security in #iOSdev applications. https://t.co/vbvYspusoV
+RT @icanzilb: Dodo birds!!! ( are unicorns totally out this year?) #doiOS https://t.co/0RaQBqf2RF
+RT @katynprice: Meet Alice and Bob. #doiOS conference and security from @vixentael https://t.co/ieoUS0jOaC
+RT @iOSConf: And of course the security expert is dressed in all black, with badass leather gloves. #doiOS #dodoiOS https://t.co/y615o3bTfI
+Прямая трансляция с @iOSConf: https://t.co/sNo1IClqrZ! @vixentael iOS Engineer в @Stanfy_UA рассказывает о #datasecurity!
+RT @iOSConf: Next up: @vixentael with a topic that is often missed: security. Working for Alice and Bob to outfox Eve.
+RT @akosma: LIVE on #Periscope: On @iosconf now @vixentael explains client-server security #doios https://t.co/oEVv2gxExA
+RT @vixentael: Devs think apps are safe from attacks in their neat sandboxes, but they are not. https://t.co/OfPab51wb3 #mddaylviv2015 #ios…
+RT @vixentael: I feel like a rockstar when see my pic inside the app 😎 #doios https://t.co/LgUccr5CHV
+RT @iOSConf: @Stanfy_UA @vixentael @stanfy :) #iosdev #doios https://t.co/TOuHmwTvIk
+Уже в след пн, 9 ноября, @vixentael, iOS Engineer в @stanfy выступит на @iOSConf в Амстере! https://t.co/6wPV7G58FV https://t.co/4wIRVvGl6M
+RT @DesignerStartup: Web-Based mobile apps
+
+#UX #UI #startups #reactions http://t.co/wAcRATA3DI
+RT @aleks_voronov: Exploring The New Apple TV and tvOS: Developers’ Thoughts https://t.co/PRnbgr9AFx
+Ловите презентацию @VitaliyMal для #mddaylviv2015! Data processing components architecture in mobile applications: https://t.co/j9gGxr9WoI
+Наша команда на #mddaylviv2015! ) with @VitaliyMal &amp; @vixentael https://t.co/zyM5etmO7t
+RT @vixentael: Data transfer security for the little fish in the ocean of threats! My slides for #mddaylviv2015 https://t.co/u910aDPAaG #io…
+Небольшой тизер запощен, а линку на полную версию этой вкуснятины via @VitaliyMal скинем следом;) #mddaylviv2015
+View model отделяет бизнес логику, упрощая жизнь и тестирование;) via @VitaliyMal #mddaylviv2015 https://t.co/JHPBWIsp3w
+Обещанная линочка;)https://t.co/YSNPVgSu8w #mddaylviv2015
+Бизнес логика растет и наше приложение нуждается в помощи:) data mappar как решение via @VitaliyMal  #mddaylviv2015 https://t.co/gR5PrIO1Zy
+Приступаем к 2-у докладу!) @VitaliyMal, наш iOS Dev о data processing components architecture in apps #mddaylviv2015 https://t.co/7MFfjPCQcR
+Ещё больше полезнях будет доступно на speakerdesk @vixentael, линка следом;)
+Как левел ап защиты - временные ключи для кодировки сообщений (прим. чат)#datasecurity #mddaylviv2015 via @vixentael https://t.co/gcMb6fH4HE
+SSL pinning as MUST, но не достаточно) хаха #datasecurity #mddaylviv2015 via @vixentael https://t.co/C54IenN1LF
+Обязательно юзаем надежные, авторитетные тулзы via @vixentael #datasecurity #mddaylviv2015 https://t.co/efgyZuIjLk
+Итак, @vixentael на #mddaylviv2015 советует следующие полезные штуки: https://t.co/8wqeKhzAvN
+Как защитить бедную рыбку в океане угроз?!( @vixentael о #datasecurity #mddaylviv2015 https://t.co/dZG8puHySN
+Начинаем! @vixentael о data transfer security for mobile apps для #mddaylviv2015. Поехали!;) https://t.co/mHJVhA7u87
+RT @vixentael: Ready to talk about security at #mddaylviv2015! My talk is next! Fluffy carrot is helping me ✨ https://t.co/cUZf1UpwY5
+Буквально через пару часов мы с вами встретимся на #mddaylviv2015/ @vixentael &amp; @VitaliyMal https://t.co/5EuCQreJdh
+Мы уже во Львове и будем рады встретиться на #mddaylviv2015!;) @vixentael и @VitaliyMal приготовили крутые доклады, так что до встречи B)
+RT @cathy_birdy: Do not let your user see spinners https://t.co/yUWDO23uzf
+RT @TT_Kilew: What are the biggest myths software engineers believe? #quora Find yourself in those quotes :) " It was a simple fix, no need…
+В новом выпуске @iOSDevWeekly статья @TT_Kilew: Handling Multiple Interactions Without Server Confirmation.  https://t.co/Axll7qRuMB
+Презентация @roman_mazur c #dfua, которая прошла во Львове 23-24.10. Видео будет доступно позже.  https://t.co/kRC605vJac
+Делимся размышлениями нашего CFO @lostapiv о перспективах #ИТ в Украине! Познавательного чтения!;) https://t.co/IHNT2kbY3n
+Встречаемся завтра на @GDGLviv DevFest! Где @roman_mazur расскажет о силе Android shell! #dfua #devfest https://t.co/ojeSloLdbU
+RT @stanfy: Magic: let users feel that every action performed in the app happens immediately!Check how;) https://t.co/U9xfGeefNY https://t.…
+RT @vixentael: 3 projects: old and huuuuge, new and big, new and small :)) thanks @TT_Kilew for #objcdependencyvisualizer tool https://t.co…
+RT @stanfy: Optimistic Models: Handling Multiple Interactions Without Server Confirmation via @TT_Kilew: https://t.co/zopoIw9xan https://t.…
+Уже в эту пт стартует @GDGLviv DevFest! Мы там тоже будем;) @roman_mazur расскажет об Android shell! #dfua #devfest http://t.co/G7ck2dlsZC
+RT @roman_mazur: It's not that simple to display Android content service dump.
+Getting ready for my Android shell talk at #dfua ... http://…
+RT @vixentael: hey, @iOSConf! Working hard on my security talk! See you sooooon! 🔥 http://t.co/VXdvdiRuyQ
+RT @iOSConf: Here's one of our speakers: @vixentael from @stanfy
+https://t.co/TpaojIkz73
+RT @vixentael: ✨42 or 'Why estimation fails and how to prevent this'. Read P2 of my post! https://t.co/pAsqczun60 #iosdev @longread http://…
+RT @iOSConf: @stanfy @vixentael Ticketlink: http://t.co/B02kcBCUKt
+RT @devua: Беседа с Михаилом Пустовитом, Android developer’ом в Stanfy http://t.co/JOQSlOtO8P
+RT @vixentael: Polishing my blog posts about project estimations.. Lots of text and pics! Coming soon ;) #iosdev #reading http://t.co/l0JbP…
+RT @vixentael: Finally finished! Estimating mobile projects. P1. Step by step guide https://t.co/hHtE46EWRM #iosdev #longread #pony http://…
+Держим путь на Харьков!) 10.10 СFO Stanfy @lostapiv выступит на ITFinance Talk от @KharkovIt: http://t.co/OavpM1DhLJ http://t.co/4fGP2wJ25i
+Видео с 9-го #MadCode вебинара: @aleks_voronov о functional programming! Cмотрим тут: https://t.co/49SIQZiEeH Attention: Много полезностей!)
+В 18:00 @aleks_voronov проведет отличный free вебинар по #functionalprogramming! Join: https://t.co/NRuCDTaKgQ http://t.co/59hQNo4zc2
+RT @stanfy: Applying Functional Programming to iOS development in #Swift http://t.co/2582IEuiO7 #mobiledev #iosdev
+RT @aleks_voronov: Really interesting article that raises few controversial questions: "'Mostly functional' programming does not work" http…
+@aleks_muse Definitely!)
+RT @zasadnyy: Welcome Android super hero, Software Engineer at Stanfy - Roman Mazur (GDG Kyiv). He will… https://t.co/q8kCuOFXur http://t.c…
+@aleks_muse Круто, что ты с нами!^_^ Мы тоже очень-очень счастливы!)
+RT @aleks_muse: One year ago I joined @stanfy team. This small sketch shows how happy I was then ;) and still more than happy! http://t.co/…
+Говорят, завтра пройдет крутой вебинар о #functionalprogramming! Вот линка регистрации;) https://t.co/znI9QFPKgy http://t.co/I1Iai7Ecpk
+Вебинар от StanfyTeam: @aleks_voronov расскажет о #functionalprograming, 8.10! Детали тут: https://t.co/NRuCDTaKgQ ;) http://t.co/IpBIVWWiyM
+RT @vixentael: I've got kiwi-banana jam as a gift for active twitting! 🎉 that's what i call 'cozy company atmosphere'! Tnx @stanfy http://t…
+RT @clutch_co: Interview: @Stanfy CEO @andrew_gawy shared work w/ #wearables for #AppleWatch &amp; @Pebble http://t.co/SG1X3fBSn6 http://t.co/I…
+RT @dou_calendar: Stanfy MadCode Meetup: Functional Programming 101 with Swift, 8 октября http://t.co/EqDilqchza
+RT @stanfy: What are the benefits of Pair Programming? And what are the pitfalls? Our experience at Stanfy http://t.co/0hIjTQ49dn http://t.…
+RT @bashmakov: Apple TV design tips from @anatinge #tvOS #AppleTV https://t.co/GWFjpRwTEu http://t.co/etNCe0NzmS
+Ахой! Приглашаем на #MadCode с @aleks_voronov о #functionalprogramming 8 октября. Регистрация https://t.co/Y0Z9z12Y32 http://t.co/BVjruW8qNK
+RT @iOSConf: @iOSConf Pic contains: @danielpunkass @vixentael @NatashaTheRobot @nlutsenko @icanzilb @TheFederman order from left to right, …
+RT @theGMIC: @stanfy see you there!  #GWICSV
+Тут @theBurbaka написал огого статью о своем опыте в #pairprogramming. Читать немедля!;) https://t.co/7zVAMtzu0J
+*___* @vixentael, iOS Engineer в Stanfy будет спикером на 'do{iOS}' конфе в Амстере, 9 ноября! Yes yes yay!!) https://t.co/xuCJbGRaEW
+RT @vixentael: 4 kinds of projects: simple/obvious, complicated, complex, chaotic ⚡️ #se2015
+RT @bashmakov: My thoughts about startups, team, collaboration and new things https://t.co/3CmJYCoYyD #startup #collaboration #iot
+Слушаем свежий подкаст «Откровенно про IT карьеризм» с @roman_mazur, Head of Android/Java Unit в Stanfy, на @devua!) http://t.co/7UVGkTv4ok
+RT @devua: Беседа с Романом Мазуром, Head of Android/Java Unit в Stanfy http://t.co/9fmyjWibDP
+RT @vixentael: join us today at #swiftrocks to listen @aleks_voronov talk about functional #swift
+http://t.co/or11hvPfpM #hackraft http://t…
+Ничоси! #SwiftRocks уже сегодня! Приходи послушать @aleks_voronov о Swift: Going Functional http://t.co/wT2TsN62Qs http://t.co/NGPhYj9V2e
+RT @stanfy: Bluetooth Low Energy Essentials and How to Effectively Develop #BLE software. https://t.co/6yoNK5Dx10 http://t.co/sLwLY3ZTGe
+Ты еще не читал пост @TT_Kilew 'Do Not Let Your User See Spinners?! 'https://t.co/rUGOq2buQ8 Так дела не будет, бегом исправляй!;)
+RT @bashmakov: Deep Learning overview from @syncwords CTO #machinelearning #ml http://t.co/Nj4dvInSzU
+RT @qa_vacancies: Mobile QA Engineer в Stanfy, Киев http://t.co/RWF4IsDDFB
+RT @vixentael: My slides describing rules of profanity filters inside one iOS app. 🍓18+! https://t.co/RVc7jiiZvq #iosdev http://t.co/HIfOTu…
+Колонка @lostapiv, CFO в Stanfy для @igate_com_ua. Cоветы стартаперам: стоит ли нанимать юристов в США http://t.co/T3JLF7vkiu
+RT @dou_calendar: Swift Rocks! #2, 15 сентября, Киев http://t.co/0ULExGdFxT
+RT @vixentael: я видела слайды, там хардкор для лямба-самцов ;) https://t.co/Ce8syJhx7F /cc @aleks_voronov
+15.09 на #SwiftRocks, iOS Dev в Stanfy @aleks_voronov поведает о Swift: Going Functional! http://t.co/wT2TsN62Qs http://t.co/ZMYXS9OuYv
+Хей!) Ищем QA Engineer 80 лвл к нам в семью!) Детали тут: https://t.co/co7lZeaadG Присылай CV! Arrr! ) http://t.co/FXGXCC75RR
+RT @aleks_voronov: Thanks @vixentael, today I learned a bunch of new words. Building Profanity Filters #fwdays #ITsat http://t.co/4lHUsKR1Pg
+RT @TT_Kilew: #fwdays #ITsat "Optimistic models" presentation slides https://t.co/a4TVBPtpFH
+RT @vixentael: my slides with lots of dirty words and profanity filters' rules #itsat #fwdays https://t.co/3b2giVRIaH
+^_^ уже завтра @TT_Kilew и @vixentael выступят на @fwdays #itsat! Полезная инфа гарантирована!) Регистрируйся: http://t.co/9exZ0YO3rM
+5.09 #mobile сходка @fwdays! На которой @vixentael поведает о 'Building profanity filters on mobile: clbuttic sh!t' http://t.co/9exZ0YO3rM
+5.09 в @SchastieHUB, Киев пройдет #mobile сходка @fwdays. Приходи послушать интересных спикеров, включая @TT_Kilew: http://t.co/vHeFNqo4Jn
+RT @stanfy: How to build a smart light bulb and connect it to the Internet? Here is how: http://t.co/PabfVjRSUI #IoT http://t.co/InDYW7KfA4
+В эту сб, 5.09 на #Mobile #ITsat выступит @TT_Kilew Head of iOS Unit at @Stanfy_UA. Спешим купить билет: http://t.co/pAl3h18rRh
+RT @NatashaTheRobot: Do not let your user see spinners via @TT_Kilew @iOSDevWeekly https://t.co/mTyO06MQm7
+RT @Unlucky_Sailor: Стенфайеры на пикничке ^__^ @Stanfy_UA http://t.co/2cjOF6h049
+RT @sashakagor: I'm at Stanfy in Kyiv https://t.co/nPkqhJRHOu http://t.co/NaYppax9QD
+RT @sashakagor: In love with new workspace 😍 @ Львовская Площадь https://t.co/LZ5mvcJrvc
+RT @stanfy: WoooHoo! We made a cool visualization of our team's daily #commits http://t.co/LimxJlMHuJ http://t.co/KG2HM87a8j
+RT @clutch_co: Cool project @Stanfy - blazing the way in #Iot #Keypr http://t.co/nWFq0jdOB9 #keyless http://t.co/v2LKekv0MK
+Читайте о нашем iOS приложении Transplant Hero в #iOS дайджесте @devua ко Дню Независимости http://t.co/0k5KbvfiJM #ДеньНезалежності
+RT @DSkorokhod: iOS дайджест до Дня Незалежності: iOS аплікації від українських компаній: http://t.co/BEp5Q9dql8 via @devua
+25.08 @aleks_voronov, iOS Dev в Stanfy выступит на SwiftRocks, Киев Тема: #Swift: Going Functional. Регистрируемся!) http://t.co/wT2TsN62Qs
+RT @andrew_gawy: Optimistic model in #ios apps. Greate way to imitate speed to users and do not show spinners. https://t.co/N87IOpNaXL #ios…
+RT @d1ma_zen: “Do not let your user see spinners” by @TT_Kilew #iosdev #objc  at @Medium https://t.co/R4rodFqm0d
+RT @TT_Kilew: Using Optimistic Models in “Do not let your user see spinners” https://t.co/UcdzdvkDxR Thanks to @aleks_voronov @bashmakov
+Свежая статья от @TT_Kilew: Do not let your user see spinners https://t.co/g1GHHBzdit #UX #ios #programming
+Видео с 8-го Stanfy #MadCode вебинара о парном программировании с @theBurbaka: https://t.co/G2764O7Xfy Приятного просмотра! #pairprogramming
+RT @stanfy: Our @andrew_gawy will be speaking at GMIC SV, on September 28-30. #mobile #conference http://t.co/Geno0bBrNj http://t.co/LsMmSU…
+Вебинар о парном программировании от @Stanfy_UA уже завтра! Регистрация еще открыта^_^ https://t.co/8vLLPtpcWx http://t.co/jal8Nc1GEN
+Spooning By Bitbucket https://t.co/gqL3zQuCSo XD  #pairprogramming
+Хей! 8-й #MadCode вебинар o #pairprogramming уже в эту ср, 19.08. Участие фришное. Регистрация тут;) https://t.co/8vLLPtpcWx Join!
+RT @TT_Kilew: “Cthulhu fhtagn!” or how we held #icfpc2015 @stanfy https://t.co/qvBykDyeQf #icfpc @ICFPContest2015
+Немного о том, как мы провели 72 часа #icfpc2015:  https://t.co/Uzcnadjg7t
+RT @TT_Kilew: Prepared for Java, Scala or  Kotlin. Scala first, then ObjC,  then some code in Python, finally switched to Node.js #icfpc @I…
+19.08 мы проводим следующий #MadCode вебинар, в этот раз о Pair Programming. Регистрация: https://t.co/8qkksENe6s http://t.co/Ekna0awTTU
+19 августа проводим уже 8-й Stanfy #MadCode. Тема вебинара: Pair Programming.  Регистрируемся: https://t.co/bVvEijw7wG
+В нашем офисе #ICFPC2015 #icfpc полным ходом. @Vandalko пойман за чтением спецификаций) http://t.co/3RXaIxPirP
+Cтартовал #ICFPC2015 #icfpc. Наши @vixentael и @TT_Kilew целиком в нём) http://t.co/aoE0K53h6a
+У нас отличная новость: CEO @stanfy Андрей Гаркавый @andrew_gawy выступит на @GMIC_SV! http://t.co/oTHL4kHJo0 http://t.co/yTLZNcEUMD
+19.08 #MadCode вебинар о #pairprogramming с @theBurbaka Android Dev в @Stanfy! Регистрация: https://t.co/8qkksF4Pv2 http://t.co/MNBRJvCccy
+RT @vixentael: wondering if you can implement #openvpn tunnel inside own app? there's no easy way ;)
+http://t.co/U2x8B4g7M6  #iosdev http:/…
+RT @ateshabaev: “What we’ve learned from 10 years of being in the software development business” by @bashmakov https://t.co/vQFsqWFwg4
+RT @RuthWinter9395: "Smartwatch User Interaction" in Stanfy. Designing Mobile Experience http://t.co/JlcQW3LOU7
+Наши @anatinge и @pbashmakov на конфе @RISEConfHQ :) https://t.co/YKOP6B3IWS
+RT @dou_calendar: Вебинар Stanfy MadCode Meetup#8: Pair Programming: Great Tool on a Rocky Path, 19 августа http://t.co/YFueh58ogb
+RT @UXDesignTop: Smartwatch User Interaction — Stanfy. Designing Mobile Experience — Medium http://t.co/fGvwBheoLV via @stanfy http://t.co/…
+#MadCode вебинар 19.08. Расскажем о правильном #pairprogramming, чтобы он не выглядел так;) https://t.co/yEMlZgOJUt http://t.co/lmTsKOeacE
+Приходите сегодня на интерактивную лекцию CFO @Stanfy_UA @lostapiv в americancouncils: https://t.co/kCUltySFcT #финансы #бюджет
+RT @laprasDrum: laprasdrum starred stanfy/spoon-gradle-plugin http://t.co/WjdaxEwdWT
+@Unlucky_Sailor Continue;)
+Открыта регистрация на 8-й #MadCode вебинар от @Stanfy_UA! Детали: https://t.co/Yoia5PXp1M Обсудим pair programming! http://t.co/DH6mOBGy2R
+RT @iamdevloper: http://t.co/GqtqYdFZ4U
+30.06 пройдет интерактивная лекция с CFO @Stanfy_UA @lostapiv: https://t.co/kCUltySFcT #финансы
+Френдс, мы в поисках того самого UX/UI Designer: http://t.co/301GMTdohk Будем благодарны за сводничество;) #ux #ui http://t.co/5YfMzGT2mw
+Cтатья с 7-го Stanfy #MadCode Meetup о #SoapUI. Читатйте тут: http://t.co/QoRm3vcHb2
+RT @andrew_gawy: Good rule for personal efficiency "Full presence - no laptop or phone distraction when on meetings" - collectively made th…
+RT @anatinge: Looking for UX/UI designer in our Kyiv office #uxjob #vacancy #ux #kyiv #Ukraine /cc @stanfymobile http://t.co/HCOnVbCsqy
+Хей! Ищем UX/UI Designer. Знаешь таких?) Много +++ в карму за шеринг и рекомендации! http://t.co/301GMTdohk #ux #Kyiv http://t.co/pQ30HA7KL6
+С Днём рождения нас! @Stanfy 10 лет!) Уррррраааа! #Birthday #happy #team http://t.co/vRTxhXVSG5
+Cегодня в @co_chasopys СFO Stanfy @lostapiv c докладом о Домашних финансах! http://t.co/ikKdG9eryT Регистрация открыта! Начало в 19:00
+Любомир Остапив, CFO Stanfy выступит в @co_chasopys c докладом на тему "Домашние финансы" 9.07 http://t.co/ikKdG9eryT Регистрация открыта!
+RT @shami13: Спасибо Анне Грабовской и компании #stanfy за организацию записи подкастов в Киеве @ Stanfy https://t.co/Axdj5B1BBv
+RT @Maslenskaya: Содержательный был ивент... Жаль, что пропустила #freelance, #croudfunding, #финансы, #upwork, #ecoisme, #stanfy http://t.…
+RT @ITeventsIO: Майстер-клас фінансового директора Stanfy Любомира Остапіва: «Домашні фінанси» on September 09, 2015 at 07:00PM http://t.co…
+RT @GodsmackAlex: #oiw2015 #geekslab #webcamp2015  Анастасия Войтова, Безопасность пользовательских данных в iOS приложениях :)excellent
+RT @TT_Kilew: React, ComponentKit and React Native slides https://t.co/90ZgE6SLnB #oiw2015
+RT @vixentael: my slides about users' data security at #oiw2015 https://t.co/vv2dKBBzgM
+RT @vixentael: iOS Stream on #oiw2015 with @TT_Kilew @DAlooG 😺 http://t.co/R0R5Mfeq0i
+RT @vixentael: Готовимся к докладу #oiw2015 http://t.co/HXkrUHZir4
+RT @vixentael: Пришли с @TT_Kilew и @DAlooG на мобильный день похищать наклеечки! #oiw2015 http://t.co/dwwIUOT1Wi
+RT @yarmolchuk: @shami13 только в Stanfy есть парочка очень крутых iOS разработчиков.
+Спаибо @yarmolchuk! Они у нас самы лучшие) и скромности тут не место^_^
+@shami13 надо обсудить вторую серию подкастов уже с iOS командой!;)  https://t.co/e0BjqVBOJF
+6.07 #webcamp2015, Одесса.  @TT_Kilew "ComponentKit и React Native. Быстро, просто, эффективно или...?" http://t.co/y5IYMeqNg3
+6.07 на #webcamp2015, Одесса @vixentael выступит с докладом "Безопасность пользовательских данных в iOS приложениях" http://t.co/y5IYMeqNg3
+В нашем офисе теперь зависает #spiderman!) http://t.co/0ARYKbtORD
+^_^ Stanfy горд и доволен: @vixentael и @TT_Kilew выступают на #webcamp2015 в Одессе! Приходите на #mobileday, 6 июля http://t.co/y5IYMeqNg3
+Онлайн-трансляция #MadCode: https://t.co/SvfhIa5szh тестим #SoapUI в действии! Join!
+RT @stanfymobile: Join our #MadCode Webinar “How to test Web API using SoapUI”, held in a format of a live demo of SoapUI in action. http:/…
+Уже совсем скоро пройдет наш 7-й MadCode! Регистрируйтесь, кто еще не успел!)
+ https://t.co/sBt8Aim5fN
+RT @anatinge: In 3 hours will start webinar “How to test Web API using SoapUI”, live demo of SoapUI http://t.co/Ol2hrvRMwV” via @stanfymobi…
+RT @ITCatalogue: Stanfy MadCode Meetup#7: How to test WebAPI using SoapUI: Date: July 1, 2015Place: onlineKey points:1. Why do ... http://t…
+RT @enahpets: http://t.co/RSZFiyvnwY : myth vs reality http://t.co/mvuRs3DPZz
+RT @andrew_gawy: Remote in #Usability Research - when it works and when does not http://t.co/S6JFRsYvvR #ux #design
+RT @bashmakov: iPhone &amp; Android made a disruption on smartphone market. Now we see the similar beginning of VR with Oculus/Morpheus and oth…
+RT @JohnAshtonUK: Crackerjack Visual Thinking Daily is out! http://t.co/bQtiEgSUQl Stories via @stanfymobile @Jezhop @EMDigAgendas
+RT @UXfeeder: slideshare: Remote user research &amp; usability methods:  User research is a reliable way to answer importan... http://t.co/ky3R…
+@Choco_Yuli @stanfymobile @clutch_co Thanks!
+RT @stanfymobile: Join our upcoming free #MadCode webinar to know more about the use of #SoapUI! Register: https://t.co/ie3P1pHXkn #qa http…
+RT @gamespeller: Stanfy MadCode Meetup#7: How to test Web API using SoapUI http://t.co/ZYufPn4UHE
+Как #SoapUI может избавить от головной боли?!) Рааскажем online на предстоящем #MadCode 1.07: https://t.co/JtF24cJqbb http://t.co/XwSMRldd3G
+RT @aleks_muse: Remote User Research &amp; Usability Methods to Gather Important Insights Fast http://t.co/DWzyDWb93t
+RT @GalacticPA: We need more Virtual Reality content. — Inside Stanfy — Medium https://t.co/SYLkyzdoK3
+Ура! Установили @nest в офисе. Теперь можно и потестиь) w/ @pustovit http://t.co/06RcG1hMcJ
+RT @webinara: RT: http://t.co/2M6Crfa6Kc #webinar RT stanfymobile: Registration to our upcoming webinar is opened! Speaker: Ol… http://t.co…
+RT @dou_calendar: Stanfy MadCode Meetup#7: How to test WebAPI using SoapUI, 1 июля http://t.co/AXavvnShAM
+Открыта регистрация на 7-й #MadCode от Stanfy команды! Присоединяйся) https://t.co/QXn3XiMYiV http://t.co/dAa8YzvXDx
+RT @shanebstuart: "You‘ve got to start with the customer experience and work back toward the technology – not the other way around." http:/…
+RT @iamdevloper: If you’re ever lost on an island, simply write “tabs &gt; spaces” in the sand and you’ll have an army of programmers descendi…
+RT @vixentael: How Introvert Can Survive as Project Manager http://t.co/2M3nyqKlnV @tisquirrel
+RT @droidconUK: Droidcon London 2015 📢 CALL FOR PAPERS --&gt; GO HERE --&gt; http://t.co/Y220vWjhHE #android #droidconuk #google #dev #tech http:…
+RT @TT_Kilew: Updated a bit Xcode plugin for Dynamic Code Injection. Should work better and faster :)  https://t.co/zC1ONiSQhV #dyci #xcode…
+Видео с 6-го #MadCode вебинара: @TT_Kilew о разработке под #AppleWatch: https://t.co/3Hg3zHIxhq #watchkit, #вебинар
+RT @bashmakov: Wearable and other things ... by @SridharSolur at #SFMEmeetup http://t.co/X9EIQ1KW0V
+RT @bashmakov: Don't owerload users with notifications, make them contextual @sridharsolur at #SFMEmeetup http://t.co/mTqjxjc632
+RT @peterngoldsmith: Just ran this dependency visualiser on an old codebase, really insightful: http://t.co/y9RNVMTddf
+Онлайн-трансляция #Madcode вебинара о #AppleWatch стартует в 18:30. Линка https://t.co/3Hg3zHIxhq Вещает @TT_Kilew ) Присоединяйся! #вебинар
+Регистрируйся на наш вебинар о разработке под #AppleWatch https://t.co/cpoEQr4hxt и получи линку на онлайн-трансляцию сегодня в 18:30!
+RT @KyivMakerFaire: Павел Башмаков из Stanfy прислал 49 минутное видео со Maker Faire Bay Area, которая прошла 10 дней назад. За что... htt…
+RT @it_kpi: Дайджест подій на 25.05 - 31.05 - http://t.co/3npYx8Htjj
+@ITCatalogue @tt_ Thanks for sharing! Registration: https://t.co/cpoEQr4hxt
+RT @CompGUD: Stanfy MadCode Meetup#6: Apple Watch. First Steps.
+RT @ITCatalogue: Stanfy MadCode Meetup#6: Apple Watch. First Steps.: Date: May 26, 2015Place: onlineSpeaker: Paul Taykalo (@TT_... http://t…
+Ребятки, в след. вт мы с @TT_Kilew ждем вас на 6-м #MadCode, о разработке под #AppleWatch! https://t.co/cpoEQr4hxt http://t.co/GZiXGnmE1d
+С всеукраинским Днём вышиванки нас! #Ukraine w/ @TT_Kilew  @vixentael @Tika_ @anna_iurchenko @pustovit @Nikib0z http://t.co/DB36YmLzmH
+RT @anatinge: Interesting analysis of smartwatches UX by @bashmakov https://t.co/KUEs3YwWIu #smartwatch #applewatch #ux #pebble @PebbleDev …
+RT @stanfymobile: Voice commands and voice text input could be the primary input method for a #smartwatch in the near future http://t.co/pt…
+RT @vixentael: Using MBaaS in mobile: advantages and limitations. Lots of links! My post about #Parse now in #medium https://t.co/oDi0HFniO…
+RT @alderson_taylor: Super stoked to be at #WWC15 come stop by and say hi at @GA_SF ! Already had an interesting conversation about #VR 
+#w…
+RT @anatinge: Thoughts around stress management for IT people by @nolia4ta https://t.co/e5jLoPZfoQ
+Наш @nolia4ta делится полезными раздумиями о стресс-менеджменте на Medium https://t.co/zap1kpUExc Рекомендуем!
+RT @vixentael: Client's review on the application that I have been working on together with @anatinge and @Oleg_Sheremet https://t.co/KM5mZ…
+Наш любимый Waterbalance для Apple Watch стойко держится в Featured TOP3!) http://t.co/NZ1lTey2Re
+RT @clutch_co: @Stanfy . Clients continue to rave about your #appdev services! http://t.co/pJD1hMxdmI
+Кто еще не в курсе...;)
+ https://t.co/9rLyKP3nJP
+RT @shlema: That's big news https://t.co/fKuUdamOFa
+Отличная пт новость - открыли регистрацию на 6-й #MadCode Meetup с @TT_Kilew! https://t.co/cpoEQr4hxt Join! http://t.co/YcDZ7cn1W7
+Наша @anatinge на #iforum 2015! Тема: #ux research in #mobile: https://t.co/WoQrjymTT3 http://t.co/SmN7RJIiBe
+RT @stanfymobile: Check out MyCalendar app for #Pebble on #ProductHunt! Comments are welcomed! http://t.co/mvLAnEqxtU
+RT @lukew: A new start. http://t.co/8w0fg5SQ65
+RT @andrew_gawy: Continues sharing our experience. This time about backends “@stanfymobile: @Parse: myth vs reality #mobiledev  http://t.co…
+RT @Choco_Yuli: Guys from @stanfy are sharing their experience: How to Handle Remote Engineering Team http://t.co/EC8J1sxMqA
+RT @clutch_co: Congrats to our Leading App Developers in Ukraine: @lemberg_co_uk @Intersog @Stanfy @MLSDevCom http://t.co/GR2AfP6Bdw http:/…
+RT @ActiveNick: ActiveNick's #iOS Developer News is out! http://t.co/Ijjb7vy7x2 Stories via @iOSDevFeed @iOSDevTools @Stanfy
+RT @modeso_ch: #mBaaS - Backend without code.  Myth vs Reality - 1st hand from a iOS Engineer @vixentael https://t.co/U6R2dHo0P1 @ParseIt #…
+Статья @vixentael о работе с @ParseIt с нашего 5-го #MadCode: http://t.co/6BSwFkN4fs http://t.co/BHgrDIWsaI
+RT @vixentael: my post about #Parse experience in iOS projects https://t.co/MdnZF7s0Nu #iosdev
+RT @andrew_gawy: App that we developed just got award for Best Mobile App User Interface http://t.co/2bXX4BcQLG #iosdev #UX
+Cтатья @pustovit о #gittree planting! http://t.co/dx64kth49Q to be continued)
+RT @PavelNosok: Work In Progress: How To Design an Apple Watch Application http://t.co/TGb85lPEw8
+RT @stanfymobile: We are honored that our Transplant Hero App has won the Platinum Award for Best Mobile App User Interface! http://t.co/Bv…
+@sbaranskyi @stanfymobile now must ok - check please
+Видео с 5-го #MadCode с @vixentael: https://t.co/aVwIBki800 Приятного просмотра!
+RT @vixentael: My slides from Stanfy MadCode 5. http://t.co/ayDFHLJ4OX: myth vs reality. http://t.co/UZ2dMtvMXM
+#MadCode: почему же юзать @ParseIt? Прямиком с онлайн-трансляции https://t.co/aVwIBki800 http://t.co/kixfyaHTEz
+В 17:30 начнем трансляцию 5-го #MadCode с @vixentael: https://t.co/aVwIBki800 присоединяйся! Тема: Backend without code.Parse:myth &amp; reality
+Первая часть статьи с прошлого #MadCode о #gittree planting c @pustovit  доступна на нашем блоге! To be continued;) http://t.co/dx64kth49Q
+RT @bashmakov: Prepare your app for Apple Watch http://t.co/JaJY8aRUZP /w @Stanfy
+RT @anatinge: @vixentael and Kostya at #agileee @stanfymobile @BeHppyApp team reunion :) @agileee http://t.co/ydEaYzhnoJ
+@vixentael активно готовит слайды с котиками для нашего #MadCode в ср!) Спеши регистрироваться http://t.co/5dfEPhirTy http://t.co/f3ejqGdsGj
+RT @kristinathai: Great post about the limitations of #WatchKit https://t.co/CZ1vkYhNw2 http://t.co/JxpkjDx0hv
+RT @AR72014: Waterbalance for #AppleWatch by Stanfy Mar 
+https://t.co/r0xvDY7TgD http://t.co/cO4fYOUq5n
+RT @fwdays: "Чем заняться, если лень писать код" 
+от Анастасия Войтова #fwdays #itsat http://t.co/rjZqsbbOKG
+RT @aleks_voronov: @vixentael: read new things! #fwdays http://t.co/I0OJViMjI1
+RT @TT_Kilew: presentation from #itsat #fwdays https://t.co/VlDe6kL5NI
+RT @aleks_voronov: #fwdays: @TT_Kilew об  #watchkit first steps http://t.co/v2QByRo68M
+RT @aleks_voronov: #fwdays: что делать, когда лень писать код? @vixentael рассказывает) http://t.co/QRmkSOtwV8
+Хотим напомнить о нашем 5-м #MadCode с @vixentael,  который пройдет 08.04 https://t.co/guYdGlPCdw Регистрируйтесь!
+RT @TT_Kilew: @vixentael and I are speakers on #ITSaturday Come there, it's free :) http://t.co/auZWBlkKsX #ios
+RT @vixentael: I and @TT_Kilew are speakers on ITSaturday! Come there, it's free :) http://t.co/1LTP3IwlyI #ios
+Мы в поисках той самой! Открыта вакансия ОМ: http://t.co/yTPLthNDN1 #киев #офисменеджер http://t.co/7dsU7IVKsS
+RT @dou_calendar: Stanfy Madcode 5: Backend without code. http://t.co/D2bkebmbzu: myth and reality, 8 апреля http://t.co/aATHM69ADE
+RT @vixentael: "We tell our customers 'you have obligations, if you won't meet them we won't work with you'" @andrew_gawy #agileee
+RT @vixentael: .@andrew_gawy starts his talk at mixed stage #agileee http://t.co/wlHYUsHIBb
+Приглашаем на наш 5-й #MadCode, который проведет @vixentael. Поговорим о Parse. Присоединяйся! http://t.co/5dfEPhirTy http://t.co/S2byuZsXlk
+RT @swift_jitsu: TSP008 - #UIUX - Build as you learn validate as quickly as you can with @andrew_gawy http://t.co/0EiBfLk8im #iosdev #ios #…
+Отличная понедельничная новость: наш CEO @andrew_gawy будет спикером на @agileee, 27-28 марта в Киеве!)
+Видео с нашего последнего #MadCode с @pustovit о #git tree planting https://t.co/8LSpDxmNAY
+Сегодня в 17:30 ждем онлайн на #MadCode c @pustovit для разговоров о git tree planting. Кто еще не зарегался: http://t.co/nOfbuxcIxc
+RT @devua: iOS дайджест #3: Apple Watch, WatchKit + Бонус $50 http://t.co/0ru3wAf4Lo
+Ахой! Наоминаем, что во вт (10.03), @pustovit проведет 4-й MadCode: http://t.co/nOfbuxcIxc Тема: Git Tree Planning. Присоединяйтесь)
+RT @dou_calendar: Stanfy Madcode 4: Git tree planting. Strategies, fertilizing, best practices, 10 марта http://t.co/UdxhjJg9q9
+RT @bashmakov: Some results from our #douhack with @vixentael @vitaliymal @TT_Kilew at @Stanfy http://t.co/yTzETx7sJ6
+10 марта @pustovit проведет 4-й #MadCode и расскажет о git tree planting http://t.co/nOfbuxcIxc Присоединяйся! http://t.co/cVnfYCtvdv
+RT @bashmakov: Attending #douhack with @Stanfy team @TT_Kilew @vixentael @vitaliymal
+@andrew_gawy об особенностях работы #remote команды http://t.co/SwUOm1xhCs
+RT @lostapiv: Любомир Остапив: Рецепт превращения Украины в процветающую экономику | Новое Время: http://t.co/k9GOdKPcMp
+Краткий конспект по #codereview с прошлого #MadCode от @vandalko http://t.co/kPB9SI4v0b
+RT @Choco_Yuli: In Europe #Android remains the dominant #mobile OS (73,9% of smartphones sales across 5 major European economies) http://t.…
+RT @jack_martynov: Solid opinion - Real Story about WatchKit — Medium http://t.co/aWX1qDWcnz
+RT @LiofOrg: Любомир Остапів – CFO in Stanfy розповість про «Банки, Paypal та системи білінгу для міжнародного ІТ бізнесу» http://t.co/cj9u…
+Тем временем в Stanfy: добавили на @Medium статью @TT_Kilew на душещипательную тему - Apple #watchkit: https://t.co/h824yFxpx1 Приятного)
+@Vandalko в процессе финальных приготовлений к сегодняшнему #MadCode) Увидимся онлайн в 17:30!https://t.co/iave5shjsf http://t.co/ue1B4nSHVX
+Что нужно проверить перед #publish в @AppStore? Ловите check-list от @vixentael: https://t.co/eWUpuMCMfA ;)
+RT @Skyhook: 5 #Wearables &amp; Features To Be Excited About In 2015 http://t.co/CiBKRBRXhJ
+Уже есть первые скрины замены iPhoto для Mac http://t.co/TeKpKCmXcK
+RT @MattNavarra: Introducing the Tinder Love Machine™ http://t.co/Kd2LHAiFdz
+Хей! Ровно через неделю пройдет 3-й #MadCode, еще есть время зарегаться!) https://t.co/iave5t86Qr Обсудим #codereview с @Vandalko. До связи!
+RT @Choco_Yuli: Looks like there will be about 15B devices connected to Internet in 2015, and around 40B devices by 2020 http://t.co/U8g6D1…
+RT @defagos: Consistency, as designed by Apple in California http://t.co/iBun9DPdk6
+Рисуем разных людишек с @anatinge 😄 http://t.co/OtkYnX52R5
+Сегодня в Часопыс наша @anatinge рассказывает о силе визуализации 😉 http://t.co/vDpNHeUA5w
+Stanfy MadCode Meetup: What Makes a Good Code Review, наш 3-й вебинар. Пройдет 10 февраля https://t.co/iave5t86Qr Регистрируйся!)
+#VR #cardboard прибыл. Потестим) http://t.co/1qr6gAUU8r
+RT @dou_calendar: Stanfy MadCode Meetup: What Makes a Good Code Review, 10 февраля http://t.co/XUIBxnSpmg
+Приглашаем на 3-й #MadCode: 10 февраля @Vandalko расскажет о тонкостях хорошего #code review! https://t.co/iave5t86Qr http://t.co/UFO3qepxgo
+RT @Runscope: "working with the network traffic is a significant part of mobile apps testing" http://t.co/EQlhJ7QpPT
+И демо провели, и клиента с ДР поздравили) @vixentael и @Oleg_Sheremet мимими) что еще сказать?!) http://t.co/r0i2EAaxDy
+RT @ain_ua: Китайские пограничники задержали контрабандиста, который пытался ввезти в страну 94(!) айфона. http://t.co/PiH0mLSwWa
+RT @dryab: Толщина нового телевизора #Sony в сравнении с #iPhone6. Такой главное не сломать, пока вешаешь на стену) #CES2015 http://t.co/Ye…
+RT @dzhariy: When the client asks how the project is going
+http://t.co/mzVcluUj60 http://t.co/qeQnjSvBd9
+RT @agoncal: 2015 = 1024 + 512 + 256 + 128 + 64 + 16 + 8 + 4 + 2 +1 #GeekyNewYear
+С наступающим Новым годом, друзья!) Счастья и мира всем нам! http://t.co/rRVHKwrCC9
+@theBurbaka гарної подорожі!)
+RT @max_lunin: Просыпайтесь. Ибо ночь темна и ужасов полна. А Будущее рядом и оно никого не будет ждать http://t.co/9eW48JVV6T
+@andrew_gawy CEO в Stanfy об IT в Украине: итоги 2014, перспективы 2015 http://t.co/DB2R8zOv9U
+Ведущие участники украинского IT-рынка о итогах 2014 и перспективах 2015 http://t.co/DB2R8zOv9U #IT #Ukraine
+RT @DvoretskayaS: Детские подарки #ВостокСОС поддерживают программисты из #Stanfy не только финансово, но и своим участием. Ребята... http:…
+RT @Choco_Yuli: Check out my new post on How #Mobile Learning Revolutionises #Education http://t.co/KD4ZPP0Wd7
+Ура! Доступны видео докладов с GDG DevFest Lviv 2014 https://t.co/BjQuuFlafW @roman_mazur об Android Loader, проблемы и решения
+Cразу 2 продукта от @Coppertino: #iPhone VOX &amp; музыкальное хранилище Loop http://t.co/VninDlVfqA nice job!
+RT @theBurbaka: Обожнюю свою роботу ^_^  @stanfymobile http://t.co/0CIgIejnjX
+RT @DvoretskayaS: #ВостокСОС дарит подарки маленьким переселецам. Сегодня нам помогают #маленкізвірятка - программисты из #stanfy -... http…
+RT @vixentael: more about dynamic blur http://t.co/0ISxQ2oq9V #iosdev
+RT @jonginn: Writing code with the PM and client team at your desk http://t.co/CMDlnXK4ly
+Видео со второго #MadCode: Олег Никифоров о снифферах https://t.co/Cx5FWCmxLV  #сниффер #QA
+Утро....ардуиним) http://t.co/ZxnCB8c5BJ
+#MadCode начался! Поехали) https://t.co/WTc12Q1PM6
+Уже завтра второй #MadCode вебинар с нашим QA Олегом Никифоровым! Финальный тест и правки) https://t.co/WTc12Q1PM6 http://t.co/8l14lAjNMK
+Ровно через неделю наш QA Олег Никифоров проведет второй @Stanfy #MadCode вебинар! https://t.co/WTc12Q1PM6 http://t.co/VyMnbAtaWv
+Анна Шабан о построении эффективных взаимоотношений с клиентами на #PMDayLviv 2014 https://t.co/3kGkQDyFUI http://t.co/kBJQZHzBpE
+Наш дизайнер Олег Шеремет о #дизайн трендах в апп индустрии: приложение, как издательский инструмент с уведомлениями?http://t.co/vumjgZtqkk
+Конспект по первому #MadCode с полезной инфой тут: http://t.co/9Tm07Le1e5 @vixentael об эффективном взаимодействии с #backend разработчиками
+RT @dou_calendar: Stanfy MadCode Meetup: Анализ и модификация HTTP запросов для тестирования мобильных приложений, 16 декабря, Киев http://…
+Юху! Рады сообщить, что наш любмимый PM Аня Шабан будет выступать на #PMDay во Львове 22 ноября! http://t.co/QSEPNXf7x6
+Ахой! Приглашаем на второй #MadCode вебинар https://t.co/VhmIN0ywGQ Наш гуру QA Олег Никифоров раcскажет что да как;) http://t.co/N6qpeD2Tqi
+Хэллоуин в IT 2014: cпасибо @devua за фотоотчет) Зачетные были костюмы у ребят с Playtika и Plarium http://t.co/a7BFdAdVXh
+RT @stanfymobile: Thank you everyone who joined! RT “@anatinge: Charming @vixentael opens the first @Stanfy MadCode Meetup! Well done! http…
+До начала первого #MadCode осталось совсем чуть-чуть) Let's get the party started! https://t.co/iqEW0SSnrV
+Напоминаем, что завтра будет наш первый #MadCode вебинар: https://t.co/iqEW0SSnrV с @vixentael в роли спикера.Еще есть пара свободных мест;)
+@GDGLviv Thanks for a great event!
+GDG DevFest 2014, Lviv: https://t.co/FjIV0x8HOj #dfua #devfest
+RT @anatinge: Playing with gamification UX for one of our new project with @Oleg_Sheremet at @stanfymobile #ux http://t.co/gSmyRvekL8
+RT @bashmakov: Stanfy team selfie on #tedxkyiv @stanfymobile http://t.co/Kjc4jl1HqN
+#Halloween в разгаре) БуУууу! http://t.co/7cMtyLDKBD
+Happy to share Stanfy story at first @StartupGrind in Kyiv! It was a great event! #startupgrind w/ @thenextmobile http://t.co/ehENmN0QAc
+Amazing! RT “@thenextmobile: Today I am speaking at the first @startupgrind in Ukraine!!! It is going to be fun! :) http://t.co/cCDodfGu0H”
+А вы уже юзаете наш #DyCl для быстрого и удобного апдейта кода/ресурсов iOS приложений?;) https://t.co/bjn4Zm3eFY
+RT @NicolausYes: Yeah, good and strong tech talk about Android Loader by Roman Mazur @roman_mazur, should give a try #dfua http://t.co/pUek…
+RT @dou_calendar: Stanfy MadCode Meetup: Как подружиться с серверными разработчиками?, 6 октября http://t.co/6oOgzO5gck
+RT @thenextmobile: Excited to be the very first speaker at @StartupGrind Kyiv! Come to meet me &amp; talk about mobile :) http://t.co/PT9z6LgLl…
+RT @WLFUA: Startup Grind Kyiv Presents @thenextmobile from #Stanfy http://t.co/nluaOpyJNr via @StartupGrind
+RT @roman_mazur: My slides presented at #dfua https://t.co/s8TOjOxMPd
+Ждем онлайн на наш первый Stanfy MadCode Webinar: https://t.co/iqEW0SSnrV Стартуем 6 ноября в 17:30, присоединяйся!) Спикер: @vixentael
+RT @TT_Kilew: QA Engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard. Orders -1 beers. Orders…
+Первый Stanfy MadCode Webinar:техники взаимодействия mobile &amp; backend разработчиков!Спикер: @vixentael Присоединяйся) http://t.co/anNk7TRAlY
+WANTED: Mobile QA Engineer! :) https://t.co/lJC8DFKToU http://t.co/1TY8Us6fYf
+RT @karamshuk: A device that harvests electricity from tiny changes in air temperature could power the sensors of the future  http://t.co/s…
+Знаете таких?;) #вакансия #очкрутаявакансия http://t.co/cYkUbbxbaC
+У кого-то есть на примете прикольный офис в Киеве? Мы в активном поиске и будем очень благодарны за вашу помощь) http://t.co/EkYg0MAuL0
+@Sourcelysis great news!
+RT @Sourcelysis: Congrats @Stanfy team for getting rank on @Sourcelysis as Top iPhone app development Company.http://t.co/lmTZlAempV
+Кому суббота, а кому 72 часа нон стоп программирования :) #stanfy #icfp2014 http://t.co/JNo5SFpdoF
+Открыта позиция Senior iOS Developer! Все детали ищи здесь: http://t.co/dirclTlBBk Крутые проекты гарантируем! http://t.co/ZrIoHKKRo3
+@avrutova да)
+@sergeykovalenko и тут тоже
+@avrutova @sergeykovalenko cпасибо за рекомендацию!)
+Очень нужен планшет для теста приложения KINDLE FIRE HD (не новая модель) или NOOK HD. На день или хотя бы на полчаса. Спасибо!!
+Присылайте резюме на позицию Business Development Director в нашу команду!Все детали здесь http://t.co/YDbVMklt46 #вакансия #маркетинг #киев
+Открыта позиция Senior Android Engineer http://t.co/Kb4Nwuc9GC #вакансия #КИЕВ Присылайте CV на vacancy@stanfy.com.ua http://t.co/2Pa8NkMYVC
+Ищем ниндзя маркетинга на позицию Business Development Director в нашу команду! http://t.co/YDbVMklt46 #вакансия http://t.co/KDuHBYFdtb
+Ищем Senior iOS Developer! Крутые проекты и интересная работа в команде гарантированы: http://t.co/dirclTlBBk
+RT @roman_mazur: Хештег #євромайдан тепер доступний у Kobzi (https://t.co/iDX2M7bTG7)
+Над оновленням новин від @ukrpravda_news працюємо
+Любомир Остапив о GMIC 2013 и возможностях мобильного маркетинга в Украине. Читайте на ain.ua http://t.co/jiTFkzxmdq
+У нас клевая новость - 16 октября в Сан Франциско проведем наш первый митап для мобильных предпринимателей http://t.co/twbuSKmBkq
+Наконец-то вышел в паблик красивый и полезный апп для отслеживания статистики AdSence http://t.co/IzOipDjjkv /cc @tisquirrel @5takdesign :)
+Проводим небольшой опрос среди мобильных дизайнеров http://t.co/RFfo47GTxh заранее спасибо!!
+Отсняли 1 мин. видео про RealPixels - приложение для упрощения жизни мобильных дизайнеров http://t.co/1LOh6QQUo7 Спасибо за ретвиты :)
+Выпустили Андроид приложение для мобильных дизайнеров -  RealPixels не масштабирует ваши дизайны http://t.co/xEciIi2gN9 pls RT
+RT @iklepach: @andrew_gawy рассказывает про то, когда команда делает классные app-ы @stanfy @stanfymobile #iforum2013 http://t.co/Uy162l9WTI
+@natatara @bashmakov @andrew_gawy как всегда, мобайл :)
+RT @kisasosisa: На #rit2013 в agile секции рассказывают о нашем Waterbalance как об отличном примере геймификации) приятно)
+RT @Netpeak_ua: Видео – один из важных каналов продвижения. И это не котики, музычка и прочее — видео смотрят серьезные люди (с) Дмитрий Шо…
+Сегодня тусим на #iforum2013. @bashmakov ведет круглый стол, @andrew_gawy готовится к презентации. Приходите на кофе и печенюшки ;)
+@sergey2k пасибки :)
+@AlxRomanov были проблемы с Apple аккаунтом, уже исправили, можно качать :). Спасибо!
+планируем обновление UA Today… голосование за иконки в команде :)… а какая вам нравится?  http://t.co/TmtCQRW69I
+RT “@arturclancy: Кейст от @stanfy Запуск мобильных приложений для Украны: можно ли заработать деньги ? http://t.co/kJCfEWVAWt”
+Киев - Остин, демо проекта :) http://t.co/ajDJGNQaJN
+Интересно кто флорист :) RT “@vixentael: My geek flowers for March, 8th! Thank you, guys! @Stanfy http://t.co/jliW6xByAL”
+Следующие несколько дней часть команды будет в Остине, на #sxsw... Следите за нашим путешествием по хештегу #stanfysxsw ;)
+BiteHippo это iPad приложение для быстрого создания и управления списками задач.Выпустили апдейт, будем рады отзывам! http://t.co/U6FcNFAkPt
+RT @andrew_gawy: Experimenting with different task tracking systems. Target Process, Assembla, Pivotal. More and more teams in @Stanfy   ...
+RT @ain_ua: AppsWorld North America – все о приложениях, кроме их самих http://t.co/amnlwvSaEp /cc @andrew_gawy
+Sunday Kyiv - San Francisco call /cc @andrew_gawy @bashmakov http://t.co/FUzqTot2gT
+иллюстрация для нашего стенда на #SXSW на @dribbble http://t.co/443fAYkp
+Эксперименты с визуализацией планирования RT @anatinge: Доска проекта для SXSW :) команде понравилось! :) http://t.co/CGMuUAf4”
+Сегодня выбрали Eclipse http://t.co/BhdDEZPu
+креативим… Be My Valentine! http://t.co/gK2Ef8h0
+One heart to one person ;) http://t.co/juB5WqAA
+Сегодня у нас тренинг по постановке целей http://t.co/R7Gj0dRZ
+Сегодня у нас тренинг по постановке целей
+сегодняшнее утро началось со звуков беримбау :) http://t.co/n2264R2j
+коротенькое видео про наш субботний мини хакатон http://t.co/UzPKShL8 #stanfyhack
+мы в поиске матерого QA http://t.co/cwxiZpa3 pls RT
+@Horsev Clear только для iPhone… у нас iPad #stanfyhack
+Thank you! It was really cool experience RT @tisquirrel: @anatinge @vixentael @stanfy Congrats! You are awesome!!! :) #stanfyhack
+@tisquirrel ух ты! Классная идея! :)
+Не успели сделать все-все что хотели... соберемся еще. В процессе зародились несколько интересных аппов #stanfyhack http://t.co/vDQEzpAH
+Первый стенфаевский минихакатон закончился! В AppStore ушел клевый апдейт Bitehippo -самого простого в мире To-Do приложения :) #stanfyhack
+тестируя приложение увидели, что нужно учесть людей, плохо различающих цвета, вот здесь полезная инфа http://t.co/S6GG4B9m #stanfyhack
+RT “@anatinge: Няшка скучает за Настей #stanfyhack http://t.co/oEustI4n. /cc @vixentael
+Обсуждаем беклог идеи номер 2 #stanfyhack http://t.co/68J2NTX4
+Олег толкает идею :) #stanfyhack /cc @vixentael @TT_Kilew http://t.co/bLH8XR8P
+Беклог готов! :) #stanfyhack http://t.co/s7eNaNSL
+Про наш хакатончик буду твитить с хештегом #stanfyhack
+Утро первого стенфаевского мини хакатона. Сегодня вечером планируем отправить в стор несколько новеньких приложений!
+Выбираем идеи... мини видео первого этапа Stanfy Hackathon http://t.co/1onDuYLr
+Пока все слушают, Настя кодит :) #agilebc http://t.co/FSTvcxRa
+RT @iklepach: Еще одна приятная новость! Вышло в мир iPad приложение - http://t.co/BkbMTof6 над которым мы с ребятами со @Stanfy потруди ...
+Сделали iPad приложение для Благовеста http://t.co/J3X5UoAj
+Встречайте новый проект - iPad приложение Лига Закон, Android на подходе :) http://t.co/scsQPHU7
+@iklepach Инна, спасибо и тебе, будем скучать :)
+Главное за прошедший год и прогнозы на следующий от @bashmakov  http://t.co/Q6bU9CFf
+@5takdesign Вань, спасибо и тебе за все! Успехов и побольше вокруг людей, любящих красоту :)
+По следам конференции в Сан Франциско - продвижение мобильных приложений за пределами AppStore и Google Play http://t.co/juSvdEe6
+RT @Apps_4_all: #Stanfy О Картах Nokia Here для iPhone и iPad
+http://t.co/wTF4qWKn http://t.co/mMmh2ylg
+свежий выпуск нашей рассылки для девелоперов MobileDev! Только здесь - новости мира мобильной разработки http://t.co/tiUE0t10
+Как я создал бизнес: Павел Башмаков о создании @Stanfy http://t.co/2iq8N9Pw /cc @ain_ua @stanfymobile
+Stanfy Mobile Juice: самое важное в мобильном мире за сентябрь: http://t.co/WVczMD0k
+А у нас сегодня сырная пятница! Приятного ;) http://t.co/azKXjdOQ
+RT @macosworld: Благодаря процессору, камера работает на 40% быстрее http://t.co/IjS5IE5H
+RT @macosworld: Интерфейс стандартного софта переделан под новый экран. Помещается больше информации. http://t.co/j5GJOg4n
+Супер-мега камера в новом #iPhone http://t.co/B93lySx7
+Ура!!! Скоро выйдет новый iPhone http://t.co/llsXdzJv
+17 млн iPad было продано в апреле-июне 2012 http://t.co/RTyWesTH
+@tisquirrel
+RT @tisquirrel: watching apple presentation #stanfy  http://t.co/I07WtS52
+Андроид команда упорно работает :) @roman_mazur http://t.co/s1Bx6q7l
+Готовимся к началу презентации iPhone 5 вместе с ребятами и @5takdesign http://t.co/MsCs8txa
+Cегодня вышла долгожданная Android-версия нашего приложения "Вино и Еда". Приятного аппетита ;)  http://t.co/cWc03GgE
+Ура! Вышел новый выпуск нашей рассылки - самые интересные новости в мире мобайл за август - http://t.co/T0VlaWLi
+RT @Den_Gabbasov: Новое приложение @kinopoiskru просто шикарно! Сижу выставляю оценки фильмам, отсмотренным за последние 3 дня
+Ребята, мега апдейт нашего любимого приложения КиноПоиск - авторизация и оценки для фильмов. Поспешитe обновиться ;) http://t.co/2XWhnL4Y
+Готовимся к празднику c@roman_mazur и @Tika :) http://t.co/RfzWZyZV
+А у нас новые футболочки - команда радуется :) http://t.co/g4JqiItF
+Собрали лекции Питера Тиля в epub формат. Очень удобно читать на ipad
+http://t.co/Uia3s93O
+Usability тестирование нашего мобильного приложения: импровизация  http://t.co/vneam2C0
+Что включает #mcommerce: поиск товаров, не пропустить халяву (скидки, купоны), регулярные заказы #8p #8pua
+#Touch-based-marketing - это все в одном: #мобильность, #интерактивность, конверсия и игровые механики #8p #8pua
+RT @bashmakov: Кстати, рост десктопов уже почти остановился и основной прирост интернет пользователей происходит за счет мобильных устро ...
+0,1-2,0 USD - средняя стоимость разработки мобильного приложения на одного пользователя #8pua #8p
+@anatinge @bashmakov обсуждаем новые подходы в мобильной рекламе. Мобайл - не веб, хочется горяченького - экспериментируйте ;) #8pua #8p
+@bashmakov мобильная история только начинается! chop-chop! #8p #8pua http://t.co/clGoWQSm
+Сегодня мы на #8p вместе с @bashmakov и @choco_yuli тусим :)
+@i_shama класс, спасибо ) / cc @5takdesign
+@sergey2k мега круто! все-все получится! :) RT @sergey2k: Скоро поеду в тереконовую долину в новый трубопрокатный стартап.
+@merenkoFF печатали в полфграф.ком.юа, только заказывайте с ламинацией… без нее стираются (( @bashmakov
+Сегодня на Яндекс конференции в Одессе, в этом году без доклада, просто гости ;).... В садах победы как всегда аншлаг http://t.co/XCCzYWgH
+новый выпуск нашей рассылки самого интересного на мобильном рынке за прошедший месяц http://t.co/OVhLj6bl
+интересная статья - Украинский рынок разработки мобильных приложений: часть 1 — аутсорсинг http://t.co/ViWI61rk via @ain_ua
+@MishaKarpenko это внутренние… )
+Интересный пост, спасибо! :) RT @5takdesign: @vicesam: @Stanfy Написал про ваше приложение про воду http://t.co/n8ku3QJg
+@rsttskyy хм… проверим )
+Раздаем наклейки иконок наших проектов, налетай! :) http://t.co/MHl0FMNQ
+Начинаются StanfyTalks, @bashmakov расскажет про... http://t.co/7Hi4731g
+Украина - Польша ;) http://t.co/8Dir2TMb
+RT @5takdesign: @Stanfy на третьем месте в рейтинге мобильных разработчиков. Поздравляем! http://t.co/t1JHqGuY
+Кинопоиск iPad уже в AppStore! http://t.co/vdxB7U5Q
+RT @iklepach: Смотрим в #Stanfy трансляцию футбольных матчей на all.tv в HD-качестве. Отличненько! :) with @Amadorera @niphlhell http:// ...
+RT @iklepach: Отличный сегодня вечер. Сидим с ребятами #Stanfy, пьем вкусненькие коктейльчики и смотрим онлайн трансляцию #WWDC2012  :)
+WWDC плавно перешел в матч Украина-Швеция )) / @mdogg87, @niphlhell http://t.co/OHhksDZh
+Мега iPad! ;) /cc @andrew_gawy @kisasosisa http://t.co/pHZd4O0I
+пряники для Катушкина :) http://t.co/1zRPxuQb
+Наконец-то познакомились с командой Newsfront и поделились своим опытом в мобайле. Интерес агентств к аппам радует! ;) http://t.co/ZqXS4nps
+Welcome on board! ;) RT @ddobrovski: Хей хо, теперь я часть команды @Stanfy :)
+Субботний Хакатон ;) /сс @sergey2k http://t.co/MKdRfzXs
+вечерние Stanfy Talks… про эффективность, контроль времени и идеи для ДР :)… http://t.co/LDWbWa4Z
+Сегодня в офисе "Земля" нет света. Так что устраиваемся поудобнее и все вместе дружно работаем на "Марсе" :) http://t.co/hYvYAAzM
+@TanyaBondarenko пока что нет… обязательно добавим в обновлении
+@kir_mazur @tanyabondarenko нее ) пью-пью воду, а когда хочется выпить кофе, думаю - ну его… это ж опять воду пить нужно будет пить ))
+классная новость, будем ждать ) RT @myshyak: Бесплатный wifi от города в центре и парках , крещатик уже через пару недель #kmda
+RT @ain_ua: Мобильный трафик в мире к 2016 году вырастет до 39,75 трлн мегабайт http://t.co/X79rTBp6
+@kir_mazur @tanyabondarenko спасибо и вам :). классно, что приложение действительно полезно! Кстати, у меня похожая история )
+Проверяем гипотезу для одного из новых аппов ;) /cc @5takdesign @anatinge http://t.co/tFVyjB7C
+@mursya_ru странно… (( может быть попробуй перезапустить апп? (удалить его из background и запустить снова)
+@mursya_ru регион в настройках телефона (основные--язык и текст).., в телефоне пока что нет ((
+@kabinu_razvalu думаю, уже хорошо, что вы знаете сколько пьете воду ;)...
+@myshyak @mursya_ru нужно регион в настройках свой выбрать...
+полезный пост - 11 iphone приложений для путешествий http://t.co/1UhvKv00
+@TEHETA спасибо :)
+@Danko007 я тоже чаеман )… но воду обязательно пить нужно каждый день и чай ее к сожалению не заменяет… )
+Наше приложение WaterBalance установили 100000+ пользователей за первые несколько недель после запуска! http://t.co/ZnPYIu8F
+Waterbalance запускается для глянца ;) http://t.co/9WBNuGeJ
+@alex_adamenko ищем крутого дизайнера в штат. если можете кого-то посоветовать, будем рады )
+Новый выпуск нашей рассылки для iOS/Android разработчиков http://t.co/KvJM9VgY. Если интересно - подписывайтесь )
+КиноПоиск на iPad уже скоро :) http://t.co/Zb34LHG1
+Сегодня у нас фотосессия аппов http://t.co/nrwXHP82
+Ребята, вышел второй выпуск нашего дайджеста о мобильном рынке. Читайте http://t.co/W8z0Uh83 и подписывайтесь;) Удачной недели!
+@zametkin сорри... ;( Отпишитесь пожалуйста
+Догадайтесь кто из них программист? ;) http://t.co/Xz4Bz8Za
+Вчера @pbashmakov поделился опытом разработки мобильных приложений и продуктов на конференции mobile first Фоторепортаж http://t.co/wIMAERse
+Сегодня у нас проходят Stanfy Talks. Обсуждаем преимущества/проблемы продуктовой разработки и поедаем вкусную пиццу :) http://t.co/kj3rkDty
+Киевские роллеры и бордисты больше всего обрадовались выходу #Катушкина. Велосипедисты, скейтеры, экстремалы присоединяйтесь к нам!
+Проводим время на воздухе вместе с #Катушкин! Приложение для активного отдыха.
+В #Stanfy перебои электричества, но мы не сдаемся!
+@StepanZinin жаль
+Мы легких путей не ищем )) открывала девушка... ;) http://t.co/SMQo1NGo
+@StepanZinin @5takdesign после того как вы залогинились через фб нужно заполнить свой профиль... Это не регистрация...
+Украина и мобайл. Быть или не быть? Выступление @bashmakov на iForum http://t.co/tgHqI6XB /via @ain_ua
+Новое приложение для любителей активного отдыха #Катушкин. http://t.co/RwqitPkm
+Проект нужно делать: быстро, качественно, недорого. Выберите отсюда 2 пункта.
+Вчера @Stanfy была на #iforum, мы обязательно поделимся нашими вечатлениями. На следующей неделе ждите отчет на нашем блоге.
+Цифры в отрыве от контекста зачастую губительны. Владислав Флакс #iforum
+RT @Lesangeless: #iforum малый бизнес не хочет работать с диджитал агентствами
+@startcap Project Manager
+Платформа - это место/структура/технология, представляющая третьим сторонам доступ к большой аудитории. Игорь Ашманов #iforum
+Сегодня #Iforum2012. Во второй половине дня выступает Паша Башмаков и Андрей Гаркавый.
+Сегодня самая лучшая Пятница, 13. День Рождения у нашего любимого HR Юли Ищук! Вечером тортики и поздравления!
+Издание Фокус.ua опубликовало статью о Паше Башмакове: http://t.co/Jfxm4zQe . История создания компании и планы на будущее
+Ищем талантливого, надежного, последовательного PM для работы с клиентами. Обещаем большие интересные iOS и Android проекты.
+RT @instagram: We're excited to announce something very big: Instagram + Facebook http://t.co/P8iXqZuF
+RT @SerhiyMakarenko: Ще одна сенсація! На дисплеї iPad 3 ніфіга http://t.co/Y9Q5xXMz не видно, якщо на нього дивитись через полярізаційн ...
+Вот такое вот кино, как мы делаем кино. Sostav.ua - YouTube в 3D http://t.co/CklYyLxO
+Как поберечь нервы ПМам? Вариантов много, один из ответов: планирование, планирование  и еще раз планирование #Agile http://t.co/VsjsXPY0
+Сегодня в Москве проходит конференция #apps4all Павел Башмаков рассказывает о создании приложения Кинопоиск http://t.co/5HQjAMBG
+В этот прекрасный день нашли хороший сайт для дизайнеров, #ui спецов и всем кому интересно http://t.co/X9FHcf4t
+Сегодня празднуем ДН Сережи, нашего суперского iPhone дева.Сережка, будь как макбук умен, решителен, ловок и силен! :) http://t.co/OOCryW1X
+Сделали свой вклад в популярный #opensource проект для #Android-#Robolectric http://t.co/NuEDH5Kjпасибо нашему Head of Android @roman_mazur
+Читаем интервью с Пашей Башмаковым о #mcommerce в Украине. Кейсы, #аналитика в приложениях и много всего интересного :) http://t.co/8RWa1cDs
+Во время обсуждения выяснилось, что #ІТ специалистов в Украине уже не 25, а 60 тыс. Растем не по дням, а по часам :) #liof
+Подводим итоги по оргструктуре IT компании: Рост компании не должен быть самоцелью.Рост-это результат развития. #liof http://t.co/91ej9466
+Cпасибо докладчику #Еleks за вдохновение:бизнес - как езда на велосипеде,как только ты останавливаешься,ты падаешь!Так что двигаемся! #liof
+После напряженного дуэля продуктовиков и аутсорсеров переходим к секции "Организационное развитие IT компании" #liof
+На #lof узнали последние данные за 2011 год: сейчас  в Украине более 24 тыс.человек работают в ІТ сфере. Ура! Нас все больше и больше!
+Приехали на #lof. Слушаем коллег и делимся опытом работы с иностранными клиентами. Спасибо Паше с #quartsoft за информативный доклад!
+Пятница в Stanfy: работаем над проектами, учимся достигать целей и готовимся к выходным :) http://t.co/PYIJ042l
+@Amadorera Саша, нам будет тебя очень не хватать! Но не спеши грустить, сегодня еще повеселимся! Готовься ;)
+Сегодня празднуем год с того момента,как к нашей команде  присоединилась очаровательный финансовый менеджер Марина.Ура! http://t.co/sjpVSruO
+@yandex спасибо за интересную статистику по iPad-пользователях. Кто, что и когда ищет в рунете читайте здесь http://t.co/9fYWwv3k
+Работаем и наслаждаемся фруктовым днём в Stanfy :) http://t.co/Abzh9HXx
+Отличное начало дня - дизайн нашего приложения #AlterGeo рекомендуют как источник вдохновения :) http://t.co/Yr3VWF3Y #ui
+У #stst team сегодня в гостях @ivankin из 908 http://t.co/nof85NZi
+Сегодня на конференции по новым медиа, интересный доклад от want more, say.tv и цифры по аудитории от Gemius (аня ю) http://t.co/SqvrvAXc
+создали рассылку о событиях и новостях мобильного мира, которые считаем важными, если вам интересно- подписывайтесь http://t.co/UxqXa0Kq
+@elenabazu это ужасно расстраивает (((
+Цифры от операторов по пользователям смартфонов, @ain_ua спасибо! ) http://t.co/s6TrlHGr
+Прикольная реклама аппа football.ua http://t.co/bXA7qydO
+Вышла новая версия Вина и Еды. Добавлены разделы с полезными материалами и видео, которые будут постоянно обновляться.
+http://t.co/V0ByqmYY
+@SerhiyMakarenko а коли у кіно збираєтеся? у нас велика компанія 20-го зібралась піти :)
+@SerhiyMakarenko дякую за відгук! :) з купівлею не через браузер є певні складнощ -у них немає відкритого API…може в майбутньому зроблять )
+@SerhiyMakarenko щось не сподобалось?
+StSt Team ;)... Только что на коленке сделали прототип аппа и думают теперь... ) http://t.co/rk3Fj3fe
+У Windows Phone Marketplace уже 100 приложений укр. разработчиков http://t.co/jt5lZHbo
+ух ты, в десятке :), поздравляю! RT @maksm: яндекс всегда прав :) http://t.co/2p4sZGjE
+Каждый месяц у нас StanfyTalks @bashmakov делится мыслями о развитии и отвечает на все вопросы...Вот кусочек конспекта http://t.co/arhFmyGD
+если вы кучу времени проводите в почте, вам понравится новая фича в Gmail Labs - preview pane, проверьте )
+Яндекс выпустил мобильный навигатор для iOS и Android, браво!  http://t.co/UtQ7i60F
+@advertka это ОЧЕНЬ не скромно )). Поздравляю! :) RT @advertka наш новый Навигатор "говорит" моим голосом
+@appleinsider_ru рекомендует наш апп (КиноПоиск) в своем приложении :) http://t.co/PetClT4b
+Сегодня @Tika_ переезжает на Марс! Ура ;)... http://t.co/O42dXZto
+пробный выпуск нашей рассылки для мобильных разработчиков http://t.co/eqyeqj2m … про что вам было бы интересно почитать?
+@elenabazu ну, не последний раз эппл презентует новый айпад )
+Сегодня на трансляцию эппл ивента к нам присоединились @kabinu_razvalu и @kariavka ;) http://t.co/17Seecq4
+@AndreyAzimov позвонить и предупредить что вы прийдете ;) тел 0971839073
+@Amadorera и еще есть такие кадры )) http://t.co/xqUKcYxi
+Ура! На трансляцию эппл ивента сегодня ждем гостей-твиттерян ;)
+RT @Amadorera: Сегодня в @Stanfy ездит такой #Citroen и записывает все, что видит :-) http://t.co/9C4ceghN
+RT: @sergey2k: Ищем в продуктовое направление @stanfy ПМа психа :) http://t.co/41dN86Uz”
+завтра собираемся всем вместе следить за Apple event, если хотите присоединиться -будем рады гостям :), начало в 8 вечера,звоните 0971839073
+Влад the android developer в рамках на GTUG Kiev поделился радостью взращивания open-source библиотеки. Влад крутой!  http://t.co/5zX9qg4N
+Существуют клиенты двух типов: первых мы любим после протипирования, вторых - после акта выполненых работ.
+В детстве за хорошее поведение давали сфоткаться с ленинским знаменем,а теперь дают пофлудить в корпоративный твиттер.Привет, мы начинаем ;)
+Startup Crash Test на тему «Мобильные приложения»: прямая онлайн-трансляция (видео) http://t.co/ZYdwU1nF, участвует @bashmakov via @ain_ua
+Мужской день в Stanfy ;) http://t.co/MmLh9n2F
+Check us out on @MobileDeveloper! http://t.co/Oe9pXIvh
+Today we presents Enroscar-open source Android library on #gadc http://t.co/xdwtAwTh #thailandgtug #frankfurt #slgtug #kyotogtug #gadcparis
+RT @bashmakov: Today Stanfy presents Enroscar - open source Android library on #gadc #gadc+Kyiv http://t.co/ZNBDf2aE and waiting for you ...
+Наша команда участвует  в глобальном Android Hackathon, плюс учредили отдельную призовую номинацию для конкурса http://t.co/S2Qmon1u
+Сегодня выпустили нашу первую OpenSource библиотеку для Андроид разработчиков Enroscar http://t.co/Aphti65h #android
+4 февраля в Чернигове мы проводим мастер класс по разработке Android приложений, приходите! http://t.co/5f1fslBW
+Мастер класс по iOS в Чернигове закончился. Всем спасибо! По отзывам видим, что вам понравилось - очень рады!
+Едем в Киев, пока Чернигов! ;) http://t.co/Kic8RG7N
+Серия вопросов и ответов на мастер классе очень интересная, общаемся на общие темы и проблемы девелопмента, клиентов и реалии укр рынка
+Наш мастер класс в Чернигове собрал 30 человек, будет очень интересно услышать отзывы в конце... ;)
+Паша рассказывает об основах iOS, следующий блок - работа с сетью, модели данных, кеширование, производительность итд http://t.co/ZVI0kZb1
+Начался мастер класс, сначала про тенденции и рынок,потом серьезный блок про iOS разработку. Надеемся будет интересно! http://t.co/yQyzIg5R
+Сегодня проводим мастер класс по разработке iOS приложений в Чернигове, будем пока завтракать http://t.co/ojhl5N6n
+@gurnetko спасибо! Рады что было интересно #mpdays2011
+А вторая часть Стенфай сегодня на Майкрософт Блогфест, начало позитивное - тренды и обзора рынка mobile #msbf
+На #msbf познакомились с @yuriy_lipatov, официальным представителем @altergeo в Украине
+RT @bashmakov: сегодня десант Stanfy высадился в Харькове на #mpd2011, и мы ищем команды iOS/Android для сотрудничества - обращайтесь.
+iPhone приложение Kinopoisk.ru, которое мы запустили на прошлой неделе уже в ТОПе российского AppStore! Ура :) http://t.co/wqB8jiCc
+Ты программист? Знаком с iPhone/iPad разработкой? Тогда ждем тебя в нашей команде http://t.co/7s4vmTt
+приятно слышать,что продукты которые мы делаем полезны, @gray_ru смотрел бой Кличко через iPad app Подробностей,которое делали мы:)  #yaconf
+сегодня мы на конференции Яндекса в Одессе #yaconf  В этом году основная тема разговоров - интернет ТВ и новые каналы, в том числе мобаил
+сегодня мы на конференции Яндекса #yaconf, в этом году мобаил, наряду с темой интернет видео один из основных топиков
+Обновленная версия Android-приложения AlterGeo http://t.co/jbdqJvK
+@arturclancy если в прямом эфире то будет круто!
+Мы на днях кабельного телевидения в Крыму. @bashmakov дает интервью Первому деловому, рассказывает про рынок приложений http://t.co/MEGm54B
+Итоги HTC Android Developers Contest 2.0 http://t.co/Y3W54cB
+25-го июня в Киеве пройдет мастер-класс по работе с Cappuccino от Владимира Пузанова (@farcaller) http://t.co/gNwi6co
+сегодня бодрое утро началось с дегустации кофе от @sergey2k,фаворит-Эфиопия и Сальвадор,Гватемалу не оценили пока http://twitpic.com/533714
+RT @ain_ua: Украинским издателям предложили платформу для создания iPhone, iPad и Android-приложений http://bit.ly/iiXZDW
+@DimaSOAD Просто FoxHunter разрабатывался еще под 1.5 и недоступен для WildFire. Сделаем пометку на сайте. Спасибо, что заметили.
+@DimaSOAD А каким клиентом считываете QR и на каком устройстве? Проверили на Nexus One 2.3.3 код считывали с помощью ZXing - работает.
+Для Yalta Digital Forum 2011 запустили iPhone и Android приложения, http://bit.ly/g7dwbd #yaltaforum
+в весеннем номере Ukraine Business Insight статья с комментариями @Bashmakov и маленькой историей о Stanfy :) http://bit.ly/fFt7c6
+Здача декларації з ПДФО. Що взагалі коїться? http://bit.ly/eXDuK6
+Руководство по ИЕ9 для верстальщиков и не только  - http://msdn.microsoft.com/ru-ru/ie/ff468705
