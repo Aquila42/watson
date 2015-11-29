@@ -1,0 +1,751 @@
+janierdavila
+http://pbs.twimg.com/profile_images/2248526560/IMG_0382-cropped-medium_400x400.jpg
+RT @nodejs: Great explanation of how to use #nodejs to take advantage of multicore CPUs w. the Cluster API https://t.co/VyYy95i9E1
+RT @alialimadadi110: #Iran/ian Cartoonist #HadiHeydari paints in tribute to #ParisAttacks victims. https://t.co/K2CNBNvCfn
+RT @Lumia: Enjoy superior performance on the #Lumia950XL with Windows 10. Learn more: https://t.co/cb57cLlHDa https://t.co/jYIhTmcwg5
+RT @addyosmani: Tools for a better Windows command-line setup in the new #TotallyToolingTips 🔥🔧
+
+https://t.co/aImpbUKHvh https://t.co/ZHf5i…
+RT @bradwilson: Current status @AtomEditor https://t.co/PGZRcfjzfH
+RT @ow: Facebook activated 'safety check' in Paris. Let friends know you're ok. https://t.co/IUoho3eHLa https://t.co/iu20ihxk9W
+RT @nachocoloma: Bower development is stopped. Move to npm, if you haven't already. https://t.co/RQRcE7DT5V
+RT @buildstarted: Just because a technology is old does not mean it's not useful or preferred. Don't knock people using stuff that's differ…
+RT @iamdevloper: Live coding demos https://t.co/NyOMEb8ODS
+RT @Windows: First Major Update for #Windows10 Now Available: https://t.co/oYPmbGewl8 https://t.co/KvITGE9jOj
+Whoa! My #xboxone got a UI makeover.
+@camilin87 @anicolaspp At the end, I would love to hear you guys talk about it in the group. It seems you both are all in with Scala
+@camilin87 Fun! I'll take a look. Thanks for sharing @anicolaspp @cuasijoe @viktorklang
+RT @tomwarren: I think Apple and Microsoft are both heading in the right direction with Surface and iPad Pro. Apps and experience will win …
+@anicolaspp good luck! :) @camilin87 @cuasijoe @viktorklang
+RT @DamianEdwards: #aspnet5 Kestrel just broke 500k RPS for plaintext test with latest dev bits in the SmurfLab on Windows! Now, let's doub…
+RT @DrapsTV: New to #python and getting stuck with errors? Follow this infographic! #programming https://t.co/Ooes0En9el
+RT @davidfowl: If you're building class libraries on .NET, then read this https://t.co/JCtSh4T3di #dotnet #aspnet5
+RT @christianmaioli: This Pub's Sign Is Pretty Cool
+
+#devhumor #geek https://t.co/Fsnpbb4jUh
+RT @haacked: Change your definition of "the best and the brightest." Realize "rockstars" can destroy teams. Hire to create the best team, n…
+@TddApps but 140 characters might not be enough :). I'll read it when I get to the office. Thanks
+RT @gblock: Did you know that you can host scriptcs in your own apps? Here’s a new sample that shows how: https://t.co/aA2o8CMCAe
+RT @davidfowl: Typescript looks pretty amazing now. It's maturing very quickly.
+RT @Data4Bots: @devfish @dotNetMiami Hey Hey!  I would love to!  I think your group is on my list to talk to as well.  Direct Message me so…
+RT @devfish: @dotNetMiami @data4bots loves #fsharp.  and he's in Miami.  he just doesn't read #fldev apparently.
+@cecilphillip that was a nice game to watch. If all roller coasters are like this...I'm happy @MiamiHEAT
+RT @MiamiHEAT: MILESTONE ALERT!
+
+Career block number 900 for @chrisbosh. https://t.co/W8AYuDvRrR
+RT @julielerman: hahaha just came up with a great title for a talk at #sflcc.
+RT @julielerman: Okay! Two irreverantly titled sessions submitted to #sflcc. :)
+RT @NadinetheQueen: Because I can't resist a good pun. https://t.co/pQFeqq8uqh
+RT @oscherler: JavaScript makes me want to flip the table and say “Fuck this shit”, but I can never be sure what “this” refers to.
+RT @oss_csharp: pinvoke - A library containing all PInvoke code so you don't have to import it every time. Maintained and up... https://t.c…
+@anicolaspp I think it would be more up to you. Anything interesting worth sharing about it. If you are into FP, do that... @dotNetMiami
+RT @NBA: To celebrate @SteveNash's induction into the @Suns Ring of Honor, we count down his Top 13 Plays with PHX! #NashROH
+https://t.co/e…
+RT @barrelshifter: Oh okay. https://t.co/CPh0UZYgTE
+@anicolaspp People want F# talk. Interested?  @dotNetMiami
+RT @msdev: Good thing is...there's usually a way to make it better. https://t.co/ErCrV5Z9S6 #DevHumor https://t.co/d9056iKtHx
+@dotNetMiami Actually, last time we spoke, @anicolaspp was asking about it. Maybe he would be up for it? :)
+"The struggles of publishing a JavaScript library" https://t.co/luwp7ufHpO
+RT @SportsCenter: Hope you started Ryan Tannehill in fantasy this week.
+
+Tannehill: 9-9, 201 Yds, 4 TD! https://t.co/3LMA8mwbzd
+RT @lissijean: Product "Manager"
+Product "Owner"
+Scrum "Master"
+
+I have no idea why people aren't collaborating! #agile
+RT @Cranialstrain: There are some real experts in our community who speak w/true knowledge and experience l, and those who don’t. Avoid the…
+RT @ianvisits: The big problem with #BacktotheFuture is how wrong its vision of 2015 was.... Oh. https://t.co/wPTo52z50h
+RT @logtournament: Shots. Fired. http://t.co/JcUhn6PBhg
+RT @davidfowl: Here's my talk from #leetspeak. http://t.co/4PmXMQN7SX 5 Deconstructed https://t.co/RVl5iHTJrr #aspnet5 #dotnet
+RT @coderabbi: DRY is often blamed for over-zealous attempts at code economy. DRY is about single point of knowledge representation, not sa…
+RT @JasonImison: .NET LLVM compiler - a 6 month retrospective https://t.co/7kjrHhoE73
+@camilin87 oh no, I have no issues with it. His take. He ended with #golang, which is great. Just tools. Don't agree with everything tho
+@camilin87 (cont.) you don't see a musician blogging "Leaving the piano, using the guitar..." That's my take :)  @yasselpiloto @anicolaspp
+@camilin87 Anyhow, "Leaving tech X..." blogs make no sense to me. Those are tools. Use what works for you... @yasselpiloto @anicolaspp
+@camilin87 his main grief was Windows, not .NET. You can use Omnisharp anywhere now without VS. Just opinions @yasselpiloto @anicolaspp
+@camilin87 yeah, I read that ~2 years ago. There was a buff about it in twitter. If that's the best you've read.. @yasselpiloto @anicolaspp
+RT @cjwerleman: Take all the time you need to process what Trump just said. http://t.co/u2oG8zHFTo
+RT @SportsCenter: "Football is a game that's meant to be played with your hands. Just look at the name: football." http://t.co/RvbMEHWvyu
+RT @brownpf: Brilliant - Dilbert's take on #agile and #prodmgmt http://t.co/8DyaPdmfaH
+RT @resharper: All ReSharper Ultimate tools bumped up to version 10: learn why http://t.co/hv5Htszz59 http://t.co/Kb1vCPSCoj
+RT @tretton37: If you missed #leetspeak or just forgot something from one of the sessions - here are all the recordings! http://t.co/49n69b…
+Cool! https://t.co/5zQOEwHyT4
+Nice library. Immutable Data Structure in #javascript https://t.co/h6pFVc6s0o
+RT @headinthebox: @tastapod Every generation of young grashoppers seems to forget rule #0 of programming: http://t.co/N9EmhzftAo
+RT @gblock: If anyone up for reviewing my first foray into #golang, here it is: https://t.co/iNo9riEB5Y
+@anicolaspp @camilin87 @dotNetMiami meeting is this coming Thursday. Coming?
+@anicolaspp lol
+@TddApps good stuff https://t.co/pKtM3ercTG But you don't let people comment! :)
+RT @cecilphillip: Looks like Visual Studio 2015 Update 1 will have a #csharp interactive  http://t.co/Ldf5o4pEFj
+RT @darrel_miller: Blogged: 302 - Found a new team http://t.co/lRpkghdURC
+RT @SSomasegar: 6/ Looking forward to all the great things that @Microsoft will do for developers in the years ahead. @VisualStudio @dotnet…
+@camilin87 How does it compare with Google analytics?  @HotjarApps
+@camilin87 @HotjarApps Thanks. I am going to try it!
+@anicolaspp Again...how not building linux 5 times makes you incapable of knowing about threading? They are two different topics @Jorriss
+@anicolaspp Not necessary. There are bunch people good at OSs that can't code in JS and don't understand the Web @Jorriss
+@anicolaspp I hope you realized you are out of context. No one is against learning. We run a community! cc: @Jorriss
+@anicolaspp Jeez! So out of context. I do not argue in the internet. Peace out! :)
+@anicolaspp Not because people aren't smart enough to do it. Most people don't have the business need? I did it once in college for fun
+RT @hmemcpy: In case of fire http://t.co/fBLQspo74Z
+RT @bdsams: Microsoft's $2700 Surface Book is already out of stock. http://t.co/ZkHGwt3ccb
+RT @nodejs: Node.js v4.1.2 released. All users of Node.js v4.x should upgrade to v4.1.2, this is a critical update: https://t.co/K3ENwa9QmH
+RT @fakeiteasyfx: #FakeItEasy 2.0.0-beta010 is  out!
+Improved: threadsafety, error messages, out-handling
+Dropped: Silverlight
+Get it:
+http…
+RT @adamralph: goodbye Silverlight, you served me... not at all https://t.co/gFbg1hysFs
+RT @ncilla: Be like Bill, ya'll. http://t.co/42XpnzowxQ
+...o can't watch this Dolphins sober http://t.co/Jji0GsJaRh
+RT @SportsCenter: THIS JUST IN: Andrew Luck will not play today vs Jaguars. (via @mortreport) http://t.co/RLLOSeM69g
+@anicolaspp @camilin87 if you drink...you bring some :)
+@anicolaspp @camilin87 thought it was in calendar invite. I'll check
+RT @Kon__K: In 1996 this man killed 35 people in #Australia
+
+We introduced #guncontrol
+
+Mass shootings since?
+
+ZERO
+
+#UCCShooting http://t.…
+@anicolaspp @camilin87 Cool...Read the book tonight and we talk Scala tomorrow :P
+@camilin87 @anicolaspp So My Scala friends, are you coming this Saturday?
+Watching last month Bjarne Stroustrup keynote at #CppCon 2015 “Writing Good C++14”, because why not? https://t.co/cVKdcOfl9D #isocpp
+RT @shanselman: Write a post about code that took you weeks to write, zero comments. Review a new wifi router EVERYONE HAS A COMMENT http:/…
+RT @kellabyte: Why are rails people celebrating 2,000 requests/second. Do people know how low this is?
+RT @joewalnes: My kids wanted to build a robot that "did something".
+
+(vibration motor, three pens, rubber band and bouncy ball) http://t.c…
+RT @cr3: Oh my god I accidentally set my wifi name to 🍆 and I'm never fixing this http://t.co/spC14uVZJJ
+RT @capotej: open source http://t.co/tGQ0fwrNWS
+RT @KirillOsenkov: The source browser engine behind http://t.co/E1Z9lVD1QU and http://t.co/tekcA2ldoz is now open-source: https://t.co/fzbB…
+RT @gregyoung: Shit just got real. http://t.co/kGjMgWWTdi
+RT @ABBDevDay: "Getting the first PR into .NET and other tales from an OSS contributor" by @adamralph https://t.co/Isp1AcucTE
+RT @Nick_Craver: As of today, the ARIN IPv4 free pool has been depleted: https://t.co/PcNkr8qkvv
+@anicolaspp oct 3. Thought u accepted the calendar invite
+Fun! https://t.co/u7ntq3pZd8
+RT @aftkpodcast: Looking forward to interviewing @haneycodes next week for the show
+RT @migueldeicaza: We are looking for passionate C#/Android/iOS devs that want to help our customers create great apps: https://t.co/gRZ1xZ…
+RT @dotNetMiami: National Coding week? That sounds interesting http://t.co/sGifKHqvvx #software #programming #education
+RT @danvy: Windows 10 build 10547 has a wonderfull new path editor for environment variables #win10 http://t.co/ox1cHaPUMq
+@anicolaspp I believe you :)
+@anicolaspp nice! Work sent you or going on your own?
+@Jorriss that's fair.
+@Jorriss ok. Maybe I misread. Thought the topic was 'lenovo sucks, throw it away. Maybe use a Mac?' :)
+@Jorriss W530
+@Jorriss what issues you're having? Love mine. Plus my drives,ram, etc. are not 'glued' to the board. My only complain is the weight
+RT @f_abeni: "git log master..develop" will show you all commits from "develop" that are not already included in "master" #git #lovecoding
+RT @flyosity: Old PowerMacs still score pretty high in benchmark tests. http://t.co/RzyWVFrdSV
+RT @BiIIMurray: If a dentist makes his money off people with unhealthy teeth, why should I trust a toothpaste that 4 out of 5 dentists reco…
+RT @mikeash: Joe’s code has 20 bugs. If Joe fixes 2 bugs per hour for 8 hours, how many bugs does Joe’s code have now?
+
+Answer: 27.
+RT @shanselman: For you and the kids in your life: Go to Goodwill &amp; buy something. CD Player, Boombox, Remote Control. TAKE IT APART. PLAY.…
+Friday! Wearing my @chocolateynuget shirt today. Thank you @ferventcoder http://t.co/h727isLm7t
+Wife: "I'm sure your tech presentation last night went well, you have a good 'muela'." My wife is turning into a Cuban :)
+Last night was awesome as always at @dotNetMiami Shared the podium with my friend Amanda Erickson. Good times http://t.co/cA2x2sJdku
+RT @jasonmustian: I think Trump just did all the emoji faces in 7 seconds. http://t.co/hC18pVxKgh
+RT @POTUS: Cool clock, Ahmed. Want to bring it to the White House? We should inspire more kids like you to like science. It's what makes Am…
+RT @ErrataRob: Why President Obama's tweet to Ahmed was pitch perfect
+http://t.co/s9Ii1obE9G
+Wanna know a bit more about the .NET Garbage Collector? Come to my talk tomorrow at @dotNetMiami http://t.co/OmWIBN6tvH
+RT @StarCraft: Legacy of the Void is coming November 10. https://t.co/YmRsdbz5mR
+RT @CarmenCrincoli: Needed a good laugh today, so I went and looked at the Open Office mouse again. http://t.co/aI6ZrYKjP3
+RT @SC2HL: The Final moments of MaNa vs Petraeus: https://t.co/ISMb6EM0VC - @Liquid_MaNa @x5_PiG @Kaelaris @WillChobra http://t.co/aLQ2BnQW…
+RT @SportsCenter: It's that man again! Lionel Messi scores a late goal to lift Barcelona past 
+Atletico Madrid, 2-1. http://t.co/djNrlCxAmP
+My weekend reading: "The Garbage Collection Handbook, The Art of Automatic Memory Management" http://t.co/mFHoRlC1Gl
+@tillig I find interesting that the blog post is dated September 15, 2015 :P
+RT @bsimser: Bullshit, selfies and Photoshopped smiles: Apple’s iPhone 6S announcement was a joke  http://t.co/TghU1xUTmb via @gadgettehq
+7 Reasons to Upgrade to @nodejs 4.0 http://t.co/DaP1H5Kon0
+RT @Jorriss: This month @dotNetMiami is getting back to the basics. @janierdavila will present .NET Memory Management Fundamentals http://t…
+RT @shanselman: @codinghorror more like the Surface RT 4
+RT @SanjayAtPilcrow: What can be your productivity device - Surface Pro 3 or iPad Pro? http://t.co/4ZrqlFej0C
+RT @interneth3ro: OMG Apple. Srsly? $1079 for 128GB iPad Pro, $99 for stylus and $169 for the keyboard? Surface 3 at same size with all tha…
+RT @filip_woj: haha @hijinksensue predicted this in 2012 http://t.co/dCr4tc94vR
+RT @Daniel_Rubino: Cool. Apple invented Nokia's Living Images.
+RT @tomwarren: I hate it when Apple straight up bullshits on stage. This isn’t entirely new technology. It’s a video.
+RT @DrPizza: so not for the first time in history, apple has reinvented a microsoft product (this time: surface pro) and will be much more …
+@camilin87 It is not a stylus. It is a pencil!
+@camilin87 Nah. You should buy it
+@camilin87 Provided you buy the thing, which it seems you are :)
+RT @bdsams: 2015: Apple invents a pencil you have to charge.
+RT @savasp: Double Wow! First company presenting their work on the new iPad is MICROSOFT!!! That's the Microsoft I love! :-)
+RT @davidfowl: The latest http://t.co/4PmXMQN7SX community stand up has some big annoucements! https://t.co/On5jNoLfCH #aspnet5
+So #Nodejs 4.0 was released. Finally merging with #iojs https://t.co/1xCmK3X3Cz
+RT @spolsky: My Excel video already has 3100 views on YouTube... I'm probably the next PewDiePie tbh https://t.co/D7nxEMwhFZ
+RT @Jorriss: New @aftkpodcast episode is out! We talk with WordPress contributor and professional pirate @ptahdunbar! http://t.co/YCDMnDNQYq
+@camilin87 still in same company? Same tech C#/MVC/js?
+RT @DrScienceCat: Why you should read the footnotes http://t.co/Nx9fDGqVv3
+@camilin87 can't complain
+@camilin87 @anicolaspp 17th
+@camilin87 @anicolaspp ok...I'll arrange it...also, I'm speaking this month at dotnetmiami
+@camilin87 how's work?
+@camilin87 @anicolaspp btw, thinking of doing a BBQ one of these days to reconnect with Blackstone folks. Interested?
+@camilin87 @anicolaspp that's fair.
+@anicolaspp @camilin87 but I have also seen codebases making a case by having well defined naming conventions. Ex. var studentInfo, etc
+@anicolaspp @camilin87 I mostly don't have a problem when its easy to understand the type var represents. Readability is important to me
+@camilin87 late to the party, but I'm with @anicolaspp on this one. Although like in the article I would've used 'var' there
+Interesting article on how to build a quick #roslyn code analyzer https://t.co/yiRYXQ54ck
+RT @dotNetMiami: MSBuild is going cross-platform with .NET Core! http://t.co/FD1rhsiyeL
+RT @spolsky: Debugging CSS positioning  http://t.co/D3fzwPXiMo
+RT @hodges: "Good companies get bought. Bad companies get sold." @CarineClark #StartFest http://t.co/ACeJiyOn3r
+RT @davkean: If you build against 4.6 - CurrentCulture is now one of those that opt into it - so culture flows with async regardless of thr…
+RT @davkean: Totally forgot that we added AsyncLocal&lt;T&gt; for 4.6 - this allows ambient "static" state to flow with async calls.
+RT @ch9: Introducing Azure Service Bus Premium Messaging http://t.co/t6nS75PNL0
+RT @github: Protected branches and required status checks https://t.co/uGLc2DwXgj
+RT @WoodyZuill: Dilbert certainly puts the fun back into estimates. Poignant, but fun. Some hate to see this retweeted: http://t.co/9qxgXvx…
+RT @NBA: #ThrowdownThursday... 
+
+Look out below! #ShaqWeek #TBT @SHAQ @OrlandoMagic https://t.co/IBc3IoIKMf
+RT @JohnDCook: The amount of terror in a speaker’s stomach is proportional to the square of the amount he doesn’t know about his audience. …
+RT @chris__martin: "Dynamic typing": The belief that you can't explain to a computer why your code works, but you can keep track of it all …
+Crazy story of a VS2015 bug and how it cost the dev $6500
+https://t.co/41wTTWxqRQ
+RT @davepell: I'll save you the trouble of reading a 10k word thinkpiece on Google's new logo and tell you how they did it.
+
+Select all. Ch…
+RT @John_Papa: I do not understand the ripping apart of others in our industry. Why can't there be friendly productive conversations? Karma…
+RT @raganwald: JavaScript developers react to the announcement of a new framework. http://t.co/Nj83rhVwzw
+RT @rachelterman: @rachelterman @Jorriss @dotNetMiami @cecilphillip @davenoderer @janierdavila  @reybango @RachelAppel @jstawski @SmokingJo…
+RT @dotNetMiami: Create test data with NBuilder and Faker  
+
+http://t.co/iKYRPtis2s #softwaretesting #dotnet
+RT @migueldeicaza: Actual apps listed on the front page of the Windows Store for Developer tools.   I like "AppTest003" and "Chorme" http:/…
+RT @davepell: There is a simple three step process to fixing comments on the web.
+
+1. Change Human Nature.
+2. Increase Global IQ
+3. Turn Of…
+RT @dotnetkicks: .NET compiler platform (Roslyn) analyzer packages by @AndersLybecker https://t.co/cxqWc1zEXr via @DotNetKicks
+RT @aSteveCleary: Announcing BrowserBoss: easy browser automation for @LINQPad 5! (Released from the #ThatConference dining room). https://…
+RT @rick_bonnell: NBA announces instances where a team plays four games in five nights reduced from 70 in 2014-15 season to 27 in 2015-16 s…
+RT @AtomEditor: Atom 1.0.7 is out and supports drag/drop for moving files/folders, an amazing community contribution by @rattazong http://t…
+RT @SamuelHLowe: When I go to someone's house &amp; they tell me to make myself at home, the first thing I do is throw them out because I don't…
+RT @JamesNK: @shiftkey A shared folder at university: Source. LatestSource. New. New2. Newest. JamesSource. WithBugFix. The Real Newest.
+@cecilphillip @dannycabrera look, Windows Phone is there!
+RT @dotNetMiami: Here's a test / sample of how to create a custom ViewEngine is #aspnet5. Very cool. https://t.co/P7GI2bfCR6
+RT @EverythingMS: Microsoft makes Windows 10 IoT Core generally available http://t.co/tiZVNMsos4
+RT @markrendle: Looks like #dotnet #coreFx on *nix has nearly got itself an HttpClient at last.
+
+https://t.co/8rEvPEpxpB
+I just noticed #VS2015 created a .vs directory and put all user files in there (e.g: .suo). Now I can gitignore the whole dir! #git #dotnet
+RT @jsonmez: Wise men speak because they have something to say; Fools because they have to say something.
+- Plato
+RT @markrussinovich: My new favorite error code: http://t.co/SYwVT6inpf
+RT @Jorriss: I showed this to my wife and she said "Yea no". http://t.co/gDuHWiCLm5
+RT @davidfowl: Most .NET developers didn't really need to understand much about #nuget until now.
+RT @dotNetMiami: What do you guys think of Visual Studio Code @code ? #miamitech #CodeOnTheBeach
+RT @cecilphillip: The code samples for my #aspnetmvc  6 talk are  up on Github now https://t.co/SsJy4YBKTK #codeonthebeach #aspnet5
+RT @Jorriss: Watching @cecilphillip's MVC 6 preso at @CodeOnTheBeach. His demos are C L E A N. http://t.co/FyNrqZ5NFG
+RT @rachelterman: Damn right I do #ILookLikeAnEngineer  https://t.co/tf975nKchG
+RT @sayedihashimi: blogged: Unit testing with DNX (http://t.co/f6pmBtoAI3 5) projects http://t.co/w86i9EhO7Q cc @shanselman @coolcsh @jonga…
+I was having a hard time trying to change the font color for my braces, brackets,semicolons in #VS2015 This helped me http://t.co/0JrpuFrIfl
+RT @leyawn: next time someone asks what reddit is just show them this image http://t.co/NSx7FfegoM
+RT @dotNetMiami: Our very own @Jorriss &amp; @cecilphillip will be speaking at @CodeOnTheBeach in Jacksonville, Fl this weekend #miamitech #fld…
+RT @cecilphillip: I had the pleasure of speaking with @julielerman for our latest episode of @aftkpodcast.  http://t.co/IW2qQuUqug #entityf…
+RT @VisualStudio: 1 of the nice new #VS2015 features is custom Window Layouts. See how you can define up to 10 w/ predefined hotkeys: http:…
+RT @cecilphillip: Some goodies for the folks that attend my session at #CodeOnTheBeach courtesy of @rethinkdb #aspnet5 #aspnetmvc6 http://t…
+RT @LeviNotik: "Dude, you don't need an IDE. You just need Vim with this plugin and that plugin and that plugin. Oh you probably also want …
+RT @howtogeek: How to Prevent Windows 10 From Automatically Downloading Updates http://t.co/JuGCaZMrvW
+RT @codinghorror: Something happened
+Something happened http://t.co/HWyQLAMgwP
+RT @HankLuhring: @shanselman -- @jonskeet visits StackOverflow for the first time and gets hooked. DotNetRocks #383 at 49:52, recorded 9/22…
+RT @majornelson: The Chatpad announced today is compatible with all Xbox One controllers &amp; works with Xbox One &amp; Windows 10 http://t.co/f1P…
+RT @dstorey: According to @statcountergs Windows 10 overtook all Linux combined yesterday on 3rd day of release. Fast out gates! http://t.c…
+RT @iwasleeg: "I haven't played with it too much"-programmer speak for "I haven't even heard of the words you just said".
+RT @AndrewBloch: Best courtroom exchange ever http://t.co/GxnvjiX9fC
+RT @Serrae: This exchange between @JarettSays and @netflix is fantastic. http://t.co/uk73KgsbJx
+RT @romainguy: Interesting to see FB use FlatBuffers: https://t.co/CYaxlDc3b1 Mobile apps should definitely consider formats better optimiz…
+RT @khellang: Oooh. Just found this golden nugget; https://t.co/F0jNNFQ2It
+RT @migueldeicaza: We are hiring for improve our F# story in APIs, IDEs.   That said, lots of the coding would be C#. Contact me if interes…
+@camilin87 you guys do it at carnival?
+@cecilphillip You bet! :)
+RT @TechCrunch: GitHub Raises $250M Series B Round Led By Sequoia Capital http://t.co/AUmOB9cC5r by @fredericl
+@cecilphillip All CUBANS!
+RT @jbevain: Announcing EmojiVS, a #VisualStudio extension to display #GitHub emojis in your favorite IDE. https://t.co/RWEFTGNuih http://t…
+RT @cecilphillip: Shout out to @ChristinaKeelan and her team at @rethinkdb!! How cool is this?  #ComminityLove #CodeOnTheBeach http://t.co/…
+RT @estherschindler: Arnold Schwarzenegger was asked if he wanted to upgrade to Windows 10.
+
+He replied, "I still love Vista, baby."
+Oh oh...Look what just showed up in my Windows Update! #Windows10 http://t.co/2D41Sq4VbO
+RT @edbott: "Yesterday, tech sites went full Chicken Little over a Windows 10 feature, Wi-Fi Sense. Here's why they're wrong." http://t.co/…
+RT @SwiftOnSecurity: The instant I installed Windows 10 and WiFi worked, I knew OS X was defeated.
+RT @CanadianJames: To get #aspnet MVC6 running on dnx46 working from Visual Studio in beta 6, you'll need this tip from @anurse http://t.co…
+Will try this "@WBuzzer: #Windows10 free upgrade still not showing up? This trick will help! http://t.co/TmZIftWIpi http://t.co/qqlg69l3jB"
+RT @simevidas: CSS.escape() in action (in Firefox) http://t.co/BRxWkNz3t9
+RT @jeremylikness: #aspNET 5 beta 6 is now here: http://t.co/sik7dQrcEJ
+RT @dotnet: RyuJIT Bug Advisory in the .NET Framework 4.6 - http://t.co/DGtgKdlFjX
+RT @TedMielczarek: THE YEAR IS 2025. JAVASCRIPT FRAMEWORKS OUTNUMBER HUMANS. SENTIENT TODO WEBAPPS SCOUR THE EARTH, HUNTING THE REMNANTS OF…
+RT @edbott: Your friends who know you as "computer guy" or "geek girl" are going to have Windows 10 questions. Your cheat sheet: https://t.…
+RT @xunit: Today we published the AssemblyFixture example, who shows how you can get assembly-level setup and cleanup.
+
+https://t.co/vbv4Xe…
+RT @SportsCenter: Mr Do It All. José Fernández strikes out 11 batters and drives in a run as Marlins beat Diamondbacks, 5-3. http://t.co/NF…
+RT @filip_woj: nice -  .NET Strings are immutable … except that they’re not http://t.co/CB0g8xTDEQ
+RT @Jorriss: Man, it feels great to get a new episode of @aftkpodcast done! Our episode with @LyalinDotCom is available now!
+RT @ahejlsberg: TypeScript 1.5 released. Lots of new ES6 features. http://t.co/HBGtSnabka #typescript
+RT @msdevUK: More great news, #GitHub Extension for #VisualStudio 2015 is now open source: http://t.co/GbMLvtMVfl #oss http://t.co/6qu5weq8…
+RT @iamdevloper: Flexible hours*
+
+*you'll need to be in for the 10am standup everyday
+RT @xunit: As with everything else, this new project is open source. Please report issues on our @github project. https://t.co/5WRIay0iNN
+RT @RadioFreeTom: United States Marines have been told not to wear their uniforms in their own country. We are defeating ourselves worse th…
+RT @SportsCenter: U.S. women's forward Alex Morgan underwent successful arthroscopic surgery on her right knee this morning. http://t.co/mT…
+RT @PHP_CEO: THE DAYS ARE LONG, BUT THE DECADES ARE SHORT
+
+UNLESS YOU’RE WRITING JAVASCRIPT IN WHICH CASE BOTH DAYS AND DECADES ARE NaN
+RT @pungodly: Obituaries will eventually include the person's top five tweets.
+RT @NeckbeardHacker: #1: So...what do you do?
+#2: I develop stored procedures. I'm a data scientist!
+#1: So, like, you're a SQL develo—
+#2:…
+RT @VisualStudio: This is pretty cool - Become a Command Line Power User
+
+http://t.co/VkIXZejFUh http://t.co/YJZj0axr4y
+RT @mfeathers: A: "Write a Singleton." B: "I did once, a long time ago." A: "Huh?" B: "That's what Singleton means - you only write one in …
+RT @Pilchie: Hadn't seen this great post by @onovotny until today: Demystifying PCLs, .NET Core, DNX and UWP (Redux) http://t.co/92872IQW8I
+RT @SportsCenter: THIS JUST IN: Amar'e Stoudemire signs with the Heat. http://t.co/1P0VC6bIoO
+RT @DwyaneWade: When you're on the move like I am. You have to sign your contract on the move..One more year #heatnation https://t.co/dBTQB…
+RT @chrisbosh: Amar'e Stoudemire &amp; Gerald Green.... Yes!
+RT @LAClippers: Done deal!  📝
+
+LA native Paul Pierce is officially a member of the LA Clippers. http://t.co/OddmKUb3NA
+RT @superkully: ConsoleApplication1 through ConsoleApplication43. One of these has the code I am looking for, but I've lost the will to loo…
+@cecilphillip but when does it get added to the language. Is not there in the current version, is it?
+RT @code: Our 0.5.0 Update http://t.co/zKoFwApXsA includes ES6 support - read all about it in our blog http://t.co/Lhfjk6jPUu https://t.co/…
+RT @MiamiHEAT: #HEATSummerLeague Final: HEAT 78 - Pistons 73. Winslow 17pts 5rebs, Reed 13pts 11rebs, Richardson 13pts, Kalinoski 12pts 5re…
+@cecilphillip man that looks so cool.  So once its in PEP document is final?
+RT @POTUS: What a win for Team USA! Great game @CarliLloyd! Your country is so proud of all of you. Come visit the White House with the Wor…
+RT @SportsCenter: 3-0 USA!
+Lauren Holiday finds the back of the net and #USWNT continues to roll against Japan.
+RT @FioraAeterna: Code comments http://t.co/bNIy6IjpSb
+RT @jamesiry: Which form of OO reuse is the most common?
+
+☐ class based inheritance 
+☐ prototype based inheritance
+☑ clipboard based inheri…
+RT @Fizzygrrl: Also. http://t.co/n6hEv2L3dj
+@cecilphillip heard of Flask, never heard of falcon. Will take a look... #python
+RT @mbcrump: Seven Surprising #JavaScript 'Features' - http://t.co/WVkPYNEblb #webdev
+RT @ItsAndyRyan: "How come Americans write the month first?"
+"That's how you say it, month first"
+"What's the date today"
+"It's the fourth …
+@cecilphillip probably the #electron engine http://t.co/pyRsKvtuig @github @AtomEditor
+RT @github: Sign up for a first look at GitHub Desktop–a new, native way to use GitHub for both Mac and Windows: http://t.co/Wh0kWU0Mwm
+RT @AmazingiGrace: You never know how strong you are until being strong is the only choice you have.
+RT @jrusbatch: Great article on #scriptcs from @julielerman! "Exploring Entity Framework Behavior at the Command Line with Scriptcs" http:/…
+RT @dotnetkicks: Save the Date: Visual Studio 2015 RTM on July 20th https://t.co/Gu5DmQ9hdM via @DotNetKicks
+RT @dave1010: Yay, all unit tests passing! http://t.co/ax2uxPsZqv
+RT @msdev: When it's time to take a coding break &amp; you remember this happened... http://t.co/EgqxmTIGEx #BackwardsCompatibility http://t.co…
+RT @mcten: Reminder: Even if LeBron simply signs a new 1-year contract in CLE, he stands to make about $600k more than he would if he opted…
+RT @SportsCenter: LeBron James intends to stay somewhat removed from Cavaliers free agency until other free agents are handled. http://t.co…
+@camilin87 best time! :)
+RT @shanselman: These are the final 18 words of the Spelling Bee, won by 14 year olds. And y'all can't get you're vs. your right. http://t.…
+RT @cnnbrk: Escaped N.Y. convict David Sweat taken into custody 2 miles from Canadian border, sources say http://t.co/M0zDo4FokU http://t.c…
+@cecilphillip oh one of the few non-coding ones I had on my list. http://t.co/rejtqq6xYo @pluralsight http://t.co/bXBxhqoCSL
+RT @ESLSC2: Hydra takes the series 3-0 over Polt &amp; moves on to the Finals match!!! #WCSToronto http://t.co/3pjWvCdK7W
+@cecilphillip apparently @pluralsight and Sunday go well in the same sentence. I'm also catching up on a course #SundayLearning
+RT @amyengineer: RT @anatudor: Ahahaha, this is brilliant! via @MihaiTodor http://t.co/ROKl3V7uSK
+RT @aftkpodcast: What you up to this weekend? Hope you're getting caught up on our show. More great content coming http://t.co/MepwxZMuCN
+RT @SplashBroos: This will never get old 🙌😂 https://t.co/XQjr4A6LkY
+Wow...that Ger vs Fra game was nerve breaking. What a game! #penalties #womenworldcup
+RT @rikschennink: For now, let's just focus on fixing it quickly...
+
+6 months later... http://t.co/06nxj2sMqj
+RT @LyalinDotCom: @jstawski @aftkpodcast @cecilphillip @Jorriss yeah its a great show! I'm a fan now for sure :-)
+RT @haacked: Congrats to the Atom team and community for shipping 1.0! http://t.co/OBOJYkFwDv
+The number of unique contributors is impressi…
+RT @JesusGraces: Some people talk about finding God - as if He could get lost.
+RT @SportsCenter: Cavaliers F Kevin Love has opted out of the final year of his contract. (via @ESPNSteinLine) http://t.co/8M7og9qlJV
+RT @julielerman: looking forward to chatting w @Jorriss &amp; @cecilphillip for @aftkpodcast. I'm a bit punchy this time of night so it may be …
+RT @TweetsbyMatt: Make sure to check me out on the @aftkpodcast talking @Launch_Code &amp; #southfloridatech
+http://t.co/GKkh6OwPeY
+RT @sadserver: information security should be layered, like an onion.
+
+it should not make you cry like an onion
+
+there's a difference
+RT @julielerman: in case I haven't said this lately: not really a good idea to try to insert 1/2 million records into a DB using EF or any …
+RT @martinfowler: .@xenoterracide Agreed. I think the diff between OO and FP is unimportant compared to the diff between good code and prev…
+RT @jeremydmiller: I’ll do my best to listen respectfully to why FP is the best thing ever, but can we please stop w/ the OOP is all about …
+@Jorriss but I would be happy to do it on Sep :)
+@Jorriss Aug is always hard. Hence I can never make it to CodeOnTheBeach. Birthday month, family over, vacation, out of town. Cuba this year
+"Be conservative in what you do, be liberal in what you accept from others"https://t.co/loPOOlExej
+RT @tomwarren: I've been using Xbox One to Windows 10 streaming, and it's just simply amazing how it's not laggy at all. Crazy good
+RT @housecor: Wow. 
+
+Simple, but powerful wisdom. http://t.co/UFjWGP3MhG
+@camilin87 Fair enough. I don't for YouTube videos. I find Blog posts comments are more moderated and effective in getting people's thoughts
+RT @DPJHodges: In retrospect Sandy Hook marked the end of the US gun control debate. Once America decided killing children was bearable, it…
+LOL// "@iamdevloper: Writing PHP is like peeing in the swimming pool…
+
+Everyone did it, but we don’t need to bring it up in public."
+RT @danveloper: Bush and Clinton running for POTUS, Jurassic Park #1 in box office, Java reaches a milestone... Welcome back to 1995. #prog…
+RT @MiamiDadePD: #Breaking - Units working multiple victim shooting in NE Miami-Dade. #Developing now
+Just discovered http://t.co/8cX92975gR Easy way to browse C# projects in #GitHub #awesome
+RT @PieCalculus: Go lang overview. http://t.co/SH5sxlOgnO
+RT @ifesdjeen: You will never regret picking a language with default immutable data structures.
+RT @andygocke: Just fixed a bug where C# compiles CLR wrong due to a CLR bug, so we're fixing C# to build a new CLR to fix C# so it can com…
+RT @terrajobst: Wanna check how easy it would be port your .NET investment to .NET Core? Check this out. https://t.co/F9P67Nju3u
+RT @shanselman: Go VOTE on the games you want to see working on Xbox One, brought over from Xbox 360 using Backward Compatibilty! https://t…
+RT @DavidRoads: The only disability in life is a bad attitude. -Scott Hamilton
+RT @androoshaw: Mic. Fucking. Drop. #CharlestionShooting http://t.co/5nxVWYIjqY
+RT @tomwarren: Sony surprised by Xbox One backwards compatibility, says unlikely for PS4 http://t.co/qcVhdLEbgX http://t.co/oNksqA35qv
+@Jorriss main
+@Jorriss I think I need to speak. When there is an opening?
+Sad left work late and and had to miss @dotNetMiami meeting tonight. I'm sure those guys are having lots of fun
+RT @Jorriss: Look who's at @dotNetMiami...@idigdata! http://t.co/4mAPXjfCEN
+RT @badsandwich: we may never know what caused that white supremacist who got guns for his bday &amp; lives in a state that flies the confedera…
+RT @adamralph: Want to get involved in open source but don't know how? "Tales from an OSS contributor" at 17:40 in room 8 http://t.co/s9Fm1…
+RT @PragmaticAndy: Wisdom from #ndcoslo http://t.co/zI31IIiCQZ
+RT @troyhunt: This 8 y/o kid wins #ndcoslo - talking on F# and OpenGL. Remember this those of you looking for the courage to speak. http://…
+RT @cecilphillip: Listen to our conversation with @reybango on @aftkpodcast available now http://t.co/Civ7V0oO5s #miamitech #webdev
+RT @dannycabrera: Lets go USA @ussoccer !
+RT @mydaughtersarmy: Dear Donald Trump,
+Twitter is forever. 
+http://t.co/y9KvWCuDF2
+RT @shanselman: Excellent online @aspnet boilerplate resource for making new web projects http://t.co/91tkUCnN7K
+RT @Encosia: This has been circulating a while, but I wanted to finish reading it before recommending. Pretty good: What Is Code? http://t.…
+RT @tomhaberstroh: Cleveland's last 15 buckets:
+LBJ ast
+LBJ
+LBJ ast
+LBJ
+LBJ ast
+LBJ
+LBJ ast
+LBJ
+LBJ ast
+LBJ ast
+LBJ
+LBJ
+LBJ
+LBJ ast
+LBJ
+RT @FIFAWorldCup: HT
+Cuba 1-1 Curacao (agg. 1-1)
+#WCQ #CUBCUW
+http://t.co/BddheFb0O5 http://t.co/zEDghPQn3g
+RT @FIFAWorldCup: EXCLUSIVE:
+Cuba captain Yenier Marquez on #WCQ and meeting @Pele &amp; Raul
+http://t.co/LZ5UAG2Dm6 http://t.co/Exdjj5DOMb
+RT @IKnowSoftware: NO! U don't need a #JS Ninja. Ninjas are silent (horrible at #Agile standups) and kill people (major HR no no). #UI #UX
+RT @reactjs: We're deprecating JSTransform and react-tools, along with some related tools. Read more on the blog: http://t.co/SNCcUtKWK4
+RT @SimonJGuilfoyle: Sound familiar, anyone?
+
+ http://t.co/Qk99p3wONI 
+
+This 'new' insight is almost 2,000 years old...
+
+via @drhamedkhan
+RT @richcampbell: Microsoft's Surface Pro 3 comfortably beats Apple's iPad Air 2 in speed tests http://t.co/9f5C9qmGqH
+RT @mattleibow: One API. One package. Same platform #buildtour http://t.co/zbjagdBSyh
+RT @iafricaCooltech: Windows 10 will run on everything from a tiny Raspberry Pi to an Xbox #BuildSA #BuildTour
+RT @httpJunkie: Looking for a job, Orlando &gt; using ASPNET MVC, Web API, I'm good with HTML, CSS &amp; JavaScript, node, npm, bower, grunt, foun…
+@camilin87 good read, seen similar posts...but man reading thru the comments was so much fun! Java, ruby, go Devs are so passionate  :)
+RT @abt_programming: "When you have to make a choice and don't make it, that is in itself a choice" - William James
+RT @tgrall: map reduce explained - thx Dave Chapell http://t.co/05FUyJBL3w
+@camilin87 for real, mainly that async/await syntax. Tho I still get confused with this ES6/7. Like I'm used to js w/o those classes
+RT @dotNetMiami: Interesting insights for around vetting out ideas for your software projects #miamitech #fldev #startups  https://t.co/Aaf…
+RT @bhalp1: Sometimes when I'm writing Javascript I want to throw up my hands and say "this is bullshit!" but I can never remember what "th…
+RT @rustd: @aspnet Session and Output #Cache providers for #Redis are now open sourced https://t.co/br0VYWLkzt
+RT @shanselman: The LIVE @aspnet Community Standup is happening NOW! https://t.co/P5wsyae4rz
+RT @dannycabrera: USA, USA, USA!!!
+RT @modestproposal1: Apple copying Android and Windows features isn't a big deal, but is a reminder that Apple sues others for copying them.
+RT @DesignUXUI: New typeface for coding that includes common programming ligatures! Great idea!
+
+http://t.co/rAkInMeVuX http://t.co/cFNR9SM…
+RT @CallewaertFilip: The physicality of paper and pen help you design your knowledge work better. Craftmanship. #Design. http://t.co/EvePM5…
+RT @EstebanFGarcia: Podcast: Away From The Keyboard http://t.co/YVwUj6Vdfk
+RT @EstebanFGarcia: As guest on @aftkpodcast we covered #ALMRangers, @pluralsight, @NebbiaTech, @ONETUG, @CanvsORL. It was a lot of fun! ht…
+RT @WomanDoItAll: The greatest weapon against stress is our ability to choose one thought over another.
+RT @DanWahlin: Why Babel Matters http://t.co/ycP1Kl8U7h #es6 #javascript
+RT @cecilphillip: The Warriors are playing ball tonight !! #NBAFinals2015
+Scoring 44 pts and still lose must be very frustrating #nbafinals #lebronjames
+#CLE could not find the ring in the overtime. Great game. #nbafinals
+Whoa! Overtime! #whatagame #nbafinals
+This first game has be awesome so far! #NBAfinals
+@cecilphillip nice. Have fun
+RT @filip_woj: protip: if you want to write scriptcs with latest @code just put an empty project.json next to your csx file http://t.co/Tzi…
+@cecilphillip where to?
+Microsoft adds OpenSSH support to PowerShell http://t.co/O230CUXmIx #PowerShell
+RT @xoofx: @JustinAngel talking about the collapse of NET &amp; moving back to Java sounds awkward...Things changed a lot in one year for .NET …
+RT @dsmerdon: Nakamura becomes the tenth person in history to cross 2800. What a difference 9 months has made! 
+@GMHikaru
+RT @VisualStudio: ICYMI: #Build2015 replay of the intro to http://t.co/rfxA8zPXUZ 5 session w/ @SHanselman &amp; @coolcsh, http://t.co/JezOoElA…
+RT @darrel_miller: Dear tweeps, I need a reality check.  Am I the only one whose feels sad when seeing this URL construction code https://t…
+At the beach with wifey http://t.co/6tqaItdLi2
+RT @DepressedDarth: Speech therapy http://t.co/zg6J2HyXww
+RT @tomwarren: It's a shame Google did a 1990s Microsoft and decided to focus on bloating up its browser and locking people in instead of q…
+RT @jeremydmiller: OH: "Call me old fashioned, but I like the idea of my database not losing my data"
+RT @PHP_CEO: WE SPENT 18 MONTHS MIGRATING FROM A MONOLITH TO MICROSERVICES
+
+RESULT:
+
+- GITHUB GETS PAID FOR MORE PRIVATE REPOS
+
+- FIND/REPL…
+RT @ZachWeiner: Idea: America drops all charges against FIFA in exchange for a universal declaration that it's called Soccer.
+RT @iamdevloper: 10 lines of code = 10 issues.
+
+500 lines of code = "looks fine."
+
+Code reviews.
+RT @tomwarren: Windows 10 on track to launch in July http://t.co/iGm1hn6lLv http://t.co/CSWdlCL2ze
+RT @iamggreen: Love this kind of passion for teaching others rather than putting them down https://t.co/NhaSyoGBTb
+RT @DwyaneWade: Tough way to go out for harden but it's never a good way to go out..
+RT @TheOnion: Breaking News: http://t.co/HdES9jQICV http://t.co/C2REaEdJoa
+RT @codinghorror: Isn't copyright fun? http://t.co/kTkXtlWcLs
+RT @ValaAfshar: A minimum viable product doesn't mean half finished. It's doing small number of things to a high standard. @boagworld http:…
+RT @ChrisPalmerNBA: Curry boxing out Howard and ripping down a one-handed rebound is as impressive as any dribble move he's done all year.
+RT @lotacharlotte: Meanwhile in America.... #Eurovision2015 http://t.co/bo9ggJAIIs
+RT @davkean: @IDisposable We patch over 1 billion installs of .NET, we know this game pretty well. If we only break 0.1 %, that's still 10 …
+@patrickTimothee @Jorriss @cecilphillip ok June! :)
+Some familiar faces at @dotNetMiami // @rachelterman @dvee81 @patrickTimothee @WillTartak @anabanana2790 http://t.co/9624WzAhmc
+@cecilphillip now @patrickTimothee is so excited! He is ready to give that talk now :)
+My friend and talented dev @cecilphillip will be speaking about #Xamarin forms tonight at @dotNetMiami details: http://t.co/FxEaMTZyAw
+RT @dotNetMiami: Xamarin Forms, Open Source tomorrow night at dotNet Miami - http://t.co/y2jpNxkzUQ
+RT @dotNetMiami: So this happened.. https://t.co/6dzTcbbFJ4. WCF is now open source #dotnet #SOA
+This is the shirt to wear today! See you all tonight at @dotNetMiami http://t.co/rgMsGKDqQc
+RT @clemensv: I thought that day would never come. WCF is open source. https://t.co/muLp785evm
+RT @clemensv: @chwenz open source is a way to make dependencies less painful.
+RT @KentBeck: listening to audio without headphones in a coffee shop is morally equivalent to farting in an elevator
+RT @citizenmatt: Hooray! The ReSharper devguide has finally got it’s new coat of paint. Official colours and everything. https://t.co/UeCcd…
+RT @Noahpinion: Humankind spent 50,000 years dreaming of flying, and will now spend the next 50,000 years complaining about it.
+RT @scottjehl: Test if your site is too slow:
+1. Open http://t.co/FIPFFm0HW8
+2. Add your url, Moto E, 3G
+3. Start
+
+Speed Index &gt; 3k?
+Your s…
+@camilin87 can't complain.
+@camilin87 oops...not sure what I did but that was not my intention... :) how are you btw?
+@camilin87
+RT @shanselman: The LIVE @aspnet Community Standup (with me alone!) starts now on Google Hangouts: https://t.co/2bom9i6Bzy
+RT @FauxJohnMadden: The NFL.. where deflating some footballs is twice as bad as hitting your fiance
+RT @Ravi: And that, ladies and gentlemen, is why I'll always love @Twitter http://t.co/6HcHZe4j0v
+RT @Mammals_Suck: yep. http://t.co/Aqse19u8gm
+RT @alicewhitey: Sure http://t.co/4eMF628NVL
+RT @edbott: Superb. http://t.co/SufpxY7W8n
+RT @cecilphillip: Over 1 million downloads for @AutofacIoC!! #OpenSource #dotnet  https://t.co/V5qb2LvQck
+@cecilphillip I know, which is fine. Just need to find something to do with it...maybe my next angular app
+@cecilphillip need to find something small to try it out since we normally use so much tooling, R#, dotCover, test runners, etc
+RT @ShaneBattier: Watching Bulls/Cavs. I admit. I miss the playoffs. Nothing better. Every possession means something. Meaningful basketbal…
+@cecilphillip what projects you worked on?
+RT @MiamiDadePD: Help us identify and locate this subject. Click for more info and call/text @MDCrimeStoppers  https://t.co/efvU6altwg http…
+RT @EverythingMS: Windows Phone outpaces Android growth in big EU markets http://t.co/jay4kFEF2i
+RT @githubstatus: "We're seeing high error rates on http://t.co/2qUwMFsmyu and are investigating".
+RT @jarrod_dixon: BuildVision, my new favorite VS extension - https://t.co/0CEeyxCHhK (we'll fix those warnings... tomorrow...) http://t.co…
+RT @k_cieslak: . @nuget package searching using @PaketManager in  @AtomEditor #fsharp http://t.co/L7NHURpeGJ
+RT @ericlaw: JustDecompile's engine is now open-source! #TelerikNEXT https://t.co/lK7f6EjtPj
+RT @IrisClasson: To get you folks in a good mood, enjoy one of my fav scenes from my fav series, Silicon Valley: https://t.co/sM9FlXUtEu
+RT @akoeplinger: . @DotNet I believe in a future where this won't be the first reaction to a new C# OSS project: https://t.co/tlJgpbqBiY
+RT @davidfowl: The new http://t.co/4PmXMQN7SX 5 Data Protection stack http://t.co/G5MYbYTZhO #aspnet5  /cc @LeviBroderick @blowdart
+RT @chrisbosh: This is one of the best series I've ever seen!!!! #CLIPPERSvSPURS #Game7 #NBAPlayoffs
+RT @tomwarren: Steve Ballmer still can't get over Android apps on Windows http://t.co/Rnp9JKNHnn
+Kung Lao has some moves #mortalcombatx #xboxone
+RT @RudyHuyn: I've a good news for #wpdev. I will release Univerlight, a tool to convert your silverlight project to WinRT in the following…
+@rachelterman so you almost never tweet, but when you do...
+RT @doctorow: English is weird http://t.co/ub1raeQrFN http://t.co/k9DGuHtPjZ
+RT @markrendle: It is not Microsoft's fault that OSX lacks a built-in package manager so you have to install Ruby to install Brew to instal…
+RT @paulcbetts: Things that annoy me: people who file issues / PRs on cross-platform projects but only think of OS X
+RT @aftkpodcast: Remember to signup for our newsletter for a chance to win a copy of @jsonmez's Soft Skill book http://t.co/tEz8py7MGY #car…
+RT @migueldeicaza: Psyched about my talk today at build.  We introduce 2 new products!
+RT @ReactiveX: For those who are wondering, yes, we are actively working on Rx .NET and a new release should be out soon https://t.co/V9FXJ…
+RT @MiamiDadePD: It's National Bicycle Month! Follow @AlertTodayFL for more information and tips for drivers, bicyclists, and pedestrians.
+RT @noopman: hehe RT @fgzuniga Everybody gets Visual Studio #Build2015 http://t.co/iM8EGSo4uL
+RT @DamianEdwards: First thing ppl want after you give them a stripped down, code-focused editor is to start adding stuff back in "Does it …
+RT @code: See #VSCode in today's #Build2015 session: Inside Our New Open Tools for Cross-Platform Dev. http://t.co/FIxqbTNG3S http://t.co/D…
+RT @code: ...&amp; here's where you can read more about #VSCode awesomeness: http://t.co/3OLiecfStr - thanks to MVP @LaurentDuveau http://t.co/…
+RT @khellang: I love how the @aspnet team listens to community feedback! See https://t.co/RLFClhVmnV
+RT @brian_schnee: HANDS DOWN the most powerful picture I have seen from #Baltimore.
+
+#BaltimoreRiots (Pic: Bishop M Cromartie) http://t.co/…
+RT @Jorriss: @dannycabrera AwayFromTheKeyboard.Episodes[1].Guest[0].Name = "John Sonmez"  @aftkpodcast
+RT @nsr81: @shanselman Haven't tried this tool, but I have been using http://t.co/ohFqql1ajL for a while to help focus when doing any dev w…
+RT @shanselman: Music to Code By - an interesting productivity tool from Carl Franklin http://t.co/u0IjHf2H7F
+RT @Skype: In light of the tragic events in Nepal, all Skype calls to landlines &amp; mobiles in &amp; out of Nepal are free. More: [http://t.co/pz…
+RT @adamralph: I'm excited to announce that I will shortly be joining the @ParticularSW team!
+RT @shanselman: We just finished Netflix's Daredevil. Now the wife is watching Ben Affleck's because she "wanted more Daredevil." I left th…
+RT @shanselman: Productivity Tip: The hardest part about getting stuff done is the sitting down and actually doing it.
+RT @MikeElgan: And so it begins. https://t.co/JbNx9y0k45 http://t.co/ncl9e4y00q
+Woah! #CHIvsMIL game was very enjoyable. Great job Bucks! #NBA #playoff
+...and the Bulls tied the game...again! #NBA #playoff
+RT @Cranialstrain: Nice! &gt;&gt; "F# on Emacs with Spacemacs · μπ log" (via @nikosbaxevanis) http://t.co/TYEv32qjwZ
+RT @NBA: Now Dwight! Who's next???
+
+RT @HoustonRockets: This happened https://t.co/GsY6U2wTyk
+@cecilphillip +1 //@devfish @ONETUG @CanvsORL @dotNetMiami @Jorriss
+RT @jacobian: “An elegant codebase is one that was worked on by multiple people, but looks like it was worked on by one.” - @nnja #pycon
+RT @MiamiDadePD: ALERT: Missing Endangered Adult - #missingperson http://t.co/R7MbnI8b3W
+RT @sayedihashimi: Released a new ver of psbuild (PowerShell wrapper for msbuild.exe). Release notes at https://t.co/NFSp2Hygqz. Fav featur…
+RT @dotNetMiami: What are you guys hacking on this weekend? #Azure seems to be a busy topics :)  #fldev #miamitech
+RT @abt_programming: "It's not uncommon for designers to confuse a beautiful looking product with one that works beautifully" - Braden Kowi…
+RT @EstebanFGarcia: #GlobalAzure continues in Orlando with @BreckMaass presenting @ONETUG @CanvsORL #fldev http://t.co/zybiLT3tlX
+RT @s1monhughes: Released v2.12.2 of EntityFramework Reverse POCO Generator https://t.co/i5M2US9tW5
+What's new: https://t.co/o3SLW3e7d8
+@Er…
+RT @NBAonTNT: Happy Birthday to #TheBigFundamental! http://t.co/wrGEsOnwfE
+RT @spurs: RT to show Timmy some birthday love! #HBDduncan http://t.co/9ZCRpvNNa3
+RT @migueldeicaza: What you can expect from C# 7: https://t.co/bgleUmelLH   Love it.   If you are like me, and can not wait 2 years, start …
+RT @BiIIMurray: If you've never experienced this before, you're too young: http://t.co/399aGF37X7
+RT @khellang: "We are excited today to announce that http://t.co/A958XYy9Ej 5 will have full support with Visual Basic" - Still sad that F#…
+RT @joewalnes: The .Net CoreCLR FreeBSD thing was done by team of outside contributors via GitHub PRs.
+
+That's significant. Other big corps…
+RT @VisualStudio: Did you hear? Now Available - PowerShell Tools for Visual Studio, http://t.co/SFAmyjUCYA
+RT @AtomEditor: Atom Shell is now Electron http://t.co/ZBNaXBUmab http://t.co/xsp0WQzRBv http://t.co/IPMAKjcii9
+@cecilphillip :)
+C# 7 Work List of Features https://t.co/eRg06c35gT #csharp #dotnet
+RT @cecilphillip: Doing an early audio test. Making sure I'm set to record another episode later tonight  //cc @aftkpodcast http://t.co/r8B…
+RT @DrPizza: So like, I feel we're seeing more UI/UX changes between the semi-frequent fast track releases than over the entire Windows 8 p…
+RT @xunit: If you're using @aspnet 5, you don't need to reference "xunit.runner.visualstudio". The Visual Studio support is in "xunit.runne…
+RT @_Pandy: apple watch http://t.co/NlVApib43n
+RT @sgwill: We now have #aspnet5 in @omnisharp + @AtomEditor WOOO!! http://t.co/4DfbeW444z
+RT @EverythingMS: Here's what you can earn working at Microsoft (a LOT!) http://t.co/Mhu2fOp3WE
+RT @AtomEditor: Atom 0.193.0 is Faster, Better, Stronger, and Resizable http://t.co/q0Zsbxb0Mm
+RT @aftkpodcast: We've got an awesome episode for you guys this week featuring @RachelAppel and @rachelterman. Check it Episode 1!! http://…
+RT @Jorriss: A big thanks to the best hype man there is @BrentO for featuring @aftkpodcast and StatisticsParser in he newsletter today! You…
+@Jorriss ...and I'm going to!
+@Jorriss hater
+RT @Jorriss: We just released our first episode with @RachelAppel and @rachelterman! Take a listen at http://t.co/YCDMnDNQYq!
+@Jorriss use Windows Phone ;P
+RT @trello: Want to see Trello on a #WindowsPhone? Come help us build it! 
+https://t.co/fGLBflaaei
+https://t.co/8oLz6MKrsN
+RT @AspnetDaily: @LINQPad is a great tool for working in Entity Framework. The top-of-the-line SKU is on sale! https://t.co/iAgndZ1OWG #ASP…
+No kids around. I should get in there now, shouldn't I? #niecebirthdayparty http://t.co/7hOgeFDsz7
+RT @jonskeet: Right, we've got 24 proposals for the next ECMA C# technical group meeting. That should be enough to keep us busy.
+@julielerman you mean @dotNetMiami ? :)
+RT @doctordns: Azure Resource Explorer: Microsoft has just issued a very cool new Azure Tool: Azure Resource Expl... http://t.co/L48OTNLSFp…
+RT @jesperronn: JavaScript dependency management just got fun (#geekfun): https://t.co/wI1bkY1DKh http://t.co/foFcmWAnwU
+RT @davidfowl: Thanks to @ellism, we have dnx running on OSX and linux on top of CoreCLR! #dnx #aspnet5 http://t.co/kNiaGLtbpP
+RT @VisualStudio: http://t.co/jexwYi9omH - This cool post details the real and true story Roslyn’s first year of open source life. http://t…
+RT @DurandalJS: Getting curious about Aurelia? Join me for a live web cast from Radio Canada Lab this Monday at 7pm EDT. https://t.co/ZSnsG…
+RT @coderwall: LinqPad and why it is a must have tool for any c# programmer #.net #protip http://t.co/VbBglFI1Or via @coderwall
+@cecilphillip yes. That's one of the perks of scripts, script packs. Really cool lib.  @miranda_jd @Jorriss @dvee81
+@cecilphillip you can probably define them tha way. I could write complete console like utils, save and reuse @miranda_jd @Jorriss @dvee81
+RT @servertastic: How not to deal with an expired SSL Certificate http://t.co/h5U9qWm8PT http://t.co/FehGNvQsF8
+@miranda_jd so I have used sparingly, I even have setup in sublime but I always fall back to #linqpad@cecilphillip @Jorriss @dvee81
+@miranda_jd I was wondering :) @cecilphillip @Jorriss @dvee81
+RT @kevinold: Get a list of git branches, ordered by most recent commit - http://t.co/wnuBGmYIHj  Useful when you can't remember which bran…
+RT @resharper: This is new in 9.1 RT @hmemcpy: Oh, hello, new ReSharper gem! http://t.co/emDAxYuZp1
+@anicolaspp I see
+@anicolaspp any reason? Just curious
+@anicolaspp no clue why you're sending me this. I know what Turing completeness means in CS. I was just asking if you were doing any F# work
+@anicolaspp that book is not about Testing with F#? :)
+@anicolaspp doing any F# dev?
+@cecilphillip added to my list    @pluralsight @robertsjason
+RT @cecilphillip: I'm a big fan of #AutoFixture. Glad to see there's a @pluralsight course. Congrats to @robertsjason http://t.co/H9HqDUI9W…
+RT @satyanadella: Thank you to our customers, partners &amp; employees who made 40 yrs of @Microsoft possible! Look forward to the next 40 &amp; #e…
+On the other hands...Go Wisconsin! :) #marchmadness
+One of the worst @heat games I've seen. Gave up a 15 pts lead with so many silly mistakes...so frustrating...grrr
+RT @StarCraft: Captain America does it! Really exciting match against @pLineFireCake who fought with everything he had! GG! #WCS http://t.c…
+RT @StarCraft: Is there anyone you're afraid of here? "No, noone" @ROOThydra confident after picking up the win against @CMStormPolt http:/…
+Watching this #wcs @StarCraft games can't help but wonder why people don't also surrender when I destroy their natural in my bronze league?
+RT @semanticwill: Every conference speaker has 4 talks: 
+The one they write.
+The one they give.
+The one they thought they gave.
+The one the…
+RT @ESLSC2: Liked David Kim on the desk? He'll be back tomorrow to answer your #LotV Qs. @StarCraft #WCS http://t.co/OEppXEmhwF http://t.co…
+@cecilphillip added u
+@cecilphillip msg me your Xbox handle
+Watching #wcs @StarCraft on #twitch app on #xboxone looks awesome! http://t.co/KTcu2MfYim
+RT @ChristosMatskas: Very interesting article and well written. For someone  new to microservices, th... http://t.co/gzh8gtvQUQ
+RT @soumow: Much better! #VS2015 now has just three versions. Community, Pro, Enterprise https://t.co/LDcVpFINkH http://t.co/HujlEXcTUu
+RT @LyalinDotCom: Happy Birthday @Microsoft, you might be 40 years old but we all know you're being reborn :)
+RT @jeresig: No no no no. The voice of newbies is one of your biggest assets. Why don't they understand? What is the confusion? http://t.co…
+Wearing my @dotNetMiami shirt today for work #representing http://t.co/HHMmXK5gMh
+RT @VisualFSharp: Check out the nodejstools for Visual Studio, they are open sourced and on Github.  Take a look and get involved:  https:/…
+RT @resharper_cpp: I'm an offspring of @ReSharper. I don't understand C#. But then again, knowing C++, why would I need to?
+RT @shanselman: 1'm 50RRY 8Ut 1 d0 n0T r35P3ct adultz thAT R 5T1ll t3xT1N' m3h L1k3 TH1Z. 1 M3AN, 5R5LY.
+RT @thebeebs: The code behind @microsoft OfficeAssistant (Clippy) now open source on GitHub: http://t.co/rYXCE5USUJ
+RT @tomwarren: Microsoft launches MS-DOS mobile to reboot its struggling smartphone efforts http://t.co/RDM5OoeoeO http://t.co/3jstlVUFK5
+RT @tomwarren: Microsoft’s April Fools’ Joke is pretty elaborate. Especially the ASCII camera http://t.co/RxG6Le7f3N http://t.co/dh9YRqQJLp
+RT @0point5twins: 10 missed calls
+18 text messages
+45 emails
+1 Twitter notification
+
+*opens Twitter*
+RT @hmemcpy: Did you know that @GitHub has an import from SVN/Mercurial/TFS? https://t.co/2w35Rk7d4l
+RT @troyhunt: Blogged: Deconstruct websites, get hired: hiding recruitment messages in source code http://t.co/Mr6jZz6RUg
+@sayedihashimi Mine was also #vs2015 web publish and @cecilphillip What's new in #aspnet5 I enjoy the the social interactions the most tho
+@cecilphillip @Jorriss OMG....ugly pic of me :(
+RT @filip_woj: just leave github alone, bad guys! https://t.co/rCAJayO9BQ
+RT @reverentgeek: Blogged: Orlando Code Camp 2015 #OrlandoCC @ONETUG http://t.co/WDSpHCOhik http://t.co/SQL2Lr55b8
+@Jorriss and @cecilphillip were busy last night.... baking! http://t.co/9QestF78bj
+RT @Twitch: Caught the @StarCraft II fever this weekend? Come join @mOOnGLaDeau on the KR ladder! http://t.co/rzp1cxNXDq http://t.co/1NKJjy…
+RT @EstebanFGarcia: What an awesome day so far at #OrlandoCC! Thanks to all volunteers, speakers, sponsors, and everyone that came out today
+RT @Jorriss: Yup. RT @cecilphillip: Always have a good time at #OrlandoCC. Awesome conversation with great people
+RT @Xbox: Mortal Kombat X's [M] "Shaolin" trailer introduces more characters &amp; more fatalities: http://t.co/ClaauDTBcb http://t.co/40gknhrA…
+@haneycodes I missed your stack exchange presentation but I've been going thru the slides...pretty fascinating stuff #OrlandoCC
+@sayedihashimi it was nice to meet you today. I will be definitely be playing with those #PowerShell publishing modules #OrlandoCC
+Last session @sayedihashimi showing us some cool new ways to deploy using #PowerShell instead of #msbuild #OrlandoCC http://t.co/oPIkiX7GCo
+"There are a bunch stuff that are easier in #PowerShell than in #MsBuild, and I wrote a book on MSBuild" @sayedihashimi #OrlandoCC
+RT @sayedihashimi: My #vs2015 web links talking at #Orlandocc starts in 15 min in 1206
+At the  @cecilphillip #aspnet5 talk #OrlandoCC http://t.co/uo5VUm7D1H
+@cecilphillip face setting up for his presentation #OrlandoCC #aspnet5 http://t.co/v60fj1Ma7m
+RT @cecilphillip: Check out my "What's New in ASP .NET 5" talk after lunch at #OrlandoCC #aspnet5
+RT @Jorriss: I'm going to give you a crash course in Entity Framework and what gotchas to look for in a EF database. Room 2103 1PM #Orlando…
+At the #gulpjs talk by @John_Papa #OrlandoCC http://t.co/VuN0o2Ftx1
+RT @sayedihashimi: I just posted the slides for my web publish talk to https://t.co/cavrchLZn8 for #orlandocc /cc @janierdavila
+@sayedihashimi Really cool! Thanks
+At the "aspnet 5 with Yeoman" talk by @spboyer #orlandocc http://t.co/9wO7P3pKuJ
+RT @sayedihashimi: FYI tmrw I have two talks at #OrlandoCC; #vs2015 web publish and a @SideWaffle talk. In both cases I wrote the majority …
+RT @EstebanFGarcia: Here we go! #OrlandoCC
+...also checking @sayedihashimi newly created repo in #github https://t.co/dRxwIHSTNd I think he is onto something :) #OrlandoCC
+In Orlando getting ready for #OrlandoCC with the @dotNetMiami gang @cecilphillip @Jorriss
+RT @EstebanFGarcia: Just picked up #OrlandoCC t-shirts http://t.co/KVSjjbxKD1
+@Jorriss excited with #Giordano's pizza #Orlando http://t.co/svxVV2NYXZ
+RT @emmajanehw: Trying to explain all the options for “undoing” work in Git was taking too many words so I made a flowchart. http://t.co/fC…
+RT @ElegantCoder: Microsoft releases Node.js Tools 1.0 for Visual Studio http://t.co/dlfRyUy3tg
+RT @nikmd23: Given everything HTML/CSS/JS can do nowadays, I think the term "web developer" is passé. It's now just "software developer".
+RT @SwiftOnSecurity: Stupid nerd stickers to ruin your company laptop: http://t.co/LpQt1VrJLP
+RT @davidfowl: Just wrote my longest stack overflow answer every. If you're doing #dnx or #aspnet5 development, read it http://t.co/JHmxKtX…
+Build Azure API apps #ch9 #reallycool http://t.co/k0S1JewxOO
+RT @jongalloway: Nice free font from @flipme http://t.co/imgQwTmpSg http://t.co/Jhj5tpmyYR
+RT @SkylerFoxy: A group of wolves is called a pack.
+
+A group of crows is called a murder.
+
+A group of developers is called a merge conflict.
+RT @onovotny: #xUnit already supports Windows 10 UAP projects. Just follow the Windows 8 Store directions
+RT @mendezfe: A customer walks into a bar. He asks for a beer made out of wine. The project manager agrees. Both question the bartender's c…
+@sayedihashimi so I see you are speaking in Orlando next Saturday. I will finally meet you :)
+RT @johnsheehan: “A false choice: Microservices or monoliths” by @selfdom https://t.co/qNWehK6dUL
+RT @EstebanFGarcia: Orlando Code Camp mobile agenda thanks to @_s_hari #OrlandoCC http://t.co/G3uvlQjQLI #fldev
+RT @codinghorror: Dad, how do I talk to girls? http://t.co/WlphuvhOMf
+RT @saladinahmed: This is fascinating: a published mathematics scholar who won't quit the NFL because...he likes slamming into people. http…
+RT @weismanjake: When someone tells me to have a safe flight it's like ok I will do my best but just so you know I am not the pilot of the …
+RT @uxreactions: Scrum, in theory: - Scrum, in practice: http://t.co/Pj969a3doG
+RT @sempf: QA Engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard. Orders -1 beers. Orders a …
+Watching Cincinnati vs Kentucky. Interesting game so far #marchmadness
+RT @nbacares: Congrats to @SteveNash on a great career both on and off the court! http://t.co/iC6wMHlrkL
+RT @SteveNash: I'm retiring from basketball. Thanks for all the love through the years.  http://t.co/CMqDBSYIrr http://t.co/iNTG6eap4D
+@davidfowl has anyone started implementing #JabbR on windows phone? If so, where is the repo?
+RT @jonskeet: It's funny how quickly I've become so used to C# 6 that "public string Name { get { return name; } }" makes me wince.
+RT @paulcbetts: Slack is still looking for a great Windows Phone developer to join our team, know anybody who loves building great WP8 apps…
+RT @sdtimes: Atlassian Bitbucket adds Snippets http://t.co/Huo9oDtuAG http://t.co/F3pDOLoEdM
+RT @danroth27: A fantastic write up from @davidfowl on how to debug dependency resolution issues on http://t.co/ImlIfvDXSz 5/DNX:   http://…
+RT @JeffHandley: Blogged: "Following Passions (and Leaving Microsoft)" http://t.co/R2lrjpyuFt
+RT @emerose: A generation of engineers who were taught "don't roll your own crypto" are now being told "don't bash OpenSSL unless you can d…
+RT @DotNet: You like low level? Watch our devs Jan Kotas and Matt Ellis (@ellism) being interrogated by @shanselman. http://t.co/miqsfQsPa6
+RT @mathemaniac: A famous formula for the activation energy of a body at rest http://t.co/jnDyiOBK2B
+RT @EstebanFGarcia: We have awesome @dotNetMiami speakers at #OrlandoCC this year! #fldev http://t.co/yNJ55L90rK
+RT @Jorriss: Heck ya! RT @EstebanFGarcia: We have awesome @dotNetMiami speakers at #OrlandoCC this year! #fldev http://t.co/U5HCgK4jHQ
+RT @jeresig: I'm speaking at Code Genius, in Brooklyn on the 26th, with @jennschiffer! Come hear us talk! http://t.co/tNo8sh1cL4
+RT @CerealVelocity: The 6 stages of debugging:
+
+1) Can't happen.
+2) Shouldn't happen?
+3) Doesn't happen on my machine.
+4) Why?
+5) Oh.
+6) Ho…

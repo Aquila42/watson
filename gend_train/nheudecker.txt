@@ -1,0 +1,634 @@
+nheudecker
+http://pbs.twimg.com/profile_images/1207092072/prof_bigger_400x400.gif
+RT @TrekBikes: We're hiring a pavement bike Marketing Manager. Know anyone who would fit? https://t.co/oYTmlfNBz8 https://t.co/P0p3eGBh6B
+For @Gartner_inc clients: Magic Quadrant for Digital Marketing Analytics https://t.co/ZRfQSnSiQM
+@kstirman @jesslynnrose @MongoDB  If only... but edible clothing would make  for a very different DBMS conference.
+RT @Gartner_inc: View now, the full keynote address from Symposium/ITxpo on the algorithm economy, https://t.co/tCDwbxF95I https://t.co/xqB…
+RT @Kart_Lisa: 2016 Agenda Now Available for @Gartner_inc BI &amp; #Analytics Summit in London (29 Feb-1 Mar) https://t.co/aORFdB5HZa https://t…
+RT @caitie: "Building out unique artisinal infrastructure may not be the best value add for your organization" @bridgetkromhout So True!
+A pleasure to work with a vendor that treats a low score as an opportunity to improve rather than a chance to attack the process.
+Congrats to @CSUMB on its $1m #datascience grant from @NIH. https://t.co/X5m3CMd9f2
+RT @Gartner_Jobs: Gartner's @DarylPlummer explains the cloud strategy cookbook: https://t.co/MJudzsEyVQ  #GartnerSYM
+@mjasay We all have to make sacrifices. :)
+RT @cloudpundit: We're looking for another analyst to cover public cloud IaaS, with @KyleHilgendorf @mcancila @ekhnaser - https://t.co/0y8m…
+@MatthiasJSax Now that's an interesting question.
+RT @runasand: Friendly reminder that I am available for consulting work in November and December. See https://t.co/KZV5rA0giN for contact i…
+Issues 1, 3 &amp; 5 come up frequently in client conversations on @ApacheSpark: https://t.co/yqQT3EENFJ
+Inquiry: "We have no data quality or EIM program. Our enterprise data lake deployment will fix those things." 
+
+*smashes head into desk.*
+New research for @Gartner_inc clients: Critical Capabilities for Data Integration Tools https://t.co/9eyQzsruVj
+"Unstructured" data is marketed as some kind of data bogeyman. And like most bogeymen, unstructured data doesn't exist.
+New research from Roxane Edjlali &amp; @databeyer: Is the Data Lake the Future of the EDW? https://t.co/I3WQkMGbRg (paywall)
+RT @HadoopDaily: #Google Launches #CloudDataproc, A Managed Spark And #Hadoop #BigData Service - https://t.co/aFktqpRLIN
+RT @susan_m: Internet of Things requires new information strategy - Gartner's @nheudecker in @IoTHubANZ https://t.co/XEt2ZC9UDJ #IoT
+@susan_m @IoTHubANZ I'm happy somebody paid attention. :) Thanks for the tweet.
+Doing the same thing time &amp; again gets you knocked out. Tech vendors should take note.  https://t.co/A4v7kWntfe
+@IsidroVReyes @DucatiMotor @VespaUSA You should get one. Or an Aprilia scoot.
+@IsidroVReyes Impressive list. I'd still prefer the @DucatiMotor Panigale R.
+@mccrory Have non-tech degrees: econ/finance &amp; MBA. Use them all the time &amp; worth the process. Couldn’t see CS being interesting/useful.
+At an event at the Computer History Museum. Other than scale, not much has changed.
+Thinking about the impact of block chain on info management. #MICHvsIU isn’t holding my attention.
+#CLEMvsCUSE is a fun game so far. Big plays and big turnovers.
+@jesslynnrose Agree completely. A big reason for early @MongoDB traction was $50 conferences loaded with content.
+@mccrory yep. 2.
+@merv Now you've done it. There will be no living with @dananderson now.
+RT @parrysingh: Phone no. of major embassies in Paris. Pls share
+#PorteOuverte #ParisAttacks https://t.co/x3lFW72QRA
+@jeffreyfkelly Congrats on the move.
+@chandal_gartner Palmer. Let me know where I should send the invoice.
+I'd sit Yeldon if I had a better option. Fingers crossed... https://t.co/Xg49Jvmh30
+RT @SayHiJames: I wanted money for school, so I marched too... #millionstudentmarch This one was about 25 miles... #USMC https://t.co/bS6QN…
+End of year review completed. I suppose that means I can start slacking until January 1st. #noworktilnewyear
+@max_webster Agreed. The new MPB trackpads are very difficult to use.
+The Fresh Finds playlist on @Spotify is a real crap shoot. https://t.co/CcDjFn36mJ
+RT @EFGoodness: One must create a strategy for it to be labeled convoluted &gt;&gt; Marissa Mayer’s Convoluted Yahoo Strategy https://t.co/s02sUZ…
+@Kellblog Certainly. You just retweeted an article. I'm not trying to paint you as a zealot.
+@Kellblog Could also argue the opposite: OSS doesn't have the budget/interest to do security analysis like commercial software.
+@Kellblog Certainly, but open source is no silver bullet for security. Heartbleed existed for years in OSS without anyone noticing.
+RT @EconBizFin: Why do travellers pick unreliable, cheap airlines over the likes of Virgin America? https://t.co/lgvJQSuDOJ https://t.co/vi…
+Open source is no guarantee of security. Heartbleed, Struts and Shellshock come to mind.  https://t.co/17TPdNCxhU
+@RonaldDamhof That’s my problem with the ‘data as an asset’ discussion. It can’t be all upside.
+@RonaldDamhof If data is an asset, how is it represented on the other side of the balance sheet? Deferred risk?
+@daviottenheimer @simoncrosby Oh, I wasn’t serious.
+RT @DucatiUSA: The #Monster1200R comes equipped with top-shelf Öhlins forks and race-derived Brembo brakes; https://t.co/cpWNIvyDQN https:/…
+RT @KMSieminski: #Veterans seeking jobs: @LinkedIn now offers FREE Premium Job Seeker account and courses → https://t.co/87YGpis8QH https:/…
+Over 48 hrs since TensorFlow was open sourced and not a single Hadoop distributor has announced support.
+Veterans own 9% of all U.S. businesses. #VeteransDay https://t.co/4JRhwXpZVx
+Meta-level theme from yesterday's invest inquiries: deflationary pressure in information infrastructure driven by the cloud.
+@evernotehelps Just getting back to this. OS X 10.11.1, EN 6.1.1. Yes, every PDF. Haven't tried images.
+@merv Keeping that piece up to date is a full time job. You need an intern.
+RT @CompEcon: DBA Outsourcing Moderately Successful But Slow Growing : New from Computer Economics   https://t.co/MmtC79WQj3 #ITSM
+From the rooftop of the Chicago Athletic Club. https://t.co/0fDXrD65ch
+That’s some weird shit. At Cochon Volant in Chicago. https://t.co/fSMDdiNnZB
+RT @bytebot: Microsoft Azure Welcomes MariaDB Open-Source Database https://t.co/FrdVPvMDQe
+@evernotehelps Annotating PDFs on the OS X desktop app is seriously broken. Cursor disappears, app locks up.
+RT @Alan_D_Duncan: Credit where it's due to my co-authors! @Kart_Lisa @Alex42Linden @nheudecker @HareInsights https://t.co/OkUJrDtYzt #algo…
+@Alan_D_Duncan Kudos for driving that process home. First 2016 predicts note I've seen. @Kart_Lisa @Alex42Linden @HareInsights
+@_tmio Wednesday?
+@_tmio Not sure what you're leaving alone in that last tweet.
+@_tmio the impact of microservices on EIM is part of my research agenda for 2016.
+Based on a literature review, master data management seems to be incompatible with microservices.
+Laziness and tortilla-based food products are the only drivers of innovation.  https://t.co/lYQJtXhtLz
+Breakfast Burritos as a Service should be a thing.
+@nuodb Thanks!
+.@esquire gets car shows. Top Gear US should’ve ended up there. Less embarrassment.
+@jswanhart @merv Reminds me of the back page of Mad Magazine.
+That's not how geography works... https://t.co/rwy7MRHSUz
+@nrouda The ODPi paperwork was just finalized after 8 months. Might have idea of impact in 12-18 months.
+Have you deployed microservice-based applications? I want to speak with you. #microservices #dbms
+RT @Michael_Fabiano: Hello friends ... here's your Week 9 edition of Start 'Em &amp; Sit 'Em. Enjoy!: https://t.co/Rq510qySe9
+Police don’t plan to obtain search warrant for Dez Bryant’s monkey. https://t.co/NiA5llZpkY
+Good overview of the 2015 Operational DBMS Magic Quadrant: https://t.co/9Eo5vKJa4P
+@AnalystArun Please send over your notes.
+Wish I’d known about that.  https://t.co/VYyoBo4Kcm
+Feeling a general malaise in email and travel demands with the start of November. 
+
+Y’all should just go with it.
+RT @mpezziniGartner: A few tips and info for when you come to meet me in #Milano. See you in town!  https://t.co/IOihVDRJrL
+0: The number of Hadoop/NoSQL conversations I had at the Gold Coast #GartnerSYM. Recap here: https://t.co/OC09VHoV2d
+And that’s a wrap for #GartnerSYM Gold Coast! Already looking forward to next year.
+RT @cpettey: @susan_m Great article, Susan!  So impressed w/all you've done this week! Congrats!
+@jyarmis Painful how accurate that is.
+Ready for my last session at #GartnerSYM https://t.co/sDAat2FOvX
+Interesting IBM booth at #GartnerSYM https://t.co/aXqTQbW1MD
+At least the bar is low.  https://t.co/SkrhfJTsZQ
+@jmichel_franco Thanks for the compliment. Glad you found the deck useful. @merv
+I've been impressed by Instagram's ads. Twitter's attempts are ham-fisted by comparison. https://t.co/8zy9LuhM9K
+RT @dberkholz: Ha, love that commit history. Import Postgres 8.2 in 2006, then straight to Greenplum dump 4 days ago. https://t.co/50ALF8Ni…
+@dananderson I’m hoping for a halo effect.
+Getting some rain on the Gold Coast. #GartnerSYM https://t.co/ddzkOMTLCs
+I’m in booth 42 today. No pressure. https://t.co/yQ8NpIHaxT
+RT @HadoopDaily: The Apache Software Foundation announces @ApacheTajo v0.11.0 https://t.co/J5GVMS0Txy #BigData #SQL #Hadoop #advanced #ware…
+Recurring themes from 1:1s are constrained resources &amp; staff, lack of info mgmt maturity. #GartnerSYM
+RT @RiaanInOz: #GartnerSYM #iot 25% of iot solutions will be abandoned before deployment due to lack of it iot capability https://t.co/ze3y…
+Great audience!  https://t.co/Kv1xEvAsNb
+RT @BertLatamore: Spark is a new set of problems to consider, not an answer to Hadoop complexity. @Brazingo on #theCUBE #ibminsight https:/…
+RT @martykihn: What Marketers Should Know About Big Data https://t.co/NY7gAdOezh via @GartnerDigital by @martykihn #digitalmarketing #bigda…
+That's random.  https://t.co/O5Nsw6Dw2Q
+RT @Gartner_Events: Betsy Burton leads 1,500 #CIO's singing #Frozen #GartnerSYM https://t.co/9vKo1C97mJ
+@flora_moreno Anytime. You might want to also post on https://t.co/6rQe9uV9vD.
+RT @flora_moreno: I need two teenagers (15-18) to come test out a product together next week, 11/2 or 11/3, in our Willow Glen office. Each…
+RT @BigData_Review: Get started with advanced #analytics: four best practices via #Gartner analyst @Kart_Lisa. https://t.co/Z92jxrWvUt http…
+RT @apache_wicket: @martinfowler The Apache Wicket PMC is proud to announce #ApacheWicket 7.1.0 !
+Significant improvement in performance
+#j…
+RT @nchandle: Data, data, data... Blah, Blah... much of the "vision" in #analytics has lost sight of the goal of better decision making.
+From https://t.co/MFFNj6KkjH, a proposal for Data for Humanity https://t.co/ll6HOUoY42
+RT @caspender: What’s new in the 2015 Emerging Tech Hype Cycle by @Gartner_Inc. Read: https://t.co/wLm6M7W2h4 #GartnerSYM https://t.co/fFyz…
+Another day roughing it. https://t.co/cYKsQ31KQh
+Finally arrived in Gold Coast for #GartnerSYM
+@merv Make sure to watch Contagion on the flight.
+RT @cloudpundit: It's not portable if there are practically no reasonable target platforms for customers to migrate to. Rackspace only real…
+@mnarrell Maybe. Or less tolerant of lugging excess gear all over the planet.
+
+Now get off my lawn.
+Interesting as an Ambari plugin. Any commercializers? @merv https://t.co/N1nhqgy3B0
+@aexm If you can’t build digital capabilities, buy them. Looks like a smart move.
+This is the first trip I can remember taking my laptop instead of just iPad+Keyboard. The MacBook will mostly be a charging hub.
+I’ve reached the Talking to Self stage of travel fatigue. And I haven’t left the US yet.
+RT @NinjaEconomics: Time travellers: Please don’t kill Hitler https://t.co/4k1iqQN467
+@vambenepe That may explain it.
+@merv It’s all about the cape.
+WTH is a “big data engineer?” https://t.co/UuKvnBYIIK
+RT @dberkholz: Interesting tidbit from BMC mainframe survey - zLinux in prod has steadily increased from 22% to 48% since 2006.
+The TSA is frustrating, but much less so than inefficient travelers.
+RT @Gartner_inc: Gartner 2016 CIO Agenda Survey: Build the Digital Platform via @Forbes https://t.co/UojAlWdCXd
+Also applies to software https://t.co/V0nZb2Xv4D
+Good panel, but we could've gone for another 45 minutes.  https://t.co/EUJLf23iSy
+@destroytoday @rbranson @allspaw @MattBond21 @cap +1, particularly how the info infrastructure copes with/supports it.
+Great #TDPartners15. Now off to Gold Coast Symposium for @Gartner_inc.
+RT @gigabarb: #HP Pulls Plug On Helion Public Cloud $HPQ or is it now $HPE ?  https://t.co/R986mQanI5
+RT @stochastician: The question is: at what age will I hand-edit my last XML file? 40? 60? 900? If the transhumanist future involves XML, I…
+@JamesMaguire Hard to argue that without IBM, Linux would not have its current prominence.
+@craigmullins Thanks for attending. Hope you found it useful.
+Packed house for the Hadoop and Data Warehouse panel. #TDPartners15
+@mattbrandwein Teradata Partners content.
+Teradata Listener rounds out the slew of ingest tools announced in 2H2015. #TDPartners15
+“It’s all Hadoop, which is interesting but we don’t use it.” Attendee comment on #TDPartners15
+Hope it’s recorded. I’ll have to miss it. https://t.co/wZ411UNogE
+Great first day at #TDPARTNERS15. Looking forward to tomorrow's sessions.
+RT @pkafka: Google employee solves housing crunch by living in a truck on Google parking lot. https://t.co/ouXH9AbViP https://t.co/vfHIlaWY…
+What could possibly go wrong? https://t.co/Z4pfapsRw7
+@IsidroVReyes Just personal.
+Never had a problem w/ #OneDrive sync. Works well enough that I'm getting rid of my @Dropbox subscription.  https://t.co/UZfD4zpMrs
+RT @karaswisher: The Weather Company is in talks with IBM about sale of its digital assets. http://t.co/6OnzNJYVmA via @karaswisher
+RT @etorreborre: Very important read for #1password users "1Password Leaks Your Data" http://t.co/6t1tCcfLTA
+@Bourdain “town full of Chipotles” is the perfect description of the Bay Area.
+RT @NFLfantasy: Stop us if you've heard this one, but James Jones just caught a TD pass from Aaron Rodgers. #SDvsGB
+#msuvsmich Are these refs interns?
+RT @KipFlowers: Michigan 7 - MSU/Refs 7
+#MSUvsUM commercial conversation: finding Pliny the Elder in San Jose.
+Great presentation. Worth watching.  https://t.co/HJdNjTWiUo
+RT @MattHarmon_BYB: My family's dog went missing tonight. Woodbridge, VA area. She is 16 yrs old. Any support, from afar, is appreciated ht…
+@kiyototamura Great point. Still a far cry from data lacking context or semantics.
+Anyone thinking IoT sensors emit unstructured data has never seen data from an IoT sensor.  https://t.co/j9P22RFYVr
+RT @Teradata: Find out from @nheudecker how data lakes provide value to the enterprise at #TDPartners15 Session 3347 http://t.co/mR31WWoNY2
+RT @BIScorecard: Just published! First impressions of #Amazon just-announced QuickSight w @rsallam @JoshParenteau #GartnerBI #BI http://t.c…
+RT @merv: Great summary, commentary from @Brazingo and others on Gartner OPDBMS MQ here.  https://t.co/NGfwwTpZFD
+@PatSelinger @merv Thanks! I don't think it's commercially supported, however. May not be a concern though.
+@evanchooly Is an @OracleBigData employee?
+@EFGoodness Will get a deck and share.
+Getting an update from @Paradata_io. Blown away.
+RT @KaiWaehner: Around 50% of Hadoop deployments are unpaid, i.e. using just #opensource without support &lt;— @merv @nheudecker @Gartner_inc …
+Integration appears to be of more interest to European end users. #anecdata  https://t.co/ZxXwtMuzlF
+RT @WSJ: Breaking: Blood-testing startup Theranos has struggled to turn buzz about its technology into reality  http://t.co/DXoUyipA6x
+But they make it up in... um... volume?  https://t.co/ZHmuiGaKME
+RT @FT: New mission could transform World Bank http://t.co/9rEHVpzurE
+RT @Alex42Linden: terrific interview on hadoop and db ‘The Future of Data at Scale’ by O&amp;#x27;Reilly Radar on #SoundCloud? #np https://t.co…
+@zedlewski Eh. It is quite a bit more than a DBMS.
+@zedlewski You lost me.
+RT @Altiscale: Don't forget to tune into @Gartner's webinar tomorrow on #Hadoop 2016 at 10am PT w/ @Merv &amp; @NHeudecker http://t.co/jJXvHRnB…
+Very interesting inquiry comparing @basho Data Platform with Hadoop offerings. First time that's happened &amp; suspect more frequency.
+Always a pleasure.  https://t.co/hE8011JHvY
+Hillary reminds me a bit of Thatcher, minus Thatcher's empathy and warmth. #demdebate
+RT @mdoroud: If you are looking for a data scientist, with CS phd &amp; 2 year online ads experience, let me know :) I'm in the market. #Twitte…
+RT @BIScorecard: My blog on how to use Gartner's New Peer Insights - Rate your BI vendor and product #GartnerBI http://t.co/zXY6Ekkgte
+Is the ODPi creating a Shadow ASF for Hadoop? Join Thursday for our thoughts: http://t.co/qugiWnEilA http://t.co/dVlJYuSop7
+RT @rsallam: Practicing for the #gartnerbi Munich keynote with @FrankBuytendijk @KurtSchlegel @ThomasOestreich http://t.co/qOgcfKXWfw
+IBM is kicking off a series of data science events starting next month around its Spark initiative: http://t.co/mgkUUyf82h
+@willcmdavis Thanks for the update. Some interesting stuff coming soon. And don't forget to send the deck!
+@Kellblog I thought you swore off @united.
+RT @merv: 2015 Operational DBMS MQ for Gartner clients http://t.co/emxFkOQPeB
+from @Brazingo @merv @nheudecker @ARonthal @tpalanca Surprise…
+Just published: 2015 Magic Quadrant for Operational DBMS: http://t.co/cCwxupX9sD (for @Gartner_inc clients)
+I'm strangely obsessed by The Great British Baking Show.
+@fribeiro1 Flink? No, but I’m told a few distributors are watching it closely.
+.@DraftKings and @FanDuel have made watching live NFL games even more painful. Thankfully there's @NFLRedZone.
+Harbaugh has taken @umichfootball from nothing to Big 10 contenders in zero years
+@Amerikan_Kiwi @StartupWeekend is a great reason to miss. Let’s keep in touch.
+@Amerikan_Kiwi Good so far. Much more customizable. Any chance you’re at Gold Coast end of month?
+. @umichfootball hasn’t allowed opposing points in at least 9 quarters. #goblue
+Bought Tweetbot to avoid Twitter Moments.
+RT @shayman: Election signs across the street from each other in our hotly contested neighbourhood http://t.co/Tzo16Qz9lp
+Hannibal digging the new rug. https://t.co/Uk3shB0FDn
+RT @MontereyAq: You're welcome! RT @ajplus: It's the cutest octopus you'll ever see. Thanks @MontereyAq!
+https://t.co/U9bqe7cPCB
+Data gout? https://t.co/kEPBMzOzHj
+2015 appears to be the year of data ingestion. Will 2016 be the year of data indigestion?
+RT @cote: Your Meat is Rotting, or, Meatware is the Problem  - http://t.co/lRYmU9iX9e http://t.co/p8SQg6cnpg
+Brought home a new edition to the family. #alltheingredientsforvomit https://t.co/wbp1uef7Bg
+As a motorcyclist, I agree.  https://t.co/JPn43mlh1n
+.@mjasay @johnrrymer Missing Street expectations isn't important. Contracting support &amp; new sw licenses on-prem is.
+Are you building out a microservice-based architecture? I want to talk to you about your info mgmt strategy.
+@rahulpathak @merv @holgermu Thank you. Always insightful.
+RT @FairCom_Corp: Be sure to catch @eholiveira59 present on multimodel databases in theater A of the ITxpo in 20 minutes #gartnersym
+@aexm btw, slow cooked short ribs covered in marash is excellent. Works w/ chicken too. Tks!
+@comcastcares I'm fine paying your extortionate rates as long as I get what I want.
+@comcastcares I need you to get it together on this. BTN HD has been available for YEARS.
+@comcastcares No, didn't work. And the channel listing on http://t.co/xtFcdhNDi1 for San Jose doesn't even show channel 855.
+@julieako Just looks like ad placement done badly. Not interested.
+How do I turn off Moments?
+IIRC, AWS has had 50 price cuts so far this year.  https://t.co/C1Wk32cJUx
+RT @chrishoward88: Tony Robbins' notes for his keynote, taped to stage http://t.co/S3KQgEx21W
+@merv That has always been broken.
+That thing is horrifying.  https://t.co/mlDF7rOO0b
+RT @merv: #reinvent @ajassy upped the ante today. The feistiest keynote I think i’ve heard from Amazon. Game on.
+#reinvent The AWS msg to traditional enterprise vendors is clear: You are under attack on every front. Restructure or face obsolescence.
+#reinvent Migrate a 1TB database to AWS for ~$3; then convert to another DBMS for additional savings.
+The mystery is solved.  https://t.co/u1lnpO9O0X
+#reinvent Snowball can survive an 8g impact. But will it blend? http://t.co/bsk8AyGPr1
+#reinvent Snowball isn't a simple disk enclosure. Hardened, secure, tamper-resistant data transfer appliance.
+Too fragmented and many vendors still too volatile. https://t.co/jVKxRp4WDF
+@mjasay Last year was Johnson &amp; Johnson.
+#reinvent QuickSight is the consumption layer over data inference, columnar in-mem &amp; federated metadata.
+@mjasay @merv General purpose workloads are atypical.
+RT @WSJ: Breaking: Fiat Chrysler says UAW has given company a strike notification http://t.co/5xQPDPcm8q
+@aexm @Kreditech is another company doing something similar.
+RT @allangoldberg: Great day at #GartnerSYM  Over the next 2 days we'll host 65 students from our partner schools!  @Gartner_Jobs http://t.…
+RT @nytimes: Breaking News: Scandal erupts in the fantasy sports industry after allegations of insider betting
+http://t.co/lvImU91GLG
+We invest anywhere we can remove heavy lifting for end users. #reInvent
+@RapSheet Any chance Lamar Miller rebounds with a new head coach? Seems unlikely.
+RT @altonbrown: Man vs. octopus...octopus wins. One of my favorite moments from this weekend at @MontereyAq.
+https://t.co/8Gsge1utx5
+RT @BarryEggers: Today's tech boom is different than the one that blew up 15 years ago http://t.co/8yUsGRZcmP
+RT @BLheureux: Alfonso Velosa: "There will be no dominant IoT Ecosystem through the year 2020" #GartnerSYM #IoT @ALVelosa
+@comcastcares I'll check it out.
+Anyone else getting into Vegas tonight for re:Invent and want to get dinner?
+RT @merv: Different Stores for Different Chores - first look blog about Kudu and other #StrataHadoop news at the data layer. http://t.co/ML…
+RT @MontereyAq: Our 2015 Paul Walker Ocean Leadership Award &amp; Youth Award recipients, @anjaliworld &amp; Katie Ridgeway! @paulwalkerfdn http://…
+@Comcast How can I get HD @BigTenNetwork in San Jose? SD looks terrible here.
+RT @Kart_Lisa: Algorithmia Voted the Top Startup at Fall Strata 2015 http://t.co/jNYGBCFZWI
+All of my data lake inquiries this week would be better off using enterprise content management apps. #semantics #search #security
+One problem with presenters that don't stop for questions? They don't know their audio has dropped.
+RT @cczona: A friend, who declines to be credited, said months ago, "Data Science is Bullshit At Scale". I've been wanting that t-shirt eve…
+RT @susan_m: CIOs in ANZ have conflicting priorities: Q&amp;A with #GartnerSYM 2015 Gold Coast conference chair Andy Rowsell-Jones http://t.co/…
+RT @adarshdesai: Are you familiar with DataFinder, @WorldBankData's free mobile app featuring development #opendata &amp; datasets? https://t.c…
+@IBD_Areeves One thing: PACB released its new machine a year early, not a week early.
+RT @housinginca: Housing California | How Quicken Loans Almost Lost My Home https://t.co/LD36gLPEMD
+OH: Who’s worse? X for blatantly rebadging the same old same old or Y for using vendor's vaporware &amp; promoting it as some kind of insight?
+RT @maccaw: Employees are paying THIS much to live next to unicorns in SF.
+
+http://t.co/G0H6AxTp02
+https://t.co/tiZOKXd69V
+RT @PacBio: http://t.co/5ZHsEggy6g
+RT @Teradata: Find out from @nheudecker how data lakes provide value to the enterprise at #TDPartners15 Session 3347 http://t.co/mR31WW7d6u
+Catching up with Transwarp. This is a very compelling offering.
+Pacific Biosciences Launches New Sequencing Platform Based on Its SMRT Technology http://t.co/l3FCfxNdt4 &lt; 1yr ahead of schedule!
+RT @Brazingo: New Research from @Gartner_inc for everyone in Technology - “Gartner IT Market Clock” http://t.co/dufOyghzEA
+Special Report o…
+RT @Brazingo: For @Gartner_inc clients - IT Market Clock for DBMS 2015 http://t.co/GKbMbVb6iL part of the special report http://t.co/BxmcWq…
+RT @ARonthal: Where should you be making IT investments?  @Gartner_inc IT Market Clock Special Report 2015 is now available.  http://t.co/b…
+RT @ApacheTajo: Apache Tajo 0.11.0 RC0 is available now. http://t.co/OWw6fUtneB
+RT @cote: Axel Springer Buys Business Insider, for $442m  http://t.co/H5Lw9TBliI
+Change in share price for the largest DBMS vendors by revenue - updated with SP500 index. http://t.co/jTCKGGdgyb
+@patrickangeles I had that originally but didn't find it easy to read. Will update it shortly.
+RT @ted_friedman: Sold out: 8500+ attendees (3000+ are #CIO) @ our Symposium event next week in Orlando. "Rise To The Challenge" in #Inform…
+Share prices of the largest DBMS vendors by revenue. http://t.co/bU0QLKdsKi
+RT @WSJAsia: Asian shares slide; Japan gives up gains for the year 
+http://t.co/gMwnSH18cv http://t.co/8Wt8Uk9iQ7
+@ekolsky I use OneDrive. At least I get Office with my 1TB.
+@ekolsky Not a thing. File sharing is only a thing for one person with multiple devices. More like distributed access.
+With Spark and now Kudu, "Hadoop" is largely a historical label.
+RT @RapSheet: Here is a surprise: #Eagles RB DeMarco Murray is OUT. His hamstring did not respond well this morning.
+RT @heyprofbow: This is interesting: What one college discovered when it stopped accepting SAT/ACT scores http://t.co/tpYECtWVLP
+Impressed by the Utah offense. One of the most exciting in NCAA ball.
+RT @kdnuggets: Emacs for #DataScience #KDN http://t.co/i5MQdOZC9q
+Data analytics architect role at Samsumg http://t.co/4dK6phNUTG (It does seem like a bit of a laundry list though)
+RT @MontereyAq: Sea otter numbers are up. So what does it mean? http://t.co/qSaZrnxU1e http://t.co/r8nliqJ0Jz
+RT @NASA: Textured surface surrounding two isolated mtns in new image from @NASANewHorizons #PlutoFlyby: http://t.co/409WmaQLGt http://t.co…
+.@Alan_D_Duncan Tearing it a new one implies I care about big data. I don't. I want clients to stop wasting time on a non-issue.
+@mirageas Can they prescribe meds? If so, that sounds like a great option.
+30 min waiting to see doctor for a 2 min consult. Internal medicine needs videoconferencing.
+The data ingestion space is about to get crowded.  https://t.co/y45p34e3eV
+RT @Gartner_inc: Attending #GartnerSYM in ORL?  Participate in a 20 min usability feedback session. Email john.oleary@gartner.com to Regist…
+RT @Brazingo: At least it is good for something https://t.co/quMBIMhQLa
+@emileifrem Mesos is a good point. Multimodel was covered in depth.
+@shirleman Sounds like a URL you should register.
+RT @conradwt: If you want to learn more about Cassandra, then tune into Cassandra Summit 2015 live! http://t.co/BWK5ryjIjN
+#CassandraSummit Spark, Solr, JSON, Cloud. What haven't I heard yet? Kafka.
+#CassandraSummit Improving pace of release for Cassandra. 2.2 released in July, 3.0 expected in October w/ new storage engine features.
+RT @merv: #CassandraSummit Exciting as it may feel to trash big RDBMS guys, remember that top 5 have 92% of the revenue. The road ahead is …
+Very diverse crowd for the #CassandraSummit keynote.
+@cote Cassandra Summit. C* is shorthand for Cassandra.
+@dberkholz @cote @mappingbabel I'll be there tomorrow for C* Summit.
+@cote @mappingbabel That's by the Santa Clara Conv Center, which has its own lack of charm.
+@cote @mappingbabel Have to agree with this. Fairmont is probably your best non-airport option.
+RT @MillsHill_Neil: Microsoft Azure blog&gt; New Azure DocumentDB Performance Metrics http://t.co/kfLPfOZT3r
+In an interesting competitive twist, Percona now offers support for MongoDB: https://t.co/D65Omg0Ijc
+RT @TheEconomist: A flock of startups is making cloud computing faster and more flexible, but most of them will not survive http://t.co/wz0…
+@aexm Tesla can be a profitable battery company. Toyota or Fiat should buy the IP and shutter the firm.
+@aexm Bankruptcy is always fashionable. http://t.co/MrS8aUMGZ3
+@aexm Assuming Tesla is still selling cars when Apple opens its dealerships.
+He's not the only one that can't watch #MNF. This game is awful. http://t.co/ZaRb3KfDpi
+.@akmalchaudhri @dataPlumbers NoSQL was split into k/v, doc, graph &amp; table-style. They progress independently, so separate profiles.
+ICYMI: 10 Critical Information Infrastructure Implications for Your IoT Initiatives http://t.co/mIULqfT0dk from @ted_friedman
+@Supervixen13 Same. My season fell apart this week.
+Speciation or adaptation? https://t.co/kMrIJ4mqMS
+RT @joshsimmons: Vet techs are needed to assist with #ValleyFire recovery. Contact vfa@madeinsonoma.org for details. #ValleyFirePets Please…
+@gigabarb Of course, open source is being weaponized by software vendors. Research to follow in 2016.
+@gigabarb End users want open source pricing models (free). They're not committing back/fixing bugs in large numbers.
+RT @danprimack: Unconfirmed rumor that Apple has invited Ahmed Mohamed to HQ, because he created a timepiece people are interested in.
+RT @xefyr: When algorithms compete, you lose! Also, time to write a book about flies. https://t.co/MJcrnphZN0
+RT @EFGoodness: El-P and Killer Mike! &gt;&gt;Run the Jewels and TV on the Radio Perform "Angel Duster" on "Late Show With Stephen Colbert" http:…
+Interesting thesis on Alibaba's performance http://t.co/2rdhA1aI5S
+RT @odbmsorg: #ApacheFlink Offers a Challenge to #Spark
+http://t.co/KidplwzKrd
+#bigdata #Hadoop
+RT @merv: Thanks, Tony. I’m not debating data with people. Data is. Most disagreements with ours misstate what we said. https://t.co/mkLgrc…
+RT @costie: @nheudecker @merv @Gartner_inc I've obtained the report now - great report!
+Thanks again for your assistance.
+RICON 2015 speakers announced. Highly recommended event for distributed systems: http://t.co/srBRanhODn
+@costie @merv @Gartner_inc Found the problem. Had some incorrect metadata when the note was published. Should be resolved by COB today.
+@costie @merv @Gartner_inc Email sent to content management folks. Hopefully resolved soon.
+@costie @merv @Gartner_inc Unfortunately the only thing I can suggest is contacting your account exec. I have no control over report access.
+RT @funnymonkey: Hello, #stem , #steam , and #maker folks - if there was ever a time to raise your voice, it's now: http://t.co/FsLVi2Pyqh
+RT @CSUMBvolleyball: Strong Effort Falls Just Short vs. @CSULAAthletics http://t.co/lYamYggbK6 #WeAreMB http://t.co/II2SxlvUJj
+This is the big data linchpin. Pay attention to this space.  https://t.co/q4yxaBnz3K
+RT @markmadsen: @TonyBaer If this doubling continues, we'll be taking real money in a few years.
+@NinjaEconomics Best possible response.
+Is there any possibility the largest US cell provider didn't participate? Unlikely.  https://t.co/TjwqkUPWq9
+RT @MeredithFrost: It's only Tuesday. http://t.co/O9WYGJGSGA
+RT @SMOOREGartner: In-depth guidance on your sector at Industry Monday at #GartnerSYM on the Gold Coast 26 Oct http://t.co/oYHkInV8pA http:…
+Evening plans fell thru in San Diego. Luckily there are several world-class breweries to support me in my time of need.
+RT @FT: HP to slash up to 30,000 jobs http://t.co/VlLgb8JmJk
+@soulcutter I did it mainly for Global Entry. TSA Pre was a perk.
+@CLEAR_me Will do. Tomorrow in fact.
+@CLEAR_me I have a CLEAR account but always feel like a bit of a heel using it.
+@fscavo I've heard there's a new head of either Homeland Security or TSA that isn't a fan of Precheck. #unconfirmed
+@patrickangeles DFW Global Entry closed at 6pm last week. After all, who flys after 6pm?
+TSA Precheck appears to be shut down at SJC and DFW. Are other airports shutting down TSA Pre screening lines?
+@mdoroud Will try that. It sounds like a good recipe for food prep on Sunday.
+@mdoroud Perfect. Thank you. Will make this once Bay Area weather calls for it.
+@mdoroud High heat or low?
+@mdoroud What's the recipe?
+Great catching up with @PipelineDB today. Links streaming and SQL with relational reliability.
+Not success as much as inclusion.  https://t.co/WX340rW26m
+RT @joecrobak: The past several days have been really busy, so I'm skipping this week's @HadoopWeekly. Catch everyone next week!
+New blog post: @ApacheFlink Offers a Challenge to @ApacheSpark http://t.co/hyOqJtDwIW
+$4.6m *seed* round? At least the company is accurately named... https://t.co/UOJdAiGbxR
+Can't stand @MSUSpartanFBall but there's no way I'm rooting for a #Pac12 team. #SpartyOn #AndGoBlueToo
+RT @johnrrymer: Toledo beat Arkansas 16-12 via @theScore The Might MAC! http://t.co/8nJDgPeMuq
+@westelm Nope. You had 3 chances to ship a bed frame. Each failure was more absurd than the last.
+@westelm You could have won me back as a customer, but your institutional incompetence lost me for good.
+RT @MB_XC: Hannah Bell runs 2nd fastest 6K in Otter history (21:16.0) at UCR. Details to come #LGO #goccaa #WeAreMB http://t.co/Ssec277r9J
+Great Apache Flink reference call for a variety of real-time use cases in the financial services space. #StillPOC #Unsupported
+RT @infoworld: Google open-sources Bazel, its language-agnostic, scalable software tool (by @syegulalp)  - http://t.co/9xeBjytmiH
+You should focus on other things. Like how many points your fantasy team didn't get from that TD.  https://t.co/uPyVmCUtg7
+Very engaged crowd at my first Latin American CIO &amp; IT Executive Summit. Looking forward to going back next year.
+Surprised there are no Info Mgmt vendors sponsoring the CIO &amp; IT Executive Latin America Summit.
+Some thoughts on #DataLakes from @mdmcentral http://t.co/rA34RB7L3h
+Gartner is looking for a Managing VP in Forecast Management (Santa Clara). Contact me if you're interested. https://t.co/aUEjAivjmU
+RT @TheEconomist: Willem Buiter of Citigroup estimates China's GDP growth is 4% and may drop to 2.5% by 2016 http://t.co/nkXgq1SCbR http://…
+Next up! http://t.co/OQIj4Lr7Ws
+RT @merv: Thanks 4 kind words. In general, my admittedly biased opinion is that our research org, processes and people rock. https://t.co/t…
+RT @Rocktape: We're proud to announce a new kind of RockTape, RockTapeRx! http://t.co/TTzONNNqrA #kinesiologytape
+RT @Doug_Laney: Selecting one (or more) of Gartner's information valuation methods. Pub: http://t.co/7DS8Mt7ol8. #infonomics http://t.co/AV…
+Heading to Mexico City to talk data warehousing at our LATAM CIO Summit.
+RT @TheEconomist: #Dailychart: Lack of physical activity is now fourth on the list of global causes of death http://t.co/oCAxh591R9 http://…
+#FF @diegokuonen @SuB8u @dan_mcclary @othertwice @gwenshap @wesmckinn @darryl_mcdonald @HareInsights @ARonthal @tpalanca @merv @Brazingo
+My research has nothing to do with my effectiveness at parties, @mjasay.  https://t.co/2qukNJd2AH
+Does community size diminish - or negate - the need for commercial support? https://t.co/EZsheGZngR
+RT @SeafoodWatch: Why microplastic ban matters: http://t.co/QrnyLfCyMC http://t.co/NVfSGugO4N http://t.co/FO192VzrYj
+RT @Kart_Lisa: Latest @Gartner_inc survey on the state of #BigData adoption! What changes do we see from last year?  http://t.co/1dNyUdCDGj
+New research for @Gartner_inc clients: Survey Analysis: Practical Challenges Mount as #BigData Moves to Mainstream http://t.co/OvwxQW23wd
+RT @aexm: Re: bootstraping vs. venture: “The tech world doesn’t celebrate our kind of victory.” — @lkr https://t.co/EVWcEO6CHX http://t.co/…
+RT @AlVelosa: This IBM &amp; ARM #IoT announcement highlights the increasing maturity of mega vendor IoT offerings &amp; the ecosystem play
+http://…
+RT @tmravi: The Flintstone House You’ve Seen From 280 is Up For Sale for $4.2M.  http://t.co/4tjvm1kmLR
+RT @triketora: survey design https://t.co/Qnq7kfQWpx http://t.co/P9bMegAZg6
+@MarkSmellyBell Any Labor Day or Fantasy Football deals on http://t.co/hWZyNHJAHK? #thrifty #butreallyjustcheap
+Systap/Blazegraph does graph processing on GPUs. Expect to see more of this. https://t.co/XDE54ABY6V
+RT @SanFranciscoVC: Happy to announce our newest #VC fund! "IDG Ventures Closes on $120 Million for Its 3rd Fund" http://t.co/AJ2iYefrkT ht…
+Stuck with Carson Palmer again. Guy is like roster herpes.
+Significantly impacts the viability of data products and infonomics.  https://t.co/tBrarjbV87
+@markmadsen Developer forums are dead.
+@aexm Great. Now I have an excuse to grill some lamb next week.
+@aexm That's what it looks like. Haven't used marash. Any pointers? Was going to slow cook some short ribs tmrw.
+Gifted some seasoning from Turkey but don't know the name. Guessing baharat, but looking for other ideas. http://t.co/POnTmuLM65
+RT @PBS: LIVE on #Periscope: Behind the scenes of @MontereyAq's otter feeding w/ @Jtotheizzoe. Say what?! #BigBlueLive https://t.co/EXyCzQa…
+@robbwolf As a very casual observer, it feels like paleo is in model drift now.
+RT @susan_m: Australia and New Zealand have clocked 9.3% growth in server shipments in Q2 of 2015: Gartner http://t.co/ey2Cv6Evvf via @Chan…
+RT @DShankar: A sign of the times: the FAA approves commercial use of *paper airplane* drones http://t.co/FQ8YMxaWho http://t.co/HRJ4EOAflz
+RT @BIScorecard: Yippee! months in the works - Customers rate BI ownership costs just published @rsallam @JoshParenteau #gartnerbi http://t…
+RT @Supervixen13: Just got off an awesome call with @dropinlikeaboss. If you do #CrossFit and you travel, you should definitely check out t…
+.@SynthosTech has rebranded to @FinchComputing.
+RT @TrekBikes: IMPORTANT SAFETY NOTICE: Trek is replacing seat posts on a small number of 2015 Superfly bikes http://t.co/Hk4el0IIjO http:/…
+RT @KaiWaehner: We're investing in the core of our #FastData platform, #integration! @TIBCO to acquire #APImanagement leader @Mashery http:…
+RT @AlVelosa: Google continues to invest in interesting &amp; disruptive technology areas. Read @PeteBasiliere 's thoughts
+https://t.co/m9zxtmR…
+Considering spending 6 hours driving to Santa Ana to avoid dealing with @SouthwestAir for an hour.
+RT @PhelimKine: MT @george_chen 
+BREAKING: #China top search engine #baidu censoring #chinastock crisis search results #BlackMonday http://…
+RT @anton_chuvakin: about to start my #GartnerSec #Sydney session on #IR - State Room at 14:15
+@waveguyd Yes. But I've already bought and installed a new lock.
+There are now enough startup unicorns to justify calling them horses.
+@westelm Not only has it taken 5 weeks to get the right bed frame, it showed up today without the right hardware.
+Titan on DynamoDB went largely unnoticed this week, but you shouldn't ignore it: http://t.co/NYdCvjOC8j
+RT @Gartner_inc: Gartner Tina Nunno in @Forbes "Women CIOs Forecast Greater IT Budget Increases"  http://t.co/FJQPCD5JxS
+RT @esjewett: @nheudecker @vijayasankarv @merv I don’t really believe the Apache Way anyway. I mean, it says it’s a meritocracy. That’s a p…
+@esjewett @vijayasankarv @merv Those individuals increasingly work for companies with vested interests in controlling Apache projects.
+@vijayasankarv @merv Because that works well.
+Is it still a community? The ASF feels like a collection of vendors.  https://t.co/sOfCv98H1u
+RT @awadallah: Very slick real life First Person Shooter by @RealmPictures https://t.co/Wu2jjJj6Iq
+RT @awscloud: Now available: #DynamoDB Storage Backend for #TitanDB graphs! More on the AWS blog: http://t.co/jCZKLUN8LH http://t.co/5lAX7T…
+@merv Valid, but IMO King has likely done more to advance women in sports than anyone else.
+Hard to see Billie Jean King not taking the whole thing.  https://t.co/TbKJpe16Kb
+RT @Doug_Laney: NOW: #Gartner webinar: "Methods for Monetizing Your Data," http://t.co/utd8e458M7
+@merv Thanks!
+ICYMI: #BigData isn't Obsolete. It's Normal http://t.co/WoD29N4Q4z
+Big Data isn't Obsolete. It's Normal. http://t.co/WoD29MNfd1
+@sramji We're doing quite a bit around open source &amp; info mgmt but haven't dug into open source lock-in formally.
+@flora_moreno perfect. My life needs more of their orange sauce.
+@flora_moreno where is the new location?
+The Demise of Big Data, Its Lessons and the State of Things to Come http://t.co/Ix5glZWeBx (for @Gartner_inc clients)
+I blogged about this topic last year. The trend is continuing. http://t.co/8YeKb0zvvB https://t.co/0vSzr4Lwlq
+Congrats to the @thistechnology team. Honored to be an early member of such an innovative team. http://t.co/yhQ5o6BWCd
+It took some convincing... https://t.co/zM91sdhy0y
+RT @KHarrisFerrante: Gartner 2015 #insurance megavendor report is out: http://t.co/xadW1F8nPF
+RT @ARonthal: Which DBMS tech is emerging? Which is due for replacement? New research with @brazingo and @ehtisham_zaidi  http://t.co/KFUT0…
+Hasn't this been done before - several times? https://t.co/HuhIMGwOQI
+Browse a DBMS vendor's website from a competitor's HQ &amp; get bounced to their career page. Classy &amp; awesome.
+RT @BeckonInc: #marketingdashboard best practices from marketing guru @martykihn. Thx for including Beckon! @GartnerResearch http://t.co/nG…
+RT @DanGraham_: Sitting in another #NoSQL presentation. They still haven't learned @Oracle @ibm @teradata have JSON data and name-value pai…
+Worth reading for the quotes.  https://t.co/aXSr2t7XyH
+Re: #Hadoop "...we were paying at rate of compute (which is way higher) at pace of growth rate of storage" http://t.co/GmREILg1gC
+@KirkDBorne We have note coming soon on why the Hype Cycle for Big Data was dropped. Short version: it's not a topic unto itself anymore.
+Who's Gardner? 😉 https://t.co/dnKcGQNdpL
+RT @caspender: And we’re hiring! http://t.co/NRF1PHH3JG #jobs #career #hiring  https://t.co/5HZUyU41NW
+Orchestrating the Digital Team http://t.co/DvhmB7DP24. Great research from @EdGabrys and Tina Nunno.
+Any suggestions on a higher security version of the Kwikset Kevo? http://t.co/CQXkPXeikZ
+ICYMI: Best Practices for Driving Successful Analytics Governance http://t.co/SKMOCGooBV (paywall)
+Already starting on the next edition of the Market Guide for Hadoop Distributions.
+RT @internetofshit: Are you ready... to make grilling.... WAY LESS FUN? http://t.co/Ux05w1keFn
+RT @JSussin: I haven't blogged in ages...but it was time. Twitter's DM changes impact social customer service. http://t.co/ick3SMZaEa #gart…
+RT @Doug_Laney: Join my #Gartner briefing on Monetizing your Data &amp; Innovating with #Analytics, Sept-1 Chicago Hyatt. http://t.co/Hpw9fqu0H…
+The new measurement for analytics projects is ROE - Return on Ego, not ROI. HT @FrankBuytendijk
+RT @housinginca: A Third Of California Households Can't Afford Basic Needs; Government Is A Big Reason Why | http://t.co/Fcklrg1K0J
+Planning on discussing Spark, dev frameworks, megavendors &amp; possible futures.  https://t.co/wHySKhmKc8
+The weaponization of the ASF isn't new, unfortunately.  https://t.co/aJes2R89dg
+RT @merv: Work on new OPDBMS doc with @Brazingo and @nheudecker was a key piece leading to the next OPDBMS Magic Quadrant under way now.
+Tweet about a bed frame, get promoted tweets about mattresses and sleep apnea. Interesting, but mistargeted and tedious.
+RT @Gartner_Events: Have you booked your analyst One-on-One yet? Come see the team in the Coronado ballroom! #GartnerCAT http://t.co/XQVrAV…
+RT @truebe: Flat Org Chart: http://t.co/7fWsGg5k7I
+I'm predicting 50% of @49ers home games will be blacked out this season due to low ticket sales. #goodthingIhaveRedZone
+@Brett2point0 Not *quite* the same thing...
+Having the same cautions in consecutive a Magic Quadrants should be a strength for consistency, right?
+RT @merv: It’s disappointing to follow up on customer references and find they seem to have been inflated. Happens more often than i’d like.
+RT @BLheureux: Truth https://t.co/mrVRwhDkyi
+@westelm @WilliamsSonoma Great experience w/ Carol H in your West Coast call center. Fixed a very broken bed delivery.
+Great catching up with @KyvosInsights - multi-dimensional OLAP on Hadoop.
+You missed "artisanal."  https://t.co/zodwtVXgeW
+RT @vambenepe: Another great read on stream processing, comparing approaches of Storm, Spark, Dataflow &amp; Flink: http://t.co/mPMOZqzZDO Toda…
+RT @EFGoodness: .MT @Gartner_inc: @Tiffani_Bova in @HarvardBiz w/ @fvcespedes What #sales need to know about the new #B2B landscape  http:/…
+RT @Grady_Booch: "Hottest tech start-ups are solving all the problems of being twenty years old, because that's who thinks them up." http:/…
+RT @TheEconomist: Bringing artificial intelligence to bear on the pricing of the most liquid of assets: wine http://t.co/QheGMRwFVU http://…
+The falling unemployment rate has to contribute as well - more commuters.  https://t.co/YGi8qZm3O4
+New research for @Gartner_inc clients (w/ @merv &amp; @ehtisham_zaidi): Market Guide for NoSQL DBMSs http://t.co/VYQTRk2Pmg (paywall)
+RT @julieako: First #beer from the San Jose Cooperative brewery! #coop #brew https://t.co/ITWZkDVwDl
+New research from @Gartner_inc: Amazon Aurora Disrupts DBMS Market With Cloud-Native Offering http://t.co/GDcvCA7kMg (public doc)
+1010data acquired for $500m http://t.co/hNZsqZh72b
+That's still pretty weird.  https://t.co/j6sb1S431D
+Time to get ready for the 2015 fantasy football season. Best team name so far: Chronic Masterdeflators.
+@SonosSupport I'll do that later today. Thanks.
+@SonosSupport The Playbar is wired into the wireless bridge.
+@SonosSupport The Playbar is connected to a DLink DAP-1525. Is that supported?
+@SonosSupport Will do. Is there some way I can see the diagnostic info? Would let me troubleshoot faster.
+@SonosSupport Diagnostics submitted with conf no: 4775770
+RT @CraigMilroy: #IBM Adds #Spark to z Systems Mainframe http://t.co/5gLBsS3xq5 via @datanami #bigdata #hadoop
+@SonosSupport Top of my list tmrw morning. Tks for the response.
+@SonosSupport Just moved and the Playbar is unresponsive. It is connected to a wifi bridge. Can't even factory reset.
+@KristenJohansen Hate to ask, but I need a hand with a Playbar after a move. Any chance for a referral?
+Spent 4 hours installing a new cable drop and 2.5 hours troubleshooting Sonos.
+@julieako you should do something about that.
+I swear I'm hearing thunder in San Jose.
+RT @anton_chuvakin: My “How to Monitor the Security of Public Cloud Resources” Publishes: My “How to Monitor the Security of Publi... http:…
+RT @Gartner_inc: We invite you 2 be part of the solution. Join our exclusive online community #GartnerResearchCircle http://t.co/EffqwBZlap
+.@InformaticaCorp: Total Q2 revenues up 4% to $261.9m &amp; up 10% on a constant currency basis
+Great turn of phrase from @martykihn: "Uncertainty does not license chaos."
+RT @TheEconomist: No casinos in America even crack the top 15 highest-grossing in the world. Most are in Macau http://t.co/W1sRzRLlDC http:…
+@merv The desk is adjustable. I sit to write, but stand for inquiries.
+@merv Or forego the chair entirely http://t.co/XrpzDotMTM
+RT @anton_chuvakin: Honeytokens Everywhere - Augusto Barros http://t.co/4UbODK9VGr &lt;- a new analyst on our team [@apbarros] starts his blog!
+RT @kylehilgendorf: Gartner for Tech Professional clients can now access the latest in-depth assessments on #AWS and #Azure. Both providers…
+@bobhaffner I haven't gotten into those details yet. It seems to be mostly Scala and some R emerging, but I don't have data.
+@bobhaffner It was. More details weren't available.
+Client comment on Spark: "We took a 4 hour job down to 90 seconds."
+Three Impacts the Internet of Things Will Have on Your Information Management Strategy http://t.co/nTa7fggVAc https://t.co/2ASn2yaSNJ
+Strata is expanding to Singapore: http://t.co/XNRU8HFkPX
+RT @Gartner_inc: How Does a Data Management Platform Work? http://t.co/mi4PCuRFyu http://t.co/ijH8KsG3AP
+RT @mza: Amazon Aurora is now available: MySQL 5.6 compatible; 6x replication; 5x performance; 1/10th the cost: https://t.co/PfJ9M5PrnU #aws
+New research for @Gartner_inc clients: Making Big Data Normal With Graph Analysis for the Masses http://t.co/CHuY3kpMDO
+RT @datachick: I get that #nosql just doesn't care about schemas.  But this makes me cry for at least 5 reasons. Likely more. http://t.co/q…
+RT @vijayasankarv: Got a viola for kiddo...now fighting the temptation to sign for lessons myself. Could be fun
+RT @evangoer: So many job ads for code ninjas, wizards, and warriors... but none for clerics.
+
+This is why your entire startup is going to …
+RT @TachyonProject: Tachyon 0.7.0 released, our largest release to date! A big thanks to all who contributed. http://t.co/Tk9ImfKB8k , http…
+RT @jhurwitz: Compose has 3600 customers, including Citrix, eBay, Gamestop, Nordstrom, and Rovio ; more than 100,000 database under managem…
+RT @newsycombinator: What's the Matter with San Francisco? http://t.co/ZOivZezINX
+@vijayasankarv @Doug_Laney @merv Possible. Depends on who's consuming &amp; tools used. Likely different populations.
+@vijayasankarv @Doug_Laney @merv Imagine that. ;) Once you have the question, optimize for the answer; don't leave data in native format.
+@vijayasankarv @Doug_Laney @merv Good post. IMO, the #DataLake should be used as a question development environment.
+Registered for AWS re:Invent. Really looking forward to this conference.
+@CrossFitGames Can you throw the bags over the wall keg toss style?
+@weharless Sure, but @databeyer is probably best for that kind of conversation.
+@Supervixen13 Surprised you're not in Carson this year.
+I also suggest 'Defining the Data Lake.' http://t.co/WvBLTxk7hB https://t.co/Q5iwPWPUwf
+Chrome &amp; IE were the most popular browsers to complete the OP DBMS magic quadrant reference survey (40% each). #uselessdata
+Companies like Snowflake, Cazena &amp; Metanautix may be heralding the next wave of information infrastructure modernization.
+RT @ARonthal: Considering a new Operational DBMS? New research with @brazingo &amp; @nheudecker for #Gartner clients can help: http://t.co/thnP…
+Inquiry on data lakes morphs into an information strategy conversation. There's a lesson in there.
+@merv And the perennial SQL-on-Hadoop.
+RT @anton_chuvakin: Magic Quadrant for Security Information and Event Management (SIEM MQ) 2015 is out!  http://t.co/M0CwC0DQrW [Gartner ac…
+RT @HurlyMcDingus: @BecomingDataSci @nheudecker @Redfin @zillow Raw market tracker info, in Excel format: https://t.co/wVQTNgh0LW
+@BecomingDataSci Any idea if @Redfin does the same thing? I've found @Redfin to be more accurate than @Zillow.
+RT @KatC6: @nheudecker  or pour some wine and call it a pairing :)
+@vijayasankarv Exclude filters are a great tool.
+Tonight's dinner. I really need to go to the store. http://t.co/dTuaks3Uyr
+@ComcastCares Great support call this evening with Charlene. She fixed a very broken account &amp; bill after a move.
+@vijayasankarv I'm filtering those out in Tweetdeck. It's overwhelming.
+RT @anton_chuvakin: Dear $VENDOR, approximately 0 out of each 100 clients mention your "market leading" security technology as being deploy…
+RT @lifehacker: Hemingway, the app that helps you proofread, adds the text formatting, importing from Word, and more: http://t.co/cjCW1ESBR0
+RT @nytrealestate: Key takeaways from our investigation into shell companies buying up luxury real estate http://t.co/LuU0FcsJP5 http://t.c…
+Gangs of mad data scientists roaming the countryside, looking for correlation at all costs. https://t.co/DSRFa0uEx4
+Don't hire data scientists until you're ready for them. I see this time and again with clients. http://t.co/5fGBJeCgCH
+RT @gigabarb: looking for software startups using IBM cloud ping me here.
+RT @memsql: Latest Gartner Report: 5 Data Persistence Dilemmas Facing CIOs: http://t.co/UhKdbrysSD
+And why do I still own an ironing board?
+Longest move ever.
+RT @CoachDonelson: Congrats to @KendrickJFarris on bringing home the Gold at Pan Ams for @USWeightlifting ! #USA #USA #USA http://t.co/hMMq…
+@techmilind that seems much longer than a year ago.
+RT @mpezziniGartner: @Gartner_inc: #IMDG market: $459 million in 2014,+43% vs. 2013. Poised to hit 1B$ by 2018. #InMemoryComputing http://t…
+RT @ted_friedman: What happens when everyone is a #data steward, developer &amp; data scientist via self-service -- chaos? Or nirvana? #BigData…
+RT @TlNYHOUSES: For you adventurous souls out there, this is available to stay in for $300 a night! http://t.co/e7dgkYAFVy
+RT @gwenshap: @nheudecker @techmilind Use a generic framework that can run on both (Hive, Cascading, Crunch, etc). Thats how most people us…
+@techmilind that's where most orgs will land for a while IMO.
+@vijayasankarv I suggest they call Gartner. ;)
+RT @kimmaicutler: Net loss of $250-300K every time a unit is removed from housing stock for short-term rentals http://t.co/8EgHAYQEPF https…
+"Big data egosystem." Freudian slip?
+Those starting their #Hadoop adventure are torn between MapReduce (stability &amp; best practices) &amp; Spark (momentum &amp; speed).
+RT @Randgalt: Removal of sun.misc.Unsafe in Java 9 - A disaster in the making http://t.co/Z91bnC8UKI
+RT @AlVelosa: These preliminary tussles between car &amp; tech companies highlight the need for ethical data policies for the #IoT 
+http://t.co…
+@aexm I don't get it. Quoting @MarkSmellyBell, strength is never a weakness.
+In other words, don't be CNBC.  https://t.co/t1TaxYBEKy
+RT @rhodes_r: Gearing up for #EsriUC, I'd welcome meetups on the future of #GIS and intersections with #drones #augmentedreality #lidar #HM…
+@patrickangeles @gwenshap @BlueBoxTraveler There's a meme in there.
+@gwenshap @BlueBoxTraveler Agreed on interesting, but how does it fit into an overall architecture? Not clear to me.
+Unexpected uptick in #NoSQL inquiries this week. The changing trends are always interesting.
+@aexm @davepell It's not clear underlying problems are ever addressed.
+New special report for @Gartner_inc clients: Advancing Business With Advanced Analytics http://t.co/BP70Im3gTl
+@davepell @aexm A former Gartner colleague said the purpose of the CISO is to resign when a breach occurs. It's moving up the stack.
+RT @StephChuang: #SanJose burglary - business owner needs your help! https://t.co/I4RMn3dWxa
+#Spark available on Azure, but the real story is integration with other Azure services: http://t.co/456PKhZBh6
+Never miss a research agenda planning meeting. You will be volunteered.
+RT @apache_wicket: Welcome to the superb new ApacheWicket website !
+https://t.co/oeRKZ93Ksx
+Are all window blinds specialists in San Jose complete flakes?
+Teradata's configurable appliance highlights the changing roles/workloads of #Hadoop http://t.co/ncECr7HR1T
+RT @FT: China’s equities turmoil is leaving its fingerprints all over the currencies of developing economies http://t.co/6hP3XLYJXR
+RT @Doug_Laney: Gartner hiring #CRM research/advisory analyst in Europe. If highly qualified (i.e. writing, speaking, advising), DM me.
+RT @EFGoodness: Based on my survey of the largest M2M providers, this is decidedly not true. &gt;&gt;M2M Shifting Quickly from 2G to 4G http://t.…
+RT @ted_friedman: Information #governance board/council trend continues. 29% of orgs have one now, up from 24% 2014 &amp; 17% 2013. Key for #Bi…
+RT @dan_mcclary: Increasingly querying the redo-log, not the files, is the thing. http://t.co/SYFWI7ughF
+Now you're just getting scientific.  https://t.co/5pktUXl2uH
+RT @KQED: #SanFrancisco Housing Activists File Petition to Regulate Short-Term Rentals http://t.co/l2GCgeYDmI http://t.co/bpoEYJgcP2
+A single term, like distributed, centralized, #NoSQL or relational, can't communicate the complexity of today's #DBMS environment.
+RT @housinginca: Economy and job market bringing back California home buyers | http://t.co/fLDpJlQEKC #housing #market #survey #data
+Is traditional content management migrating to #Hadoop and #NoSQL? Clients are asking.
+RT @venkat_s: "I've set the wedding date. I've not asked her out yet."---how software projects are managed.
+Astonished at the progress I just learned about from a fairly stealthy vendor.
+@databeyer BTW, we have that note to write...
+@peteschlampp This again?
+RT @leugimfigueroa: El fútbol femenino vs hombres... http://t.co/SAHOdfTZSj
+RT @Tiffani_Bova: There Are No Liquid Lunches in the #Cloud &gt; #sales must transform http://t.co/PRFJASzYTh @business @pburrows @BloombergWe…
+RT @MontereyAq: With sea turtle protection in place, @SeafoodWatch upgrades Louisiana shrimp: http://t.co/brQ5E7aaP6 @NOLAnews http://t.co/…
+RT @Alan_D_Duncan: Another new paper from my @Gartner_inc research portfolio. "Staffing #DataScience Teams": 
+ http://t.co/nJXt3lrH3o #Anal…
+RT @vijayasankarv: I am hiring #hadoop experts at @ibm GBS . Any state in USA is fine. Ping me with your linkedin profile at vijayara at us…
+RT @danveloper: Created a new microservice today: SQLrillex. When it starts, it drops the database.
+Facing the 20% of the research note that takes 400% of the time.
+@AmyVernon Following you is like watching TV by proxy.
+RT @housinginca: Writing the buyer letter http://t.co/CMcZv0W1II
+@Supervixen13 My cleans were a mess until I started thinking about driving my feet into the floor. Fixed everything.
+@danshapiro Thanks!
+RT @Sve_Sic: ✩✩✩ My new research ◄Architecture Options for Big Data Analytics on #hadoop► is out http://t.co/r5M0Hmp20M
+#bigdata #analytics…
+@MarkSmellyBell Chafed grundles are a preventable tragedy. You can make a difference.
+@danshapiro Is Robot Turtles engaging for a snarky 8-yr old?
+OH: "Kerberizing is not for sissies."
+RT @HutchAtGartner: Gartner Acquires Nubera: http://t.co/EBOnk0Ck2F
+RT @Gartner_Jobs: Happy Social Media Day from the Gartner Social Media Team! #smday Tweet us your favorite social media platform! http://t.…
+RT @ClearStoryData: New kid on the block: The Pentagon, setting up shop in Silicon Valley to forge partnerships &amp; identify new tech - http:…
+New research for @Gartner_inc clients: Move to New Technology for Analytics on Fast Big Data : : http://t.co/EJIuibfsLK
+RT @mims: Looks like Uber is spending a dollar to make $0.85 http://t.co/3rpFWWcbYO
+I blogged about the megavendor Spark FOMO almost a year ago. More pronounced now.  https://t.co/XHCfxkkhp2
+RT @realm: Lat week, Realm Java 0.81.1 was released — Kotlin &amp; library support, custom schemas + more:  https://t.co/BLzPEdfQyQ http://t.co…
+@mdennedy I've been doing that for years and didn't know why.
+Easily one of my favorite cities.  https://t.co/65tE2EPLrX
+RT @Kart_Lisa: How to take a first step to Advanced Analytics.  New research for @Gartner_inc clients: http://t.co/ghmmHWH1oY
+Let's go @Jeep. Can't get more off-road than this.  https://t.co/qjbHJ2ELii
+@philross That may be the only viable option.
+MacBook Pro is out for service &amp; forced to use work-issued laptop. Feels like I'm back in the Stone Age.
+@shirleman Looks legit.
+@shirleman Oxford commas are for the daft.
+RT @ieure: Ah, finally got my Emacs setup just how I like it. http://t.co/f0B10cZybh
+@ysnjen That's a monster panel. Congrats.
+RT @ysnjen: Check out our panel for the Global Entrepreneurship Summit in Kenya next month!  #ges2015kenya #startup http://t.co/SGiOgNW2Nq
+RT @merv: Thought experiment 2: draw samples for a survey on hadoop adoption. Which group? 
+
+1. Enterprises
+2. Hadoop distribution customers
+@kaltera Recently I heard the 4Ms of Big Data - Make Me More Money. That doesn't work either.
