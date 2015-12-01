@@ -9,8 +9,10 @@ class Classifier:
         self.features = {}
 
     def get_features(self):
-        svm = open("svm_output","w")
-        files = open("people","w")
+        file_type = "train"
+        svm = open(file_type+"_features","w")
+
+
         for filename in glob.glob("../data/*.txt"):
             print filename
             f = open(filename,"r")
