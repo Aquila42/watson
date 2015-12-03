@@ -1,0 +1,109 @@
+ProfJasonCorso
+http://pbs.twimg.com/profile_images/505093033914667008/56rNLyxg_400x400.jpeg
+I am PI on a new grant from Samsung GRO on learning from instructional video, with Fermuller and Aloimonos at U Maryland.  #news
+1 ICCV 2015 paper on action detection with implicit intentional motion clustering accepted, with Wei Chen.  #news
+RT @tserre: Eye Shape May Help Distinguish Predator From Prey http://t.co/3oO3s8mxgS
+Postdoc and Engineer Openings in Computer Vision and Robotics in my group. Info and Apply: http://t.co/v0AMU5okwD Email Questions. #news
+Slides from my talk http://t.co/f1zIrdWsFx at INRIA Gren. "Towards the Who and Where of Action Recognition" #news https://t.co/wig8ZiEo7F
+Video Analysis for Body-worn Cameras in Law Enforcement - http://t.co/3oGvLiS6UZ via CCC Blog; it's a whitepaper I led. #news
+I am PI on a new NSF NRI grant focusing on joint SLAM and language acquisition; collaborative with Jeff Siskind at Purdue. #news
+I am Co-I on a new MiBrain grant for segmentation and recognition of connectomics images, with PI Dawen Cai http://t.co/CbyT3d2eJm  #news
+New ARO Grant on discovering common actions occurring across multiple videos!  #news
+Michigan students: we just added 20 seats to my Fall 598-01 graduate foundations of computer vision course. It will be an exciting semester!
+Our new A2D dataset with multiple actor types for activity understanding is out! http://t.co/vamtkMWNnu w/ our CVPR poster tomorrow #news
+Congratulations to Wei Chen, Ran Xu and Kevin Keane who all successfully defended their dissertations this week! #news
+I am serving as area chair/SPC for ICCV 2015 and AAAI 2016. #news
+Data &amp; annotations are critical to the future of CV. Participate in our CVPR workshop; send an abstract http://t.co/DJjyYDdIys #news
+Awesome: $54M robotics lab proposed by U-M College of Engineering http://t.co/xS1hCgIjgs via @mlive #news
+BigVision Extended Abstracts Due Friday!!  https://t.co/cPD16RD0Mg
+2 CVPR 2015 papers accepted on our recent work in action understanding!  Info: http://t.co/e2KFbpgLjr #cvpr2015 #news
+I received a Google Faculty Research Award for my work in learning from instructional video.  #news
+AAAI15 paper on vision language with deep learning &amp; compositional models (with R Xu, W Chen &amp; C Xiong) http://t.co/6RsOXv2bH7 #news
+I have joined the editorial board for IJCV and am now also appointed as an Associate Editor for IEEE TPAMI  #news
+Code for our CVPR 2014 actionness paper (http://t.co/yxQSgJVXF6) is available: http://t.co/P6uqkTRLLh  #news
+Slides from our CVPR 2014 Video Segmentation Tutorial are finally posted!  http://t.co/uPE4PkrJLW #news http://t.co/LKpKLuO4gu
+Our AAAI2014 pdf &amp; code on language grounded bimodal sparse coding for natural human robot interaction: http://t.co/k1KHFaIe6J #news
+Pretty cool new robot research and education platform: Meet the MAEBots: http://t.co/5Fi321ydfZ via @YouTube
+1 ECCV 2014 paper accepted on action recognition comparing best computer methods with fMRI classifiers leading to surprising findings #news
+I am moving to the EECS department at the University of Michigan this summer! #news
+Congrats to Caiming Xiong for successfully defending his dissertation on pairwise constraints in metric learning &amp; active clustering #news
+MICCAI student board is holding the first MICCAI Educational Challenge.  http://t.co/cKz3cY7mtN  Considering submitting a video!
+2 AAAI 2014 papers accepted (language grounded perception, with S Kumar &amp; V Dhiman &amp; domain adaption, with C Xiong &amp; S McCloskey) #news
+Code http://t.co/NjdgXatgdj for our hierarchy agreement index (from AAAI13 late-breaking paper http://t.co/Yn4E2HNbo6) #news
+Code release for our SDM14 paper http://t.co/RXgQYbsMD5 on adaptive quantization for hashing: http://t.co/6QZXiVDi3b #news
+Updated Random Forest Distance code with an optimized Python code along with the Matlab version http://t.co/b5Om16J0YT #news
+CVPR 2014 paper accepted on actionness ranking with lattice conditional ordinal random fields (with W. Chen and C. Xiong). #news
+New paper: Active Spectral Clustering (with C Xiong and D Johnson); in review at PAMI. arXiv version: http://t.co/KWIMNML4z8 #news
+2 ICRA 2014 papers accepted.  1 on fast SLAM on CRFs and 1 on surgical tool tracking (with students Vikas and Suren and co-authors) #news
+New journal article: http://t.co/9d6ivSSl5P  A Study of Actor and Action Semantic Retention in Video Supervoxel Segmentation. #news
+1 SDM 2014 paper accepted on adaptive quantization for hashing (with Caiming Xiong and other students).  #news
+LIBSVX v3 Out: http://t.co/cFDhXBiz6L with hierarchy flattening from http://t.co/DPwtk4hKWY bug-fixes and new videos. #news
+http://t.co/hDcluROn57 has an interesting history of AI:  http://t.co/xmoHcibrdU  #AI
+Our supervoxel hierarchy flattening ICCV paper pdf http://t.co/WZehyKYPlI and video http://t.co/CuLZlaGWLN available. #news
+New DARPA Mind's Eye Demo video from our group: http://t.co/ygTuOXOXdW
+I will be an area chair for ECCV 2014.  http://t.co/z9TOfkzmDP   #news
+New journal article on 3D geometric building facade detection and estimation for mobile robot guidance. PDF: http://t.co/h4KkU3HnD2  #news
+1 ICCV 2013 paper accepted on flattening a supervoxel hierarchy with a new "tree slice" and a feature criterion such as human-ness.  #news
+Check out the UCLA IPAM computer vision summer school; had a great time last week.  https://t.co/cR2EDPs1wj  Slides available, videos soon.
+1 paper accepted at IEEE ICSC 2013 http://t.co/vFcp1lTI9D studying the retention of actor and action semantics in video supervoxels.   #news
+New IJCARS article on brain tumor segmentation with CRFs and a model-aware pairwise affinity. http://t.co/M76ht8l8dG #news
+1 IROS 2013 paper accepted: generalized perspective-3-points for mutual robot localization http://t.co/RNM65k6swI #news
+I will be an Area Chair for WACV 2014 http://t.co/AYTpaXas2O #news
+Congrats to Jeff Delmerico who successfully defended today (on attributed object maps). He's headed to U Hawaii for a postdoc.  #news
+New YouCook dataset now available: http://t.co/w7wUVbv2t5 It has 88 annotated (text and vision) of hard 3rd person cooking videos #news
+1 IEEE CASE paper accepted: surgical tool tracking via product of experts w/ S Kumar (lead), M Narayanan, P Singhal &amp; V Krovi.  #news
+1 MICCAI 2013 paper accepted on semi-automatic brain tumor segmentation using structural trajectories; with L Zhao and W Wu  #news
+Congrats to Albert Chen http://t.co/hIMeruDkD3 who successfully defended today (on video labeling). He's headed to Tandent Vision. #news
+2 papers accepted to AAAI 2013 late breaking track; 1 on active clustering and 1 on hierarchical clustering evaluation.  #news
+2 camera ready papers on video2text: WSDM 2013 low-level http://t.co/VMQ2DOZhlO and CVPR 2013 low+high-level http://t.co/movCrOGQmf #news
+I will be lecturing at the UCLA IPAM Computer Vision 2013 Summer School  http://t.co/pj9Hl0QESZ  #news
+Our CVPR 2013 paper on video-to-text is accepted.   #news
+I will give the Keynote Talk at the Rutger's Perceptual Science 2013 forum http://t.co/zvl9Oydg #news
+1 paper accepted at Digital Humanities 2013 that uses our random forest distance http://t.co/2XTcGpLT in modeling literary allusions. #news
+I will be the student activities chair for CVPR 2014.  #news #cvpr
+2 postdoc openings: graphical models, compositional models, metric learning for video analysis &amp; search.   http://t.co/THsOSyEw #news #job
+1 paper accepted to ICRA13 on traversability analysis of stairways from RGBD data; extends our IROS12 work http://t.co/5yovnTBj #news
+1 WSDM 2013 (cross-modal topic models for video &amp; language) and 1 ICMLA 2012 (eigenspace dynamics in nonstationary models) accepted! #news
+Postdoc Position Opening at Buffalo on activity recognition and video segmentation.  Find me at ECCV or email. http://t.co/wodc0ZRs #eccv12
+Random Forest Distance code from our KDD 2012 paper is now available http://t.co/yDJqowYj #news
+IROS 2012 Paper on Fast Voxels Maps with Counting Bloom Filters available. http://t.co/M44xShMe  #news http://t.co/8Q5TX1e5
+ECDM 2012 PDFs: mm metric learning (Best Paper Prize) http://t.co/9Rjccwp7 &amp; active clustering http://t.co/rWyj0V0s #news
+LIBSVX v2.0 &amp; ECCV 2012 release.  Site http://t.co/Zyx0g5ZI PDF: http://t.co/97WmsEpq Code: http://t.co/FhxHQINh #news
+MDMKDD 2012 paper on coaction discovery (cosegmentation of common actions across multiple videos) now here http://t.co/kykeYqKH #news
+ECCV 2012 paper on streaming hierarchical video segmentation is accepted for oral.  LIBSVX will be updated with this new code soon. #news
+LIBSVX http://t.co/GyKMgHQL and Action Bank http://t.co/JPlotF6O win Best Open Source Code 3rd Prize at CVPR 2012 #news
+LIBSVX wins best demo at GNY MV http://t.co/RZQkVgKO [Code http://t.co/yeGNPsA2 | Site http://t.co/GyKMgHQL] #news
+My GNY MV http://t.co/pLPjM6Wf talk on layered methods in medical imaging for joint segmentation &amp; recognition: http://t.co/94I3fSqq #news
+Fix to our CVPR 2012 Action Bank paper now posted (fixed some erroneous results on HMDB51 and UCF50): http://t.co/9hzOADAT #news
+Action Bank v1.0 software and data now publicly available: http://t.co/JPlotF6O direct code link: http://t.co/xEwW15XX #news
+2 papers accepted at ECDM 2012. 1 on max-margin metric learning and 1 on spectral active clustering.  #news
+Our KDD 2012 paper on Random Forest Distance for metric learning is available: http://t.co/Gy2ZxhLi #news
+Our AMDO 2012 paper on dynamic human pose for activity recognition is available: http://t.co/2NUqPoLw #news
+Our ICIP 2012 paper on dictionary transfer for image denoising is available: http://t.co/0vJGxbbO #news
+Our RSS 2012 paper on estimating human dynamics from monocular video is available: http://t.co/PaOwOkfo #news
+I will be an Area Chair for CVPR 2013.  #news
+LIBSVX v1.0 Released. A Supervoxel Library and Benchmark for Early Video Processing.  See http://t.co/GyKQOhZV    #news
+#news 5 new accepted papers:  1 KDD (metric learning), 1 ICIP (domain transfer), 1 RSS (human pose), 1 AMDO, 1 ISVC.   Details to follow.
+#news  New video of our work in modeling and localizing stairways for multi-floor exploration by autonomous robots.   http://t.co/41VTaQuN
+Article on a full-scene parts-based model/algorithm accepted at PRL SI on Scene Understanding.  Preprint: http://t.co/aHRHTmPd  #news
+CVPR2012 camera ready papers available: action bank http://t.co/9hzT8dBN and supervoxels http://t.co/VLrUT6u1 (code/data coming soon) #news
+#news  Two papers accepted at CVPR.  http://t.co/SzlODcSh
+#news Release of our Python-based Video IO/processing library: nD-vision. https://t.co/tuoHnFKE   Checkout with: bzr branch lp:ndvision
+New tech-report on some work in high-level scene understanding with a parts-based model. http://t.co/GH2eqng http://t.co/lOXoDeP #news
+My poster "Layered Models for Bridging from Low to High Level Vision" for the Frontiers in CV Workshop available: http://t.co/qjeUMnQ #news
+New tech report on some work using ideas from dynamical systems to extract features for face detection: http://t.co/B7zFCEq   #news
+#news Some local news coverage on our DURIP grant.  http://t.co/VSVLJBF
+@Dariolakis Ah, thanks!  Indeed many of the ideas in that work build off of what we did back then!
+#news Final PDF of our IROS 2011 paper on Building Facade Detection and Estimation from mobile stereo is available: http://t.co/8As5mgK
+@Dariolakis I just put one of these on my office door to point to my calendar!  Love it!
+RT @Emgrobotics: If you are doing computer vision research, check out the LFW face database: http://t.co/ElsuivH
+#news Corso wins a DURIP grant to acquire mobile robot swarms for multidisciplinary research. http://t.co/PZozflQ
+#news Delmerico, David and Corso have a paper accepted at IROS 2011 on mobile robot vision in urban canyons.
+#news Corso is awarded a UB Young Investigator award.
+#news A news article on Corso appears in the UB Reporter: http://t.co/ktVmAz5
+#news Corso is awarded the Army Research Office Young Investigator Award (more info: http://t.co/EYr3JTs )
+Corso wins a DURIP grant to acquire mobile robot swarms for multidisciplinary research.  http://t.co/PZozflQ
+Delmerico, David and Corso have a paper accepted at IROS 2011 on mobile robot vision in urban canyons.
+Corso is awarded a UB Young Investigator award.
+A news article on Corso appears in the UB Reporter: http://t.co/ktVmAz5
+Corso is awarded the Army Research Office Young Investigator Award (more info: http://t.co/EYr3JTs )

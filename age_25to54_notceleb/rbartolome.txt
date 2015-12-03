@@ -1,0 +1,261 @@
+﻿rbartolome
+https://pbs.twimg.com/profile_images/669443336529424384/WlQa1o-V.jpg
+@AndiH da brüllen die Lüfter seit 1 Jahr und der wird jetzt 4 Jahre. Mein nächstes wird wieder ein pro maximaler Ausbau RAM und CPU.
+@AndiH das Problem ist nicht aktuell sondern mehr das es in 2-3 Jahren nicht mehr reicht. Mein Arbeitsrechner i. e. Air (Max Konfiguration)
+RT @Catfish_Man: Slightly sad that nobody’s regenerated the graphs that were floating around after https://t.co/bbNrflvpqp
+RT @e13Kiki: Danke und gute Reise. #HelmutSchmidt https://t.co/UdcZl81PNO
+Today one of my idols died. 
+
+RIP Helmut Schmidt.
+RT @counternotions: "Wetbrush: GPU-based 3D painting simulation at the bristle level" 
+
+https://t.co/MpYlEUstbc 
+
+via @drwave
+RT @swannodette: The sad truth is that we are crawling towards a model of interactive programming Smalltalk had 4 decades ago https://t.co/…
+RT @iwasleeg: Apple: "hey, remember Xcode 4.2?"
+Me: "um, vaguely, why?"
+A: "we've just decided that we won't fix that bug you reported in i…
+RT @randal_olson: Looking for a good explanation of object-oriented #programming? Look no further.
+
+https://t.co/QZnAXzDbfn https://t.co/tr…
+RT @gte: I'm happy to be on The Talk Show this week. We talk about how hard the alphabet is, bears, and the new Apple TV.
+https://t.co/ZdES…
+RT @iamdevloper: Live coding demos https://t.co/NyOMEb8ODS
+A beautiful language:
+self.morphAnimation?.animations = animations as AnyObject as? [CAAnimation]
+RT @un_know_n: #Google hasst seine Entwickler noch deutlich mehr als #Apple. Chapeau, das war nicht leicht!
+RT @herrkausk: Irgendwann! wird? sich! rausstellen, dass Swift? ein Apple-Aprilscherz! war, der aufgrund? eines! unglücklichen Zufalls? liv…
+RT @jvandemo: Whenever you try a new #JavaScript framework https://t.co/Ol6rPNwiOA
+RT @abdophoto: Apple somehow is able to produce a 5K iMac and sell it for $400 less than Dell sells a 5K display alone. https://t.co/Ns4Zt0…
+RT @alan_tudyk: First get a couple of pumpkins, then some paint and grab an 8 ball from a pool table and you're in business. https://t.co/m…
+RT @Mues_Li: IBM spart pro Mac 270 US-Dollar an Wartungskosten gegenüber einem PC. https://t.co/pZtXYM4RXb
+RT @vladon: Modern comfortable programming language #java https://t.co/CPlD793QSH
+RT @netzstreuner: "Haben Sie Bücher zu Pawlows Hunden und Schrödingers Katze?"
+
+"Da klingelt was bei mir, aber ich kann nicht sagen ob sie …
+RT @stevedekorte: .@brixen Swift syntax feels like a handful of people compromised on  syntax options by adding them all.
+@jeffwatkins Did they offer home office from Germany ;)
+RT @jeffwatkins: Are YOU or someone you know an amazing Engineering Project Manager? Want to work with really amazing people and also me? G…
+@Jury 32GB
+RT @nytimes: Lenin statue in Ukraine is turned into Darth Vader https://t.co/b5kDnLOfV1 https://t.co/CB4zclPKU7
+@Gernot iPhone 5s kein Problem und beim 6er meiner Frau ist es fehlgeschlagen.
+RT @cjwl: KVO is implemented in Cocotron, I guess if they can't fuck up the licensing it's not good enough https://t.co/nkXmW2GmD4
+RT @StarWarsDE: Endlich Wochenende *Wookiee Brüller* https://t.co/QIG7HnedyG
+RT @LoweFinney: Those words every father just can't wait to hear for the first time: "Oppa, can we watch @StarWars?" https://t.co/9fUHdQh02R
+RT @DanFrakes: This is great. https://t.co/2248ziNn4Z (via @soerenlindhoff)
+@marcoarment I'm so sorry!! My thoughts and prayers are with you and your family.
+RT @lorentey: Let’s talk about Swift:
+
+nil &lt; 0  ⇒ true
+nil &lt; -Double.infinity ⇒ true
+nil &lt; Double.infinity 💥 Type of expression is ambiguou…
+@siracusa 👌
+RT @timburks: I was very recently asked "Is 55 too old to get hired as an iOS developer?" https://t.co/VFUOF5iwhN
+RT @fffabs: Star Wars: The Force Awakens actors react to the new trailer: https://t.co/4cqFBqZGE7 - https://t.co/QhO9CbWrhP
+RT @SteveStreza: Miss the days when Xcode wouldn't bring a fast computer to a screeching halt for, like, indexing or whatever.
+Today ... #StarWars http://t.co/n8jeBuJyN1
+RT @KeLuKeLuGames: Job hunting as a software developer. http://t.co/F5WDUu8i7a
+RT @optshiftk: How it feels to build an operating system: http://t.co/xCx0TmFrAW
+RT @gte: .@tjw @halm @nothe 'T' is a horrible name and is one of the most egregious aspects adopted from C++. It says nothing at only obfus…
+RT @starwars: #WisdomWednesday - "Fail with honor rather than succeed by fraud." #CloneWars 1.12
+RT @un_know_n: #android dev is like: See you later emulator!
+RT @lorenb: Magic Trackpad 2. $129. http://t.co/ZCYTnQdEjI
+@timburks Nobody.
+@AndiH neuer iMac, neues Zubehör.... Kein USB-C :)
+RT @kanyewest: Fuck any game company that puts in-app purchases on kids games!!!
+@starwars @dave_filoni We couldn't find any plain nice logo shirts from The Clone Wars and Rebels which is sad! :(
+@starwars @dave_filoni Any chance that this get on sale and maybe for The Clone Wars too? http://t.co/kp6aJJzEKO
+@starwars I search for Rebels Logo Shirts for me and my son. I have seen that @dave_filoni wear one at Anaheim Rebels Panel....
+RT @catshive: I'm looking for iPhone + Philips Hue users to test an app. If you or someone you know is interested, send me an email address…
+RT @__block: Swift - It’s been a while since my last post, and a lot has changed. One of the more obvious changes to the... http://t.co/99S…
+RT @pgor: I would love a way to tell all my web browsers, “I’m _never_ going to ‘Log In with Facebook’ so never show me that button.”
+RT @tchebotarev: COO asks CEO: "What happens if we invest in developing our people &amp; then they leave us?" 
+CEO: 'What happens if we don't, …
+RT @DrRobophil: Best homework excuse ever? http://t.co/GV8IjoGnCV
+#chemnobel http://t.co/9VYiZbESLE
+RT @erw_ebooks: Swift doesn't do anything.
+RT @BarackObama: Retweet if you agree: It's time for Congress to put politics aside and #DoSomething about gun violence. http://t.co/TaInIB…
+RT @uliwitness: In object-oriented code, use of "if" is a code smell.
+RT @DerBerti: Hey Tchibo. Scheiß auf die Tasse. Ich will dieses fliegende Auto! http://t.co/d0JKoF5xPe
+RT @kdaigle: I absolutely love this new video from GitHub. ♥️https://t.co/xHG67ho4nB
+RT @siracusa: Dear Sony (and others): My 55-inch TV is wider than the stand it sits upon. Please stop making TV "legs" like these: http://t…
+@DisneyChannelDE Wird die Lego Droiden Saga TV Show auch auf iTunes im Deutschen Store zur verfügung stehen wie aktuell im US Store?
+RT @EarthPix: The Golden Gate Bridge shrouded in fog  | Photo by Engel Ching http://t.co/r7hvYT3Ako
+RT @ArenaFlowers: If the legend is true, Marty McFly will jump from the past, &amp; join us here on present-day earth on 21st October 2015 http…
+RT @jeffwatkins: Having Safari built into @tweetbot is the fucking best. Glad I bought it. It’s a shame I can’t buy it again and again.
+@tim_cook  http://t.co/UkfhE9MXXF
+RT @brentsimmons: My email to Tim Cook: http://t.co/tiu9MGZ4bk
+@AndiH sind das Akustik-Dämmplatten?
+RT @jonathoda: I warned my daughter about becoming a programmer. Not because it is anti-woman. Because it is anti-human.
+RT @me1000: http://t.co/lbxXpB5dZN
+RT @dev_jac: I wish I could indent method calling in swift like in Objective-C :( http://t.co/pXXOlYs6bS
+RT @MrGobert: Just like Apple to make the iPhone water resistant and not even mention it.
+
+Spoiler: Survives over 1hr underwater.
+https://t…
+RT @behindtheboobs: "Is The Rose Gold iPhone Gay?" - Davey's got the words.  http://t.co/2sbdvfNnSs
+RT @marcoarment: Nice new sleep-tracking Apple Watch app from @_DavidSmith, plus a charging method to allow wearing it overnight: https://t…
+RT @HalfPics: Inside a new Macbook without the batteries. http://t.co/9jtIeTu1nE
+RT @mrgan: I don't yet have an iPhone 6S, but in videos, the blur in Live Images is bafflingly bad. Nokia's was so much cooler! https://t.c…
+Hahaha:  http://t.co/IgIdpdTA2I
+RT @jazzychad: Lots of ppl sharing this as a progression of Swift enlightenment; to me each line is less clear and more confusing http://t.…
+RT @gparker: An Illustrated History of objc_msgSend  http://t.co/ljeyvQLWeY
+Pilky.me - Do I Need to Switch to Swift Now? Great Post by @pilky http://t.co/Gf0a6vmhnP
+RT @siegel: “Ten things I love about Xcode: 1. When it crashes, I know it’s time to stand up and satisfy my Apple Watch.” #CocoaConf
+RT @steipete: Oh noes, KVO has a serious performance regression in iOS 9. https://t.co/6RIXkG7Dv1 /cc @Catfish_Man http://t.co/szxMymqzZw
+RT @s_bielefeld: I then wrote a piece about my thoughts on the stability of iOS: http://t.co/ZHClLpoHPd
+RT @jeffwatkins: You don’t want to miss this new voice in the Apple tech community. I think she’s going to be great. 
+
+https://t.co/Q93XV2d…
+@s_bielefeld Great Post!
+Slow, Slower, MAS
+#xcode7update
+RT @a_schacherbauer: Could we please slow down the speed at which we develop software and take more care about quality!?! THX!!!
+RT @iamdevloper: Ahmed builds a clock and gets arrested…
+
+Yet Angular.js developers everyday are building applications and are escaping cri…
+@_Caro_N I wish you the best for your next adventure, no matter what it is. Good Luck.
+RT @iljawascoding: This Ed Catmull quote nails what I think is wrong with the Swift programming language: http://t.co/4t7Cf7Aj4N
+RT @tolmasky: Its funny, iMessage still works like shit even after the bubbles became flat vs skeumorphic. Its almost like we focused on th…
+RT @Mues_Li: #swiftlang is so much more concise: self.mediaTitle != nil ? self.mediaTitle! : ""
+instead of self.mediaTitle ?: @"" in #objc …
+RT @Mues_Li: #Apples #swiftlang creates new, incompatible types and encourages us to make more. But protocols and glue code in extensions c…
+RT @un_know_n: Want to multiply your LOC? Use #AppleSwift !
+RT @peterglaser: • Kids who see C:\&gt; on a screen today are going to automatically turn their heads sideways to figure out what emoticon it'…
+RT @mrgan: I think there's a serious, underreported issue with iCloud/iTunes accounts and iOS 8.4.1/9. Dozens of friends reporting it now…
+RT @brentsimmons: Tip for making Objective-C unreadable: add nullability and generics attributes.
+RT @kerri9494: My life as a programmer…
+
+Age 21-35: Write code to solve problems. 
+
+Age 35+: Solve problems, then write code.
+RT @brentsimmons: Next time I hear someone say, “So easy your Mom could do it,” I’ll point them to one of my Mom’s papers: http://t.co/vFFG…
+RT @danielpunkass: Oh boy ... *gets popcorn* https://t.co/vc41xc8zbO
+RT @rentzsch: personally, I wouldn’t try to rehabilitate OOP-as-a-term. Let it die a natural death and actually talk about importance of dy…
+RT @WrathZA: Want to know what it's like to be a software dev? 
+Bake me a chocolate cake. 
+Done?  Cool!
+Throw it away!
+I actually needed a …
+RT @hyc_symas: An "in-memory DB" is not a DB at all, it is a cache. Caching is nice, but like The Highlander - There Can Be Only One.
+RT @EarlMobile: "Alle elf Minuten verliebt sich ein Single auf Parship." Die Seite hat 4.5 Mio Mitglieder. D.h., man hat im Mittel nach 65.…
+@_Caro_N Huch...
+RT @ActionFigured: Want to build the Micro Cruiser seen in @Lego_Group's AFOL Anniversary pic? Here's a quick guide! #lego http://t.co/HDHQ…
+RT @boucher: Check out this thing I've been working on: http://t.co/sAz0Tcvf3T
+Congrats @rentzsch, @boucher, and @tolmasky.
+
+https://t.co/IcpdskBBec
+RT @malonebarry: To those who attack 'migrants' online. Look at this man, fleeing war in Syria, cradling his children. And rethink. http://…
+RT @qdolan: This is becoming a ritual.
+1. Download App
+2. Start App
+3. App asks to login with FaceBook
+4. Delete App
+RT @me1000: Someone cared about code alignment, then someone who cared about nullability destroyed it. :( http://t.co/B9yxYWNQb4
+RT @Kickingbear: Swift Protocol Proposal
+http://t.co/uwfS14ClGR
+RT @velartrill: programming is not math. stop trying to cram your ridiculous academic masturbation in the faces of people who actually want…
+Whoa, this is a bold statement. Lets see what Apple says. https://t.co/CviWzFTSVp
+RT @cjwl: Screenshots of a RAID monitoring utility I ported to Windows using Cocotron, tons and tons of KVC/KVO/bindings work! http://t.co/…
+RT @greenisus: This is how a group of Apple employees props an iPhone for a group photo when no one has a selfie stick. http://t.co/gOnieu7…
+RT @brentsimmons: Objective-Swift: http://t.co/ZL5rQZVrOf
+RT @mplappert: Surprises you find when reading through the SQLite code. Somebody must've received a lot of calls. http://t.co/1yTAvYLHMx
+RT @counternotions: @gte Lang should serve, not dictate app design/dev. It's depressing.
+RT @avium: Developer provisioning profiles for the AppleTV, omg! Still waiting on a formal announcement though. http://t.co/ctOn1jxbrj
+RT @zahnster: The internet is full of dickbags.
+
+https://t.co/ldCTg7n4WR
+RT @mikeash: Apparently Microsoft is a bit hazy on this whole idea of "open source": https://t.co/FEYEBH1fif
+RT @cjwl: Tons of Cocotron code with the licensing removed&amp;replaced.
+RT @cjwl: Microsoft left the Cocotron attribution in include/ but replaced it all in Frameworks/Foundation/ . Bozos!
+RT @jeffwatkins: Develop software long enough &amp; you might forget the magical realisation it’s all written by people just like you. https://…
+RT @zaphodgjd: Little interview with me over the Halo Wars 2 announce. http://t.co/V4iXbp2b1T
+RT @uliwitness: Did this guy have a name? If he didn't, I think he should be called Rick Compile. #codewarrior http://t.co/hE6j8g1L6Y
+RT @getsharp: Higher order derivatives of trigonometric functions - there is not enough beer
+Thanks to @AaronHillegass for a really great Talk: A Eulogy for Objective-C https://t.co/M0WEiyoBsM 
+I love Objective-C.
+RT @shinypb: Software engineering. http://t.co/2u12TGg8wK
+RT @Khanoisseur: 😂 A giant inflatable minion broke away from its restraints and caused traffic chaos in Ireland http://t.co/W0BKOO6mEw
+@zahnsta Awesome, congratulations!
+RT @jeremywsherman: #Swift's strict evaluation makes space usage predictable but leaves us hanging WRT function composition. Limits #DRY ht…
+RT @Alby: I cannot stop watching this. http://t.co/Y33vfnB0St
+RT @_Jordan: @brentsimmons @eridius Swift is an engineering language, not an app-writing language. That could be the problem here.
+RT @freakonometrics: sorting algorithm (in one gif) http://t.co/BlhEMqpXan http://t.co/vPFGLzPFYH
+RT @mikko: Apparently the best supported method of updating your Android phone is to buy a new Android phone.
+RT @cdespinosa: iMac box is a trapezoid with the front 10° out of parallel with the back. Which means that if you have 36 of them... http:/…
+RT @UnderTheLoupe: A tiny Tissot watch I put together for my son for his 1st birthday http://t.co/UOoulGsyTU
+RT @sdw: This is quite possibly the best GIF ever to be made about UI design. Thank you @pasql (worth the long load)  https://t.co/TQVmihEG…
+RT @abdophoto: In Japan, the broccoli in "Inside Out" was replaced with green peppers, which are more hated by Japanese children http://t.c…
+RT @orbuch: Finally — you can't write App Store reviews from beta iOS. 🙏 http://t.co/xu03SSi96k
+RT @wooster: Or maybe more like an airplane with more control surfaces. Sure, theoretically I might use them, but mostly they're a pain in …
+RT @wooster: A programming language with more features is like a car with more steering wheels.
+RT @helje5: "#define let @property (readonly, nonatomic)" =&gt; let NSString *label; If you really want to.
+RT @brentsimmons: Swift protocols: http://t.co/njtgWljyy9
+RT @cjwl: @timburks http://t.co/clm5sVXK9s
+RT @java_hipster: Great photo of two Java EE developers doing pair programming http://t.co/Av8hRnjmNL
+RT @saschalobo: Wenn Ihr das Problem habt, dass Euch Angela Merkel zu sympathisch ist, schaut das Video &amp; achtet auf die Schlusssätze http:…
+RT @chockenberry: What a difference a few billion miles make: http://t.co/40bBVg3PKJ
+RT @jeffwatkins: Why do some dog owners assume I’ll be as happy to see their furry friend as they are?
+RT @davidjbland: Next time someone says "Data Driven" you will be unable to think of anything but this... http://t.co/7H0QoTD7dB
+RT @me1000: Why is the Go community obsessed with going to great lengths to not use full words? One letter variables mean nothing to me. Al…
+RT @jeffwatkins: I really loathe iOS apps that are just Web views wrapping some javascript. They just **never** feel right.
+RT @kyleve: Programming – http://t.co/EOjCPtHZRU
+RT @drance: @brentsimmons http://t.co/OvF5HHJGNh
+RT @ActionFigured: Just returned from a 3-day summer trip, tho at no point was I ever this relaxed. But I did have some ice cream. http://t…
+RT @BrentToderian: Blade Runner was set in 2019, 4 years from now. This isn't an outtake from the movie — it's the real Beijing. http://t.c…
+RT @buzz: Happy 4th of July weekend. (Photo courtesy @meowrey) http://t.co/9j4zR5zs3m
+@AndiH 👍
+RT @dannygreg: “Siri, what is zero divided by zero?”
+
+(Try it)
+RT @gaminghorror: One more reason why I consider even Swift 2.0 an early beta release. http://t.co/cafIfNJiCB
+RT @hyc_symas: LMDB 0.9.15. Get it while it's hot. https://t.co/v4HjYNEIFF
+RT @gte: My friends are doing something terrific. Please support them.
+https://t.co/B2PEWPfT5p
+App Camp for Girls is a truly wonderful init…
+RT @hyc_symas: Still wondering what it would take to get lljvm to compile LMDB into native JVM bytecode. https://t.co/DKL36KwucC any takers?
+RT @tomwilson: I ported most of the swift sample code from “Advanced NSOperations” at WWDC to Objective-C 
+
+https://t.co/YIiOaU4syZ
+@gernot Yep, this is true, it's ugly as hell!
+@Gernot let aError: CFError = CFErrorCreate(nil, "test", 2, nil)
+let bError : NSError = (aError as AnyObject) as! NSError
+println(bError)
+@Gernot It seems like that I should shut up today. I meant 'no idea' ...
+@Gernot I have idea, the swift thing breaks my 15 yo objc brain :)
+@Gernot Swift’s CFError?
+@Gernot Did it work? I don’t use currently that much, but I expect that they use the bridging rules here.
+@Gernot CFErrorRef??
+@helje5 So läuft der Hase!
+@jeffwatkins 👍
+RT @iwasleeg: There are five simple concepts in C++ programming: denial, anger, bargaining, depression, and acceptance.
+RT @iwasleeg: Protocol-Oriented Programming in Objective-C http://t.co/GOYJDYW1ZF
+RT @cjwl: @mpweiher two decades of waiting for a better/cleaned up Objective-C and this is what I get. blah, jerks.
+RT @mpweiher: "…when I imagined Apple’s next-generation language, I imagined a higher-level and less strict language…" http://t.co/Qe7nOtBd…
+RT @rosyna: They use Objective-C/Cocoa in Agents of SHIELD? http://t.co/dwuvNGcMhf
+RT @tjw: Me: Xcode 7 warns on passing nil to method that is documented to allow nil. Radar: Works as intended. #21386300
+
+[Re-report] or [G…
+RT @Gigalogi: @DHLPaket Und nu? http://t.co/tDQlg1UxfW
+RT @helje5: I never understood why they switched from 'id kv' to 'NSDictionary *kv' instead of 'id&lt;NSDictionary&gt; kv' when introducing Found…
+RT @mpweiher: Crusty says: Protocol-Oriented Programming is Object-Oriented Programming  http://t.co/mI249NL307
+Preparing my sons 5th birthday tomorrow. #lego #starwars http://t.co/dQfWqtR1HU
+RT @JudgeReinhold: "If "The Breakfast Club" was made today it would be a silent movie with five students staring at their smart phones"
+RT @iwasleeg: OH @jamesdempsey "the entire objective-c era at Apple" 😭
+RT @hiphoox: “the simplicity of Swift compared to Objective-C is going to make it more accessible” they really don’t know what they are tal…
+RT @un_know_n: How to solve the problem with having too much syntax? Even more syntax!1!! #AppleSwift https://t.co/KWzyR3q4G4
+RT @SteveStreza: Need an app updated for iOS 9? Or a native Apple Watch app? I'm available for contract work. Email me: steve at stevestrez…
+RT @ccgus: I’m not sure apple understands devs anymore.
+RT @mpweiher: Steve Jobs on Swift:  http://t.co/lILjbwy8Sx
+
+https://t.co/u1NHq2aMRx
+RT @marcoarment: Love @_DavidSmith’s timelapse video of building an entire app, start to finish: https://t.co/kVEvQVCBwu
+RT @headhntr: Edwards Snowden's response to the 'nothing to hide' privacy argument is excellent. http://t.co/D0PV4bYwti
+@jeffwatkins Oh shit, I’m really glad that you’re fine!!
+RT @pourmecoffee: 38 years ago today http://t.co/cxLh3u0KBx
+RT @mpweiher: I am jealous of Swift:  http://t.co/nY6y73ylY1
+RT @JimRoepcke: Ooh, ooh!!! Does this mean my watch was built and tested on April 21/22? http://t.co/LfDPvtAGkO
+Thank you @iwasleeg for this great article!! http://t.co/NNxDpzrRXV
+RT @me1000: The day we stole the g and the l. 🚶🏼 http://t.co/un7uiQp7or
+RT @mpweiher: "Swift is a crescendo of special cases stopping just short of the general; the result is complexitiy [everyhwere]" http://t.c…
