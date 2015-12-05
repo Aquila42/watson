@@ -1,0 +1,216 @@
+cesarr77
+http://pbs.twimg.com/profile_images/2239104183/Cesar_in_Korea_400x400.jpg
+@jeffreyfkelly @mikecucchi @DormainDrewitz @PivotalBigData welcome to @PivotalBigData
+RT @jeffreyfkelly: Can't wait to get to work with @mikecucchi @DormainDrewitz @cesarr77 and the rest of the @PivotalBigData team!
+Good coverage from @maslett (@451research) about @Greenplum going open source. Thanks Matt @PivotalBigData @bigdata https://t.co/sZKaGjakSo
+OMG - Big Data has officially become mature and commodity.
+https://t.co/8LkcFNqGcS
+Ivan Novick presenting @greenplum's #OSS journey at lightning talk @pgconfeu @PivotalBigData #datawarehouse #bigdata https://t.co/eOlto6M95i
+RT @PivotalBigData: Introducing Greenplum: The World’s First Open Source MPP Data Warehouse
+https://t.co/UJK5eFO3J4 https://t.co/lPOptMl6Mu
+@Greenplum = 10 years of R&amp;D + 2 million lines of code. A proven #OSS #DataWarehouse Architecture  @PivotalBigData https://t.co/HFTtn8UYHx
+@greenplum Introducing: World’s First Open Source MPP @DataWarehouse. 
+The Future is Open! #bigdata @PivotalBigData  https://t.co/SuwK8jHdl6
+Early community collaboration is already happening for @Greenplum, the first #OSS #DataWarehouse,in #pgconfeu Vienna https://t.co/OE78Wziof1
+Part of @PivotalBigData team that worked on @Greenplum #OSS, sharing the  news with the #pgconfeu community #bigdata https://t.co/jPtJMzpu7b
+Pivotal’s Greenplum data warehouse software is now open source https://t.co/c5FO6CnZSy via @VentureBeat
+RT @ApacheHAWQ: Welcome to the open source world, brother: @greenplum https://t.co/ccRGLD4uXX
+RT @PivotalBigData: The trilogy of #OSS is complete. Welcome @Greenplum  https://t.co/H6xlusXDqJ
+RT @rhatr: Since Feb 2015 what a journey! https://t.co/NC5RbbPX6d So happy I was lucky enough to get to lead this industry-changing Open So…
+RT @wattersjames: With @greenplum now OSS I believe the top OSS companies in world by revenue are now: 
+
+Red Hat #1
+Pivotal #2
+@Greenplum 1st #OSS #DataWarehouse was a major effort of those that want better #analytics https://t.co/iYaVVKU7vd https://t.co/YfikMesC9N
+Historic #DataWarehouse moment with the release of the first #OSS DW https://t.co/7j6QyyQWsE #bigdata #analytics https://t.co/2AXoLbKgq5
+Amazing Pivotal Team = Amazing News  https://t.co/vwV8vsxabp
+@GregChase @mikecucchi ha!
+@mikecucchi @GregChase "Cookie" what you call your thesis is now "my" thesis. Patent pending under "moi". Sand Hill Road here I come !  ;-)
+Here is our @pivotal MADlibrarian, Probably the cutest #MachineLearning mascot in the industry. #Hadoop #DataScience http://t.co/dNSCtAhpQt
+RT @eranevenkesef: what's behind the technology at @PanoramaSW http://t.co/GcPLCjdpbJ
+Customers will soon operationalize analytics at a massive scale with highly performant OSS #databases #bigdata 
+https://t.co/NVQS2hmle3
+One of the best at work.  :-) https://t.co/O16mrGtGEO
+RT @robklopp: A Short DW DBMS Market History: HANA, Oracle, DB2, Netezza, Teradata, &amp; Greenplum http://t.co/b4uSscmNzo
+RT @testobsessed: Subtitle of @MathiasBrossard's #southbaypug talk: "Friends Don't Let Friends Use MongoDB or MySQL." http://t.co/NzcA7U5iE9
+Passion drives change in this #bigdata industry. Forget old rules. https://t.co/F3zNwpxnVB
+Amazing results from our latest @pivotal SQL-on-Hadoop benchmark. Go HAWQ !  http://t.co/2WWJIogbA6 @PivotalBigData #Hadoop
+RT @DormainDrewitz: Next Tues @#OSCON: Chk out @fredmelo_br's session on building #IoT apps http://t.co/SXNqil0UiU @ApacheGeode #SpringXD #…
+@sbainter thanks. I am always happy when I love what I do.  :-). Thx
+Amazing first week of work at @Pivotal. #GreenplumDB is such an agile analytical environment, great team &amp; company. http://t.co/KeTqjOpu7V
+This weeks @pivotalOSHub Meetup is awesome: #SpringXD + #Spark + #Kafka + Food! This Thursday, 6PM in Palo Alto: http://t.co/j2IZRc7KtE
+Wow, brilliant.  https://t.co/OBrdBFnik7
+@jack Simply brilliant. Thanks for sharing.
+Thank you @Teradata for 3+ amazing years. I had a lot of fun working with latest #bigdata tech. Now I am off on a new adventure. @Asterdata
+RT @Teradata: How to avoid chaos in your #data lake - new blog post by @cesarr77: http://t.co/WLDTBdg5k6
+RT @Teradata: 4 #HadoopSummit takeaways from Teradata's @cesarr77 http://t.co/A21RcggZLS
+RT @TeradataMag: @cesarr77's 4 key takeaways from the 2015 #HadoopSummit: http://t.co/A81yVmier0
+Good video to better understand the @Teradata and @facebook collaboration around Presto. 
+https://t.co/qGBMBQbftl
+RT @spark_summit: Thanks to all who attended &amp; made Spark Summit 2015 a success! 
+For those joining us tomorrow for training, see you in th…
+My #MachineLearning pic at #hadoopsummit with a @SkytreeHQ #Stormtrooper,but wait he's not a machine,he's a clone :-) http://t.co/SIn81Uqe9O
+#hadoopsummit it's a wrap! Thanks to our @Teradata Presto Engineers.You  made a tremendous contribution #SQL-#hadoop http://t.co/7MlBII0kp0
+@mtraverso, father of @facebook Presto and @JustinBorgman @Teradata at #hadoopsummit http://t.co/61TPzFr3Qs #Hadoop http://t.co/6xsmCLAl8X
+RT @swooledge: &gt;4000 people at #HadoopSummit. 30% growth. http://t.co/bE8izU35jq
+RT @jgrayla: The @CaskData team is excited to be working with @cloudwick to bring #BigDataApps to market! #HadoopSummit http://t.co/9THAn9l…
+RT @Teradata: Once #data is in the right place, how do you extract? Sharing &amp; isolation is needed— @Hortonworks Vinod Vavilapalli #TDhadoop…
+RT @TonyBaer: the data prep upfront is naming data (key-value pairs). quicker to do it at the source than after the fact #hadoopsummit at A…
+RT @asterdata: Teradata’s Secure Path to the Cloud http://t.co/sbDVBMnhJT http://t.co/mzhiGp29AR
+@Facebook &amp; @Teradata development teams: collaborated to bring Presto to the enterprise #hadoopsummit
+@JustinBorgman http://t.co/D6xNBbg1S7
+RT @CaskData: Hit booth S17 @hadoopsummit; meet @CaskData. See #CDAP 3.0, #ApplicationTemplates, #ETL made easy &amp; more. #hadoop #developers…
+@aeng2 @trengarajan @SQLServer @Azure great platform, wrong soccer team. Go @FCBarcelona.  ;-)
+@Microsoft praising Real Madrid at @hadoopsummit. Booo!  Go @FCBarcelona !!!   :-)
+@jaymce @hadoopsummit Same here dude.
+Congratulations for the hard work of the @Teradata #Hadoop team for the Presto announcement. http://t.co/zztnMroGR3 http://t.co/HzINXq5663
+@markcusack. Chief Architect for RainStor online archive on #Hadoop presenting at #TD3PI http://t.co/c6rBvnIc0r
+RT @TonyBaer: The challenge: where RainStor fits into the Teradata UDA as it is best for accessing data archived from mult sources. Wedge s…
+@markcusack. Chief Architect for RainStor online archive on #Hadoop presenting at @Teradata Influencer Summit http://t.co/siEoGm0hzG
+@Teradata Influencer Summit 2015 with most of the major and independent analysts in #bigdata http://t.co/TATqdxfKSs
+#hadoopsummit get ready for @Teradata. We have so many nice surprises! #hadoop #bigdata @asterdata @thinkBigA @hadoopsummit
+RT @Teradata: Hadoop 2015: What We’ve Learned in 5 Years  via @bigorgohome http://t.co/Qvq7JF3scV #BigData
+This was a really great session @strataconf #stratahadoop  https://t.co/EQnz1sYzmG
+Frank Saeuberlich from @teradata presenting @strataconf "Age of Agile Analytics has arrived" http://t.co/xoVAEeyQiW http://t.co/BWHesf7qWN
+@bigorgohome with an inspirational talk, inviting us to @thinkBigA. @strataconf @teradata #hadoop http://t.co/mZ87JOAu0g
+Ready for @strataconf London #hadoop http://t.co/4pvzLiRQ5Y
+@Teradata Loom (video): Data Management &amp; Governance in the #Hadoop Data Lake increases analytic productivity http://t.co/wgAYvgQ07f
+Just registered for @hadoopsummit. @teradata has many great things to show at this event. #hadoop integration in a #bigdata ecosystem is key
+Contratulations @MapR ! with the new integration of @Teradata and MapR #hadoop using Teradata QueryGrid technology. http://t.co/eDIlWvXYnL
+It's easy &amp; free to take control of your #Hadoop #datalake http://t.co/H9a6L5ecsv #datascientists #datawrangling #datapreparation @teradata
+It's 2015, #DataScientists require a better way to find, access, understand and prepare data in #Hadoop @Teradata  https://t.co/SftMUmPOrm
+No train station should rely on @Microsoft @Windows to operate. :-) http://t.co/KJk3vvrAb5
+See how @Teradata RainStor achieves high level compression for #bigdata.Compression better than a columnar database https://t.co/TKW8p9WBBY
+IT really needs to help on the innovation process or be ready to disappear. It is not business as usual anymore. #hadoop #bigdata
+@jgrayla @bdmogal @CaskData Very cool.
+@Scott_Gnau thanks for sharing,great article that validates @teradata enterprise #bigdata focus, our view of #hadoop and @thinkBigA strategy
+RT @Scott_Gnau: Don't let these common #bigdata myths affect your implementation: http://t.co/Encd3zPyPn
+RT @cloudera: .@mikeolson takes the stage at #ClouderaAD, will talk about how customers, partners, etc. view @cloudera http://t.co/QqEpcUPo…
+We @Teradata are getting ready for #hadoopsummit 2015 in Brussels. Always great to showcase our #bigdata innovations in Europe @TeradataUK
+Learn about fully automated metadata management in #Hadoop. Only #Datawrangling will not help your #datascientists. https://t.co/AufEoiLmhx
+Watching @launchfestival and thinking about the #bigdata all these cool apps will generate and how to analyze it. https://t.co/GmNoi4YD6c
+RT @nakamartinez: El Presidente....es #Colombiano
+Los Militares.....son #Cubanos
+Los Muertos.....son #Venezolanos http://t.co/66LYZN1Hl6
+RT @tim_cook: Remembering Steve, who would have turned 60 today. "The only way to do great work is to love what you do." http://t.co/0YD0gZ…
+RT @HiveData: @jeric14 discussing use case (Yahoo! home page) #hivedata http://t.co/iTTLl8n77O
+My good friend @madmongol presenting his @LambdaArch implementation @MayoClinic #hivedata http://t.co/OPCnrFB01U
+@ronbodkin from @thinkBigA in the @Lambdaarch panel @Teradata #hivedata http://t.co/OMofCH5o8z
+@mapr @Norrisjack thanks for having me there. MapR is about great architecture. One of the three most critical #haoop partners for @Teradata
+Enough is enough! We are "WASTING" 80% of time in data preparation. say no more! #hadoop @teradata @asterRNA http://t.co/sxJMv0rcZn
+@jgrayla @cloudera @CaskData Dev is the future of our market. Need hundred of thousands/millions. Good luck Jon!
+RT @abisen: #StrataHadoop Day #2 Job Board. @strataconf (data science is pretty hot) http://t.co/tmrRB0uYwJ
+Chris Twogood @Teradata: Loom is #datawrangling and metadata management in #Hadoop @strataconf http://t.co/AJvw6kPqDL http://t.co/TKwEjSsl63
+Chris Twogood from @Teradata interviewed about Aster AppCenter http://t.co/s8NerrlYq9 for #bigdata apps @strataconf http://t.co/SGCMatLiSb
+Industry vendors like @teradata are are making big efforts to accelerate the enterprise adoption of  #hadoop. http://t.co/CeV9cwNKQH
+Data Scientist/Engineer? Turbo charge your career working on enterprise caliber projects. http://t.co/4w0XV9BtOd @thinkbiga #hadoop …
+Data preparation in the #hadoop #datalake is more than #datawrangling. Download @teradata Loom. It's free! http://t.co/1QB0vNnfft
+RT @Teradata: Check out Teradata's new Free Loom Download for #Hadoop users - Increase your productivity in your #datalakes!  http://t.co/z…
+The real meaning of @teradata. A really great company. #Hadoop http://t.co/L4RZKDocGu
+RT @swooledge: "We live in a world where it is no longer about first to market, we have to be about first to value." - well said. https://t…
+@Teradata has many nice surprises for @strataconf. We will see you in San Jose. #hadoop @asterdata #StrataHadoop
+I just saw @marissamayer and regardless of what others say I told her that she is doing great. She is a great inspiration for us minorities.
+Mediocrity and conformism should never be the guiding rules in your career. "BE" the change and generate great outcomes wherever you are.
+Great data management deals on #hadoop was the result of a very focused 2014 #Sales and #Marketing strategy @teradata. Amazing!
+What a great year @Teradata! Truly what a great year for our #hadoop offerings! In 2014 we have penetrated the market flawlessly.
+@Teradata Just Became Operations-Ready on @Hortonworks http://t.co/yGvCFxl9M3
+@teradata's #hadoop strategy has proven to be right. In 2015 We will innovate with  top distros. Thanks @hortonworks, @cloudera and @mapr.
+You could be smart, you could be fast, but if you don't have enough guts, you will not be successful in this #bigdata tornado. #hadoop.
+Interesting #hadoop development about @hortonworks http://t.co/BM1BBPHvvR @Teradata
+What is a Data Lake, Anyway?  Learn here.  http://t.co/sbT7hDcm0a @strataconf #hadoop @teradata.
+@Strataconf Interview with @Willcoxmnk from Teradata http://t.co/6LECK6f8eb  #hadoop #bigdata @asterdata
+@strataconf session "How Big Data is Redefining Banking" by Barclays, a @Teradata-@Cloudera customer: http://t.co/xVeGC0rZLs #hadoop
+@strataconf session "How Big Data is Redefining Banking" by Barclays,a @Teradata-@Cloudera customer: http://t.co/RS2T7hztdt #hadoop
+@Willcoxmnk at his keynote @strataconf  "What is a Data Lake, Anyway?" http://t.co/Jkymhtc4g7 #hadoop @Teradata http://t.co/RVjghb3ZcP
+#bigdata companies have spent many millions and failed trying to explain their strategy. @Teradata has succeeded primarily with brainpower.
+RT @mapr: Watch: @MapR CEO John Schroeder and President of @Teradata Labs Scott Gnau discuss why architecture matters: http://t.co/wbOSXkSP…
+RT @Teradata: #Teradata creates a one –stop shop strategy with @MapR for #software integration http://t.co/CTYhUerlVV #bigdata
+RT @hexadata: Competition is good #h2oworld https://t.co/TMIqRCeKU9
+@Teradata welcomes our customers and partners to @strataconf Barcelona #hadoop @asterdata http://t.co/yBYNjB6CVU
+Get ready for #Hadooponomics.2015 will be radically different from these past,testing years @teradata #hadoop http://t.co/qC7PGX0UyQ
+@richardwinter thanks Richard :-)
+The @SFGiants and #hadoop won, great, old article about the Giants using #hadoop http://t.co/IxXKfa1dbE
+Thoughts from @Scott_Gnau @Teradata,: You need to orchestrate tech to build your #bigdata fabric and generate value http://t.co/jxuxUDXgXo
+The Unified #bigdata Zoo. :-) @teradata #hadoop @asterdata #storm @splunk: all working together in harmony http://t.co/J4EtRj87ma
+Welcome to the Unified #bigdata Zoo. :-) @teradata #hadoop @asterdata #storm @splunk:all working together in harmony…http://t.co/J4EtRj87ma
+Big Crowds of @Teradata customers looking at the Loom demo for #hadoop data mgmt @PARTNERSUSERGRP teradata/loom http://t.co/L0q27Czsqa
+Crowds of @Teradata customers looking at the Loom demo for #hadoop data mgmt @PARTNERSUSERGRP http://t.co/GiHaQTQn9A http://t.co/TPdmVsu73b
+Through extremely hard/smart work of heroes that believe in @Teradata the company is making a name for itself in #hadoop &amp; #bigdata.
+Full house @Teradata presentation on Lambda Architecture #Strataconf . Thx Altan (@madmongol) and Rod (@rodbodkin). http://t.co/m16ysrol7Q
+@ronbodkin continuing the @teradata presentation about @LambdaArch-itecure at #Strataconf #HadoopWorld #Hadoop http://t.co/DipFgxsVtJ
+Altan Khendup  @Teradata presenting AEF,coordination innovation for @LambdaArch-itecture layer @strataconf #madmongol http://t.co/i8HigoQUvE
+Altan Khendup  @Teradata presenting AEF,coordination innovation for @LambdaArch-itecture layer @strataconf @madmongol http://t.co/iA35vghzet
+Altan Khendup  @Teradata presenting his @LambdaArch-itecture vision @strataconf @madmongol #hadoop #HadoopWorld http://t.co/OuvhnAxPby
+Great presentation from @mikeolson @strataconf good positioning on the @teradata &amp; @cloudera partnership http://t.co/Bi9D6kJ6xP
+Teradata and Cloudera: Bette Together
+http://t.co/Flx16G2Est
+@Teradata made 3 major @Hadoop announcements: Cloudera partnership, Teradata Loom and  Cloud. We worked very hard to make this happen.  :-)
+Nice read from @hortonworks on How to Think About Partnerships in the Enterprise Hadoop Ecosystem @teradata http://t.co/iBrgMueVy0
+Nice read from @hortonworks on How to Think About Partnerships in the Enterprise Hadoop Ecosystem @teradata
+http://t.co/t3Z8KVSzHU
+@AltanKTeradata will share his real world @LambdaArch implementations @stratataconf #hadoop @teradata. Great! http://t.co/YAy4Ke2z7m
+@AltanKTeradata will share his real world @LambdaArch implementations @stratataconf #hadoop @teradata. Great! http://t.co/wkOMZ1zUqq
+Good article @maslett: Your capabilities/what you bring to customers is the best competitive weapon. http://t.co/I50DfFr6UI #hadoop …
+If you don't have the energy and creativity to work in this #bigdata industry you should probably stay out or maybe work for Oracle?  :-)
+RT @ratzesberger: Congratulations Stephen Brobst @teradata on his #4 spot of top CTOs in 2014. Leading #bigdata http://t.co/nRnAg4dqn4
+I am so excited about @strataconf. It will be such an amazing show for @teradata and @asterdata.   :-)
+Glad to work for a highly ethical company like @teradata. Some of the @teradata competition have a hard time being ethical.
+It is good when a former enemy becomes your friend. :-)
+My interview with @Teradata Magazine on our #hadoop portfolio: Jumpstart Your @bigdata Initiatives. http://t.co/3lRT6LSgRI
+thought.jpg http://t.co/TzKdzg2Sz9
+You can be #bigdata #dangerous or pick the right vendor to create enterprise value. @teradata can help you creating value #hadoop
+Morning. If you don't wake up with the energy and passion to lead the #bigdata #hadoop industry you need to change focus. @teradata leads !
+As usual, a week of major @bigdata changes at #sparksummit: @databricks Cloud, @cloudera recommitting to #hive, etc ... @Teradata #hadoop
+@Teradata QueryGrid presented by @ratzesberger @hadoopsummit keynote. Deep query integration between #Hadoop and EDW http://t.co/ihYMGmiPx0
+@ratzesberger at his interview with @theCube @hadoopsummit discussing business agility as key to #bigdata adoption http://t.co/xw4Buzp68o
+@Teradata's Joe Rao presenting the @Teradata Connector for Hadoop @hadoopsummit http://t.co/31VSdXK6tL http://t.co/8T1gqzrISc
+@Teradata's Joe Rao presenting the integration of #Hadoop and the Data Warehouse. @bigdata http://t.co/cP3ZDdYASR
+@ratzesberger:Agility in #bigdata takes effort and hard work. Agility is not the Wild West http://t.co/BSb6LQ5D8m #hadoop @teradata …
+@ratzesberger: Agility in #bigdata takes effort and hard work. Agility is not the Wild West http://t.co/BSb6LQ5D8m #hadoop @teradata …
+RT @Scott_Gnau: .@cesarr77 breaks down the “data lake” concept and explains how it can make your #analytics even more valuable http://t.co/…
+RT @kimdossey: read the latest blog by @cesarr77 @Teradata on the evolution of #hadoop &amp; the data lake. http://t.co/F00J53enOd  @asterdata …
+@TeradataANZ thanks :-)
+Here is my latest post on the evolution of #hadoop and the data lake. Enjoy! http://t.co/C4hbqYgAKt @teradata @asterdata #bigdata
+I was doing #bigdata even when #bigdata was not cool. Love our #data industry. #hadoop @asterdata @teradata
+RT @Teradata: @cesarr77's closing advice, "focus on the environment for your customers, concentrate on your partners and create value." #DM…
+RT @kimdossey: @Teradata helps integrate your #Datalake into the warehouse so it can be analyzed by all users @cesarr77 #DMradio
+RT @kimdossey: 3pmET #DMRadio "Deconstruction &amp; the Art of Data Management" @eric_kavanagh hosts  @cesarr77 @Teradata        http://t.co/V3…
+RT @redouanefalih: @kimdossey @eric_kavanagh @cesarr77 @Teradata I like the word Deconstruction, because it says a lot, when dealing with B…
+RT @JeffHaber: @cesarr77 has great perspective on data management. Tune in. http://t.co/cnpblQj9zB
+I see "sparks" of light in the future of #bigdata, Getting very interesting for our industry. http://t.co/1lUVjmVKup  #hadoop …
+Done with #hadoopsummit Amsterdam getting ready for unlimited fun and strategic times in San Jose @teradata #hadoop http://t.co/lVvu89r7SE
+@Teradata's #Hadoop partner @hortonworks shares the excitement of the QueryGrid announcement. It deepens integration…http://t.co/3wGs1TmJRC
+@teradata innovates with QueryGrid. Users orchestrate analytic queries on multiple systems using #hadoop or not. http://t.co/tIOyGMqsEc …
+The #datalake vision challenges individual companies to embrace best of breed mindsets http://t.co/MFykLnavtO    #hadoop @teradata #bigdat…
+RT @Scott_Gnau: What's the secret to building a #datalake? Bringing #analytics to where the data already resides. More here: http://t.co/Tw…
+@teradata presentation @hadoopsummit:Big Data Evolution from early MPP systems to EDW,Hadoop and Integrated Analytics http://t.co/b1U373sDjL
+@Teradata exhibiting #hadoopsummit Europe. Beautiful venue and former home of the Amsterdam Stock Exchange. #hadoop http://t.co/JNcDUEcjrk
+RT @BenceArato: #hadoopsummit Martin Willcox @Willcoxmnk and Chris Twogood from @teradata takes the stage http://t.co/c6Y3JoUoUS
+@Teradata presenting @hadoopsummit: #bigdata is about action http://t.co/Y74fxOodWX
+#Hadoop is the new Data Operating System http://t.co/szK7CsBDIj
+Streaming data in motion is as valuable as data at rest - Forrester @mgualtieri #hadoop @hadoopsummit http://t.co/tnXBQh0XiT
+@hadoopsummit Amsterdam already having great conversations with key @Teradata users http://t.co/TPaTPeFcLg
+RT @aeng2: @hadoopsummit Hadoop interacting w your existing data systems, key to a Modern Data Architecture #hortonworks http://t.co/KPil4L…
+@Hortonworks CEO Rob Bearden: "We are here to make Apache Hadoop an enterprise viable data platform". Great goal!  http://t.co/uXcp3onvzB …
+I only engage in activities that better serve customers and generate shareholders' value. Don't make me waste my time in anything else.
+Happy Pi day :-) http://t.co/2XCtqGLEhn
+RT @hortonworks: Leading analyst describes Hortonworks and our partner @teradata as Leaders in Hadoop. Download the report here. http://t.c…
+@mikeolson huh?@teradata has embraced many projects (#HCatalog,etc).Our chosen #hadoop partner ranks better than CDH http://t.co/pmYp2JRRKR
+Not a perfect day but always have another chance tomorrow. Like #datascience , life is about fast experimentation and refocusing strategies
+The @teradata team worked very hard (myself included) to be considered a leader in #Hadoop by @forrester. We rock! http://t.co/Agt2NvckBP …
+I am not a micro manager but yes I like quality work. I only work with people that will execute. My management inspiration? Steve Jobs! :-)
+Learn about Next Generation #Graph #Analysis: Putting the connections to work. Virtual Event (3/27) http://t.co/wU8bT0yMGb  #bigdata #hadoop
+The Democratization of  #DataScience: http://t.co/96SM2DSAs8 I really enjoyed this chat with @OReillyMedia #hadoop #datacientist @teradata…
+Big Data Analytics = Dream Big   Know your Biz   Collect Data   Prepare Data   Pick your model (do it again, do it again, do it again)...
+Kiran Kamreddy from @teradata presenting @strataconf at the @Hortonworks booth http://t.co/RbzhKY605I
+RT @shaunconnolly: Extending Apache Ambari and Hadoop data to the Teradata Ecosystem http://t.co/kjHELFpxDf
+RT @aeng2: Extending Apache Ambari and Hadoop data to the Teradata Ecosystem | Hortonworks http://t.co/5c9wySsQWQ
+Each day the @teradata collaboration with @hortonworks is bigger and stronger: Apache Ambari and @teradata http://t.co/YRm3uzKsOV #hadoop
+RT @hortonworks: Extending Apache Ambari and Hadoop data to the @Teradata Ecosystem  http://t.co/q72Q54iLKv
+@strataconf @strataconf @strataconf I cannot think about anything else. It will be SO exciting in Santa Clara. @teradata @asterdata #hadoop
+Very good video on how Verizon Wireless combines #hadoop and data warehouse data for #bigdata #analytics http://t.co/VGxj24VgkO
+If I have to pick between Airbus and Boeing I will definitely pick Airbus. It is more innovative.
+@merv great watch list. I have a similar one @Teradata
+If you are a #Marketing professional and you are not doing the impossible to make sales successful,you really need to rethink your strategy
+@furukama @Teradata About the data scientist comment (3/3): ... And analytics are getting less programmatic and more accessible to end users
+@furukama @Teradata About the data scientist comment (2/3): ...Data prep and wrangling is getting more automated with innovative tools ...

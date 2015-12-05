@@ -1,0 +1,213 @@
+manzurmm
+http://pbs.twimg.com/profile_images/1152025255/44748_425514363354_556588354_5110187_2702751_n_400x400.jpg
+@Fissemaddenzchn Some people love it -- others complain. I suggest you to take a look about overall issues on http://t.co/AT8uOUlzNN
+@Fissemaddenzchn I've ordered one two weeks ago, and still no progress. But I know other people having jolla phone.
+@nodir_turakulov not just gopher, the plan9's bunny was also designer by her.
+RT @bradfitz: "Welcome to Sportmaster! Here are our modem settings." (It never showed my total, only their baud/parity/stop bits) http://t.…
+RT @RAEngNews: Congratulations to Silver Medal winner @dsyme, developer of #programming language F# #RAEngAwards2015 http://t.co/7ruOfoLtVW
+RT @mxcl: Google: 90% of our engineers use the software you wrote (Homebrew), but you can’t invert a binary tree on a whiteboard so fuck of…
+Doug Crockford has a great sense of humour and a great talk on syntaxination: http://t.co/I0z5e36l0G
+RT @bradfitz: Me: "С водком?"
+"You mean С водкой?"
+Too many cases and genders and tables, Russian. This must be why you drink. #vodka
+RT @seradio: SER 227: @Eric_Brewer on "The CAP Theorem: Then and Now" with host @RobertBlumen
+@nodir_turakulov the tweet was about people commenting code instead of removing it. Fortran comments would not allow to do that.
+I would love to have Fortran commenting style nowadays, hate people using comments instead of VCS.
+"One cannot put program text within a comment, since a comment must not contain semicolon" -- Hoare on disadvantages of Fortran comments.
+How objects fall at the same rate in the NASA's vacuum chamber https://t.co/Kcrv8iGazL
+Android lollipop update breaks your phone camera http://t.co/FwtnHIpjtr  Not sure about my feelings -- mine broke after the previous update
+A really good paper on convergent replicated data types: https://t.co/INSJVT5t9T #distributedsystems
+@igrigorik you could also use MySQL CVS engine for  that
+RT @JeffreySchwab: Who called it CPAN instead of Perl Harbor?
+NoSQL Data Modeling Techniques http://t.co/prCgnqZGMx via @wordpressdotcom
+@rhatr Let me guess further -- are you reading "Unix haters handbook"?
+@rhatr not a bigdata guy at all, but I would love to say hi to you
+RT @juliaferraioli: Okay, this is pretty funny/cute. #mathhumor http://t.co/kMWcggOx8D
+RT @stuartsierra: (.format (SimpleDateFormat. "yyyy-MM-dd") (Date.))
+"2014-12-30"
+(.format (SimpleDateFormat. "YYYY-MM-dd") (Date.))
+"2015-…
+Interacting with virtual reality scene using your fingers with Leap Motion: http://t.co/UkwqBUGPLZ via @YouTube
+@isenbaev у китайского автомата китайский акцент
+@gobozov Что-то радости не вижу :) Выздоравливай!
+Dutch functional programming day http://t.co/v07RtJCMmw . And, pleasingly, conference language is English
+RT @jashkenas: Why “Semantic” Versioning is mostly bullshit, Exhibit A: http://t.co/pjEk3H9bPI
+
+82% of npm modules can make breaking change…
+Appropriate but a bit odd giving guide from Free software foundation : https://t.co/be8s6y8uWa
+@solomatovkv It's almost Christmas time, I don't think we have any for this year. Probably, http://t.co/ANXllNZT6X, but it's next year.
+Code Jam to I/O for Women: https://t.co/8huJyBPkqn
+@TuentiEng where is a 29-length encyption key for 11th challenge?
+@TuentiEng the problem #9 is badly written. It would be helpful to add graphical representation to problems.
+@TuentiEng the first input of the challenge5 seems to be incorrect, cells on the border disappear on the first generation, and never repeat
+@TuentiEng Challenge3 says that input is natural numbers, but blackbox gambler accepts float -- is it correct to expect naturals?
+@nodirt счастливого полета! (во всех смыслах :))
+Вопрос-продолжение: для каких значений X верно X * -1 = 0 ? #java
+Реализация ByteArrayOutputStream: Android ( https://t.co/zUsQLQlpeG ) vs OpenJDK( http://t.co/kGL8kZiZfq ) . Первая с багом
+@gobozov поздравляю! осталось с наушниками обзавестись ;)
+я знаю 3 способа вычислить периметр окружности (PI + PI)*R(читается пипиэр), XOCHU*(PI + PI) (читаесят "хочу пипи") и (PI + PI) * SKA
+@nodirt ну значит все, пойду вещи собирать :)
+@nodirt а я недавно только понял, почему наши милиционеры стоят у посольств и записывают имена посетителей...  они потом докладывают "АНБ"!
+@peterseibel One of the reasons is that most languages are low-level. Maybe you should try to show some DSL based project.
+@peterseibel Because the ratio of (aha_moments/lines of code) is lower than needed to hold the reader focused.
+@peterseibel My two cents. I find code is reading is mostly useful for picking a new language.
+если я правильно понимаю, то ctf-контесты для тех, кому не хватает флажков, а ACM - для тех, кому не хватает шаров :)
+@mikhail_dvorkin Круто! Круче только Вандамм (1-е место) и два КАМАЗа(2,3-места) :)
+CTF-контест по распределенным системам https://t.co/3oALtVYGJ9 . Должно быть интересно.
+RT @mattmight: Try [1.0..9.9] in haskell. Courtesy of Andy Gill.
+@arusland давно же... у нас теперь два уровня ада: узтелеком и ростелеком
+Мысль невпопад: почему в кодекс этики программиста(от ACM) не добавить о неэтичности копирования/клонирования ПО? В исскустве это ведь плохо
+@afiskon @AniNatalie ну или шеллкоды, если постараться
+@BakhodirA ты же знаешь - они лентяи, домашки не делали, хоть я и старался
+@BakhodirA А дальше уже убывающая индукция по N ;)
+@BakhodirA Сдаюсь :) хотя ожидалось что запишешь N экземпляров этих строк на разных дисках, при котором одна стопка будет тяжелее.
+@BakhodirA :) неа. Есть идея как можно перевести байты в килограммы? А потом уже показать кто тяжелее
+@BakhodirA Во всем видишь намеки, немец? :) это вопрос, который студентам задавал. Нужно было доказать которая строка тяжелее.
+@nodirt :) вопрос правильный. Строки нужно перевести в кг и доказать свой ответ.
+@nodirt учитывая что гугл теперь перевозит сотрудников по воде, то скоро будешь коммитить на яхте :)
+@nodirt вес ведь не измеряется в байтах, не так ли?
+MIT course(&amp; battle) on game ai programming http://t.co/ZwnICsTlEL
+Кто из них тяжелее: "Jenniffer Lopez" или "Пугачева"? (вопрос программистский)
+Сказали "customer journey" - а послышалось "customer черный" :)
+RT @packtpub: LAST CHANCE! All 1700+ eBooks and Videos are just $5 until tomorrow #ebookbonanza #Packt5dollar http://t.co/dXJhpKU1Ir
+Интересно,что автор червя Морриса читает лекции в MIT.А еще является сыном одного из авторов алгоритма Кнута-Морриса-Пратта(угадайте кого)
+RT @Love2Code: Alan Turing receives royal pardon | The Guardian http://t.co/FXDZPj3mSH
+Why is it “Merry” Christmas, but “Happy” New Year? http://t.co/uAG08qSW01
+При том что сам github позволяет форкать/скачивать, хотя copyright запрещает дистрибуютить без разрешения автора.
+Сравнительный анализ опен-сорс лицензий http://t.co/elCpiDhhiv . Удивило, что гитхаб проекты без лицензий идут под copyright.
+"X windows. It could be worse, but it takes time" :) #unixhatersguide
+"Используйте атомарные переменные" из сериала "В поле зрения" #явшкоке
+Зачем ходить на http://t.co/ngos2acOaE, если есть bash/csh http://t.co/xGKtygZiLb
+RT @hukl: Binary trees - they really exist!! http://t.co/aQOIpDj8ne (via @IAmMarth)
+RT @RealWorldOCaml: I've been released to print/eBook and am available online at https://t.co/NdPKggKzy7! Just remember: I'm a camel, but I…
+RT @rickasaurus: Computer Scientists Hate Him! Learn to solve NP problems in polynomial time with this neat trick!
+@nodirt всегда говорил - мечтать вредно
+Brian Goetz:  "I have a sign over my desk that says "Don't Break Java", to remind me of the consequences of what I do.  "
+Легкая критика SICP by Ph. Wadler http://t.co/6AZjBC5kx2 #paper
+RT @mattmight: If employees at facebook have to spend all day on facebook, how do they get so much work done? #paradox
+Linus on NVidia http://t.co/SxZ7ItbACR
+@nodirt  я тебе на ходу предложил кастомное решение под твою задачу. а стандартная имплементация тут https://t.co/x5Py78AXOP
+@nodirt не, ну как можно в твиттере можно обсуждать такие вещи?! 140 символов вызывают у меня коллапс мозга
+@nodirt Я же предлагаю тебе совместить быстрый поиск с наименьшими расходами для частых элементов -  выбрав частые элементы как вершины
+@nodirt вики рассказывает про стандартный случай, когда нужно иметь быстрый поиск по ордеру.
+@nodirt  нет, не должна быть константная вероятность. Тебе ведь другое нужно - не быстрый поиск, а более быстрая работа с частыми элементами
+@nodirt я бы взял скиплист, где на вершины выводил те элементы, у которых частота больше. еще можно почитать про деревья оптимального поиска
+@controlflow езжай в Утрехт, там красиво
+опечалевшие фанаты гуглоридера, попробуйте http://t.co/Ad5RjvkPlL , может отпустит
+http://t.co/6jcc6kXeif
+курсы Mongodb от 10gen https://t.co/1YQp8WlH
+Смех и грех, реакции на языки программирования http://t.co/tDDjCE0g
+@afiskon в свое время слушал http://t.co/BaSQRShJ
+Computer Science celebrities http://t.co/HtfjlY3a
+@afiskon можешь попробовать хероку с mongolab https://t.co/DeITQHbF
+https://t.co/D162JsIS -  красиво, а конец просто замечательный
+@arusland :) Поздравляю!
+@xomaa Керниган + Богатырев
+Для тех, кто много читает http://t.co/BpavLT2U
+RT @fogus: SPJ classifies Haskell as useless http://t.co/UXR0LyMu  #falsecontroversy #lulz
+RT @Kmels: [video] new generic top-level domains http://t.co/3iVDVMOK
+RT @lambda_ultimate: Learnable Programming: Bret Victor wrote another great essay, Learnable Programming: Designing a programming sys... ...
+Притча про объекты и closures http://t.co/zxpENc36
+@nodirt_ru тебе как лучше - напомнить про CMU или рассказать про МТС?
+@nodirt_ru вообще подозрительно что ты видишь и держишь в руках электронный билет :)
+@xomaa глянь на fbreader, он не такой красивый, но с фичами
+Игра по изучения Vim: http://t.co/aWGWsa11 . Хотя по первому впечатлению там Vi, а не Vim
+Интересная серия интервью с Ward Cunnigam: http://t.co/XEwoId1A
+RT @badlogicgames: fuck Apple, get an Android + catdroid http://t.co/wI1oJTU1
+@pmavrin задуматься купить и переехать туда? :)
+@xomaa либо плюнуть на все, и сделать то чего давно хотел, а времени не было из-за работы
+@afiskon это ты так готовишься к Icfpc?
+@xomaa Уехать, отдалится от текучки. А остальное решится само собой, во время отдыха
+@RSM_3D а он не тяжелый по сравнению с vert.x?
+Круть! Масштабы вселенной http://t.co/zAjaCNU1
+Внезапно выяснилось, что в рассылке #clojure много латентных айфонщиков,
+которые ждут не дождутся транслятора с кложи на С :)
+RT @BruceEckel: If you do everything "hard": work hard, play hard, etc. -- when you fall, that will probably be hard, too.
+RT @markab: I can't state this enough: Programmers don't burn out on hard work, they burn out on change-with-the-wind directives and not ...
+Хороший сервис на хорошем языке #clojure: http://t.co/nIwMA8p6
+Лучше быть глупым при обсуждении ТЗ, чем при сдаче проекта...
+Очевидные вещи иногда не столь очевидны на самом деле
+Признание в любви по гиковски RT @fogus If I ever create a(nother) dependency injection framework then I'm totally naming it Barbara.
+@nodirt_ru если правильно понимаю, то такое есть у java - maven.. такое щас у многих есть
+Приятно удивился качеству обслуживанию в банке "Ipak Yuli" - толковые И вежливые сотрудники
+Что-то pastebin'ов стало много... теперь это как полнота по Тьюрингу, каждому языку по pastebin
+Time, technology and leaping seconds http://t.co/yLFfTfPt
+RT @holman: Ruby was unaffected by the 2012 leap second crisis because no Ruby code exists that runs quicker than one second.
+
+TOO SLOW  ...
+Для тех, кто хочет отблагодарить авторов опенсорс программ https://t.co/wEctRr2D
+@afiskon rm `git ls-files -o`
+@nodirt Аналог Roslyn для Eclipse: http://t.co/sujwfCHC
+Появятся еще пару языков пока Оракл добавит лямбды в java, Xtend - another one: http://t.co/8asZfPRC
+RT @alexott: про соц. защищенность в германии (из вчерашнего): я лучше буду безработным, чем программировать на plain java
+RT @jboner: Scalatron is a multi-player programming game in which bot programs written in Scala compete against each other. http://t.co/ ...
+Eclipse - хороший друг, с которым можно посидеть, позависать, но никак не поработать :/
+@Kmels emoticons
+@Kmels it has awesome smiles :)
+“The cause of  the fall of the Roman Empire was–lacking zero–they had no way to indicate successful termination of their C programs” (Firth)
+Ай да Узнет, ай да козлы! Теперь блочат DELETE запросы http!
+IDE за $200K http://t.co/n44bb92y
+RT @controlflow: типичный конкурс по ФП: приходит какой-нибудь чувак, пишет решение на плюсах/сях за 20 минут которое всех рвёт, все сча ...
+PaaS от Redhat - https://t.co/SE9ZWCwO - взлетит или нет?
+Новый Eclipse Indigo безмерно "радует" со своим NullPointerException
+Additional http status codes: http://t.co/iXLyiHjZ
+Unix's setuid bit is patented :D https://t.co/ZsnmtGsa
+Github code reading club: https://t.co/0ObOug3e
+@Kmels so you founded your own team? :) in what language will you participating?
+RT @rob_pike: Hardware is a thousand times faster, bigger, and more reliable than it once was. Modern software does everything it can to ...
+@TuentiEng how can I recover my password? I don't why but contest site doesn't allow me in
+Awesome keynote http://t.co/G5Yuyrt8
+Выпустили исходники старой-доброй игры "Prince of Persia" http://t.co/IIY5wOc8
+@briandfoy_perl I need a classic book to place next to the Tanenbaum "Operating Systems", "Art of the programming" and "Mythical Man-month"
+RT @CompSciFact Research in Programming Languages http://t.co/3jHUp16s @nodirt
+http://t.co/LsqMTHsH
+RT @villagespb: Работа не волк: 6 коворкингов в Петербурге http://t.co/CjjEExZD
+@nodirt черт, а я даже не знал, что он еще жив
+Алгоритмы сортировки в виде танцев http://t.co/2egNWBPN
+RT @afiskon: Чтение чужого кода http://t.co/junlPJW5
+RT @rob_pike: rm: dir: is a directory. Seriously, guys? It's 2012 and rm still can't remove a directory? You should be ashamed.
+CodeSprint http://t.co/QBPP5uch via @interviewstreet
+RT @codechef: Facebook announces 2012 Hacker Cup: http://t.co/KDc9OEy3
+LevelUp - game development contest from Intel - http://t.co/B2pIxKl9
+@proncer С наступающим новым годом! :) Успехов на новом месте!
+RT @wondermeru: 13.00—14.00 Каждые две с половиной минуты 1 пара москвичей приносит заявление в ЗАГС, а каждые три минуты 1 пара... http ...
+@yapp_ru Выиграл грант на поездку в Yapc.Europe (радость), но не смог поехать из-за проблем с получением визы(грусть)
+RT @alexanderkrass: Пригодится в новом году ) RT @it_portfolio: IT - календарь! http://t.co/lH2ubyz9
+Занятная штукенца http://t.co/haueHz2W
+How To Write Unmaintainable Code http://t.co/qKImEO8v
+Методы и мултиметоды в языке magpie ( http://t.co/5Ht1jR4c ) - просто, красиво или просто красиво :)
+@ZiggysGames Here are other errors: http://t.co/f5nnjvG3
+@ZiggysGames The other issue with menu - the text is small to read and it's not highlighted(or animated) when pressed.
+@ZiggysGames I think it should be something simple and creative, and not so real as a photo.
+@ZiggysGames  before you release the product. Background of menu isn't "gamish",
+@ZiggysGames I've tested it. I the game mechanics is good and I like the game. But there're some issues that should be solved
+@ZiggysGames Will be glad to test it, I've wildfire S
+Не пишите в javadoc'ах всякую чушь, а то получится как здесь http://t.co/2qsd6kI9
+Nice! :) Android has something called BoringLayout #androiddev
+@nodirt все прочел... не то  - сорри
+@nodirt на топкодере что ли?
+#tcl is a .. tv-set! :)  http://t.co/074sKCRd
+RT @0ex0: “@judahshomie: Вся правда о страданиях работников в Google http://t.co/WnAAK108” реально жалко пацанов
+Learning computer science through fairy tales http://t.co/xJ7FLkBj
+RT @CompSciFact: "Measuring programming progress by lines of code is like measuring aircraft building progress by weight." -- Bill Gates
+Вот примерно так выглядит простое признание в любви на этом языке:) http://t.co/0jCGx6zh
+#codeforces вчера приятно удивил выбрав #befunge как язык для контеста
+Оо! Объявили долгожданный  контест "The International Obfuscated C Code" http://t.co/DGfmfKpy
+RT @mattmight: I'm going to start a dating web site for people whose standards are too high: TheEmptySet.net
+RT @davetroy: `I don't even have an e-mail address. I have reached an age where my main purpose is not to receive messages.' - Umberto Eco
+RT @RSM_3D: Обожаю минимализм! Спасибо @adme_ru! "Минимализм в квадрате - Вдохновение" http://t.co/gyazwnT3
+И другие лекции с конференции #strangeloop http://t.co/olOWlRcC
+Интересные размышления от автора языка #clojure http://t.co/HlpGuSSS
+@nodirt ты не смотрел inria.fr, тоже мне кажется хороший вариант
+@inria where can I read more about diffuse programming and the difference with the distributed programming?
+@gobozov оо! Представь себе за 3000 км от тебя тоже выключили :)
+RT @DARPA_News: Reconstruct shredded docs and you could win up to $50,000! http://t.co/HzHM6iOu #shredderchallenge
+@doddyuk yep
+Взгляд автора языка Tcl на ООП http://t.co/y65pW3qj
+@nodirt да нет, пока только смотрим как у других :)
+"Мышки плакали, кололись, но ели кактус". Это про узбеков и свадебный плов, который едят в шесть утра...
+"The use of COBOL cripples the mind; its teaching should, therefore, be regarded as a criminal offence." - Dijkstra http://t.co/5mUywXMu
+Эххх..Там на небесах кажется дефицит хороших  программистов.. теперь  забрали Джона Маккарти - создателя языка Лисп
+RT @joshbloch: Truly awesome student project http://t.co/xj4ucaPJ
+RT @mixen: Google продолжает закрывать свои не самые успешные сервисы - http://t.co/qNBPEMoo
+RT @wondermeru: В Великобритании врачам и медсёстрам запрещено носить обручальные кольца. Пространство под кольцом не дезинфи... http:// ...
