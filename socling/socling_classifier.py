@@ -8,7 +8,7 @@ import time
 import numpy as np
 import re
 
-class Classifier:
+class SocioLinguisticClassifier:
     def __init__(self):
         self.socling = SocioLinguistic()
         self.features_list = []
@@ -151,7 +151,7 @@ class Classifier:
 
 
 start = time.time()
-c = Classifier()
+c = SocioLinguisticClassifier()
 print("Preprocessing")
 #c.create_features_list()
 file_type = "train"
