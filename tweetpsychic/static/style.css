@@ -1,0 +1,485 @@
+html {
+	 font-family: Helvetica, Verdana,Arial,Tahoma, sans-serif;
+	 font-size: large !important;
+	 line-height: 1.4em;
+	 color: #999999;
+	  height:100%;
+}
+
+body {
+   margin:0;
+   padding:0;
+   height:100%;
+}
+
+
+#header {
+    background-color: #F08080;
+    height: 25px;
+    margin: 0px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+#header a {
+    color: #f1eeee;
+    text-decoration: none;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+
+#main {
+    min-height:100%;
+    position:relative;    
+    text-align: center;
+    padding-bottom: 100px;
+}
+
+#main a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #f3b95d;
+}
+
+/*
+h1 {
+    color: #f3b95d;
+}
+*/
+
+#logo {
+    margin: auto;
+    width: 400px;
+    height: 430px;
+}
+
+.inputbox { 
+    width: 350px; 
+    height: 16px;
+    border: 4px solid #F08080; 
+    padding: 10px; 
+    font-family: Helvetica, Verdana,Arial,Tahoma, sans-serif;
+    font-size: large !important;
+}
+
+
+.input_button {
+   font-family: Helvetica, Verdana,Arial,Tahoma, sans-serif;
+   font-size: large !important;
+   color: #fff;
+   width: 135px;
+   height: 40px;
+   border: none;
+   padding: 3px; 
+   background-color: #F08080;
+}
+
+
+/**
+submit {
+   font-family: Helvetica, Verdana,Arial,Tahoma, sans-serif;
+   font-size: large !important;
+   color: #fff;
+   width: 135px;
+   height: 40px;
+   border: none;
+   padding: 3px; 
+   background-color: #f3b95d;
+}
+
+/* not working
+input.relative{
+    position: relative;
+    top: 10px;
+}
+*/
+
+.predicted_age {
+     color: #66cc99;
+     font-weight: bold;
+}
+
+.inputbox_age {
+    width: 50px; 
+    height: 22px; 
+    border: 2px solid #999999; 
+    padding: 2px; 
+    font-family: Helvetica, Verdana,Arial,Tahoma, sans-serif;
+    font-size: large !important;
+    margin-top: 10px;    
+}
+
+.feedback_yes_button {
+    font-family: Helvetica, Verdana,Arial,Tahoma, sans-serif;
+    font-size: large !important;
+    color: #fff;
+    width: 80px;
+    height: 30px;
+    border: none;
+    margin: 0px;
+    margin-top: 10px;
+    margin-left: 20px;
+    padding: 5px; 
+    background-color: #00cc33;   
+    font-weight: bold;
+}
+
+.feedback_no_button {
+    font-family: Helvetica, Verdana,Arial,Tahoma, sans-serif;
+    font-size: large !important;
+    color: #fff;
+    width: 80px;
+    height: 30px;
+    border: none;
+    margin: 0px;
+    margin-top: 10px;
+    margin-left: 20px;
+    padding: 5px; 
+    background-color: #ff0033;   
+    font-weight: bold;
+}
+
+#prediction_text {
+    clear:both;
+    font-size: x-large !important;
+}
+
+/*
+.logos {
+   position:absolute;
+    bottom:0;
+    width:100%;
+    height:100px;
+
+    left: 0;
+    bottom: 0;    
+}
+
+.logos img {
+    border: 0px;
+}
+
+   /* z-index: -100;*/
+
+#feedback {
+    margin: 10px;
+    padding: 10px;
+    font-size: large;
+    text-align: center;
+    margin:auto;
+}
+
+#feedback td {
+    padding: 20px;
+    padding-top: 30px;
+}
+
+
+#gender_images {
+    text-align: center;
+    margin: auto;
+    left: 100px;
+    margin-top: 20px;
+}
+
+#gender {
+    margin: auto;
+}
+
+/*
+#male {
+    width: 60.75px;
+    height: 137.5px;
+}
+*/
+
+.man {
+    color: #0066cc;
+    font-weight: bold;
+}
+
+.vrouw {
+    color: #ed1e8f;
+     font-weight: bold;
+}
+
+.input_button_age {
+   font-family: Helvetica, Verdana,Arial,Tahoma, sans-serif;
+   font-size: large !important;
+   color: #fff;
+   width: 110px;
+   height: 30px;
+   border: none;
+   margin: 0px;
+   margin-top: 10px;
+   margin-left: 20px;
+   padding: 3px; 
+   background-color: #999999;
+   
+
+}
+
+
+div.gender_scale { 
+   /*position: relative; /* IE is dumb */
+    display: inline;                 
+    float: left;     
+    width: 535px; 
+    height: 23px; 
+    margin: 0 0 2px; 
+    padding: 0px;
+    background-image: url('scale.gif'); 
+}
+
+div.gender_scale div.mid { 
+    /*position: relative; */
+    height: 23px; 
+    width: 75%; 
+    text-align:right; 
+    display:block;
+    float: left;
+}
+
+div.gender_scale div.grey { 
+    /*position: relative; */
+    background: #e7e8e9; 
+    height: 23px; 
+    /*width: 75%; */
+    text-align:right; 
+    display:block;
+    float: left;
+}
+
+.error_main {
+    clear:both;
+    background: #ffcccc;
+    color: #000;
+    padding: 10px;
+    margin-top: 20px;
+    
+}
+
+#explanation {
+    width: 700px;
+    margin: auto;
+    text-align: justify;
+    color: #827e7e;
+}
+
+
+
+#holder{
+    min-height: 100%;
+    position:relative;
+}
+
+#timer {
+    color: #35aadf;
+    font-size: 80%;
+}
+
+/*
+#social_media {
+    float:right;
+    margin-right: 10px;
+    margin-left: -250px;
+    width:250px;
+}
+
+#follow_twitter {
+    position:relative;
+    top: -15px;
+    display:inline;
+}
+
+#fb_button  {
+    position:relative;
+    top: -30px;   
+    display:inline;
+}
+*/
+
+.contact_link{
+    unicode-bidi: bidi-override; 
+    direction: rtl;
+}
+
+#user_avatar{
+    display:inline;
+    position:relative;
+    bottom: -30px;
+    margin-right: 10px;
+}
+
+
+#main_form {
+    display:inline;
+}
+
+/*
+p {
+    color: #F08080;
+}
+*/
+
+#share_twitter_result {
+    margin-top:20px;
+}
+
+#share_twitter_result a{
+    color: #35aadf  !important;
+    font-weight:normal;
+    position: relative;
+    top: -20px;
+}
+
+
+#play_against_tweetgenie {
+    margin-top: 20px;
+}
+
+#play_against_tweetgenie a{
+    color: #66cc99;
+    font-weight:bold;
+    position: relative;
+}  
+
+
+
+div#scrollable_content {
+    height:300px;
+    width: 600px;
+    margin: 10px;
+    margin-left: 100px;
+    padding: 5px;
+    overflow-y:auto;
+    position:absolute;
+}
+
+#game_annotation_box {
+    float: left;
+    width: 350px;
+    margin-left: 800px;
+    height: 350px;
+}
+
+#game_answer {
+    margin-top: 20px;
+    display:none;
+}
+
+#female_scale {
+    width: 50px;
+    margin-right: 5px;
+    margin-left: 5px;
+    background-color: #eb1d8e;
+    display:inline-block;
+}
+
+#male_scale {
+    width: 50px;
+    margin-right: 5px;
+    margin-left: 5px;    
+    background-color: #0175be;
+    display:inline-block;
+}
+
+.scale_numbers {
+     display:inline-block;
+     width: 50px;
+     margin-right: 5px;
+     margin-left: 5px;
+     font-size: 80%;     
+}
+
+#tussenstand {
+    text-align:right;
+    font-size:150%;
+    font-weight: bold;
+    margin-right: 200px;
+    color: #999999;
+}
+
+#choose_m {
+    margin-right: 50px;
+}
+
+.tweet {
+    margin-bottom: 5px;
+    text-align: left;
+    color: #666666;
+    font-size: 80%;
+}
+
+
+
+#other_guests_responses {
+    display:none;
+    font-size: 90%;
+}
+
+
+#other_guests_responses_table {
+    margin: auto;
+}
+#other_guests_responses_table td {
+    padding: 5px;
+}
+
+#answer_table {
+ border: 0px; /*1px solid #f3b95d;*/
+ margin:auto;
+ padding-bottom: 10px;
+ margin-top: 10px;
+ margin-bottom: 10px;
+ border-collapse:collapse;
+ display: none;
+}
+
+#answer_table td,tr {
+    padding-left: 10px;
+    padding-top: 0px;
+    border: 0px;
+    font-size: 90%;
+}
+
+#final_score {
+    color: #f3b95d;
+    font-size: 110%;
+}
+
+#next_game {
+    margin-top: 10px;
+}
+
+#other_guests_responses .predicted_age{
+    font-size: 180%;
+}
+
+.error_message {
+    background-color: #fff;
+    float:right;
+    margin-right: -100px;
+    margin-left: -74px;
+}
+
+.error_message_age {
+    background-color: #fff;
+    float:right;
+    margin-right: -190px;
+}
+
+.error {
+    color: #cc6666;
+    font-size: 80%;
+    font-weight: bold;
+}
+
+.tmp_message {
+    width: 500px;
+    text-align: center;
+    margin: auto;
+    font-size: 70%;
+    color: #696969;
+}

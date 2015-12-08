@@ -1,0 +1,49 @@
+html {
+	 font-family: Helvetica, Verdana,Arial,Tahoma, sans-serif;
+	 font-size: large !important;
+	 line-height: 1.4em;
+	 color: #999999;
+	  height:100%;
+}
+
+
+
+body {
+    margin:0;
+    padding:0;
+    max-width: 100%;
+    height:auto;
+    background: url("background1.jpeg");
+    background-size: contain; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: LightCoral;
+}
+
+#header {
+    background-color: LightCoral;
+    height: 25px;
+    margin: 0px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+#header a {
+    color: White;
+    text-decoration: none;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+#main {
+    min-height:100%;
+    position:relative;    
+    text-align: center;
+    padding-bottom: 100px;
+}
+
+#names {
+    font-family:courier; 
+    color:MediumVioletRed;
+}
+
