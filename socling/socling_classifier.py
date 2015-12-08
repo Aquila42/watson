@@ -121,7 +121,6 @@ class Classifier:
     def features_svm(self,file_type,demographic):
         output = open("svm/"+demographic+"_"+file_type,"w")
         for filename in glob.glob("../"+demographic+"_"+file_type+"/*.txt"):
-            #filename = "../gend_train/215__chris.txt"
             print(filename)
             for feature in self.features_list:
                 self.socling.features_dict[feature] = 0
@@ -145,13 +144,9 @@ class Classifier:
             self.socling.features_dict["RETWEETS"] = retweet_count/tweet_count
             #Check if all features are accounted for
             self.socling.check_dict(self.features_list)
-            #self.socling.normalizer()
-            #Write features to file for user
-            #print(label)
             for i,feature in enumerate(self.features_list):
                 output.write(str(float(self.features[feature]))+"\t")
-            output.write("||"+label+"\n")
-            #output.write("\n")
+            output.write("|| "+label+"\n")
 
 
 
@@ -160,7 +155,7 @@ c = Classifier()
 print("Preprocessing")
 #c.create_features_list()
 file_type = "train"
-demographic = "age"
+demographic = "gend"
 c.initialize()
 print("Training")
 c.features_svm(file_type,demographic)

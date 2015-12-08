@@ -9,7 +9,6 @@ class SocioLinguistic:
         self.sent = ""
         self.features_dict = {}
         self.max_values = {}
-        self.max_values["EMOTICON"] = 1.0 #default
         self.sent_list = []
         self.english = enchant.Dict("en")
 
@@ -25,24 +24,8 @@ class SocioLinguistic:
         for word in self.sent_list:
             word_utf = word.encode("utf-8")
             if word_utf in self.emoji:
-                #print("Emoticons:",self.sent_list)
-                #self.features_dict[word_utf] += 1.0
                 self.features_dict[word_utf] = 1.0
-                self.max_values["EMOTICON"] += 1.0
         return self.emoji
-
-    def normalizer(self):
-        for emo in self.emoji:
-            try:
-                self.features_dict[emo] = self.features_dict[emo] / self.max_values["EMOTICON"]
-            except:
-                self.features_dict[emo] = 0.0
-            ##print emo, self.features_dict[emo]
-        #Single_exclamation
-        self.features_dict["EXCLAM"] /= self.max_values["TWEETS"]
-        #Shout
-        self.features_dict["SHOUT"] /= self.max_values["TWEETS"]
-        ##print self.features_dict["EXCLAM"]
 
     def check_dict(self,features_list):
         for word in set(features_list):
@@ -52,24 +35,14 @@ class SocioLinguistic:
     def excitement(self):
         features_list = ["OMG","EXC_EXCLAM","EXC_PUZZLED"]
         if "OMG" in self.sent_list:
-            #print("OMG:",self.sent)
             self.features_dict["OMG"] = 1
-            #self.features_dict["OMG"] += 1/float(len(self.sent.split()))
         sent_list = self.sent.split()
-        #normalizer = len(sent_list)
-        normalizer = 1
         count = len(re.findall("!!!*",self.sent))
         if count > 0:
-            #print("Excitement!!!:",self.sent)
-            #self.features_dict["EXC_EXCLAM"] += count
-            #self.features_dict["EXC_EXCLAM"] += count/normalizer
             self.features_dict["EXC_EXCLAM"] = 1
         else:
             count = len(re.findall("[?!]*![?!]*",self.sent))
             if count > 0:
-                #print("Puzzled:",self.sent)
-                #self.features_dict["EXC_PUZZLED"] += count/normalizer
-                #self.features_dict["EXC_PUZZLED"] += count
                 self.features_dict["EXC_PUZZLED"] = 1
         return features_list
 
@@ -78,8 +51,6 @@ class SocioLinguistic:
         count = 0
         sent = self.sent.strip()
         if len(sent) > 1 and sent[-1] == "!" and sent[-2] != sent:
-            ##print sent
-            #print("Single exclamation:",self.sent)
             self.features_dict[feature] += 1
         return [feature]
 
@@ -87,9 +58,6 @@ class SocioLinguistic:
         count = 0
         feature = "ELLIPSES"
         if "..." in self.sent_list:
-            #print("Ellipses:",self.sent)
-            #self.features_dict[feature] += self.sent_list.count("...")
-            #self.features_dict[feature] += self.sent_list.count("...")/len(self.sent_list)
             self.features_dict[feature] = 1
         return [feature]
 
@@ -123,9 +91,6 @@ class SocioLinguistic:
                 key = pair[0]+"_"+pair[1]
                 if key in features_list:
                     self.features_dict[key] = 1
-                    #self.features_dict[key] += 1/float(len_bigram)
-                    #self.features_dict[key] += 1
-                    #print("Possessive bigram:",self.sent)
 
     def check_match(self,a,b,count):
         if a == b:
@@ -142,8 +107,6 @@ class SocioLinguistic:
         if len(pumping) > 0:
             #print("Pumping:",self.sent)
             self.features_dict[feature] = 1
-            #self.features_dict[feature] += 1/float(len(self.sent_list))
-            #self.features_dict[feature] += 1
         return [feature]
 
     def self(self):
@@ -151,9 +114,6 @@ class SocioLinguistic:
         sent_list = word_tokenize(self.sent.upper().decode("utf-8"))
         count = sent_list.count("I")
         if count > 0:
-            #print("I:",self.sent)
-            #self.features_dict["I"] += count/float(len(sent_list))
-            #self.features_dict["I"] += count
             self.features_dict["I"] = 1
         return features_list
 
@@ -162,7 +122,6 @@ class SocioLinguistic:
         for word in self.sent_list:
             if word.isalpha():
                 if not self.english.check(word):
-                    #self.features_dict["SLANG"] += 1.0/len(self.sent_list)
                     self.features_dict["SLANG"] = 1
 
     def laugh(self):
@@ -171,18 +130,12 @@ class SocioLinguistic:
         for word in features_list:
             count = len(re.findall(word,self.sent.upper()))
             if count > 0:
-                #print("Laugh:",self.sent)
-                #self.features_dict[word] += count/float(length)
                 self.features_dict[word] = 1
-                #self.features_dict[word] += count
         return features_list
 
     def shout(self):
-        #Normalized in normalizer()
         feature = "SHOUT"
         if self.sent.isupper():
-            #print("Shout:",self.sent)
-            #self.features_dict[feature] += 1
             self.features_dict[feature] = 1
         return [feature]
 
@@ -192,10 +145,7 @@ class SocioLinguistic:
         for word in features_list:
             count = len(re.findall(word,self.sent.upper()))
             if count > 0:
-                #print("Exasperation:",self.sent)
-                #self.features_dict[word] += count/float(length)
                 self.features_dict[word] = 1
-                #self.features_dict[word] += count
         return list(features_list)
 
     def agreement(self):
@@ -204,18 +154,13 @@ class SocioLinguistic:
         for word in features_list:
             count = len(re.findall(word,self.sent.upper()))
             if count > 0:
-                #print("Agreement:",self.sent)
-                #self.features_dict[word] += count/float(length)
                 self.features_dict[word] = 1
-                #self.features_dict[word] += count
         return features_list
 
     def honorifics(self):
         features_list = {"DUDE","BRO","MAN","MA'AM","MADAM"}
         for word in self.sent_list:
             if word in features_list:
-                #print("Honorifics:",self.sent.upper())
-                #self.features_dict[word] += 1/len(self.sent_list)
                 self.features_dict[word] = 1
         return list(features_list)
 
@@ -225,8 +170,5 @@ class SocioLinguistic:
         for word in features_list:
             count = len(re.findall(word,self.sent.upper()))
             if count > 0:
-                #print("Affection:",self.sent)
-                #self.features_dict[word] += count/float(length)
                 self.features_dict[word] = 1
-                #self.features_dict[word] += count
         return list(features_list)
