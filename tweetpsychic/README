@@ -1,0 +1,1 @@
+If you have flask installed, run main.py, go to the home URL and enter a Twitter handle, the handle and the corresponding ID will be printed out and a file of tweets will be created.
