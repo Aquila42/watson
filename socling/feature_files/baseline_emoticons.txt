@@ -64,9 +64,7 @@ o_o	surprise
 O-O	surprise
 :*	kissing
 :^*	kissing
-(	kissing
 '}{'	kissing
-)	kissing
 ;-)	winking
 ;)	winking
 *-)	winking
