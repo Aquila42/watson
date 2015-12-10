@@ -11,9 +11,9 @@
 <div id="holder">
 
 	<div id="header">
-		<a href="index.html"> Home </a> |  
-		<a href="how_we_do.html">How We Do </a> |  
-		<a href="who_we_are.html">Who We Are </a>
+		<a href="/"> Home </a> |  
+		<a href="/how">How We Do </a> |  
+		<a href="/who">Who We Are </a>
 	</div>
 
 	<div id = "main">
@@ -21,11 +21,8 @@
 		<form action="www.tweetgenie.nl/guess" method="post" accept-charset="utf-8" id="main_form">
 			<input id = "handle" type = "text" name = "twitterHandle" value = "" maxlength="100" size="50" class="inputbox" placeholder = "Twitter handle" /><br><br>
 			<input type="submit" id = "submit" value="TweetPsychic~" class = "input_button">
-		<p id="text" style="color:DeepPink; font-style: italic">Age: <br>Gender: <br>Interests: </p>
+		<p id="text" style="color:DeepPink; font-weight: bold">Age: {{py_obj[0]}}<br>Gender: {{py_obj[1]}}<br>Interests: {{py_obj[2][0]}}</p>
 
-		<script>
-		
-		</script>
 	</div>		
 
 </div>
