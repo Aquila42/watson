@@ -26,23 +26,27 @@ class SocioLinguisticClassifier:
             dict_x[name] = label
         return dict_x
 
-    def create_features_list(self):
+    def create_features_list(self,demographic):
         self.socling.sent = "Some sentence"
+        if demographic == "gend":
+            self.features_list.extend(self.socling.single_exclam())
+            self.features_list.extend(self.socling.pumping())
+            self.features_list.extend(self.socling.agreement())
+            self.features_list.extend(self.socling.affection())
         self.features_list.extend(self.socling.emoticons())
         self.features_list.extend(self.socling.excitement())
-        self.features_list.extend(self.socling.single_exclam())
         self.features_list.extend(self.socling.ellipses())
-        self.features_list.extend(self.socling.create_possessive_bigrams())
-        self.features_list.extend(self.socling.pumping())
-        self.features_list.extend(self.socling.self())
         self.features_list.extend(self.socling.laugh())
+        self.features_list.extend(self.socling.slang())
         self.features_list.extend(self.socling.shout())
         self.features_list.extend(self.socling.exasperation())
-        self.features_list.extend(self.socling.agreement())
         self.features_list.extend(self.socling.honorifics())
-        self.features_list.extend(self.socling.affection())
+        self.features_list.extend(self.socling.pronouns())
+        self.features_list.extend(self.socling.standard_english())
+        self.features_list.extend(self.socling.school())
         self.features_list.extend(["RETWEETS"])
-        f = open("feature_files/feature_names","w")
+        self.features_list.extend(self.socling.create_possessive_bigrams("../"+demographic+"_train/*.txt"))
+        f = open("feature_files/feature_names_"+demographic,"w")
         for feature in self.features_list:
             try:
                 f.write(feature+"\n")
@@ -51,28 +55,24 @@ class SocioLinguisticClassifier:
         f.close()
 
 
-    def get_features(self,line):
+    def get_features(self,line,demographic):
         self.socling.sent = line
         self.socling.sent_list = self.gettokens.tokenize(line.upper())
-        start = time.time()
+        if demographic == "gend":
+            self.socling.single_exclam()
+            self.socling.pumping()
+            self.socling.agreement()
+            self.socling.affection()
         self.socling.emoticons()
-        end = time.time()
-        #print("Emoticons:",end-start)
-        start = time.time()
         self.socling.excitement()
-        end = time.time()
-        #print("Excitement:",end-start)
-        self.socling.single_exclam()
         self.socling.ellipses()
         self.socling.possessive_bigrams(self.features_list)
-        self.socling.pumping()
-        self.socling.self()
         self.socling.laugh()
         self.socling.shout()
         self.socling.exasperation()
-        self.socling.agreement()
         self.socling.honorifics()
-        self.socling.affection()
+        self.socling.slang()
+        self.socling.pronouns()
 
     def reset_dictionary(self):
         for feature in self.features_list:
@@ -84,7 +84,7 @@ class SocioLinguisticClassifier:
         for line in f:
             if line.strip() == "":
                 continue
-            elif line[:1] == "RT":
+            elif "RT" in line.strip()[:1]:
                 retweets += 1
             else:
                 line = re.sub('https?:\/\/.*[\r\n]*', '', line)
@@ -95,7 +95,7 @@ class SocioLinguisticClassifier:
 
     def initialize(self):
         self.labels = self.label_file_to_dict("../all_labels_"+demographic+".txt")
-        self.features_list = set(self.socling.file_to_list("feature_files/feature_names"))
+        self.features_list = set(self.socling.file_to_list("feature_files/feature_names_"+demographic))
 
     def features_from_file(self,f):
         features = []
@@ -113,17 +113,18 @@ class SocioLinguisticClassifier:
         test = open("svm/"+demographic+"_test","r")
         train_features,train_labels = self.features_from_file(train)
         test_features,test_labels = self.features_from_file(test)
-        clf = linear_model.LogisticRegression()
+        clf = linear_model.LogisticRegression(C=0.001)
         clf.fit(train_features, train_labels)
         predicted = clf.predict(test_features)
+        print(predicted)
         print("Logistic Regression:",metrics.accuracy_score(predicted,test_labels))
 
     def features_svm(self,file_type,demographic):
         output = open("svm/"+demographic+"_"+file_type,"w")
+        j = 0
+        count_over = 0
+        count_under = 0
         for filename in glob.glob("../"+demographic+"_"+file_type+"/*.txt"):
-            print(filename)
-            for feature in self.features_list:
-                self.socling.features_dict[feature] = 0
             self.reset_dictionary()
             self.socling.features_dict = self.features
             f = open(filename,"r")
@@ -134,35 +135,38 @@ class SocioLinguisticClassifier:
                 index = filename.rfind("/")
                 user_name = filename[index+1:].strip()
                 label = self.labels[user_name]
+            if label == "":
+                print(user_name)
+                break
+            print(j)
+            j += 1
             profile_pic = f.readline().strip()
             #Go over all tweets of the user
             tweets,retweet_count = self.file_to_list(f)
             for line in tweets:
-                self.get_features(line)
-            tweet_count = len(tweets)
-            self.socling.max_values["TWEETS"] = tweet_count
-            self.socling.features_dict["RETWEETS"] = retweet_count/tweet_count
+                self.get_features(line,demographic)
             #Check if all features are accounted for
-            self.socling.check_dict(self.features_list)
             for i,feature in enumerate(self.features_list):
                 output.write(str(float(self.features[feature]))+"\t")
             output.write("|| "+label+"\n")
+        # print(count_over,count_under)
+        # print(j)
 
 
 
 start = time.time()
 c = SocioLinguisticClassifier()
 print("Preprocessing")
-#c.create_features_list()
-file_type = "train"
-demographic = "gend"
+demographic = "manual_age"
+# c.create_features_list(demographic)
 c.initialize()
 print("Training")
+file_type = "train"
 c.features_svm(file_type,demographic)
 print("Testing")
 file_type = "test"
-c.features_svm(file_type,demographic)
+#c.features_svm(file_type,demographic)
 print("Running Logistic Regression")
-c.logistic_regression(demographic)
+#c.logistic_regression(demographic)
 end = time.time()
 print end-start

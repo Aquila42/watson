@@ -1,4 +1,4 @@
-from nltk import word_tokenize,bigrams
+from nltk import word_tokenize,bigrams,pos_tag
 import re
 import glob
 import enchant
@@ -11,6 +11,7 @@ class SocioLinguistic:
         self.max_values = {}
         self.sent_list = []
         self.english = enchant.Dict("en")
+
 
     def file_to_list(self,filename):
         list_x = []
@@ -61,13 +62,13 @@ class SocioLinguistic:
             self.features_dict[feature] = 1
         return [feature]
 
-    def create_possessive_bigrams(self):
+    def create_possessive_bigrams(self,directory):
         possessive_list = {"MY","YOUR","HIS","HER","OUR","THEIR"}
         self.possessive_bigram = set()
         i = 0
-        for filename in glob.glob("../gend_train/*.txt"):
+        for filename in glob.glob(directory):
             i += 1
-            #print i
+            print i
             for line in open(filename,"r"):
                 if line.strip() == '' or line[:1] == "RT":
                     continue
@@ -109,8 +110,8 @@ class SocioLinguistic:
             self.features_dict[feature] = 1
         return [feature]
 
-    def self(self):
-        features_list = ["I"]
+    def pronouns(self):
+        features_list = {"I","YOU","HE","SHE","IT","WE","THEY"}
         sent_list = word_tokenize(self.sent.upper().decode("utf-8"))
         count = sent_list.count("I")
         if count > 0:
@@ -123,6 +124,13 @@ class SocioLinguistic:
             if word.isalpha():
                 if not self.english.check(word):
                     self.features_dict["SLANG"] = 1
+        return [feature]
+
+    def standard_english(self):
+        feature = "STANDARD"
+        if "SLANG" in self.features_dict and self.features_dict["SLANG"] == 0:
+            self.features_dict["STANDARD"] = 1
+        return [feature]
 
     def laugh(self):
         features_list = {"LOL","ROFL","LMAO","LMFAO","HAHA","HEHE"}
@@ -140,7 +148,7 @@ class SocioLinguistic:
         return [feature]
 
     def exasperation(self):
-        features_list = {"UGH", "MM", "HM", "AHH", "GRR"}
+        features_list = {"UGH", "MM", "HM", "AH", "GRR"}
         length = len(self.sent_list)
         for word in features_list:
             count = len(re.findall(word,self.sent.upper()))
@@ -165,10 +173,30 @@ class SocioLinguistic:
         return list(features_list)
 
     def affection(self):
-        features_list = {"XO","PLEASE","THANK","AWW"}
+        features_list = {"XO","PLEASE","THANK","AWW","THANKS"}
         length = len(self.sent_list)
         for word in features_list:
             count = len(re.findall(word,self.sent.upper()))
             if count > 0:
                 self.features_dict[word] = 1
         return list(features_list)
+
+    def school(self):
+        feature = "SCHOOL"
+        if feature in self.sent_list:
+            self.features_dict[feature] = 1
+        return [feature]
+
+    def wishing(self):
+        features_list = {"GOOD MORNING","TAKE CARE"}
+        for phrase in features_list:
+            if phrase in self.sent.upper():
+                self.features_dict[phrase] = 1
+        return features_list
+
+    def hashtags(self):
+        feature = "HASHTAG"
+        if "#" in self.sent:
+            self.features_dict[feature] = 1
+        return [feature]
+

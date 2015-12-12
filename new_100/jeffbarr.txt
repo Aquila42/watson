@@ -1,0 +1,617 @@
+jeffbarr
+http://pbs.twimg.com/profile_images/596420075818586112/2OL4JoPF_normal.jpg
+@CloudcraftCo Thanks for the bug report. I have fixed the blog post.
+New #AWS Price Listing API - https://t.co/hM6qtT8MxN https://t.co/9kLghxU3xi
+@wbuthod Thanks, it was kind of intense!
+New VM Import Options for #EC2 - https://t.co/mQWWakoLwH #VMware https://t.co/8MxUaqB8o5
+#AWS Direct Connect Update - Five New Locations - https://t.co/Oxe8JdupJf https://t.co/0WzSniqu8h
+#AWS Directory Service Update – Support for Managed Microsoft Active Directory - https://t.co/xqQ7KjR4qo https://t.co/7KswJxu30S
+@FunnelFiasco Exactly. In fact, we joked about hiring that guy yesterday.
+In today's #AWS webinar ( https://t.co/CoKn5sTrKf ) I will attempt to cover every AWS service in &lt; 1 hour. Fasten your seat belts &amp; hang on!
+I am getting the hang of remote podcast recording! Just had a good call with Jean-Louis and Bastien of @PredicSis .
+RT @awscloud: Amazon CloudWatch Logs can now batch export to #S3:  https://t.co/ZZ7HqA6Tkz https://t.co/2Yb1Qq3bXg
+RT @ryan_sb: #JAWS rebranded, and is now @goserverless get a quick vocab lesson here https://t.co/fAsk8SEacV (plus a formerly-known-as-Prin…
+New from @cloudcraftco - Draw AWS diagrams - https://t.co/0fQTXPHdNI https://t.co/ICSfyMUP5V
+RT @sapessi: Check out @goserverless, formerly JAWS. Includes faster deployments, stage variables, aliases and versions! https://t.co/0GfEV…
+New #AWS job in Columbus, Ohio - https://t.co/gF1S0UzqCq - Lead System Administrator for Lifestyle Communities.
+RT @awscloud: Learn about EC2 Dedicated Hosts, physical servers with EC2 capacity dedicated to your use. https://t.co/X0UEMwv1R2 https://t.…
+RT @swardley: I had one "regulated" client swearing blind it couldn't use cloud. I asked CIO to talk to regulators and like magic, "problem…
+RT @abhayait: @jeffbarr useful redshift queries at one place for "AWS weekly review"
+https://t.co/pKe26Xk92G
+@AmazonRedshift #AWS #AWSCLOUD
+Way Cool - Extending #AWS CloudFormation with Lambda-Backed Custom Resources - https://t.co/OEkO5KLeEQ https://t.co/E6u0dr6Dt9
+@victortrac Yes, since the protection is on the instance.
+RT @JeffBezos: Finally trashed by @realDonaldTrump. Will still reserve him a seat on the Blue Origin rocket. #sendDonaldtospace https://t.c…
+@victortrac Yes, unless you have suspended the health checks for the group.
+@jashsf That would be cool. I lost some good pictures from re:Invent and the AWS Loft.
+New - Instance Protection for Auto Scaling - https://t.co/CbUlLs2sYi #AWS #EC2 https://t.co/mjPSEPfpde
+New - Encryption at Rest for Amazon Aurora - https://t.co/1BUbg0tjvx #AWS #MySQL https://t.co/1ggTAk8X8k
+Four new #AWS Podcasts: @GoConvox, @FundersClub, @PachydermIO, and @Runscope: https://t.co/5r8BxMAyo4 https://t.co/NgGh7s99vi
+RT @stephenorban: my latest post outlines 11 things to consider when educating your staff on #cloud https://t.co/d4IISVxHHI  #devops #aws #…
+RT @awscloud: Seattle-area startups: last chance to RSVP for Tuesday's #AWSactivate networking mixer: https://t.co/tgQCJXxfTC https://t.co/…
+@brady @tylopoda I think that @mndoci does this...
+From @tylopoda - How I Control my #Nest Thermometers with Alexa on the Echo with #Lambda - https://t.co/D8QiQ1apre https://t.co/gDDOlUCGNR
+Catching up on #AWS blogging after what seems like an entire month of travel! #standby
+My son @elAndyBarr is teaching a GIS class (featuring @CartoDB) in #Seattle next Monday: https://t.co/fn1AoNT8iQ https://t.co/9SFFud7wnu
+RT @AWSstartups: Learn about open source tooling for ECS clusters w/@goconvox, Tues at the SF #AWSloft. RSVP: https://t.co/ryACjDcY90 https…
+#AWS Big Data Blog: Migrating Metadata when Encrypting an Amazon  Redshift Cluster: https://t.co/II6vho7Lvo https://t.co/gwAtKq6tE9
+RT @awscloud: Now use @Chef 12 to configure &amp; manage Linux on your Amazon EC2 &amp; on-premises instances. https://t.co/b8iDlZaT4H https://t.co…
+Paul's presentation has some great insights into mapping, cloud, open data, and community involvement. https://t.co/HF5r2ROGq3
+RT @AWS_Partners: Announcing @Atlassian Bitbucket support for #AWS CodeDeploy. Learn more on the APN Blog: https://t.co/fwuRopvjGV https://…
+RT @daveschappell: .@Bitium's one of my fave startups - read about how to make authentication drop-dead easy! #LongLA @AWSstartups  https:/…
+Here's an overview video of the re:Play party from #reinvent 2015: https://t.co/MjwAHxPGsk https://t.co/as3ITpEXms
+@sknthla @rohit_x_ I replied to your roommate's email. You can visit https://t.co/mD9bvwjzv0 and create a case for AWS Customer Support.
+New - #AWS office in Istanbul, Turkey: https://t.co/XlpVEtRwpV https://t.co/3pE9JvYlhR
+RT @awscloud: Take a 45-minute tour through the range of AWS services with @JeffBarr:  https://t.co/GYVAbJiafs https://t.co/qndxKW9mDg
+@imajes Uh, that's a typo. I have asked the Product Manager to investigate and fix. Thanks for the bug report!
+RT @awscloud: New on the AWS Compute blog: Build your first application with JAWS, API Gateway &amp; Lambda. https://t.co/js4KVX0esZ https://t.…
+RT @awscloud: Announcing a new edge location in Chicago, Illinois for Amazon CloudFront &amp; Amazon Route 53! https://t.co/fg48dBBkzL https://…
+This is cool -- happy to be on their list! Thanks for being suhc great fans and users. https://t.co/Nshd2JBonO
+#AWS Webinars for December 2015 - Learn about new services and best practices! https://t.co/IV0c3Ie13Z https://t.co/bXUVeS0Ru3
+#AWS Week in Review - November 23, 2015 - https://t.co/lzQJTyOv2Z - Includes some new customer success stories! https://t.co/YPXEitZi0d
+#AWS Compute Blog - The Twelve Hours of Lambda - https://t.co/JR3bmTF1JW - Includes blueprints to get you started! https://t.co/68Rj95NP7z
+@jdsboston I am OOF Tues-Thu. Are you referring to next week's event?
+#AWS Certification Update - ISO 27017! https://t.co/WjVm4FedLI https://t.co/eaj3q83wV2
+#AWS case study from APN Partner @TriNimbus: BC Hydro - https://t.co/0s5THpqz0n - Run models on 216 CPUs for $10 https://t.co/rY7JuycBUX
+RT @Stratalux: Stratalux CEO Jeremy Przygode shares why he is #thankful for @awscloud this #Thanksgiving @jeffbarr https://t.co/19wiPSoTOb
+go-cloudformation: #golang library for reading and producing #AWS CloudFormation templates: https://t.co/9ijm1L3Lbi https://t.co/Pit1KKnv0e
+Cool #StarWars socks from Gold Dogs in Ballard! https://t.co/cbjd8RM46u
+RT @n2wsoftware: [just released] 5 Top Considerations in EBS Snapshot Automation https://t.co/fvTKAeirOi #aws #cloud
+#EC2 Container Service Console Update - New First-run Experience &amp; Docker Troubleshooting: https://t.co/0aO6PRHgzj https://t.co/StSRDq4MA5
+DubSmash (#AWS-powered) of #Berlin is looking for a rockstar engineering manager: https://t.co/QwgOslM8Em https://t.co/YvZCAyZTG9
+New #AWS Quick Start - Sitecore - https://t.co/gvwIuF736a (cc: @sitecore) - Enterprise CMS + marketing automation! https://t.co/2ocKeoW7XY
+Nice - Get Started Building Intelligent, Serverless Apps Using #AWS Lambda and @Algorithmia https://t.co/g1oLgs9Wlc https://t.co/HnI1aXPFvD
+Hungry for #AWS Content? Here are &gt; 100 decks and demos from the AWS Loft in Berlin: https://t.co/R120Vhcp3x ! https://t.co/0FFvPanOuA
+RT @paulwakeford: Creating and installing a free web server SSL certificate with Let's Encrypt and AWS CloudFront: https://t.co/7P5qfJD4Ua …
+@Tenzer Oops, fixed! The proper link is https://t.co/KjRTaQyxOZ . Thanks for the bug report.
+RT @indizenbigdata: Setting up an #AWS instance for #R, #RStudio, #OpenCPU, or #Shiny Server https://t.co/AYmcmooDOz #rstats #cloud via @Rb…
+TechCrunch: #AWS Lambda Makes Serverless Applications a Reality: https://t.co/MqfvXu3EmF https://t.co/AFwcrFAI02
+New preso: Adobe Creative Cloud and #AWS - https://t.co/K7Twhq5UiZ (slides #20 and #21 are impressive) https://t.co/Ay8XjC2P6H
+@AlexSchoof You pay by the host, regardless of how many instances you run on it.
+RT @mikethebbop: How To Build An API In 10 Minutes: https://t.co/XuLsqM1RVD #Amazon #AWS #Lambda #developers
+Now Available - #EC2 Dedicated Hosts - https://t.co/t4UJ0NCHWi #AWS https://t.co/Al7zC1QlxR
+#AWS Week in Review - November 16, 2015 - https://t.co/DBXcVlcIv9 - Releases, open source, events, videos, jobs... https://t.co/FI4Kda3RuN
+RT @rahulpathak: MT @PeriscopeData: @jeffbarr  Great post on @simple's data infrastructure (starring Amazon Redshift!) https://t.co/juXwZ71…
+RT @cperciva: Blog post: A FreeBSD AMI Builder AMI: https://t.co/pvOc3HaKLn
+@cperciva Sure thing, just saw it on Reddit!
+RT @awscloud: 2 new Redshift features: modify cluster accessibility &amp; specify sort order for NULL values. https://t.co/6OOtzCTDRv https://t…
+@milaw Did you build the Fisherman's Friend site using #AWS? I'd love to know more -- jbarr@amazon.com .
+New - Saved Reports for the #AWS Cost Explorer - https://t.co/L7P5HKCnOS https://t.co/UuvIttSgm9
+RT @benrady: @jeffbarr I'm writing a book on AWS and Serverless apps for @pragprog. Know someone who'd make a good reviewer? https://t.co/D…
+RT @jtparreira: @jeffbarr Hi Jeff, not sure if you saw my blog post about integrating AWS IoT, Lambda funcs and Realtime. https://t.co/i02B…
+.@adamwride @cloudability No, I think it means that like any business process there's always room to do better.
+RT @ayetempleton: Hey @jeffbarr, me again, just added DynamoDB Streams support to @AWSCloudFormer via custom lambda-backed resources: https…
+New type of cloud job, via @cloudability - Reserved Instance Czar - https://t.co/8HiSOMoxuD (with cool uniform :-) https://t.co/gQ2bYnAZk5
+New #AWS white paper - Minimizing Variable Costs for Shared Data https://t.co/kpCn6nDgzJ https://t.co/QKOB7BHQEr
+RT @anjaliagarwal55: DataXu Boston Meetup alert! Join us on 11/23 as we discuss DynamoDB. We'll have a speaker from AWS presenting &amp; a Da…h…
+RT @CloudRank: @jeffbarr Hey Jeff, we just launched our Mobile Beta. We give 1month for free to anyone who provide us with feedback https:/…
+New from @BotmetricHQ  - The 4 Piollars of AWS Well-Architected Framework - https://t.co/qjTYoD7pOs https://t.co/PYKrOIX72Z
+@moriwood_com The goal is to get to 100% over time.
+Amazon EMR Update – Apache Spark 1.5.2, Ganglia, Presto, Zeppelin, and Oozie - https://t.co/gK7NKJc75V #AWS #Hadoop https://t.co/mL3EL4xX26
+RT @awscloud: Now view detailed health metrics for your apps in the Elastic Beanstalk Management Console. https://t.co/lDgLmuHkxa https://t…
+When I was in Barcelona I met the team behind the #AWS SDK for Perl - https://t.co/TvScl6EWwi https://t.co/cjsM10OcRN
+@_adeel The AWS SDK for Perl was built externally - https://t.co/TvScl6EWwi - It uses metadata from the official SDKs.
+Now available - Version 1.0 of the #AWS SDK for #GoLang - https://t.co/ttmSPSGsJu https://t.co/PCV4Py0Hvv
+In the works - Amazon Wind Farm US Central - https://t.co/Qld1xjiY65 https://t.co/S6Rj7CoG7U
+My (very sweet) #AWS Physical Cloud from https://t.co/SFceIBWWuG is well-guarded: https://t.co/aFmlDsw4X8
+Cool #AWS Lambda functions - aws-ses-recorder - process email bounces &amp; deliveries: https://t.co/9haRPRToIw https://t.co/jBUgL2kdJA
+#AWS Device Farm Update - Test Web Apps on Mobile Devices - https://t.co/uKMZfaGggO https://t.co/OBchOZgAQM
+#AWS Big Data Blog - Building a Near Real-Time Discovery Platform with AWS - https://t.co/i2jFbpWMwx https://t.co/ir9RmbT2nU
+@ayetempleton Can you share your needs with me via email (jbarr@amazon.com)?
+New from @cloudcheckr - #AWS Reserved Instance Purchasing - https://t.co/pdPc3Jok7R (analyze/forecast/recommend) https://t.co/I6Nfy8PdCF
+RT @spotinst: We will be in #Berlin next week! Using #EC2? Let's meet to see how we can cut your cost by 85%. #cloudcomputing
+This looks cool... https://t.co/rgMb4uiDSA
+New in the #AWS Marketplace - CloudyCluster (self-service #HPC cluster) https://t.co/4TpeUHJGV5 https://t.co/n3POfgKu9B
+RT @SolanoLabs: Solano CI integrates with #AWS CodePipeline for better #continuousdelivery automation. @awscloud @AWS_Partners https://t.co…
+RT @awscloud: We now have VPC Endpoints for S3 in our AWS #GovCloud (US) region: https://t.co/Do6HDlDdCG https://t.co/MZ4rxuRp2m
+New #AWS Public Data Sets (Cancer Genome Data) - TCGA and ICGC - https://t.co/SaYsa3pDgS https://t.co/ZVZAbLriAY
+@PPrakash Nice work, thanks for sharing!
+RT @PPrakash: @jeffbarr Might be useful to somebody looking for saving cost on Dev/Test environments :-) https://t.co/9ov32qXhZo
+New on SlideShare - Best Practices for a Successful #AWS Cloud Journey, Leveraging APN - https://t.co/IV0NHkseOs https://t.co/Ps65owZMMm
+New from @JulienXX of https://t.co/SE3Ak8cw3f - Rust on #AWS Lambda (email validation) - https://t.co/u4CrcZHAn0 https://t.co/84REysTZp9
+@paulwakeford Awesome, thanks. Bookmarked and retweeted.
+RT @paulwakeford: @jeffbarr Hi, one for the week in review? Fairfax Media has open sourced another AWS cost saving tool - Flywheel: https:/…
+@sswaner We sure do. Email me (jbarr@amazon.com) and I'll review options with you.
+#AWS Week in Review - November 9, 2015 - https://t.co/aWIwwNfpce - Customer stories, presos, lots more. #caughtup https://t.co/41lCaSm4Rd
+New in #AWS Labs: Simple Robot Service https://t.co/EJnxtMRCzK (AWS IoT + robot arm + @raspberry_pi + @LeapMotion) https://t.co/OxHWUm2qv8
+#AWS Week in Review - November 2, 2015 - https://t.co/anst385YQQ https://t.co/uAfLNuYLxF
+#AWS Week in Review - October 26, 2015 - https://t.co/n6HiSsS0Bn - Playing catch-up after too much travel. https://t.co/vAKyeaOZPu
+RT @BeowulfBash: A big howdy and thank you to @AWSCloud as a a sponsor of #BeowulfBash @supercomputing #SC15 #AWS #HPC
+RT @AWSIdentity: You can now search for an IAM user with their associated access key ID: https://t.co/gzvPv3Ulwt https://t.co/QgDG09fKge
+@susanlinsfu Should be working -- still in GitHub with reasonably recent (July) commits...
+Today: Attending and participating in the Cloud Day at the University of Washington: https://t.co/i5c7bLoDzY https://t.co/qpd6dGABUG
+RT @o19s: Recap of AWS re:Invent 2015 in Las Vegas: AWS's biggest event of the year is always good for refined ideas. Le... https://t.co/Pz…
+Congrats to @cloudcheckr - Now a listed #AWS Cloud Compliance Partner - https://t.co/SXNMmEWzht https://t.co/3FOmRGi8Ss
+#AWS guest post - Effective Renewable Energy Policies Spur Investment and Economic Growth - https://t.co/gW1yYinjdz https://t.co/RgIUjCxHtz
+So happy to be back at home after nearly 2 weeks on the road. Next #AWS Week in Review will cover 3 weeks. #braceyourself
+RT @cameronperon: @Dome9 launches VPC flow log visualization for #AWS https://t.co/WEaVoZXTPa
+New from #reinvent - Event-Driven Programming with Amazon DynamoDB Streams and #AWS Lambda -https://t.co/2qooT78Q3J https://t.co/Qnky0JXux9
+@kolencherry @awscloud Can you email my colleague (rodarvus@amazon.com) regarding the Amazon Linux AMI Kernel bug?
+#AWS Webinars for November 2015 - Learn About New Servicdes and Best Practices - https://t.co/4Opw8YRbuV https://t.co/dnQcgacFBu
+New in the #AWS Lab Repo: Kinesis Stream to Firehose via Lambda - https://t.co/er2qGN2ktI - optional data transform https://t.co/lWKMoALN26
+An #AWS Region is Coming to London - https://t.co/M6TnaGU78D (nice post, @werner). https://t.co/CATH5bgxYQ
+#AWS Big Data Blog - Integrating #Splunk with Amazon Kinesis Streams - https://t.co/8D6brJvpWB https://t.co/lvP4U0040c
+The Amazon API Gateway Now Supports Stage Variables - https://t.co/SWDIsUVBZw #AWS https://t.co/bAWQhNhrZb
+Serverless Code Blog: Scheduling EBS Snapshots -  https://t.co/pq5KMbwgB3 #AWS #EC2 Lambda (nice work @ryan_sb). https://t.co/Rd24gnd71U
+RT @danilop: .@jeffbarr on stage fine tuning the Keynote for today #AWSSummit #Barcelona #aws https://t.co/t5K3Yhvl2K
+@ruggerotonelli @0ptimiza @manoleet Ready when you are!
+RT @awscloud: Learn to deploy Oracle Real Application Clusters (RAC) on EC2 with this tutorial &amp; AMIs: https://t.co/9foukKiykM https://t.co…
+#AWS Heads Up - Longer #EC2 and EBS Resource IDs Coming Next Year - https://t.co/yKX8sQ9chT (check your code &amp; schemas now)
+RT @SquidDLane: @jeffbarr https://t.co/vwldPWl5W6 For AWS, built using AWS services.
+If tonight's API Meetup in #Barcelona is a good indicator of the strength of the local dev community, I might just move here for 6 months!
+Server-free Express.js #AWS Lamba &amp; API Gateway - https://t.co/NIN67jIchi - "Complete deconstruction of the server" https://t.co/z1H1Myh5fy
+RT @stephenorban: my latest post on #leadership during the #cloud journey: great leaders make new rules: https://t.co/8ZCDPz8RAt https://t.…
+RT @awscloud: Now stream your Amazon CloudWatch Logs data to S3 &amp; Redshift using Amazon Kinesis Firehose. https://t.co/jvYQanHVDo https://t…
+New Prep Class for the #AWS Certified Solutions Architect – Professional Exam - https://t.co/ba3NPYhntN https://t.co/pwp1JzN0l6
+A quick stopover in Amsterdam en route to Barcelona for the #AWS Summit + press + customers + meetup.  Whee!
+RT @hacksterio: Cool IoT project using Rpi. Submit your #IoT idea to our @awscloud IoT Mega Contest!
+https://t.co/oZAg8FqN0b https://t.co/o…
+Wow - Amazon API Gateway + #AWS Lambda + OAuth -  https://t.co/3AdB2qKJJr https://t.co/pUCI8OZ0Pi
+@martinzack It has become the AWS SDK for Python https://t.co/FRaDAJWRlX
+Remember the monochrome to color transition in the Wizard of Oz? Since leaving #reinvent, it seems like I went the other way :-(
+Emulambda - An Emulator, Not a Petting Zoo - #AWS Lambda - https://t.co/PTjFM3Bc95 https://t.co/39bDqshSUY
+Amazon RDS Update - Cross-Account Snapshot Sharing - https://t.co/mzGJgqj32k (launched yesterday) #AWS https://t.co/RQWsLekWrv
+@EvertonXavier You are welcome! Thanks for coming.
+#EC2 VPC VPN Update - NAT Traversal, Additional Encryption Options, and More - https://t.co/UFeRLereyQ #AWS
+New #AWS Public Data Set – Real-Time and Archived NEXRAD Weather Data - https://t.co/Cep0MfUI0j https://t.co/4YnqrsLVph
+Sorry about that, @daveschappell . Here's my breakfast: https://t.co/FFg0HOzlsx
+Next week at #AWS #SanFrancisco Loft - IoT Hack Day with @Intel Edison - https://t.co/ktyuKsRr4t https://t.co/uNNoVfRk32
+Next week at the #AWS Loft in #SanFrancisco - Container Day (sponsored by @Intel) - https://t.co/B6iwDgVGtZ https://t.co/oc3PkIJsYq
+RT @Rancher_Labs: @AWS_Partners we are very excited to see RancherOS running on ECS!
+If the driver's seat of my car was as small as this plane seat, I'd buy a bigger car.  Next stop,  Dallas!
+RT @bsideup: Yay! New XRebel with @awscloud DynamoDB support! Grab it now while it's hot :) https://t.co/Ymk8mlARbV /cc @jeffbarr
+I will be presenting an #AWS #reinvent recap in #Dallas later this week: https://t.co/J765E6yzeS - Come say hello! https://t.co/uKRGoOKrpT
+The #AWS SDKs now include support for the AWS API Gateway - https://t.co/cyj5s7Ol60 https://t.co/jZ2Vo66gGq
+@ccit_spence If no  logs, go to system’s Console App &gt; System Diagnostic Reports &gt; workspaces…..
+@ccit_spence Team wants log files. Check in /Users/%Username%/Library/Logs/Amazon Web Services/Amazon WorkSpaces, email jbarr@amazon.com .
+@ccit_spence I am checking with the WorkSpaces team.
+@ThomasBerends Don't know yet. Need to fit OS + DB + buffers into 512 MB - tight fit to be sure.
+@BritBazzr  - Here you go: https://t.co/RAN0qrLZNE - EC2 Run Command is now available!
+@robotterror  - Here you go: https://t.co/RAN0qrLZNE - EC2 Run Command is now available!
+@stephensayre @AWSreInvent - Here you go: https://t.co/RAN0qrLZNE - EC2 Run Command is now available!
+New #EC2 Run Command - Remote Instance Management at Scale - https://t.co/RAN0qruoW6 #AWS https://t.co/L0AeTzDmYY
+#AWS Week in Review - October 19, 2015 - https://t.co/LaU6rJ1LQ6 https://t.co/DVjjmA2IZE
+New - Amazon WorkSpaces Connection Health Check - https://t.co/9eyPimniQY #AWS https://t.co/Yody89iXIs
+Great article - The Stack That Helped Medium Drive 2.6 Millennia of Reading Time - https://t.co/TjaCtBqDHj #AWS https://t.co/Yl85miEuMx
+@cperciva The crust is fairly thin and we keep them in motion (rotate every 20 seconds) to avoid charring.
+Proof that the oven is really *that* hot: https://t.co/PzhjNOAJ2o
+The finished product (cooks in 2 minutes flat): https://t.co/3T02FTkRHi
+Pizza dough &amp; toppings: https://t.co/EcEz1stsPu
+The Barr Family Pizza Oven is ready (surface temp 967F)... https://t.co/sS1nXdGIGj
+@AlexJReid The latest Amazon Linux AMI (2015.09) includes nginx 1.8.0 . Don't lose your balance :-)
+RT @rkedrin: We are hiring: Senior Software Development Engineer - EC2 Senior  https://t.co/EmFrD2MUsX #job @awscloud #dev #java #c++ #pyth…
+RT @aloukissas: Running a Modern Infrastructure Stack https://t.co/FrHYoVEIhi #infra #aws #devops
+@jsnod It is in the works and I'll have more info as our plans firm up. Please feel free to email me (jbarr@amazon.com) if need be.
+@interactivenyc @louisraphaelsf @brainchatbot Thanks, and you too!
+Nice tutorial: Connecting #Eclipse Kura to #AWS IIoT - https://t.co/muE0b8PfUe https://t.co/ojJI6snmV9
+.@jasonallen @NASAJPL Here is the video to go along with the #reinvent preso - https://t.co/UnsHx1h327
+@karlyncallahan Happy to connect you with the team for in-depth discussion. Email me jbarr@amazon.com .
+RT @stephenorban: What makes good leaders great? Find out in my latest post: https://t.co/C9c5EMbPMa https://t.co/L03k7DsOes
+New #AWS #reinvent from @nasajpl - Inspiring Innovation in the Cloud - https://t.co/DnD0PRjpKn https://t.co/Y83WlP9R3o
+AWS Big Data - Building a Graph Database on #AWS Using DynamoDB and Titan - https://t.co/bobSfM7PZC https://t.co/Yf1UqV1wDM
+Busy IoT Hackathon (hosted by @MediaTek) at the #AWS Loft in #SanFrancisco https://t.co/FN9Y7I9YHR
+@GopinathM @awscloud If you email reinvent-sponsorship@amazon.com they'll work with you to clear this up.
+@chuck_han We are interested in feedback on your needs. Email me jbarr@amazon,com - and I'll pass it along.
+After my presentation at #ZendCon, my brain is fried and I am exhausted! Next stop, #AWS Loft, San Francisco! https://t.co/s83JCbnTZN
+RT @awscloud: AWS Storage Gateway now supports #VMware ESXi 6.0 hypervisors &amp; #RHEL 7 iSCSI initiators: https://t.co/YEjFoZONni https://t.c…
+Sample #nodejs app that calls #AWS IoT - https://t.co/B2yOJYGhDD https://t.co/9RXMeJInb4
+RT @rahulpathak: Videos now available for AWS re:Invent 2015 Big Data Analytics sessions   http://t.co/rqqchkhswA #redshift #emr
+@williamthaase Do you need any particular info? Looking forward to your article!
+@stack72 @awscloud Amazon Elasticsearch Service supports ICU and Kuromoji. Do you need others? jbarr@amazon.com &amp; I'll forward to team.
+High-impact job on the #AWS S3 team: Senior Technical Product Manager - https://t.co/KaKt0JgjJ7 . CS degree &amp;&amp; &gt; 10 years product mgmt reqd.
+RT @awscloud: Amazon Registrar, Inc. is now the registrar for new @Amazon_Route_53 com/net registrations. https://t.co/q95VgNKx2l https://t…
+Back in Las Vegas, this time to speak at @zendcon .
+#AWS Week in Review - October 12, 2015 http://t.co/bobSfM7PZC - Includes some interesting open source projects! http://t.co/WT3a1Po2bb
+Working on #AWS Week in Review - otherwise known as "3 solid hours of reading, cutting, and pasting!"
+The generous folks at @runscope sent Anthony Topper (18 year old dev) to #AWS #reinvent - http://t.co/kacn6te2WI http://t.co/3I96D01NY5
+Incredible pictures from the #AWS #reinvent party - http://t.co/COmDK8EHlT (awesome work, @rukes). http://t.co/zaz0COcc34
+RT @cloudcheckr: There was a lot to take in, so we've recapped #AWS re:Invent on the CloudCheckr blog: http://t.co/OTIlkU5TFU http://t.co/2…
+Twelve videos from the #AWS #reinvent SPOT (Spotlight) Track are now available: http://t.co/wrIt2LrmBA http://t.co/Dj3tkdbBPU
+RT @awscloud: AWS Service Catalog is now available in our EU (Ireland) region! http://t.co/ElYohGYx0W http://t.co/jShs1VqyGp
+RT @awscloud: AWS KMS now supports deletion of keys, giving you even greater control of your key lifecycle. http://t.co/nvST2uINc7 http://t…
+#AWS Big Data - Persist Streaming Data to S3 Using Amazon Kinesis Firehose and Lambda - http://t.co/TFheMrt64C http://t.co/pkrce47yEJ
+RT @darkangelstrike: Deploying Scalable Oracle RAC on Amazon EC2
+https://t.co/diOfBmkwIZ #oracle #rac #db12c #amazon #ec2
+Data Infrastructure at #IFTTT - http://t.co/PWMJJoB8Sv (#AWS: S3+RedShift+Data Pipeline)+Kafka+Elasticsearch http://t.co/YqCLhIt3W0
+Lambda Complex - #Nodejs framework for apps that use high-abstraction #AWS services - http://t.co/KKOIhiB6Gz http://t.co/P22mdtijFx
+From @MitchyBGood - My First Lambda Function (SES bounces -&gt; Lambda -&gt; DynamoDB) #AWS http://t.co/W64gvPDtmj http://t.co/omAaDdF3Qo
+RT @timallenwagner: @shift8creative @jeffbarr More hands would help...we're hiring on Lambda! also, cookies
+@ChicagoGupta @nodDFW Can you email me (jbarr@amazon.com)? Let's see what we can set up.
+RT @jinman: Must watch video! Everything you want to know about #AWS #IoT by @kylemroche
+Watch the video:  https://t.co/eYycVEyBAA #awsrein…
+RT @awscloud: Our #AWS SDK for #Unity3D now supports AWS Lambda &amp; Amazon Simple Email Service: http://t.co/5Gu5H7cmLY http://t.co/bSfpfcN5bC
+@ChicagoGupta I am actually planning to be there later this month to speak to a corporate customer and an #AWS user group (details TBD).
+@donne_martin Fixed and publishing now; correct link is http://t.co/IcL7j3tMjm . Thanks for the bug report!
+RT @stephenorban: latest post role of today’s IT exec on #cloud journey: merging biz and tech https://t.co/HtlZNUcjDo #leadership #aws http…
+A very nice #reinvent wrap-up from @cloudability - http://t.co/fXkJY2nIfB http://t.co/WHsg9t2BuI
+@dafalcox Yes, I sure do. I will take a look tonight!
+@ghctim Those are fairly common, but I'd be happy to mail you one from my personal collection! Email me (jbarr@amazon.com)...
+@SqueezeMobile1 It should be applicable to both. It helps you to use other AWS services in your app.
+@ghctim Sorry to hear that. Is it a common piece?
+Awesome JAWS / AWS / Lambda success story - 60K uniques in 2 hours, $0.07 bill - http://t.co/XYT46lkhcf http://t.co/qiovwY3eot
+New from @CloudCheckr - Taking Steps to Secure Your #AWS Environment (Part 2) - http://t.co/KIpeU07RBK http://t.co/BYEi0mv0DC
+My only #reinvent session (I'm the customer) - How http://t.co/F7JT1qlyj2 is Moving to Amazon WorkSpaces https://t.co/MBFn70qklQ #AWS #EC2
+Go Lynn - NoSQL vs. relational; use/learn/write/teach; "big relational" (Aurora), IoT, "keep all data all the time." https://t.co/E5jdP1Gyca
+.@SendEvidence Many of my neighbors work for Microsoft. They would urge you to upgrade to Windows 10 !
+Here's your chance to be my neighbor in Sammamish. Less than 30 minutes to South Lake Union / Amazon / #AWS https://t.co/MewChOhBBn
+Learn About the newest #AWS Services from #reinvent – Attend our October Webinars - http://t.co/LPdur0VTvx http://t.co/vmgf69dcl4
+The #AWS #reinvent video referenced in @micwarg's tweet is now online &amp; can be found at https://t.co/zIkW3OstEG ! https://t.co/NOPvgjx5tx
+#AWS Week in Review - October 5, 2015 (#reinvent wrapup + links to decks and videos) - http://t.co/02kqvvgxcQ http://t.co/5qS7as9UWH
+New #AWS Financial Services Portal (with customer success stories) - http://t.co/B4oPwH4TaR http://t.co/4BB0FUP6Pu
+The first 232 presentations from #AWS #reinvent 2015 are now online at http://t.co/qDDamgwHqg http://t.co/fzzbMpShCR
+From the weekend - "This One Weird API Request Will Save You Thousands" - http://t.co/Pns7bn0sT5 #AWS #EC2 http://t.co/FrenM1tyfW
+@DarkWing100 It is still "in the works" - I'll share more details as they become available.
+Returning to reality after a week in Vegas at #AWS #reinvent is always tough. Last week was surreal and amazing for me. Same for you?
+Popular #reinvent preso - "This One Weird API Request Will Save You Thousands" - http://t.co/Pns7bn0sT5 #EC2 #AWS http://t.co/MSkJRQSVa3
+@circuitpeople @hackaday Great idea, but one of our core values is frugality!
+@picsoung @3scale That sounds really interesting. Email me (jbarr@amazon.com) and we'll see about setting it up!
+#AWS #IoT Mega Contest - http://t.co/TMaz8rVzM8 - Submit ideas by November 8th, projects by January 8th, 2016. http://t.co/Q5hv8F5sv3
+Whew - what a month it has been. 3 solid weeks of blogging, 1 amazing week at #reinvent. Next stop: #AWS Summit in #Barcelona in November.
+@GavinDonovan @Werner Definitely not. Being on stage in front of tons of people is an incredible rush, but I can't sing to save my life!
+@jamiekinney @AlaskaAir Perfectly adequate - nice cinnamon wafers. In this case it was the thought that counted.
+RT @GavinDonovan: @jeffbarr does this mean @Werner is making you be next year's #reInvent musical guest?
+@GavinDonovan Only in my dreams. We're far too frugal at Amazon for that!
+@jamiekinney @AlaskaAir The flight attendant told us that she'd been flying for 16 years and had never seen a box with that label.
+Home safe and sound. @carmenbarr and I are already looking forward to #reinvent 2016!
+RT @fhammond: @jeffbarr Our plan? Make our "Moving Adobe to Lambda" re:invent 2016 slide deck now and just work backwards...
+@ryanleisinger Ouch, I hope not, but sorry if so. My wife stuffed it full of #reinvent Swag.
+@kellogh Nope, we were on flight 609.
+Apparently the 737-900 is  not a good match for LAS due to climb perfect on 1 engine. Pilot told us to write to the @AlaskaAir CEO.
+Long wait to take off,  perhaps due to a plane loaded to the limit with #reinvent Swag. #toomanyhoodies  Get us home @AlaskaAir !
+@trautonen @galenandrew not really true. Lambda takes care of retries in most cases ; See the docs for more info.
+@jsin thanks so much, glad you had a good time.
+About to fly LAS to SEA; eavesdropping on  #reinvent attendees discussing their plans to use #aws Lambda for image processing with AWS &amp; S3.
+@galenandrew The team would like to discuss with you. Can you email me (jbarr@amazon,com) so that I can connect?
+@galenandrew I will definitely share that with the team.
+Segment: Rebuilding Our [#AWS] Infrastructure with Docker, ECS, and Terraform http://t.co/4NsM73tszC (@calvinfo) http://t.co/Mc74SwiEh6
+RT @carmenbarr: Sundae station ! Yumm! AWS does it RIGHT! #reinvent #aws http://t.co/1rCM93xtWv
+The #reinvent party is about to get underway,! http://t.co/Il8BuGNLOa
+@crcmav @awscloud We are fixing the link now. Sorry for the trouble.
+#AWS Mobile Hub - Build, Test, and Monitor Mobile Applications - http://t.co/GAKKqfN18R #reinvent http://t.co/vc1NknlG6o
+#AWS IoT - Cloud Services for Connected Devices - http://t.co/bWo37CWKKs - #reinvent #MQTT http://t.co/ZjPJr8zr6y
+@ealeyner Time (or @werner) will tell...
+Now we know that @werner 's refrigerator is a "he." #reinvent #iot
+My Lambda link will be live shortly. I was doing too many things at once. #notthreadsafe
+#AWS Lambda Update – #Python, VPC, Increased Function Duration, Scheduling, More - http://t.co/CIQP5XGE72 #reinvent http://t.co/pmxblrSCWw
+CloudWatch Dashboards - Create &amp; Use Customized Metrics Views - http://t.co/QnuQgVURJP - #aws #reinvent http://t.co/ncX3vFtSWZ
+@cperciva @_msw_ You know where to find us!
+#EC2 Container Service Update - Container Registry, CLI, AZ-Aware Scheduler - http://t.co/rGKPiKwLVn #AWS #reinvent http://t.co/YuJeAUP9aF
+@SendEvidence Patience, my friend! Feel free to chat with your #AWS BusDev rep.
+@stuntprogrammer Agreed! I will share more info as it becomes available.
+#EC2 Instance Update - X1 (2 TB for SAP HANA) &amp; T2.Nano (512 MB for Websites &amp; Microservices) - http://t.co/e6QQpfDjdL #AWS #reinvent
+@garnaat You are correct. Thanks for letting me know, fixed!
+The #reinvent launch room is buzzing with activity. We've got some great stuff in store for #AWS fans!
+RT @lynnlangit: if you R planning on participating in my workshop tomorrow at 1pm arrive early - there's a waiting list  3X the size of the…
+Tatonka + 2 more #AWS pub crawl  venues + meeting lots of #reinvent attendees, back in the room finalizing posts for tomorrow's launches!
+@5hravan Don't know offhand. If you email me jbarr@amazon.com I will check after re:Invent wraps up.
+New from #reinvent - Engineering Netflix Global Operations in the Cloud - http://t.co/a682P1fFWW #AWS http://t.co/cgUAB1hKoI
+RT @jimplush: If you want to run #cassandra affordabily in #aws come see our talk in the BigData track  on Thursday 2:45pm #reinvent BDT323
+Amazon Inspector - Application Security Assessment Service - http://t.co/ccbuIQHzem - #AWS #reinvent http://t.co/MVKyoJNYik
+#AWS Config Rules - Dynamic Compliance checking for Cloud Resources - http://t.co/AOQozOJHeD - #reinvent http://t.co/Da3yrsOvBj
+RT @carmenbarr: @jeffbarr is the lucky guy to own these one of a kind Lego figures #reinvent #aws http://t.co/asoxvRu5jU
+@PPrakash I didn't have time to write that post. There's one of me and an entire company building cool stuff! #staytuned
+RT @awscloud: Migrate your DBs to AWS easily &amp; securely using AWS Database Migration Service. http://t.co/s6a4h43PwN #reinvent http://t.co/…
+.@brentnash @ajassy If it was only that simple - we have 30 people in the #reinvent launch war room and many more on phone and IM.
+RT @brentnash: I love picturing @jeffbarr sitting at a laptop pressing the "Post Blog" button every time @ajassy announces something.
+Amazon RDS for #MariaDB - Up to 6 TB of Storage &amp; 30K IOPS - http://t.co/2Q6GeV7HAL - #AWS #reinvent http://t.co/EJVYpYlApr
+#AWS Snowball - Secure, Petabyte-Scale Data Transport Appliance - http://t.co/TrjKlxmVGw - #reinvent http://t.co/ywQdvhXzDU
+Amazon Kinesis Firehose - Easily Load Streaming Data to #AWS - http://t.co/SgpG2uTy0R - #reinvent http://t.co/7IEJJdPuAw
+Proper link to QuickSight is http://t.co/RYxOVGJWS9
+@PPrakash Whoops - bad macro. I will fix ASAP!
+Amazon QuickSight - Fast, Cloud-Powered Business Intelligence - http://t.co/bcpwJJNzcs - #AWS #reinvent http://t.co/9CvyHtgAJj
+@NikkiTirado  Be sure to say hello if you see me at reInvent!
+#aws Latam party at #reInvent! http://t.co/UiBi0lytJ0
+#AWS Global Partner Summit - Report from #reInvent 2015 - http://t.co/UY4Ny8GtQA http://t.co/1dBbcYQ2ww
+Yes I really did this! #reinvent  https://t.co/Nxd8YdYVg9
+RT @DaveNorth: Achievement unlocked: magnets.  Oh, and met the legend that is @jeffbarr this morning #aws #reInvent
+@reillyusa I will literally blow up your feed. Stand by...
+New - #EC2 Spot Blocks for Defined-Duration Workloads - http://t.co/4EkGdPfIvI #AWS http://t.co/9zG6OCxFK0
+Coming Soon - #EC2 Dedicated Hosts - http://t.co/VaBvWVg8nn #AWS #reinvent
+New #AWS WAF - http://t.co/g4DryIZODZ - Protect your website against application-layer attacks. http://t.co/sKKiN13wof
+RT @carmenbarr: Hanging out with @jeffbarr at #reinvent #tao @ The Venetian Las Vegas https://t.co/fiqJQjRxwV
+RT @akelman: 5pm on Monday and more people have checked in to #AWS #reinvent (6k) than we saw at the entire 2012 show. wow! @jeffbarr @Wern…
+RT @awscloud: You can now view the contents of AWS CodeCommit repositories from the AWS Management Console. http://t.co/GAmDtN97GH http://t…
+RT @AWSstartups: Internet of Beer - Introducing Simple Beer Service! Details on the AWS Startup blog: http://t.co/c51WAGybzz http://t.co/s9…
+@marknca @welles @geoff_baskwill I think that means you are good at recycling cardboard and empty bottles.
+Tomorrow at #reinvent - AWS Magnet Meetup / Giveaway - http://t.co/hBp02cGxVO - 10 AM near Hall C. Come say hello! http://t.co/SkRIAhFp8O
+#AWS Week in Review - September 28, 2015 - http://t.co/TX0c4HX5xx - Lots of good #reinvent prep from our partners! http://t.co/pDShozTDlE
+Badged for #reinvent! Now to hide for an hour or two and do some writing. http://t.co/bNrH1eDdOa
+And so it begins! Welcome to #reInvent! http://t.co/IylaYTQxfS
+RT @AWSreInvent: #reInvent swag has arrived - pick up yours when you register! http://t.co/x02iAEJyvN
+RT @AWSreInvent: Watch now on #Periscope: re:Invent Walk-Through - Setup Day with @JeffBarr https://t.co/DJyXoutu3O
+Cool work from @mcallana - Visualization of #Docker Containers on Amazon ECS Clusters - http://t.co/bU0HiAAQow #AWS http://t.co/ZzimmUGudN
+@ywxwy Interesting - feel free to send some use cases my way (jbarr@amazon.com) and I'll share them with the team.
+Cool #reinvent fact - I am 100% hosted on Amazon WorkSpaces and use it and nothing else to do all of my #AWS blogging. #VDI for the win!
+@stevenma I updated the PDF to include M4, but it is cached in CloudFront so wait a little while.
+@stevenma Oops - copy and paste error. I'll update ASAP!
+I took a break last night and visualized the #EC2 instances over time (PDF: http://t.co/07SfCi9ogW ) http://t.co/KxMQG3ZUYg
+@dafalcox Yes, give me some time to digest and respond. I appreciate your situation and our enthusiasm.
+.@akelman I still have 5 posts on my list!
+Wow - @cloudability Infopgraphic - Just How Big is this Year’s AWS re:Invent Conference? - http://t.co/jRqti9hV3I http://t.co/wpxJoGggUb
+Something special for my /r/aws friends at #reinvent - Meetup / Magnet Giveaway - http://t.co/hBp02cGxVO http://t.co/LrA49mDrsr
+#EC2 Spot Fleet Update - Console Support, Fleet Scaling, CloudFormation - http://t.co/1reZzTSKaB #AWS http://t.co/H4WXpO7934
+Last night in #AWS-land: Amazon #WorkSpaces Update - BYOL, Chromebooks - http://t.co/cNyDg06RLo http://t.co/UE1oENUEtn
+Are You Well-Architected? http://t.co/8JUnWhIGsP -New #AWS framework doc (security/reliability/performance/cost) http://t.co/l0Vrt6tMKk
+I am so close to almost having just 5 big blog posts left to write for #reinvent .
+RT @AWSreInvent: Learn about @Zynga's journey (back) to the AWS Cloud during their #reInvent spotlight session: http://t.co/Gzb3k6GR6g http…
+.@PcProfessionals I am worried about that Week in Review post too. The last one took me 4 hours to assemble. #needmorebloggers
+@rafaelmagu Yes you can make those changes live, while the cluster is running.
+@Bishma You are welcome!
+#AWS CloudTrail Update - SSE-KMS Encryption &amp; Log File Integrity Verification - http://t.co/9gfpRL84uj http://t.co/vklDRseU7N
+RT @ajassy: Many run Elasticsearch on #AWS, some have asked to make this easier. Here's our new Amazon Elasticsearch Service! https://t.co/…
+New - #AWS CloudFormation Designer + Support for More Services - https://t.co/V20ZBsOKbX https://t.co/GGgcg7YqMk
+@jnilsson_se @ulsa Patience.my friend...
+Wow - #AWS Big Data &amp; Analytics Sessions at #reInvent - http://t.co/7xr2QqvUQm - Customers/Deep Dives/Arch/ML/More http://t.co/cwoJNfCrYC
+From @takus - SmartNews's Journey into Microservices - http://t.co/9JVIPNNZeh (Using #AWS CodeDeploy, #Docker, more) http://t.co/CQy4s4uY44
+Amazon EMR Release 4.1.0 - Spark 1.5.0, Hue 3.7.1, HDFS Encryption, Presto, Oozie, Zeppelin, Improved Resizing http://t.co/X5G0ORyVIZ #AWS
+New #AWS Security Courses (Fundamentals &amp; Operations) http://t.co/ckV1TbZbtY
+RT @ajassy: Am going to start using my twitter account more often, and for work stuff, too. Stay tuned as we have an action-packed next 10 …
+@Juan84155048 Can you email your requirements to me (jbarr@amazon.com) so I can share with the team?
+Hilarious, and totally unofficial, of course... https://t.co/FBEeAnwZmn
+@clojure_ru Which AMI are you referring to?
+New from Sony Mobile (@sonyxperiadev) - CloudFront Custom Resources Project on GutHub - http://t.co/nniWNe4Nns #AWS http://t.co/Q4AUZw7HOp
+New #AWS Digital Library for #BigData Solutions - http://t.co/7vvP0PUAAw  - Nice work, @lynnlangit http://t.co/cSSTyfX1GA
+RT @stephenorban: Latest post on @TalenEnergy's journey to the cloud: https://t.co/PwdepTfPwv story of 3 forward looking IT execs! #AWS htt…
+#AWS Trusted Advisor adds two new Checks for CloudFront - http://t.co/fUd7HMPI7S http://t.co/U1LPumwiQx
+I cannot believe how much content I have written for #AWS re:Invent, or how much remains to be written! The summit is not yet in sight!
+@j0nes2k Thanks for reporting. Team has investigated and is in the process of fixing the issue.
+@cperciva Here are the supported actions: http://t.co/icbGKMZjmc
+New - Receive and Process Incoming Email with Amazon SES - http://t.co/SEXYKCKFqu http://t.co/tMKN5RYBh7
+RT @awscloud: Now available: AWS Device Farm plugin for Android Studio/Gradle - test against real devices. http://t.co/mZEymA2IgW http://t.…
+#AWS Elastic Beanstalk Update - Support for #Java and #Go - http://t.co/RHhgnumSnx http://t.co/yKzaBiT6Ct
+#AWS Week in Review - September 21, 2015 - http://t.co/Orf4fTU8h2 . Extra helping of Marketplace Apps! http://t.co/fRVKwQuVRB
+AdRoll - Petabyte-Scale Data Pipelines with #Docker, Luigi and #AWS Elastic Spot Instances -  http://t.co/EXl6MmqLjr http://t.co/QZ9fzTI7lN
+Nice post from @Gousto - Startups Without Servers - http://t.co/RNVSOHB4cs (#AWS Lambda.API Gateway /S3/DynamoDB) http://t.co/iswO112k3z
+@mdavid @lessig @lessig2016 Do you have a job description URL that I can tweet?
+What a nice surprise from my friend @betsyweber - #AWS and Amazon minifigs - thank you so much! http://t.co/mHebjG7SRl
+RT @mdavid: .@migueldeicaza We're in need of mobile app development as part of the @Lessig2016 campaign. Have any engineers available that …
+Amazon Glacier Update - Third-Party SEC 17a-4(f) Assessment for Vault Lock - http://t.co/nkODl8gOhc http://t.co/qAepMW5Mkv
+Amazon RDS Update - Oracle+Brazil+Larger Volumes+More - http://t.co/xp1BiDOFS1 http://t.co/W0b5kYCoBQ
+New from @CloudBees - Amazon #EC2 Container Servier Plugin for Jenkins - http://t.co/10r0LkHref http://t.co/dSAx8rkQUx
+RT @awscloud: Effective 9/1/15, we are reducing the price for data stored in AWS Storage Gateway VTS. http://t.co/XlZUpPTIYA http://t.co/Mg…
+In-Country Storage of Personal Data - http://t.co/b4Tv4PTPl7 (from my #AWS colleague @dbatalov) http://t.co/ByoEUdeBVe
+@jasonsirota @ajaynairthinks Which Lambda "limit" are you referring to? Perhaps it can be raised...
+Advanced #AWS at the Loft in San Francisco tonight (6-9 PM): JAWS and KMS - http://t.co/3EXjfuLQ9S
+#AWS Big Data - How Coursera Manages Large-Scale ETL using AWS Data Pipeline and Dataduct - http://t.co/yP939DjPak http://t.co/TbzVlcb0hL
+JAWS ("Server-less Application Framework") V1 beta now available - http://t.co/UPRLlgsHdU (Lambda, API Gateway, ...) http://t.co/SPa8IUcvFw
+I've been just a little bit busy with #AWS re:Invent just 2 weeks away!
+@nashrafeeg I hear you. Send me some email (jbarr@amazon.com) when you see this.
+RT @marknca: here's another great post to help w/the #reinvent prep, this time from @CloudRank, http://t.co/IKpqBXPSy8
+
+/cc @awsreinvent @j…
+@tobyw4n Please email me (jbarr@amazon.com) and I will connect you with the Amazon Linux AMI team. Sorry about the dead bird.
+@MaomiBarr888 Sorry to hear that. Did you get it taken care of?
+SAWS is a very cool visual CLI for #AWS - http://t.co/P9NWuRwzUL http://t.co/k2aPpAtCpl
+@shanehutchins Fixed - they are now available at http://t.co/RVMYXIjtVE
+RT @awscloud: Now set more finely grained firewall polices for your devices accessing Amazon WorkSpaces. http://t.co/LlEB4vUdI0 http://t.co…
+@petewilcock I am asking around.
+#AWS Week in Review - September 14, 2015 - http://t.co/7cLRj7ewfw - Lots and lots of goodies! http://t.co/2YyTel2oqY
+Now Available: Amazon #Linux AMI 2015.09 - http://t.co/gV1tu9KeMM #EC2 #AWS http://t.co/9BK1EiAzzi
+New #AWS Public Data Set - 3000 Rice Genome - http://t.co/Zsd5BFuPU0 (CC: @RiceResearch @BGI_Events ) http://t.co/avvAdMnD5m
+New #AWS Public Data Set - 3000 Rice Genone - http://t.co/Zsd5BFuPU0 http://t.co/EmBbZu4lVJ
+Announcing the #AWS Pop-up Loft in #Berlin - http://t.co/IFSoeI7HPF http://t.co/4dKxAKzqW5
+Pull request for #Docker from my colleague Sam Karp: Log Driver for Amazon CloudWatch Logs - http://t.co/5FbeVqoV0y http://t.co/0B0egPHupf
+RT @awscloud: How the recruiting platform @Jobvite decreased its operational costs using #AWS: http://t.co/CnCTj9vK7l http://t.co/5TqqUuGL5C
+@CarlHasselskog It was in my blog post - http://t.co/NWbu6xKTcm - but that's good feedback.
+@thebadmonkeydev @APPLEOFFIClAL @awscloud Have you read this: http://t.co/otqnE4C3Ix
+New from @lynnlangit - Amazon Web Services Data Services Class (4.5 hours of video) http://t.co/ahIv36Y3ZR http://t.co/j2axyDl8Qp
+@tombrossman The value you want is STANDARD_IA . The page has been updated, but it looks like there's a formatting glitch.
+Hmm - nice Redshift Console - http://t.co/NwVc7NlYSb - Monitor / Manager queries, WLM queue, tables, schemas... #aws http://t.co/3Mcl1Oa9g0
+#AWS Big Data Blog - Scaling Writes on DynamoDB Tables with Global Secondary Indexes - http://t.co/VjiGKLhg6g http://t.co/v1l6PBngSS
+CloudCheckr Blog: Taking Steps to Secure your #AWS Environment - http://t.co/fSrs4NjJHz - "I'll be back!" http://t.co/sqqaZEjgJy
+Handy S3 CLI tool - http://t.co/AfyXzEV3mK - ncdu-s3 generates ncdu data for S3 buckets #aws http://t.co/rBX3LIB7Zf
+Nice deck: Large Scale Backend Service Development Using #Node #Docker #AWS http://t.co/8qDdoohuT0 (Riot Games) http://t.co/3Bhauem5wG
+@wopsr - My blog post for Standard-IA is at http://t.co/NWbu6xKTcm
+Hey @oneplus - Your site &amp; forums need some cloud power. Can I trade for a phone invite??
+#AWS Storage Update - New Lower Cost S3 Storage Option &amp; Glacier Price Reduction - http://t.co/NWbu6xKTcm http://t.co/JehT4VgMqX
+An #AWS customer in the natural resources space is interested in monetizing data and is looking for advice. Is that you? jbarr@amazon.com
+When clocks are outlawed, only outlaws will know what time it is! #IStandWithAhmed
+RT @GreenMtnComp: Our #NLP server software is now available on the #AWS Marketplace: https://t.co/l5mWYR6hRN
+RT @awscloud: AWS Storage Gateway now supports 1PB of data/gateway, up to 120MB/s upload &amp; 10 Gb networking. http://t.co/FHJw1kYgxJ http://…
+RT @awscloud: View user flows in Android apps with AWS Device Farm’s app explorer. No scripts required. http://t.co/GtjUdf4RdI http://t.co/…
+RT @POTUS: Cool clock, Ahmed. Want to bring it to the White House? We should inspire more kids like you to like science. It's what makes Am…
+#Docker Trusted Registry - Now in the #AWS Marketplace - http://t.co/0T4DZJWJnm
+Alert Logic Cloud Insight Product Tour - http://t.co/pQXVcB812f (CC: @alertlogic ) #AWS http://t.co/oPG734S1Wm
+I am finally settling down to write my first #AWS #reinvent blog post. I should have started a month ago, and will now the price!
+Very nice: #R Statistics in #AWS Lambda - http://t.co/TJPORCvntJ (JSON -&gt; PNG Chart -&gt; S3) http://t.co/0p1xnjMeKn
+@y4m4 Thanks for bug report. Fixed and publishing now. Oops!
+@wvuginn @awscloud See you there. Bet you can't eat just one!
+Wow -- very cool use of #AWS Lambda by @CloudSploit  https://t.co/jFfhA9KUY6
+New Spot Fleet Option - Distribute Your Fleet Across Multiple Capacity Pools - http://t.co/nnakHt6Fua #ec2 #AWS http://t.co/AE6pRGJw8Z
+RT @AntoAngelino: I'm looking for a ticket to #reinvent if you know anyone that has a ticket they want to sell please contact me, thank you…
+Elastic Load Balancing Update – More Ports &amp; Additional Fields in Access Logs - http://t.co/4kqkLUDOxc #AWS http://t.co/kYvM7KITVF
+@ianneub I had to buy it when I found it. I use it for random projects.
+Route 53 Improvements - Calculated Health Checks and Latency Checks - http://t.co/lMXmJVfG9w #AWS http://t.co/mH170RQj80
+Airbnb Shares Keys to its Infrastructure - http://t.co/2kSAbqDtyz (1,500 #EC2 for web+3,500 for analytics &amp; ML) #AWS http://t.co/ig47jfi9xg
+Moving Past Microsoft #Windows Server 2003 End of Life Using #AWS - http://t.co/07wJjuAtdi http://t.co/Ppdafh8U6l
+#AWS Week in Review - September 7, 2015 - http://t.co/fz8rSAvzSl - With new customer success stories! http://t.co/lhehmHGgb4
+New crawler integration for Amazon CloudSearch. StormCrawler (http://t.co/ubqbEF31T7) and Nutch (http://t.co/dQYiehBUZf) - #AWS
+RT @vikasjee: vikasjee: vikasjee: vikasjee: vikasjee: obazoud: AWS Immutable Deployment framework for web services http://t.co/AIFFn3Jxtx #…
+From #AWS Customer @ZalandoTech - ZMON Open Source Monitoring Tool http://t.co/QV23F4iz7x http://t.co/DeiLSjlfxU
+@cleverappz @awscloud Does thie info at http://t.co/ZLH1Bvqcbs help?
+Just bought 4x Emacs laptop stickers by opensourcestickers http://t.co/lSu23LzJYe via @Etsy http://t.co/qWt290jVFV
+@Magecloud_net Sure thing, email me at jbarr@amazon.com and we'll discuss!
+RT @bvanvugt: Things we learned using #AWS DynamoDB in production http://t.co/vvVgUoUTqi @jeffbarr
+Codeship Blog: Easy Blue-Green Deployments on Amazon #EC2 - http://t.co/TACZuNpyfZ #AWS http://t.co/KSVnV0iQcT
+#AWS Security Blog - New APIs to Help You Test Your Custom Policies - http://t.co/PoGKezn80G http://t.co/DThGTKW1yc
+@mbuckbee  - I will send you some feedback on Direct Connect....
+@mbuckbee Didn't want to nitpick (plenty of others have), you did good work. The KMS team wondered why they weren't on your list...
+This is tongue-in-cheek and not 100% accurate, but definitely entertaining! http://t.co/VVDgWSW6kK #moretodo http://t.co/0UpVOMLVaT
+@gusmat Can you drop me a quick email (jbarr@amazon.com) so that I can connect you with the team?
+@gusmat I will pass your request along to the team!
+@clemensv I am at the PHP Northwest Conference . Speaker was Josh Holmes.
+Hmmm - Microsoft IoT speaker at #pnwphp just referred to a SOAP layer over OLE (but did not endorse it). Argh! http://t.co/hB92Hl4pAX
+New from @LookerData - Amazon #Redshift Scalar User-Defined Functions: A How-To - http://t.co/YqbGGntypw http://t.co/ZcO7hmdEyt
+New from @PeriscopeData - Redshift User Defined Functions in #Python (with GitHub repo) - http://t.co/N3FBldZ2nL http://t.co/kOaitdXUu5
+#AWS Big Data Blog - Introduction to #Python UDFs in Amazon Redshift - http://t.co/aEI7ZZAHN6 - With healthcare demo! http://t.co/G5KxiNL6jJ
+@mndoci I actually walked all the way to Pioneer Square (1.5 miles from Kumo).
+New – User Defined [Python] Functions for Amazon Redshift #AWS - http://t.co/TAlhzZcpMl http://t.co/93v6V11HBP
+Sitting in the audience at #pnwphp, looking forward to speaking later today.
+RT @AWSstartups: A checklist of #startup activities not to be missed at AWS #reInvent: http://t.co/4b3RLMUWSw http://t.co/K5ju0lfI0W
+Matthew Painter: Using Kinesis and Kibana to get Insights From Your [Event] Data - http://t.co/oUSg8G0U9C #AWS http://t.co/uyTm7IBCWs
+Now Available: RC2 of Amazon Linux AMI 2015.09 - http://t.co/d5ZI3viWLg - Kernel 4.1.6, Docker 1.7.1, and lots more! #AWS #ec2
+RT @awscloud: Amazon ElastiCache now supports Memcached version 1.4.24.  http://t.co/4NE8xWmoTF http://t.co/FLFCXzBn38
+RT @awscloud: We now offer new simplified reserved instances payment options for Amazon RDS for SQL Server. http://t.co/ctXTKNWSyc http://t…
+RT @awscloud: We've added new @AWSIdentity APIs enabling automate validation &amp; auditing of permissions. http://t.co/HoiAqsWFjO http://t.co/…
+RT @webcaston: @jeffbarr Check out this #NDCloudFirst blog post from @snijim http://t.co/vRyTVsbuwz #INAWS #AWS
+Sep 23 at AWS SFO Loft: "Amazon Launchpad - Paving the Way for Startups to Launch on Amazon" - http://t.co/bXKnRTtcpA http://t.co/9rX3Pl37Bb
+@imcdnzl Have a good time and post some photos!
+@ktheory @chrismunns @trevorrowe @awscloud Awesome, thanks for sharing!
+From the #DevOps team at KickStarter: cfn-flow - Practical Workflow for #AWS #CloudFormation - http://t.co/S5VXDE2wAe http://t.co/2CfkphPr2F
+.@acloudguru Well, @carmenbarr would call those her 2-hour shoes. Go for it!
+The #AWS Pop-up Loft in #London is now Open - http://t.co/YHOwi1uHzZ (Moor Place, 1 Fore Street, London, EC2Y 5EJ) http://t.co/4DTEhRqKMP
+Via @marknca - Planning for #AWS re:Invent, T-30 - http://t.co/K9mj3BEIOu #reinvent - What are your tips? http://t.co/tQyNveGv8M
+.@acloudguru Not a necessity, but with the amount of walking you'll do in Vegas it never hurts to be well-heeled!
+Just completed my shoe shopping for #AWS re:Invent! Done in 30 seconds, thanks to @zappos .
+Tomorrow in Seattle - Alexa Roadshow: Intro to Alexa Skills Kit &amp; 3 hands-on hours with Amazon Echo: http://t.co/wRcxfMlAjs  #AWS #Lambda
+New from @splunk - Splunk Light as a Cloud Service - http://t.co/3mjOgang8Y ("Splunk for Less Than a Cup of Coffee"). http://t.co/ONIwPCV4nL
+RT @simplyianm: Got some @awscloud magnets from @MLHacks! http://t.co/dukoMWAoEB
+Turns out that "reverse outsourcing" is a legitimate business phrase and an actual trend. Who knew?
+RT @awscloud: In-line tooltips &amp; help links are now available in the Amazon Machine Learning console. http://t.co/IXoPRUDRUp http://t.co/9m…
+@TenzingHosting Whoops, sorry about that. Fixed and will be live within 5 minutes!
+RT @AWS_Partners: Check out "Road to Modern Ops", a curriculum available from #AWS Technology Partner @hashicorp http://t.co/3C54F8VSUS htt…
+Four #AWS Podcasts from the Loft - Legion Analytics, Bohemian Guitars, Remind, Remeeting - http://t.co/YkIuX2KF75 http://t.co/rzfQk2itgo
+#AWS Weekend- Week in Review (http://t.co/LwI4evPHU1), Microservices no Servers (http://t.co/4F8bQPMe4m), Babbel (http://t.co/SEd6NNc3ij).
+#AWS Week in Review - August 31, 2015 - http://t.co/LwI4ew7iLz - Includes 8 new customer success stories &amp; videos... http://t.co/i4ZntNt08y
+Evolution of Babbel’s Data Pipeline on #AWS: from SQS to Kinesis - http://t.co/SEd6NNtE9R http://t.co/4TuFoMzEqV
+From my colleague @timallenwagner - Microservices Without the Servers [Using #AWS Lambda] -  http://t.co/4F8bQPuCFM http://t.co/gpWVjmhV6s
+You have to love an email that starts out "Hello, I found your email address on a thousand-day-old post..."
+@Fodoj Sure thing, will do, thanks for sharing!
+New + cool from @cloudability  - Daily #AWS Cost Summary Emails - http://t.co/6ArttmCWVX http://t.co/OWEa1TYPkH
+@thelogicbox The podcasts? I have a big burst of recordings coming up!
+Yikes - the #AWS Week in Review that I just finished (for publication on Monday) weighs in at 1174 words. What a busy week! Peace out, all..
+.@kopertop I connect via Amazon WorkSpaces so local bandwidth isn't a giant issue. Here's my speed test: http://t.co/uRPNIeFRtQ
+.@deepthoughts10 @awscloud - All #AWS Quick Starts - http://t.co/Dva0x8D3MG Enjoy!
+#AWS Big Data Blog - Using BlueTalon (data-centric security) with Amazon EMR - http://t.co/7qNMGzSNfI http://t.co/moaP87iKyT
+@gdh_gdh We will update recommendations when EFS is generally available. Recommending a one-region preview isn't the right thing to do.
+#AWS Direct Connect Bundles - advanced hybrid architectures for compliance and convergence - http://t.co/P1BWsUzEpQ http://t.co/p8B0pmmegM
+#AWS Webinars - September, 2015 - http://t.co/Z6f75hXItr - Big Data, Lambda, DynamoDB Streams, Containers, Xamarin,.. http://t.co/RiS0rwjjyV
+New #AWS Quick Start - #Magento for E-Commerce - http://t.co/tzSh0N9E1U http://t.co/ytOfnqYyCw
+I am happy to hear that my own (King) County is now an #AWS Customer! http://t.co/o8WHcRIzMa http://t.co/s2a2p9n2G4
+RT @thedavedev: New Alexa Episode on the #AWS Podcast with @JeffBarr and I http://t.co/j2ZqktKJRx #AmazonEcho #Alexadev #IoT http://t.co/A9…
+RT @mauerbac: The pace of innovation at @awscloud is seriously impressive...just wait until you see the new services @AWSreInvent
+New from @SumoLogic - Kinesis-SumoLogic Connector - http://t.co/ycS9MJyvxU (Stream to SumoLogic Connector in JSON) http://t.co/i2fkq8GaQv
+NVIDIA Blog: Better Beer Through [#AWS] GPUs http://t.co/t5GWQpY1zV (nice work, @Gastrograph). #ec2 http://t.co/6aFIf972ub
+A search for "beer" in my inbox returns a surprising number of matches!
+NEW #AWS Podcast (Episode 106) featuring @thedavedev talking about Alexa Voice Service and Amazon Echo - http://t.co/rIlnbw7njm
+RT @nickmchardy: I just blogged about all the things I have discovered with #AWS's #lambda and #API #Gateway http://t.co/UtQr02D8e7
+Welcome to Our New Colleagues at Elemental - http://t.co/jeullWi1Fz (CC: @elementaltech). http://t.co/79VOloY3e5
+@AvanaRO @thinkstrategies @techopedia What are you looking for? Can't tell from context...
+Achievement Unlocked: Audio Editing (#AWS Podcast) within my Amazon WorkSpace! http://t.co/5D6sOcLaY3
+@paulwakeford Awesome, thanks! I'll definitely include both projects in the next Week in Review.
+Cloudcycler (Cycle #AWS Cloud Resources on/off Based on Time of Day) - http://t.co/napUvMoOll via @paulwakeford http://t.co/ZVk4loGXS1
+.@cperciva The part of me that owns a first edition of K&amp;R (the best $13.98 I ever spent) definitely agrees with you!
+Amazon S3 Update - New CloudTrail Integration - http://t.co/pdGQgkkht4 http://t.co/iFFSCl1n8C
+RT @awscloud: Now tag your AWS Storage Gateway volumes &amp; virtual tapes for easier resource &amp; cost management http://t.co/YNmG8dmUoG http://…
+Introducing the #AWS SDK for C++ http://t.co/MMzHhypkkm http://t.co/aWr9sK7qMm
+About to fly SFO to SEA after 2 productive days as #AWS Loft - 9 podcasts recorded (easy). Now to edit (hard).
+New from @cloudability - Eight Ways to Lower Your DynamoDB Costs - http://t.co/jZs9WqMDT8 http://t.co/fAEbDtsC1D
+RT @awscloud: Use Amazon #APIGateway Mock Integration to generate responses without requiring any backend. http://t.co/61f9JVjS16 http://t.…
+RT @stephenorban: Latest in my #enterprise #devops series - Why you should run what you build: https://t.co/YA2T4JWgue #AWS
+New - Resource-Oriented Bidding for #EC2 Spot Instances - http://t.co/2NdGyLhU5n #AWS http://t.co/oJyom3doDd
+@cannolinatoli Afraid not, unless you want to sponsor (and get a booth).
+I interviewed the founder of Bohemian Guitars for #AWS Podcast! IndieGoGo campaign ends today: http://t.co/LNN5F3c7oE http://t.co/q0pd3FwSbP
+New - Subscribe to #AWS Public IP Address Changes via Amazon SNS - http://t.co/dkyRH5XcVj #EC2 http://t.co/f3icFxJrD2
+#AWS Compute Blog - The Fine Art of #Nodejs Coding in AWS Lambda - http://t.co/MEG1d9zXzS http://t.co/YPVaLMyKme
+#AWS Week in Review - August 24, 2015 - http://t.co/LtNeWD87Y4 http://t.co/AdkS6Zn5HN
+New presentation - Leveraging #AWS to Host #MSDN Licenses - http://t.co/kCLHlClmB3 http://t.co/tiipqVxZag
+Plan: Writing some #reinvent blog posts. Actual: Fiddling with GreaseMonkey to update blog editing UI for productivity!
+.@Cirrhus9 That's so nice -- happy to be of service to you and to the entire #AWS community!
+#AWS Config Update - Discover Active &amp; Deleted Resources by Type - http://t.co/j6eUEQdsk8 http://t.co/67GFrHdR1X
+RT @awscloud: Now available: Sample apps &amp; tests to get you started with test automation on AWS Device Farm: http://t.co/qnZAdpGpNO http://…
+@OpsGuyNextDoor No but send me (jbarr@amazon.com) an email with your needs.
+Proper email address for AWS podcast interviews in #SanFrancisco is awspodcast@amazon.com . Still have some slots on 8/31 and 9/1. #mybad
+Integrating Amazon Kinesis, Amazon S3 and Amazon Redshift with Cascading on Amazon EMR - http://t.co/C2iytVDKw9 #AWS http://t.co/by7NasvC8z
+#AWS Security Blog - Organize Your Permissions by Using [up to 10] Separate Managed Policies - http://t.co/eyU81jgPeX http://t.co/9HdzQEIHN7
+Store and Process Graph Data Using the DynamoDB Storage Backend for Titan - http://t.co/IPV49EOw7C (vacation catchup) http://t.co/HLztXaODu7
+Monitor your #AWS Account to Detect suspicious Behavior in Real Time: http://t.co/Hru0vAmtcF S3,CloudTrail,Lambda,SNS http://t.co/3zbbRMhYti
+From @Pagely: We Benchmarked Amazon's new Aurora Database for use with WordPress - http://t.co/AJLZvhBWnp #aws #mysql http://t.co/gCRDhQSP9F
+@Pagely Yes, will fix!
+RT @Atlassian: Learn how to set up a reliable continuous delivery pipeline with Bamboo &amp; @AWScloud during our webinar tomorrow! http://t.co…
+Amazon Underground - New Business Model for #Android Apps - http://t.co/mQxsRkK2Wn http://t.co/YeOir1hoRM
+RT @awscloud: OpsWorks for Windows announces support for custom AutoScaling, custom AMIs &amp; SQL Server AMIs. http://t.co/qTmAMGprgd http://t…
+RT @j2b5: @jeffbarr @ylastic free open source scripts to do the same https://t.co/ewqjw3fP66 from two+ years ago. :)
+RT @awscloud: #AWS Elastic Beankstalk is now available in our China (Beijing) region: http://t.co/xURZMWLA8l http://t.co/Nl9SbfE87U
+Building Price-Aware #AWS Applications Using #EC2 Spot Instances &amp; New Spot Bid Advisor http://t.co/OGwVPBJh4S http://t.co/8A5lBe3oAM
+New from @ylastic - AWS Resource (EC2 RI, RDS RI, SSL &amp; IAM Cert) Expiration Checks - http://t.co/s7xogjfjMW http://t.co/KuXFwiDuqC
+RT @codeship: .@brightball discusses zero downtime deployment with @awscloud, ECS, and ELB. Learn more:
+
+http://t.co/XYGkinc44X http://t.co…
+@davidbitton Just found it in my Junk folder :-(. Thanks for the reminder!
+@mortman It does a great job of keeping my pizza oven supplied with wood, and also keeps my back strong and healthy!
+Sign up for the #AWS re:Invent Live Stream at http://t.co/ftQLC6p43V if you forgot to buy your ticket in time! http://t.co/oJXfxS1gCo
+ISO #AWS-Powered startups in #SanFrancisco for my podcast; interviews on 8/31 and 9/1 @Loft. awspodcasts@amazon.com . http://t.co/oTdkXDe2Xw
+New from @FlyDataInc - Replicate Aurora to Redshift - http://t.co/MNiFoeelLf #AWS #mysql http://t.co/lh1t46KwPB
+Amazon #Linux AMI 2015.09 Release Candidate Available for Testing - http://t.co/d5ZI3v1lmG Kernel 4.1.6 &amp; more! #EC2 http://t.co/xd44aoCCW6
+The newest #AWS IP Address Range file (JSON) is out - http://t.co/fo9fRKd8xQ - includes  13,065,550 #EC2 IP's... http://t.co/aFF3GcV2gU
+Updated #AWS Digital Media Page - http://t.co/B95sAcX1Pe ; Film/Television &amp; Media/Publishing sub-pages too! http://t.co/4DuibLjNxG
+RT @awscloud: We are now reporting some of the most popular DynamoDB CloudWatch metrics in 1-min intervals. http://t.co/P6Z6IWY4Ko http://t…
+@davidbitton Can you email me regarding EFS - jbarr@amazon.com . Thanks!
+#AWS Week in Review - August 17, 2015 - http://t.co/9ac9kfAcZ3 http://t.co/3myp2288sx
+#AWS CloudFormation Update - http://t.co/PHY7y3dFAj - VPC Endpoints, Beanstalk tagging, Lambda, RDS read replicas, S3 versioned buckets.
+RT @akelman: #AWS #reinvent may be sold out but we still have a few expo booths available. Contact: reinvent-sponsorship@amazon.com
+@jeffba…
+@mayralois Nice work. I will add it to AWS Week in Review, thanks for writing and sharing.
+I love my Leveraxe - it splits wood like butter! Join the Kickstarter to get one of your own: http://t.co/OrVus4OAJB http://t.co/mlLaRUXi2u
+I am back at the keyboard after a week in Cancun. I am rested and ready and in high gear to prepare for #AWS re:Invent!
+Hmmm - no one told me about the #AWS for #SAP blog in my sidebar: http://t.co/8tmCaCNBqk #whoknew http://t.co/TGcEsH3ciC
+Slick tool for AWS - CASTER (Chrome #AWS SAML Token Expiry Reminder) - http://t.co/hKkSxn6N2K (via /r/aws) http://t.co/4kfYL1fgO0
+CloudSploit - Open Source #AWS Security Scanning - http://t.co/uV2v6MF2M2 (repo at http://t.co/LFcD3qbuby) http://t.co/OHMgnL2wna
+@jeremeamia @PNWPHP Yes, will do!
+Typing like a maniac to get ready for a week offline and out of the country. Plan: "As much nothing as possible."
+RT @alex_hal9000: I am working on a #aws #ElasticBeanstalk tips and tricks page: https://t.co/nQ0o734gp9 anyone has good stuff to add?
+#AWS Big Data: Building &amp; Maintaining an Amazon S3 Metadata Index Without Servers - http://t.co/jJWqEeLpbr (#Lambda) http://t.co/21krnE9x94
+Nice work, @p_crowley - #Python Parser for #EC2's VPC Flow Logs - http://t.co/cyavuGrTIv (includes GitHub repo link). http://t.co/huCBqWHChC
+Not brand new, but still interesting - Hello World in #EC2 Container Service - http://t.co/dUNUqFAI1L #Docker http://t.co/rRMCSW1CtU
+Stripe Blog - Running Three Hours of #Ruby Tests in Under 3 Minutes [hint: #EC2 #Docker] http://t.co/PlV6hKHJO8 http://t.co/XcXbtYV9LY
+@stripe Blog - Running Three Hours of #Ruby Tests in Under 3 Minutes [hint: #EC2 #Docker]  http://t.co/PlV6hKHJO8 http://t.co/SPO1SGNXBR
+Getting Started with Big Data and #HPC in the Cloud - http://t.co/6jIiMI4eAX  #actualslide #AWS http://t.co/KlVYYblmL3
+RT @javierdaniel: Node.js plugin to run AWS Lambda Functions on your local environment
+
+https://t.co/Ki9s0GJlAP
+
+#lambdafunction #aws 
+cc: …
+@majortal Not the case; many AWS customers like and get good value from them. Don't buy them if they are not a good for your biz/use case.
+New - Monitor Your #AWS Free Tier Usage - http://t.co/UCBiDiSckS http://t.co/JO4eslcRFA
+RT @stephenorban: Part 2 of #Enterprise #DevOps series: Why Customer Service is Key https://t.co/ZZeDUJxGEB #aws #cloud http://t.co/lVQAl4a…
+Cloudability: 5 things you can do in the next hour to trim some fat off your #AWS bill http://t.co/VEeCm40tZQ http://t.co/VpzAGhPQPN
+@LukeWaite @awscloud @iamrohitsaini @kopertop The EB doc bugs have been fixed. Thanks agains for reporting them.
+UK Guardian's Grid - New Image Management Service - http://t.co/YO8lEh98rV [DynamoDB,S3, SNS,Elasticsearch] #AWS http://t.co/HPfC1Ui8Pw
+Popular last night - Physical Cloud: http://t.co/nbs1xtPM95 &amp;  Elastic Beanstalk Health Metrics: http://t.co/FMrDLM1yla #AWS
+@LukeWaite @awscloud @iamrohitsaini @kopertop - Thanks for the bug report. I will share it with the team ASAP.
+.@mikefiedler Here you go - http://t.co/q4q9SRUpzT - "Amazon S3 Update – Notification Enhancements &amp; Bucket Metrics" #AWS
+Elastic Beanstalk Update - Enhanced Application Health Monitoring - http://t.co/FMrDLM1yla http://t.co/pyXQfeeDpA
+.@stephenorban (And all of the others who want one) visit http://t.co/nbs1xtPM95 to order a physical cloud!
+I just bought my own physical cloud from http://t.co/nbs1xtPM95 - The artist said she would add an #AWS logo for me. http://t.co/fAiGm4Cc06
+@lancegliser @cloudfront Can you send me an email (jbarr@amazon.com)? Full answer won't fit in a tweet...
+New presentation - Amazon WorkSpaces for Education - http://t.co/vyKMt7r4wQ http://t.co/a0Wy5jxpE9
+@vscarpenter Wish I could help, but we are really sold out!
+I am often asked to share info about how #AWS innovates. Here's Andy Jassy's take in CRN: http://t.co/7vhbsWJdml http://t.co/nZYmuT6Sy4
+RT @awscloud: You can now perform centralized logs processing across multiple accounts with CloudWatch Logs. http://t.co/hAsRupkTR9 http://…
+Nothing is cooler than carpooling in to work with your oldest daughter because she also works on the #AWS team! #proudfather
+Whew - I finally finished the blog post that was supposed to fill my 10:30 AM to 12:30 PM time slot!
+#AWS Week in Review - August 3, 2015 - http://t.co/fIea2uh070 http://t.co/ZSs1TUfeqn
+Amazon Aurora: TCO, Performance, and Migration - http://t.co/DZMuEakFYQ - 2,640,000 TPM on multithreaded workloads. http://t.co/JAbuwE9uIV
+@MusicHackFest What would you like to know about the Lambda containers? I can talk to team. Email me: jbarr@amazon.com .
+New White Paper - Introduction to High Performance Computing on #AWS - http://t.co/1arCGcb3l5 #HPC http://t.co/zZ4swqCUpJ
+#AWS Quick Tip from @mauriciojr - Find Unused #EC2 AMIs and Deregister Them: http://t.co/AQYLNVFjxL http://t.co/kyio6tNV7F
+It is great to see my friends Amin and Jessica work toward solving a societal problem using technology + hard work! https://t.co/Byf7XcODLx
+@hellomichibye Interesting approach!
+This fall - New Alexa Hackathons at the #AWS Lofts in #NYC and #SFO from @thedavedev - http://t.co/28AJOFbTjA http://t.co/EnYuoWhzvb
+#AWS Security Blog - 2015 AWS #PCI Compliance Package Now Available - http://t.co/U4YyZRc3OV http://t.co/uh6oFpOQ6H
+@mliebow @AccentureCloud Thanks for sponsoring! I saw some of our plans and drawings yesterday and you are in for a real treat.
+We are no longer accepting registrations for #reinvent - looking forward to seeing you in Vegas in 60 days or so. Stay tuned for more info.
+A simple blog post about a cool new #AWS feature turned in to a philosophical discussion on learning and evolution. It must be Friday!
+#reinvent prep meeting - "Are those horses?" @akelman - We have an incredible event in the works for the #AWS community!
+RT @awscloud: Now use Simple Workflow to trigger the execution of your Lambda functions. http://t.co/wStrzahXKQ http://t.co/kvq4cxtaJM
+Implementing Efficient and Reliable Producers with the Amazon Kinesis Producer Library - http://t.co/yUG5yFM9sa #AWS http://t.co/fp2jQ3gTC2
+RT @andigutmans: Here’s the best way to setup and run #WordPress sites: http://t.co/aoiZtDkOPB… @awsmarketplace and @zend make it easy! /cc…
+King - Using Amazon CloudFront to Deliver Mobile Games to Over 200 Countries - http://t.co/WoMYgp1Ru7 http://t.co/YzaSQPInmg
+RT @mza: 62 days, 9 hours, 54 minutes to go until the first keynote kicks off @awsreinvent: http://t.co/z0AjqWMqYo
+Really nice Tutorial - #AWS API Gateway to #Lambda to #DynamoDB - http://t.co/q2aEYDKqSy (thanks to @ShakataGaNai ) http://t.co/Uv0Feq4B2g
+RT @AWS_Partners: Exciting announcement today regarding precisionFDA and #AWS Competency Partner @dnanexus http://t.co/5hLWx0IGOH http://t.…
+RT @kidehen: #LinkedData document that describes our new Subscription Model Edition of Virtuoso: http://t.co/s7k4xf2qbJ. #NoSQL #BigData #R…
+#AWS Training &amp; Certification Update – New #Windows-Focused Learning Quests http://t.co/SyG4P6VMql http://t.co/uGRAgSZKit
+#AWS Meetup in Istanbul next week - http://t.co/n9QIPuyCZH (via @osalkk ) http://t.co/EXyqzcWroL
+@Cybnext Sure thing, let me see if I can find someone to help!

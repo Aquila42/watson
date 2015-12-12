@@ -12,8 +12,9 @@ def features_from_file(f):
         labels.append(label)
     return features,labels
 
-train = open("svm/age_train","r")
-test = open("svm/age_test","r")
+demographic = "age"
+train = open("svm/"+demographic+"_train","r")
+test = open("svm/"+demographic+"_test","r")
 
 train_features,train_labels = features_from_file(train)
 test_features,test_labels = features_from_file(test)
@@ -25,7 +26,7 @@ clf.fit(train_features, train_labels)
 predicted = clf.predict(test_features)
 print("SVM:",metrics.accuracy_score(predicted,test_labels))
 
-clf = linear_model.LogisticRegression()
+clf = linear_model.LogisticRegression(penalty='l2',C=0.1)
 clf.fit(train_features, train_labels)
 predicted = clf.predict(test_features)
 print("Logistic Regression:",metrics.accuracy_score(predicted,test_labels))
@@ -35,7 +36,7 @@ clf = clf.fit(train_features,train_labels)
 predicted = clf.predict(test_features)
 print("Decision Tree:",metrics.accuracy_score(predicted,test_labels))
 
-clf = linear_model.Perceptron(n_iter=10)
+clf = linear_model.Perceptron(n_iter=50)
 clf.fit(train_features, train_labels)
 predicted = clf.predict(test_features)
 print("Perceptron:",metrics.accuracy_score(predicted,test_labels))
