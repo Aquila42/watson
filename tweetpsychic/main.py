@@ -1,4 +1,4 @@
-#import json
+import json
 # We'll render HTML templates and access data sent by GET
 # using the request object from flask. jsonify is required
 # to send JSON as a response of a request
