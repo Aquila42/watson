@@ -5,18 +5,10 @@ import random
 
 
 def classified(handle):
-	tweets(handle)
-	#gender classifier:
-	gender_num = random.randrange(0,2)
-	if gender_num == 0:
-		gender = 'female'
-	else:
-		gender = 'male'
-	#age classifier:
-	age = str(random.randrange(16,100)) #turn age into string if needed
-	#interests (an array):
-#	interests = ['movies','theater']
-	wordcloud = 'static/'+handle+'_cloud.png'
+	age,gender,wordcloud=tweets(handle)
+	print age
+	print gender
+	print wordcloud
 	py_obj = [age, gender, wordcloud] #example ['18', female, ['movies','theater']
 #	json_string = {}
 	return py_obj
