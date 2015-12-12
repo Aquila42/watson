@@ -74,6 +74,7 @@ class SocioLinguisticClassifier:
         self.socling.slang()
         self.socling.pronouns()
 
+
     def file_to_list(self, f):
         tweets = []
         retweets = 0
@@ -88,6 +89,10 @@ class SocioLinguisticClassifier:
                 tweets.append(line.strip())
         f.close()
         return tweets, retweets
+
+    def initialize(self,demographic):
+        self.labels = self.label_file_to_dict("../all_labels_" + demographic + ".txt")
+        self.features_list = set(self.socling.file_to_list("../socling/feature_files/feature_names_" + demographic))
 
     def features_from_file(self, f):
         features = []
@@ -112,6 +117,7 @@ class SocioLinguisticClassifier:
         print("Logistic Regression:", metrics.accuracy_score(predicted, test_labels))
 
     def reset_dictionary(self):
+        self.features = {}
         for feature in self.features_list:
             self.features[feature] = 0
 
@@ -123,6 +129,8 @@ class SocioLinguisticClassifier:
     def features_svm(self, file_type, demographic):
         output = open("svm/" + demographic + "_" + file_type, "w")
         j = 0
+        count_over = 0
+        count_under = 0
         for filename in glob.glob("../" + demographic + "_" + file_type + "/*.txt"):
             self.reset_dictionary()
             self.socling.features_dict = self.features
@@ -155,9 +163,9 @@ class SocioLinguisticClassifier:
 # start = time.time()
 # c = SocioLinguisticClassifier()
 # print("Preprocessing")
-# demographic = "gend"
-# c.create_features_list(demographic)
-# c.stacked_socling_init()
+# demographic = "age"
+# # c.create_features_list(demographic)
+# c.initialize()
 # print("Training")
 # file_type = "train"
 # c.features_svm(file_type, demographic)

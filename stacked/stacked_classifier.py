@@ -3,6 +3,7 @@ from ngram.unigram_classifer import unigramClassifier
 from ngram.bigram_classifier import bigramClassifier
 from genderPredictor import genderPredictor
 import pickle
+import time
 class StackedClassifier:
     def __init__(self,handle,name):
         self.name = name
@@ -21,12 +22,16 @@ class StackedClassifier:
 
     def predict_label(self,demographic,features_list):
         #Unpickle objects
-        with open('chi_squared_'+demographic+'.pkl', 'rb') as input:
-            ch2 = pickle.load(input)
-        features_list = ch2.transform(features_list)
+        try:
+            with open('chi_squared_'+demographic+'.pkl', 'rb') as input:
+                ch2 = pickle.load(input)
+            features_list = ch2.transform(features_list)
+        except:
+            pass
         with open('trained_classifier_'+demographic+'.pkl', 'rb') as input:
             clf = pickle.load(input)
-        return clf.predict(features_list)
+        predicted = clf.predict(features_list)
+        return predicted[0]
 
     def get_features_list(self,demographic):
         self.tweets = open(self.handle+".txt")
@@ -49,7 +54,11 @@ class StackedClassifier:
         return features_list
 
     def run_stacked(self):
-        self.features_gend = self.get_features_list("gend")
+        demographic = "gend"
+        self.socling.stacked_socling_init(demographic)
+        self.unigram.createDictionary(demographic)
+        self.bigram.createDictionary(demographic)
+        self.features_gend = self.get_features_list(demographic)
         gender_prediction = genderPredictor().getGender(self.name)
         if str(gender_prediction)=='0':
             self.features_gend.extend([1,0,0])
@@ -57,7 +66,14 @@ class StackedClassifier:
             self.features_gend.extend([0,1,0])
         else:
             self.features_gend.extend([0,0,1])
-        self.features_age = self.get_features_list("age")
+        demographic = "age"
+        self.socling.stacked_socling_init(demographic)
+        self.unigram.createDictionary(demographic)
+        self.bigram.createDictionary(demographic)
+        self.features_age = self.get_features_list(demographic)
 
-stacked = StackedClassifier("0dayMILF","Courtney")
+start = time.time()
+stacked = StackedClassifier("215__chris","Chris")
 print(stacked.get_labels())
+end = time.time()
+print(end-start)

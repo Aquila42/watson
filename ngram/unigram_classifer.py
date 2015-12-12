@@ -8,15 +8,12 @@ from nltk import word_tokenize
 class unigramClassifier:
     def __init__(self):
         self.unigrams_dictionary = {}
-        self.createDictionary()
 
-    def createDictionary(self):
-        f = open('../ngram/unigrams_dict.txt', 'r')
-        f_line = f.readline()
-        while f_line:
-            f_line = f_line.strip()
-            self.unigrams_dictionary[f_line] = 0
-            f_line = f.readline()
+    def createDictionary(self,demographic):
+        self.unigrams_dictionary = {}
+        f = open('../ngram/unigrams_dict_'+demographic+'.txt', 'r')
+        for line in f:
+            self.unigrams_dictionary[line.strip()] = 0
 
     def buildSet(self,line):
         line_split = line.split()

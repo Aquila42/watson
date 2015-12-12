@@ -8,21 +8,18 @@ from nltk import word_tokenize
 class bigramClassifier:
     def __init__(self):
         self.bigrams_dictionary = {}
-        self.createDictionary()
 
-    def createDictionary(self):
-        f = open('../ngram/bigrams_dict.txt', 'r')
-        f_line = f.readline()
-        while f_line:
-            f_line = f_line.strip()
-            self.bigrams_dictionary[f_line] = 0
-            f_line = f.readline()
+    def createDictionary(self,demographic):
+        self.bigrams_dictionary = {}
+        f = open('../ngram/bigrams_dict_'+demographic+'.txt', 'r')
+        for line in f:
+            self.bigrams_dictionary[line.strip()] = 0
 
     def buildSet(self, line):
         line_split = line.split()
         if (line != '\n' and line_split != []):
             if (line_split[0] != 'RT'):
-                line_split = word_tokenize(line.strip())
+                line_split = word_tokenize(line.strip().decode("utf-8"))
                 for i in range(0, len(line_split)):
                     # Convert each n-gram to lowercase
                     if (i + 1 <= len(line_split) - 1):
