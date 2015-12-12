@@ -34,7 +34,7 @@ class genderPredictor():
         return self.test(test_set)
         
     def classify(self,name):
-        feats=self._nameFeatures(name)
+        feats = self._nameFeatures(name)
         return self.classifier.classify(feats)
         
     def train(self,train_set):
@@ -58,9 +58,9 @@ class genderPredictor():
             'last_is_vowel' : (name[-1] in 'AEIOUY')
         }
 
-    def getGender(name):
-        gp = genderPredictor()
+    def getGender(self,name):
+        self.trainAndTest()
         if name == '###FOREIGN###' or name == '###EMOTICON###':
             return '2'
         else:
-            return gp.classify(str(name))
+            return self.classify(str(name))

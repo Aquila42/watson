@@ -4,8 +4,8 @@ import glob
 import enchant
 class SocioLinguistic:
     def __init__(self):
-        self.emoji = set(self.file_to_list("feature_files/emoticons"))
-        self.emoticons_unicode = set(self.file_to_list("feature_files/emoticons_unicode"))
+        self.emoji = set(self.file_to_list("../socling/feature_files/emoticons"))
+        self.emoticons_unicode = set(self.file_to_list("../socling/feature_files/emoticons_unicode"))
         self.sent = ""
         self.features_dict = {}
         self.max_values = {}

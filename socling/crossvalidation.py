@@ -12,8 +12,8 @@ def features_from_file(f):
         features.append(np.array(feature).astype(float))
         labels.append(label)
     return features,labels
-demographic = "manual_age_200"
-train = open("svm/"+demographic,"r")
+demographic = "gend"
+train = open("svm/"+demographic+"_train","r")
 # train = open("svm/"+demographic+"_train","r")
 features,labels = features_from_file(train)
 clf = linear_model.LogisticRegression(C=0.01)
@@ -35,4 +35,5 @@ for train,test in skf:
     clf.fit(X_train, y_train)
     predicted = clf.predict(X_test)
     accuracy.append(metrics.accuracy_score(predicted,y_test))
+    print(accuracy[-1])
 print reduce(lambda x, y: x + y, accuracy) / len(accuracy)

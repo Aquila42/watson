@@ -74,10 +74,6 @@ class SocioLinguisticClassifier:
         self.socling.slang()
         self.socling.pronouns()
 
-    def reset_dictionary(self):
-        for feature in self.features_list:
-            self.features[feature] = 0
-
     def file_to_list(self, f):
         tweets = []
         retweets = 0
@@ -115,11 +111,14 @@ class SocioLinguisticClassifier:
         print(predicted)
         print("Logistic Regression:", metrics.accuracy_score(predicted, test_labels))
 
-    def stacked_socling_init(self):
+    def reset_dictionary(self):
+        for feature in self.features_list:
+            self.features[feature] = 0
+
+    def stacked_socling_init(self,demographic):
+        self.features_list = set(self.socling.file_to_list("../socling/feature_files/feature_names_" + demographic))
         self.reset_dictionary()
         self.socling.features_dict = self.features
-        self.labels = self.label_file_to_dict("../all_labels_" + demographic + ".txt")
-        self.features_list = set(self.socling.file_to_list("feature_files/feature_names_" + demographic))
 
     def features_svm(self, file_type, demographic):
         output = open("svm/" + demographic + "_" + file_type, "w")
@@ -153,19 +152,19 @@ class SocioLinguisticClassifier:
             # print(j)
 
 
-start = time.time()
-c = SocioLinguisticClassifier()
-print("Preprocessing")
-demographic = "gend"
-c.create_features_list(demographic)
-c.stacked_socling_init()
-print("Training")
-file_type = "train"
-c.features_svm(file_type, demographic)
-print("Testing")
-file_type = "test"
-# c.features_svm(file_type,demographic)
-print("Running Logistic Regression")
-# c.logistic_regression(demographic)
-end = time.time()
-print end - start
+# start = time.time()
+# c = SocioLinguisticClassifier()
+# print("Preprocessing")
+# demographic = "gend"
+# c.create_features_list(demographic)
+# c.stacked_socling_init()
+# print("Training")
+# file_type = "train"
+# c.features_svm(file_type, demographic)
+# print("Testing")
+# file_type = "test"
+# # c.features_svm(file_type,demographic)
+# print("Running Logistic Regression")
+# # c.logistic_regression(demographic)
+# end = time.time()
+# print end - start
