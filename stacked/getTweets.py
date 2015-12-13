@@ -1,5 +1,5 @@
 import PullIdGenTweetText
-# import makewordcloud
+import makewordcloud
 import sys
 import random
 from stacked.stacked_classifier import StackedClassifier
@@ -7,14 +7,12 @@ from stacked.stacked_classifier import StackedClassifier
 
 def tweets(entered):
     name = PullIdGenTweetText.getTweeterInfo(entered)
-    # filename = makewordcloud.makecloud(entered)
-    print("tweets:",entered,name)
+    filename = makewordcloud.makecloud(entered)
     stacked = StackedClassifier(entered,name)
     gender,age = stacked.get_labels()
-    # wordcloud = 'static/' + entered + '_cloud.png'
+    wordcloud = 'static/' + entered + '_cloud.png'
     print age
     print gender
-    # print wordcloud
+    print wordcloud
     # return age, gender, wordcloud
-
-# tweets("215__chris")
+    return age,gender,wordcloud

@@ -8,6 +8,7 @@ class StackedClassifier:
     def __init__(self,handle,name):
         self.name = name
         self.handle = handle
+        print(self.name,self.handle)
         self.socling = SocioLinguisticClassifier()
         self.unigram = unigramClassifier()
         self.bigram = bigramClassifier()
@@ -18,6 +19,8 @@ class StackedClassifier:
         self.run_stacked()
         gender = self.predict_label(demographic="gend",features_list=self.features_gend)
         age = self.predict_label(demographic="age",features_list=self.features_age)
+        if age == "under25":
+            age = "Under 25"
         return gender,age
 
     def predict_label(self,demographic,features_list):
@@ -72,8 +75,8 @@ class StackedClassifier:
         self.bigram.createDictionary(demographic)
         self.features_age = self.get_features_list(demographic)
 
-start = time.time()
-stacked = StackedClassifier("215__chris","Chris")
-print(stacked.get_labels())
-end = time.time()
-print(end-start)
+# start = time.time()
+# stacked = StackedClassifier("215__chris","Chris")
+# print(stacked.get_labels())
+# end = time.time()
+# print(end-start)
