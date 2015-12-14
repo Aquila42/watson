@@ -2,7 +2,7 @@ import PullIdGenTweetText
 import makewordcloud
 import sys
 import random
-from stacked.stacked_classifier import StackedClassifier
+from stacked_classifier import StackedClassifier
 
 
 def tweets(entered):

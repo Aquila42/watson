@@ -18,16 +18,11 @@ def index():
 @app.route('/telling', methods=['GET', 'POST'])
 def tell():
     handle = request.form['twitterHandle']
-    #	print handle
-    #	getTweets.tweets(handle)
-    #	json_string = classifier(handle)
-    #	py_obj = json.loads(json_string)
+    print(handle)
     py_obj = classified(handle)
     print(py_obj)
     age = py_obj[0]
-    #	interests = py_obj[2]
     gender = py_obj[1]
-    #	json_string = json.dumps(py_obj)
     print gender, age
     if gender.lower() == 'female':
         return render_template('female.html', py_obj=py_obj)

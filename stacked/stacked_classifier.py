@@ -1,6 +1,6 @@
-from socling.socling_classifier import SocioLinguisticClassifier
-from ngram.unigram_classifer import unigramClassifier
-from ngram.bigram_classifier import bigramClassifier
+from socling_classifier import SocioLinguisticClassifier
+from unigram_classifer import unigramClassifier
+from bigram_classifier import bigramClassifier
 from genderPredictor import genderPredictor
 import pickle
 import time
@@ -21,16 +21,14 @@ class StackedClassifier:
         age = self.predict_label(demographic="age",features_list=self.features_age)
         if age == "under25":
             age = "Under 25"
+        print(gender,age)
         return gender,age
 
     def predict_label(self,demographic,features_list):
         #Unpickle objects
-        try:
-            with open('chi_squared_'+demographic+'.pkl', 'rb') as input:
-                ch2 = pickle.load(input)
-            features_list = ch2.transform(features_list)
-        except:
-            pass
+        with open('chi_squared_'+demographic+'.pkl', 'rb') as input:
+            ch2 = pickle.load(input)
+        features_list = ch2.transform(features_list)
         with open('trained_classifier_'+demographic+'.pkl', 'rb') as input:
             clf = pickle.load(input)
         predicted = clf.predict(features_list)
@@ -75,8 +73,5 @@ class StackedClassifier:
         self.bigram.createDictionary(demographic)
         self.features_age = self.get_features_list(demographic)
 
-# start = time.time()
 # stacked = StackedClassifier("215__chris","Chris")
 # print(stacked.get_labels())
-# end = time.time()
-# print(end-start)
