@@ -12,6 +12,9 @@ body {
    height:100%;
 }
 
+*:focus {
+    outline: 0;
+}
 
 #header {
     background-color: #F08080;
@@ -48,6 +51,12 @@ h1 {
 }
 */
 
+.img-circle {
+    border-radius: 50%;
+    margin: auto;
+    width: 300px;
+    height: 300px;
+}
 #logo {
     margin: auto;
     width: 400px;
@@ -61,6 +70,7 @@ h1 {
     padding: 10px; 
     font-family: Helvetica, Verdana,Arial,Tahoma, sans-serif;
     font-size: large !important;
+    border-radius: 25px;
 }
 
 
@@ -72,7 +82,8 @@ h1 {
    height: 40px;
    border: none;
    padding: 3px; 
-   background-color: #F08080;
+   background-color: #1a1a1a1a;
+   border-radius: 25px;
 }
 
 
@@ -482,4 +493,21 @@ div#scrollable_content {
     margin: auto;
     font-size: 70%;
     color: #696969;
+}
+
+#loader-wrapper .loader-section {
+    position: fixed;
+    top: 0;
+    width: 51%;
+    height: 100%;
+    background: #222222;
+    z-index: 1000;
+}
+ 
+#loader-wrapper .loader-section.section-left {
+    left: 0;
+}
+ 
+#loader-wrapper .loader-section.section-right {
+    right: 0;
 }
