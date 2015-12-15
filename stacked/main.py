@@ -25,7 +25,7 @@ def tell():
     gender = py_obj[1]
     print gender, age
     if gender.lower() == 'female':
-        return render_template('female.html', py_obj=py_obj)
+            return render_template('female.html', py_obj=py_obj)
     else:
         return render_template('male.html', py_obj=py_obj)
 
