@@ -36,7 +36,18 @@ body {
     min-height:100%;
     position:relative;    
     text-align: center;
-    padding-bottom: 100px;
+}
+
+#main2 {
+    min-height:100%;
+    position:relative;    
+    text-align: center;
+}
+
+#main3 {
+    min-height:100%;
+    position:relative;    
+    text-align: center;
 }
 
 #main a {
@@ -58,9 +69,8 @@ h1 {
     height: 300px;
 }
 #logo {
-    margin: auto;
-    width: 400px;
-    height: 430px;
+    width: 300px;
+    height: 300px;
 }
 
 .inputbox { 
@@ -231,37 +241,6 @@ input.relative{
 
 }
 
-
-div.gender_scale { 
-   /*position: relative; /* IE is dumb */
-    display: inline;                 
-    float: left;     
-    width: 535px; 
-    height: 23px; 
-    margin: 0 0 2px; 
-    padding: 0px;
-    background-image: url('scale.gif'); 
-}
-
-div.gender_scale div.mid { 
-    /*position: relative; */
-    height: 23px; 
-    width: 75%; 
-    text-align:right; 
-    display:block;
-    float: left;
-}
-
-div.gender_scale div.grey { 
-    /*position: relative; */
-    background: #e7e8e9; 
-    height: 23px; 
-    /*width: 75%; */
-    text-align:right; 
-    display:block;
-    float: left;
-}
-
 .error_main {
     clear:both;
     background: #ffcccc;
@@ -289,27 +268,6 @@ div.gender_scale div.grey {
     color: #35aadf;
     font-size: 80%;
 }
-
-/*
-#social_media {
-    float:right;
-    margin-right: 10px;
-    margin-left: -250px;
-    width:250px;
-}
-
-#follow_twitter {
-    position:relative;
-    top: -15px;
-    display:inline;
-}
-
-#fb_button  {
-    position:relative;
-    top: -30px;   
-    display:inline;
-}
-*/
 
 .contact_link{
     unicode-bidi: bidi-override; 
@@ -511,3 +469,10 @@ div#scrollable_content {
 #loader-wrapper .loader-section.section-right {
     right: 0;
 }
+
+div#loading {
+    width: 35px;
+    height: 35px;
+    display: none;
+    cursor: wait;
+    }

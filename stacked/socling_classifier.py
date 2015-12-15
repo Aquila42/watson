@@ -6,7 +6,6 @@ class SocioLinguisticClassifier:
         self.socling = SocioLinguistic()
         self.features_list = []
         self.features = {}
-        self.labels = {}
         self.gettokens = Tokenizer()
 
     def label_file_to_dict(self, filename):
@@ -39,8 +38,6 @@ class SocioLinguisticClassifier:
         self.socling.pronouns()
 
     def initialize(self,demographic):
-        self.labels = self.label_file_to_dict("../all_labels_" + demographic + ".txt")
-        print("../all_labels_" + demographic + ".txt")
         self.features_list = set(self.socling.file_to_list("../socling/feature_files/feature_names_" + demographic))
 
     def reset_dictionary(self):

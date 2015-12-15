@@ -20,7 +20,9 @@ class StackedClassifier:
         gender = self.predict_label(demographic="gend",features_list=self.features_gend)
         age = self.predict_label(demographic="age",features_list=self.features_age)
         if age == "under25":
-            age = "Under 25"
+            age = "under 25"
+        else:
+            age = "over 25"
         print(gender,age)
         return gender,age
 
@@ -73,5 +75,5 @@ class StackedClassifier:
         self.bigram.createDictionary(demographic)
         self.features_age = self.get_features_list(demographic)
 
-# stacked = StackedClassifier("215__chris","Chris")
+# stacked = StackedClassifier("MileyCyrus","Miley")
 # print(stacked.get_labels())

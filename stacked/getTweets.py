@@ -15,4 +15,4 @@ def tweets(entered):
     print gender
     print wordcloud
     # return age, gender, wordcloud
-    return age,gender,wordcloud
+    return age,gender,wordcloud,name

@@ -1,4 +1,4 @@
-from nltk import word_tokenize,bigrams,pos_tag
+from nltk import word_tokenize,bigrams
 import re
 import glob
 import enchant

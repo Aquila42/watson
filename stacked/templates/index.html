@@ -7,7 +7,6 @@
 
 <body>
 <div id="holder">
-
 	<div id="header">
 		<a href="/"> Home </a> |  
 		<a href="/how">How It Works </a> |  
@@ -15,21 +14,19 @@
 	</div>
 
 	<div id = "main"><br><br>
-		<img class="img-circle" src="static/logo.jpg"><br>
-		<p id="text" style="font-style: italic">Let Psyduck predict your gender, age and word cloud (when he can tell the difference)</p>
+		<img class='img-circle' src='static/logo.jpg'>
+		<p id="text" style="font-style: italic">Let Psyduck predict your age and gender (when he can tell the difference) and generate a tweet cloud!</p>
 		<br>
-		<form action="/telling" method="post" id="main_form">
+		<form action="/" method="post" id="main_form">
 			<input type = "text" name = "twitterHandle" value = "" maxlength="100" size="50" class="inputbox" placeholder = "Twitter Handle" /><br><br>
-			<input type="submit" value="Enter" class = "input_button">
+			<input type="submit" value="Enter" class = "input_button" onclick="loading()">
+		</form>
 	</div>		
-	<div id="loader-wrapper">
-    <div id="loader"></div>
- 
-	    <div class="loader-section section-left"></div>
-	    <div class="loader-section section-right"></div>
-	 
-	</div>
-
 </div>
+<script>
+function loading() {
+    document.getElementById("main").innerHTML = "<br><br><br><img src='static/psyduck.gif'>";
+}
+</script>
 </body>
 </html>

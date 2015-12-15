@@ -15,32 +15,29 @@ def index():
     return render_template('index.html')
 
 
-@app.route('/telling', methods=['GET', 'POST'])
+@app.route('/', methods=['POST'])
 def tell():
-    
-
     handle = request.form['twitterHandle']
     print(handle)
     py_obj = classified(handle)
-    print(py_obj)
-    age = py_obj[0]
-    gender = py_obj[1]
-    print gender, age
-
-    if gender.lower() == 'female':
-            return render_template('female.html', py_obj=py_obj)
+    gender = py_obj[2]
+    if gender == 'female':
+        return render_template('female.html', py_obj=py_obj)
     else:
         return render_template('male.html', py_obj=py_obj)
 
-
 @app.route('/how')
 def how_we_do():
-    return render_template('how_we_do.html')
+    return render_template('how_it_works.html')
 
 
 @app.route('/who')
 def who_we_are():
     return render_template('who_we_are.html')
+
+@app.errorhandler(500)
+def pageNotFound(error):
+    return render_template('error.html')
 
 
 if __name__ == '__main__':

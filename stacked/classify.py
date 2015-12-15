@@ -5,9 +5,6 @@ import random
 
 
 def classified(handle):
-    age, gender, wordcloud = tweets(handle)
-    print age
-    print gender
-    print wordcloud
-    py_obj = [age, gender, wordcloud]
+    age, gender, wordcloud,name = tweets(handle)
+    py_obj = [handle, age, gender.lower(), wordcloud, name]
     return py_obj
