@@ -20,7 +20,7 @@ body {
 }
 
 #header {
-    background-color: LightCoral;
+    background-color: #F08080;
     height: 25px;
     margin: 0px;
     padding: 10px;
@@ -28,7 +28,7 @@ body {
 }
 
 #header a {
-    color: White;
+    color: #f1eeee;
     text-decoration: none;
     margin-right: 10px;
     margin-left: 10px;
