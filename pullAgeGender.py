@@ -25,7 +25,7 @@ image_url = 'https://pbs.twimg.com/profile_images/2911745249/576ef0e3f2cf7a8c51a
 #image_url= 'https://www.petfinder.com/wp-content/uploads/2012/11/140272627-grooming-needs-senior-cat-632x475.jpg'
 
 # Create the AlchemyAPI Object
-alchemyapi = AlchemyAPI()
+alchemyapi = AlchemyAPI("fbfba639448679ae5b19e880f162aed9d7498284")
 
 # Old code
 # response = alchemyapi.faceTagging('url', image_url)

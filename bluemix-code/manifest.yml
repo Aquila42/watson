@@ -1,6 +1,0 @@
----
-applications:
-- name: bluemix-python-flask-sample
-  memory: 128M
-  env:
-     ALCHEMY_KEY: 1fd8c50344fa304802e3df5ef2b92789a7c5d4fe

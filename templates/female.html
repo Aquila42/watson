@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<head>
+	<title>TweetPsychic</title>
+	<link rel=stylesheet type="text/css" href="static/style.css" media="screen">
+</head>
+
+
+<body>
+<div id="holder">
+
+	<div id="header">
+		<a href="/"> Home </a> |  
+		<a href="/how">How It Works </a> |  
+		<a href="/who">Who We Are </a>
+	</div>
+
+	<div id = "main">
+		<img class="img-circle" src = {{py_obj[5]}}><br><br>
+		<form action="/" method="post" id="main_form">
+			<input id = "handle" type = "text" name = "twitterHandle" value = "" maxlength="100" size="50" class="inputbox" placeholder = "Twitter handle" /><br><br>
+			<input type="submit" value="Enter" class = "input_button" onclick="loading()">
+		<br><br><p id="text" style="font-weight: bold; font-size: 40px">
+		@{{py_obj[0]}} is {{py_obj[2]}} and {{py_obj[1]}}</p><br>
+		<img id = 'wordcloud' src = {{py_obj[3]}}>
+
+
+	</div>		
+
+</div>
+<script>
+function loading() {
+    document.getElementById("main").innerHTML = "<br><br><br><img src='static/psyduck.gif'>";
+}
+</script>
+</body>
+</html>

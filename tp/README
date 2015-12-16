@@ -1,1 +1,0 @@
-If you have flask installed, run main.py, go to the home URL and enter a Twitter handle, the corresponding ID will be printed in the terminal. The dummy classifier will read the user’s tweets and print out the predicted gender and age in the terminal. The website will be updated accordingly.
