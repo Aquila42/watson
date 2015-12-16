@@ -1,0 +1,810 @@
+ID_AA_Carmack
+http://pbs.twimg.com/profile_images/1106497789/aa_icon_option_2_400x400.jpg
+@fenderf4i @oculus @oculuscat it is probably split by who has updated oculus video to latest version. Needs to tell you in social...
+@allthingsvr @sophiaedm @NickGearVR @samsung Have you contacted oculus tech support? Let me know if they weren't able to help.
+I feel betrayed when a device's time stamps turn out to be inconsistent.
+@nipponese we made it and sent it to them, hoping they would be interested in having us do a PC port
+I can't join a video conference now without dwelling on the lack of rectification in the wide angle image.
+@FierceKaiju I enjoyed the demo, and it has been on my list to play the full game through -- do you want the public VR critique treatment?
+I'm starting to feel pretty good about what we have available on Gear VR. Big thanks to all the pioneering VR devs! https://t.co/yBD51I3ho5
+@magresta run it through media@oculus.com, I'll send them a note to expect it.
+@samdily To hold 90 fps stereo, you typically need to have a benchmark frame rate of 250 fps or so.
+@samdily there is no easy path to a VR port, but I think a lot of old games would be worth the effort
+@CTZN5 @Akshet @BenedictEvans @wingod Cite? 2 or 3 times sounds high -- many ping times are within 1/3 of direct speed of light.
+@wingod @BenedictEvans Certainly for broadcast, but I don't see the intrinsic win for massive independent stream counts.  What do you mean?
+@CTZN5 @BenedictEvans @wingod Agree -- containerized cellular base stations with uplink coulld be huge in many areas.
+RT @smashingmag: That's why the weight of most websites is out of proportion. https://t.co/UwO3cfxvbT https://t.co/uYbu70yf4J
+@wingod @BenedictEvans Good points, but I still think constellations of smart sats in LEO will win out over Death Stars in GEO.
+@foppin it is up to Mojang now, but hopefully soon!
+@nchan It is all coming together!
+I'm always happy when I can use a summed area table.
+RT @stephen_wolfram: I think I untangled the (fascinating) tale of Ada Lovelace!  https://t.co/amKUHXJUPW https://t.co/dIUWfcOxJ0
+RT @oculus: We're thrilled to announce that @EVEValkyrie, by @CCPGames, will be bundled with the #Rift at launch next year! https://t.co/lI…
+Eventually we should be able to replace leafblowers with grounds keeping roombas that pick leaves up with a pleasant rustling sound.
+Wondering if the max perceived error in a 6th grade orchestra is inversely proportional to the square root of the number of students.
+@dakami Matterport requires taking a special camera rig to a scene.  Analyzing footage without control of position / focus / etc is harder.
+@jasonmulligan @AndreTI / first one will be expensive and experimental, then get radically cheaper with time.
+@jasonmulligan @AndreTI I don't mean in the next couple years -- there are careers to be made in the process. Like human genome project, /
+@idSoftwareTiago I'm thinking more like a PB of data analyzed in farms -- a lifetime of video data, indexed and cross referenced.
+@idSoftwareTiago I marvel today at casually analyzing gigs of data, and unlike clock speed, we have lots of headroom in future storage.
+@jasonmulligan crude glimmers are already here, and there are massive leaps to be made with global learning for inference to the unobserved
+Computer vision and machine learning are eventually going to let us virtually reconstruct the sets to every movie and walk around in them.
+@_tomcc A network-client-only build to keep memory down. Those 16 byte packed vertexes would also help!
+@_tomcc You could probably get something running on a Dreamcast
+RT @oculus: New titles for the #GearVR are out from @PikPokGames, @archiact_games, and @BlackRvrStudios! #screenshotsaturday https://t.co/a…
+Here son, these Snap Circuits are much more fun when you use four times the rated voltage. https://t.co/c5u9Q5VjCo
+@billyciam a PC using 50x the power
+RT @PalmerLuckey: Just showed off Rock Band VR from @Harmonix and Oculus Studios at @thegameawards! Coming next year, only on Oculus.
+@wikkit You can always claim I was pod-personed at the FB acquisition, but I contend that he actually is a very decent guy.
+@JoeThIII a picket fence could be problematic for light field capture, since parts behind the fence would only be visible from precise pnts.
+@antivanti All light field captures will still be a collection of discrete samples, rather than continuous functions.
+@BSanbizzle @hmltn @OTOY @alexqgb @tim_cook custom sensors and ASICs can save dramatic amounts of power if we get to that point
+In the future of light field videos, there will be rules for in-scene occluders and silhouettes similar to the "no pinstripes" TV rule.
+@tom_forsyth I had a few intermediate range ballistic missiles...
+@Amethyst_Lynx in person, but not through the mail, sorry.
+@alexqgb @hmltn @tim_cook Hajime!
+@Amideee @vihartvihart @kolorcompany @mettlecompany I am pushing for direct-cube-import, especially for game engine content.
+@Paulyman1 No, I'm not involved in that effort.
+@GreyHamz Playing in a swivel chair with Gear VR helps a huge amount, but not an option on PC. I will blog about the Minecraft work.
+@GreyHamz Are you uncomfortable when stationary in VR, or just when moving? Moving the viewpoint enough can make almost everyone sick.
+@Amideee @vihartvihart the Facebook 360 videos are converted to cube maps for streaming
+@wrobel221 Any app that is build against the 1.0 SDK will get the functionality without a rebuild as soon as we push a new system activities
+@wrobel221 yes, James Dolan added an option to the remote monitor to start and stop it
+@wrobel221 /sdcard/oculus, but the system activities with support hasn't been released yet
+@DaveOshry they really were built around the dpad controls on the phones; touch screens optimize for different interactions
+@hiyangxi @codinghorror phase change only buys you minutes, not steady state
+@DaveOshry I was proud of those -- game design credit goes to my wife, but I thought I did a good "appropriate tech" job for dpad phones.
+@codinghorror I wish I had a mobile system that could burn 10W without thermal problems...
+@JeffGreason let me know if you are ever coming through Dallas -- I would be interested in catching up.
+@dinapomeranz @pmarca @Sustainable2050 half its electricity, not half its energy -- important distinction
+RT @ForrestTheWoods: Launching something pretty cool tomorrow. I'm excited. Keep your eyes on this space in the morning! https://t.co/Nlz5g…
+@hexspace It is in suspended animation right now. I hope to try again at some later date.
+@CoderDawson @SamsungMobileUS Note 5 has more memory and battery than S6, and a little more field of view.
+Hey @aras_p, this is regarding https://t.co/wm72HxXiup https://t.co/iTMzsR8JE9
+@DarknetGame Yes! I may go back and give it another play, but there is a backlog of new content to look at as well.
+@DarknetGame that has been on the list, but I didn't recall a lot of general object lessons to point out from when I played it last year
+@tom_forsyth Adreno and Mali are both very high quality.  There is a small perf penalty on the Adreno note 4, none on newer ones.
+Public VR critique #5: Bazaar https://t.co/wm72HxXiup
+I want to try making our vrapi into a header-only lib to do my part against the madness, but the unavoidable java probably precludes it.
+@gabivthobias Not yet, got a bit of a backlog -- which is a great thing for a new platform!
+Try to build sample. Need CMake. Try to build sample.  Need Boost.  Try to build sample.  Need to compile Boost libraries. Try to build ...
+@Semirix I really don't have any useful insight there -- I'm sure I will still be using mostly C++ for the next few years.
+Comic recommendation: Switch by Sejic. Enjoying it a lot despite (helped by?) being only vaguely aware of the Witchblade mythos.
+RT @chris__martin: "Dynamic typing": The belief that you can't explain to a computer why your code works, but you can keep track of it all …
+Lesson of the day: if an image is already 3x3 gaussian blurred, there isn't a hell of a lot of difference between 4-tap and 36-tap sampling.
+Video codecs pay so much more attention to subpixel values than GPUs: https://t.co/zN1LCQijDK I question it a bit in gamma space, though.
+@janoc200 @matthewrdutton @motionreality All existing "lightfield capture" is really just processing done on traditional camera imagery.
+@elonmusk @JeffBezos And of course Armadillo and others earlier, but still, 100km and safely back to pad is a first!  Congrats!
+@janoc200 @matthewrdutton @motionreality lightfield capture -- the mocap folks have good experience with integrating multiple camera sets.
+@xeryboy Just wait a little while for the broader rollout.
+@janoc200 @matthewrdutton @motionreality I meant for media production, not consumer use
+RT @JeffBezos: The rarest of beasts - a used rocket. Controlled landing not easy, but done right, can look easy. Check out video: https://t…
+@janoc200 Of course I am biased, but that is likely to be whistling past the graveyard.
+Surprising that the traditional mo-cap companies aren't more visible in live VR capture. Probably more acutely aware of all the challenges.
+@hmltn @phi_lira @UploadVR There is a large "Oculus Platform" engnring effort . Social was something I hacked up to drive the conversation.
+@marmamic I don't know what it is yet, which is why it is interesting... Maybe some artifact of bilinear versus Gaussian filtering.
+@lockheimer @romainguy @davey_burke Any chance the GPU profiler will work with multiple GL contexts? Profilers haven't liked our VR apps.
+Interesting distribution of calculated motion vectors from tracked stereo features. https://t.co/xlhM78Utjw
+@bwwinthehouse @rustlang Rust seems sensible, but I haven't written anything in it. C/C++ will be here for decades more.
+@hmltn @oculus I don't know about timing, but various bug fixes, our Trivia game, and some Twitch updates are in progress.
+@easing That is our intention.  It should also bring the multi view GL extension, which will be a big perf win when apps support it.
+@tek2222 Samsung made a special camera mode for VR that gives good 60 fps access
+@arturot @JulesUrbach @oculus @OTOY @Hooper_777att oculus 360 photos app
+@isocities Don't worry, we'll get there.  Future optics and displays will help a lot.
+@isocities VR isn't a great medium for that yet -- the case for using the phone normally vs in an HMD is stronger for text than for video.
+@_adoroo @jwjaii Official word: "they will be available in much of Europe in December, but no exact details yet". Sorry messaging unclear.
+@_adoroo @jwjaii I'm checking...
+Hosted @DavidBrin and guests yesterday at Oculus Dallas. I read Postman and Startide Rising 30 years ago, and Existence just last year.
+@motorsep @oculus probably. We don't do any specific checks, but if you install crazy things I'm sure you can break it.
+Random pleasantness -- UPS driver called and offered to uncrate my delivery and carry it to my patio instead of dumping it out front.
+RT @h3r2tic: "Shaders? Where we're going we don't need shaders." Or, the story of (some of) my GCN hacking through OpenGL: https://t.co/zsT…
+@Rocquitojuegos @oculus Only mobile VR apps
+@MrOtsKrad @SamsungSupport @amazon I have no insight into Amazon shipping, but I thought things were supposed to start showing up today.
+@martinweber @oculus Samsung Galaxy S6, S6 edge, S6 edge+, and Note 5.  The original GearVR worked with Note 4, but those are all gone.
+RT @oculus: Today is a historic moment for #VR. The new #GearVR is now available! Learn more: https://t.co/KhAWwWuAEd https://t.co/KtZVrSCa…
+@nordasaur I'm not building anything right now.  Maybe in a few years...
+@datgame @tanayj What do you mean? How does advice to "work your ass off" apply more to rich people?
+RT @tanayj: On work life balance: https://t.co/lo7oodLdRA https://t.co/yjmkSAws2V
+RT @elonmusk: We are looking for hardcore software engineers. No prior experience with cars required. Please include code sample or link to…
+Started working on the next public VR critique: Bazaar from https://t.co/BeQnqef9uv
+@CG_Labs I just checked, and it currently isn't supported for side loaded content. Added to the to-do list.
+@tek2222 Everything is just pointers to memory, you are free to do anything. I think even the hexagon accelerated functions use CPU buffers.
+@benz145 only video, but we should make something for screenshots as well
+@unrocket Ah, no worries then!
+@unrocket Are you trying to get good impingement from screw-in orifices?  That may be challenging.
+RT @Jason_Rubin: Celebrating the small steps forward that happen every day in VR game design w/ my dev friends at OC2 https://t.co/8TDVE8se…
+@mthwgeek A chem set with an alcohol burner!  All is not lost!
+Years ago, I noted that chemistry sets had fallen a long way from when I was a kid. They were just getting started. https://t.co/TOIUXMUJkk
+@AlokSubbarao what projects have you written?
+@quakeONEnetwork @romero Quake's 3D audio was just panning, nothing super-sophisticated
+Pleasantly meta to test computer vision codes in virtual reality. https://t.co/CM24zaJ7S4
+@msitarzewski send request to media@oculus.com -- my public speaking is rationed
+@msitarzewski I live here and hate to travel.
+Some good information in this Ricoh Theta S review: https://t.co/JuN0wxp2tu Much better quality, but I still want raw sensor images.
+@dolkensp it would need application cooperation, it couldn't be done completely automatically
+Qualcomm's FastCV library is very pleasant -- no big framework abstractions, just stateless C functions that do a lot of work.
+@RobParolin I'm only fully on-board with them for pure functions -- passing around lambdas that modify external state can be a mess.
+I'm starting to like C++ lambdas. If I hadn't done the Lisp work recently, I probably would have grumpy-old-manned about them longer.
+@DanielBarkley They certainly improve depth perception -- I would say it is even more important than stereo.
+@taterbase Just the non-single-vendor nature of it; I have no tech complaints about CUDA, it will be hard for AMD to be on equal footing.
+@motorsep Not enough power to make live 360 streams.  Stereo would be possible, but you wouldn't want to watch a head locked video in VR!
+@wrobel221 @DaryleHenry No streaming support right now, but it will probably happen eventually.
+Interesting: https://t.co/uN9nJPjdjy I am partial to OpenCL, but Nvidia has clearly delivered huge ecosystem value with CUDA.
+@MapleBadger128 I'm using a Galaxy S6, but the Note 5 should offer a bit more FOV and thermal mass.
+@DaryleHenry it should be in the next System Activities update, but it will only work on apps built against 1.0 or later.
+I hadn't been on a judo mat in several years. Went to a class yesterday. Ouch.
+@lhl no immediate plans for web views
+@motorsep That is a good technique, much better performance then doing a "real" HDR bloom effect.
+The idea of checking stereo camera registration by imaging a starry night sky is aesthetically appealing -- ultimate distant point lights.
+https://t.co/dgg6ozWLui is great VR!  I had a great time playing through; I'm really proud to see quality like this showing up on Gear VR.
+@motorsep @oculus Tegra X1 is great, but a looooong way from the 970 Rift recommended spec.
+@fngeekery @oculus interviews have to go through media@oculus.com, but I have a half-done blog post about Lisp that I will finish eventually
+Almost invariably, writing an image processing function and not including an explicit stride will force it be modified later.
+RT @idSoftwareTiago: https://t.co/7xn964iLvO DOOM on PipBoy ^__^
+I keep trying to figure out how telecentric lenses might help with inside out position tracking, but i don't come up with anything.
+RT @dmunsie: Here's another way of looking at it. Original iPhone screen in the empty space between the apps on the iPad Pro. https://t.co/…
+RT @KentBeck: John Carmack's Deep Thoughts: Ideas, Work, and Emotion https://t.co/aw6OhgM4FG (my notes from a talk of his)
+@hmltn your head is never completely still. I did drop the room rendering to 30 fps on Netflix when the movie is playing, but warp still 60.
+@no1ukn0 You would have to write a custom app
+@TheHairyRennie I rather liked it. The gfx got outpaced by game cards fairly quickly, but it was a good workstation
+@UploadVR @oculus just yesterday I was talking about streaming screens for that, but it isn't scheduled yet
+@RogoDarius @oculus @SamsungMobile try it! Four times as responsive, no motion blur, some great content.
+@doomquake @oculus @SamsungMobile it has sensors in the headset, but most of the magic is in the software changes we made along with Samsung
+RT @oculus: Pre-order the all new @SamsungMobile #GearVR, powered by Oculus, for only $99! Learn more: https://t.co/KhAWwWuAEd https://t.co…
+@HalfRes I will ping some people tomorrow
+@jwjaii @oculus still on track for this month, but I can't give you an exact day
+@HalfRes it is a known issue, and being discussed, but I don't know what the state is
+@ghaz I am going to try to get back on it a bit next week.
+RT @oculus: Watch @TurboButtonInc's talk from #OC2 titled "Bringing #AdventureTime to #GearVR" by @HoldenLink: https://t.co/RRFHrtemJU
+@howellspace I forward most general enquires to the media team for sorting. Fit a question in a tweet for a direct answer!
+@quakeONEnetwork @romero @idSoftware @ThatTomHall @americanmcgee I think some of those numbers are high
+@markuspabst 60 fps / 30 fps.  Not paying attention to autocorrect...
+@AurelioReis I always thought it improves readability
+@roxlu no, that is the cool part -- media codec gives you a surface that you can render to and just swap buffers.
+@markuspabst it runs from TimeWarp, so it is always 60 God. May add a 30 dos flag.
+@gemisisDev Not in realtime on a phone. We have some PC Unity tools for it, but not productized.
+@gemisisDev It should be in the next SystemActivities update -- just set a "dev_videoCapture 1" localpref, and everthing gets recorded.
+Being able to efficiently pipe HW OpenGL rendering through HW H264 video encoders on Android is great! Finally implemented good VR recording
+RT @OTOY: Great work by @Lytro. This is what a light field camera should be, nothing less. https://t.co/KFHAwFOZcK
+@timeiskey I suggest classic scanline for the experience.  Modern software rasterizers have to do unpleasant SIMD chunking for efficiency.
+I wish @SlackerRadio on my @TeslaMotors had @TheGreatCourses channels.
+@africanmattjay I am far from a text editor power user, almost anything works for me.
+Silly that EGL contexts can't share data unless created with configs of the same color bit depths. Any context can render any depth today.
+@snorp Code in a library, trying to avoid adding a new parameter.
+RT @oculus: Watch @ID_AA_Carmack's "Live Coding Session" from #OC2! Available on our @YouTube channel: https://t.co/D1K0fGlARI https://t.co…
+Is there really no way to get an ANativeWindow back from an eglSurface without the Nvidia EGL_NV_native_query extension?
+Feeling all the same pressures that lead GPU vendors to add app specific profiles and hacks in their drivers.
+@wrobel221 On a PC Rift, you should not adjust the camera position from position tracking. On Gear, modifying the head/neck model may be ok.
+@wrobel221 Microsoft gave me clearance to write a tech blog like I did for the Netflix work, so on release their will be a lot of details.
+@MusterKnabe @ramez I would certainly rather live next to a nuclear plant than a coal plant.  No question at all.
+@MusterKnabe @ramez The conflation of nuclear power plants with nuclear missiles is the key fallacy of the situation.
+@MusterKnabe @ramez The problem is making policy based on "feels" rather than objective measurements.
+@MusterKnabe @ramez The question isn't how many meltdowns have happened, but rather how much damage was done by them.
+@Bludgin it doesn't work -- even a lot of accelerometers will random walk to increasing velocities very quickly
+@romainguy Things that perform a noisy sampling that look okish on a high dpi screen, like SSAO and volumetric fog lighting, get ugly in VR.
+@romainguy most of the post fx are just wrong for VR, and a lot of the subtle rendering effects won't be worth the cost
+This GTA V graphics dissection is great https://t.co/D0WwC4r96m, but note that many of the techniques are a bad idea for VR.
+@ramez the question is if the high costs are intrinsic, or imposed -- did the 600 employees all materially contribute to power &amp; safety?
+RT @oculus: The Oculus #mobile #SDK 1.0.0.0 is now available for download from our developer center! Learn more: https://t.co/8hEj4cY7dh
+So much of learning is feeding new data into your current filter state, it is a shame more global optimization can't be done.
+The situational awareness of auto pilot cars could usefully detect and signal inattentive nearby drivers with light blinks.
+Evil Dead was a big influence on Doom.  @AshvsEvilDead is making me wish I actually had cable TV.
+@SteCork well, everyone there was already a veteran in 2000...
+@kentbye @oculus long press to system activities and recent, or easier, lift HMD off head and put on again to recenter
+RT @ProgrammerWorld: Today is Dennis Ritchie day :-) https://t.co/VClGtTQyG9
+@leocomerford better to get rid of the accelerations
+Sometimes black box testing has a nice experimental-science feel to it, but under pressure you really want the damn source.
+RT @mmalex: https://t.co/SLH2a9FIHy looks like the geometry equivalent of Shadertoy and @P_Malin is already cranking out good stuff...
+It was pointed out that five of these people now work at Oculus. How many other old timers are out there? https://t.co/bogbAqR867
+@HomerS66 I'll check.  Move to exoplayer may have hurt.  4096x2048 videos aren't guaranteed to run 30 fps on Note 4.  3840x2160 should work.
+@WBMason Interview requests go through media@oculus.com
+This was great! https://t.co/YJF7g2shZU
+@WBMason @Imagineer2018 @hmltn I was just talking with the team about how we need a round-table room so I can go give VR lectures.
+@WBMason @Imagineer2018 @hmltn They will show up as new rooms, Social just launches the other apps
+@WBMason @Imagineer2018 @hmltn We are working on letting everyone see the choices, but it will probably stay with a prime controller.
+@hmltn @oculus We have a group trivia game to launch fairly soon, then there are some VrScript based experiences when I get back to that.
+@hmltn @oculus it was my pet project -- barely managed at all and kicked out to the public in a very raw state...
+@ChateauErin I wouldn't rule out microwaves, but when you aren't looking to replace an existing plant, absolute efficiency much less imprtnt
+@ChateauErin tiny and (relatively) cost effective nuclear reactors would be easier than relay sats, but probably politically untenable.
+@ChateauErin but being able to drop down a small system in remote locations would be a significant advantage -- instant infrastructure
+@Panopticrat the advantage of lasers is the smaller target spot -- lay out a single panel, and have it irradiated by 100x sunlight intensity
+Space based power gen for base load is unlikely, but flexible laser relay constellations could have many applications. Including death rays.
+@ominiq even gear VR is less convenient than just pulling the phone out of your pocket, so there is some barrier to quick games
+@PhilippNagel johnc at oculus
+@lawrencem49 only the HUD. All UI screens float in space at a fixed location.
+@ominiq yes, I was testing the VR work
+RT @quakelive: Quake Live now supports Steam Workshop; LAN and Dedicated Servers! https://t.co/e8c4GMcigZ https://t.co/UkWAqBC3ZI
+Cooking steaks in Minecraft made me hungry.
+@PhilippNagel Depends.  Need more details to offer an opinion.
+@jemfinch Every company tries it, but it is trickier than you would expect to make look good.
+@dotstdy @nothings @tom_forsyth @rygorous I don't think so, especially since it will give uneven play of 30 and 60 us content
+@nothings @tom_forsyth @rygorous the biggest benefit of 120+ hz monitors for almost everyone is the smoother desktop experience
+@daioptych can a user process do that without shutting down the Android UI?
+I still want an XInput-like kernel interface for controllers on Android, instead of the inputDispatcher chain of event delivery.
+@GraboidRyan Good test.  Some of the comments are a little amusing...
+@ssylvan @rygorous @pervognsen Without a smiley, someone might actually take that seriously.
+I might be misreading the data, but it looks like the Android NativeActivity event processing adds a frame of latency to controller buttons.
+RT @RozKaveney: Star Wars historicised https://t.co/ldcdPDzI07
+@ImmersiaVR There isn't an off the shelf solution for stereo panos, I strongly suggest you work with one of the existing companies.
+RT @pmarca: "A visceral defense of the physical, and dismissal of the virtual as inferior, is a result of superuser privileges." https://t.…
+RT @volgaksoy: So long DK2. You'll be missed. @Oculus Rift DK2s are now sold out. Hope you got one in time for VR hacking...
+@aabella 1/3 slower in fiber means 50% faster in vacuum.
+Low earth orbit internet has the possibility of lower latency than terrestrial, due to speed of light in vacuum being 50% faster than fiber.
+@OrgaP It would be a great hackathon project to embed it somewhere in the "big" game! @idSoftware
+@OrgaP a port of the BREW version would be staightforward, but it would hardly be a good use of a modern mobile platform
+@Ed_Brice @DOOM I haven't seen it, but i wish them all the best!
+@idemagic You are probably disliking the specular reflections and bilinear filtering on modern games.
+RT @bhsharp: Want to help build @OculusMedium? We're looking for a senior C++ engineer. Come work on the future of art with us! https://t.c…
+@sh4na We are migrating to Android Studio / Gradle, but it isn't an improvement.
+@TimothyLottes @bkaradzic @mmalex the longer I program, the less I support programmer friendly rules like implied casts
+I never feel edified after being exposed to a new build system.
+@michaelhaberle the S6 having more time out in the wild might be more stable for development, but there are no strong hardware reasons
+@CoolCoolgame I'm working on a rather important game right now, but only as a bit player
+@dakami you can look at it cynically as conceding defeat in the face of writing even marginally reliable software
+@dakami it has been done (usually with full custom rnd rather than system), but most games have given up on synchronized determinism.
+Snapdragon Profiler from @Qualcomm can now capture GPU stage timing, which is extremely useful! http://t.co/EAjmzmwDrk
+Looks like I can read about ~300 MB/s from flash on Galaxy S6.  Shame O_DIRECT doesn't seem to work.
+@IkarosAV tex2dgrad is often 4x slower, and centroid messes up ddx / ddy the same way it does lod
+If I get rid of all the other aliasing, I can see the LOD aliasing at edges caused by centroid interpolators.  Bah.
+@ireneista I have often thought that would be fun!
+What was the most modern 8 bit, tiny-gate-count CPU designed? How did arch change from 6502 / Z80 / etc?
+@wikkit second life
+@IkarosAV Shadertoy is so great for playing with things like this!
+@IkarosAV I might also benchmark doing the re-frac with texture lookups instead of analytically.
+@IkarosAV Using "sample" interpolation qualifier in ES 3.2 fixes it cleanly with no other code changes, but with perf cost.
+@IkarosAV I wouldn't call it "fine", but "acceptable". The near-zero performance cost option is to magnify the texture by 8x and border.
+RT @angealbertini: calligraphy + ASM = &lt;3 &lt;3
+https://t.co/FMM4ABlE6G
+by @mikeestee http://t.co/TbLqHR1Mn6
+@paniq my last two years with Android has involved WAAAAY more printf debugging than the entire previous decade.
+@ToyAuthor Certainly!
+The useful discipline of single-stepping through a frame of code is made much more annoying with the templates of modern C++ coding style.
+RT @OTOY: #Batman TAS fans - read this! Thank you @ID_AA_Carmack for opening our eyes to all these possibilities on #Gear VR! https://t.co/…
+@tom_forsyth the problem being that the definition of the other axis beyond +x -y +y -y +z -z is essentially an arbitrary decision
+@tom_forsyth I always think "I'll get it in a couple tries" before doing the methodical walk of all the permutations.
+@_tomcc Don't hold back when my code leaves something to be desired...
+Felt like an idiot for how long it took me to get a seamless cube map capture without using any inverting matrix so culling didn't change.
+@iontodirel yeah, I was out visiting the Minecraft team
+Flight from Seattle full of Windows laptop users, a contrast with SF flights full of MacBooks.
+@DavidWHilton yes
+@NullofHope MSAA is very cheap, you should design around using it over SS, TXAA, temporal, etc
+@chranc @oculus @SamsungMobile around 12 ms at the left edge of each eye to 20 ms at the right edge
+RT @_jonathanyuen_: 15 years on, still my fav .plan file from @ID_AA_Carmack . Reading it once a while correct my perspective in life. http…
+@shaneneyome95 @spazchickens @romero left
+@Tannerr_Weaver No, it doesn't fit in the upcoming consumer HMD.  Get one of the Note 4 HMDs before they are all gone!
+@cherbini @oculus @SamsungMobile @amazon no, the GearVR to fit S6+ / Note 5 has not shipped yet.
+RT @oculus: The #GearVR is available from @SamsungMobile and @amazon for $99! http://t.co/9lzZtgVbKx http://t.co/oDiRv3uXuu http://t.co/dUw…
+@talkthattrace anything more formal than my twitter posts needs to go through media@oculus.com
+@chinamanblue legitimate statement versus the diamond pixel arrangement on the Oculus / Vive panels, put 1080 stripe still &lt; 1440 diamond
+@varunk08 I read it as a teenager 30 years ago. I have almost no recollection of it; I have considered picking it up again.
+. @zalbard The Annotated Turing (Petzold), Computer Architecture (H&amp;P), The Black Swan (Taleb), and No Man's Land (Rucka).
+@HomerS66 There has been some debate about allowing a full persistence mode for cinema viewing where motion blur is less of an issue.
+@hmltn I didn't think we had the protected content framebuffer flag on, but it might be.
+@basus It was a Christmas present from last year!
+Took a day of solitude -- no people or internet, just a pile of books.  Refreshing!  Back to work...
+@HomerS66 Anything that filters and blends graphics should be in sRGB colorspace. making colors "impressive" is the job of content.
+@OTOY With Vulkan we should be able to stream directly to the cube maps at 60 fps. OS read directly to mapped texture.
+@eodabash It does, but if __VERSION__ was what the implementation supported, you could have the shader text be conditional on it.
+GLSL ES should have allowed #if __VERSION__ &gt;= 300 statements before #version statement so you could have a file compile on 2.0 and 3.0.
+@romainguy I was worried about changes in selected mip levels at edges, but I'm not seeing any.
+I wish I could force centroid sampling on everything without having to patch (and port to es 3) every shader.
+@cly3d Yes, that article looks good.  I'm not a purist -- I'm all about value for the user.
+@ScottyMc87 yes
+@mungewell It would be good for everyone if phones had an exposed and accurate way to measure their power draw.
+We finally have a phone wired up to a digital power supply instead of an internal battery so we can get honest power values. Some surprises!
+RT @Navarr: @ID_AA_Carmack Looks like it's part of the HDMI-CEC standard: https://t.co/tJFKP0xEkN
+Curious: What android device uses AKEYCODE_11 and AKEYCODE_12?  Not F11 / F12, but 11 and 12 keys.
+@alexchudesign Yeah, this took priority.  That is second!
+@Warezovv good learning exercise if you aren't looking at it as a commercial investment
+Backwards IPD!  Ow, my eyes!
+@Kithop @_tomcc it isn't Win 10 only, it is also GearVR, which the java code was never going to run effectively on. Not Mac/Linux, true.
+@Jasconius Absolutely!  It is the pocket edition, in VR.
+Lots of spending half the day exploring the codebase, then cautiously submitting a five line change to improve VR behavior.
+Post-Connect I have been busy working with @_tomcc and the Microsoft/Mojang team on Minecraft for Oculus.  Coming along great!
+@tnbeatty Each line through the poles needs to be offset individually, and the IPD needs to fade to zero at the poles.
+@OctavGheorghiu Stereo cube maps are a very odd mapping.  Consider @OTOY 's Octane renderer, which is the only thing with built in support.
+@AustinOlsonaj @ThatTomHall @romero No, someone bought their IP a while ago and released some of it, which was cool.
+RT @bionicbeagle: Objection-Oriented Programming (aka code review time)
+Busy cloning Super Mario Bros 3 on the PC, 25 years ago. https://t.co/XPqBiBwwW0
+RT @richardmatthias: Was looking for b/g on IRIX, found this amusing-in-retrospect screed from /. circa 1999. Great @TimSweeneyEpic quote h…
+@konstk no, it doesn't, unfortunately.
+@jwjaii @HomerS66 @khifler The lenses are the same design, but it does look like the manufacturing tolerances are a bit better now.
+@hughwphamill They are no longer in production, get one while you can!
+@xDirtyPunkx @BrianKaris momentary mental confusion as I switched from scheme programming language thought to gfx...
+Thumbs up for The Martian! Don't think the tarped over hab blowout would hold atmospheric pressure, though...
+@sneakin since I decided to go full-racket instead of just scheme, you could use that with vrscript
+@varstath There are hundreds of developer years in Unity/Unreal. Leveraging that is usually wise.
+Some artist complain about the inability to frame a shot in panoramic media, but that very factor will be transformative for news reporting.
+@AndrewLauritzen Oh, yes.
+RT @oculus: Watch the #OC2 keynotes with @brendaniribe, @natemitchell, @PalmerLuckey, @ID_AA_Carmack! http://t.co/YHa5medN85 http://t.co/hu…
+@prosaisk that would be awesome...
+@CrazyLogLad few devs even choose the minimal 8/16/32 bit type size
+A static optimization of buffers along with shaders could allow interesting analysis, even if it just did range compression.
+It is a little surprising that we don't have any locality based vertex compression schemes for static meshes in hardware today.
+RT @Jonathan_Blow: I don't think I ever took a computer science class that taught any concept of Dependency Hygiene, but this idea is criti…
+@CopperheadSec I was hoping to use seccomp, I didn't know it might not be there!
+@Th0rHere Netflix thought that avoiding black in the background improved the color perception.
+@josephsdrago There is always room for improvement!  Happy to be a sounding board for ideas.
+@Dvdhny basically the same
+@leguilloux @khifler yes
+@khifler The optics bend the light.  You can see the outer edges of the screen on the S6, but not on the Note.  It isn't a huge difference.
+@Ocuholic I tried, it doesn't fit.
+RT @VarunJuice: Mozart's mythical creative process vs. his actual creative process. http://t.co/8Zll4bzp62
+@Horobol integrating library projects with mixed .jar and .so outputs into other projects
+It has been a couple months since I said this.  I hate the Android mixed java / native build environment SO MUCH.
+@tom_forsyth Perversion of the etymology, but may be a useful classification of media-streams-rendered-with-geometry vs sampled lightfields.
+Sometimes interesting to check evolving meanings of words across old dictionaries. "Select decade" would be a nice addition to a website.
+@jezenthomas @Code_Analysis @lexicallyscoped pure code should definitely be in separate functions, tangled mutating code, maybe not.
+@GearVR_Reviews @TurboButtonInc Gnome gag VO got repeated too many times for comfort. Expected a snide "You already said that" to follow.
+RT @TurboButtonInc: Turbo Button and Cartoon Network have teamed up to bring Adventure Time to virtual reality! https://t.co/lBMffgJrOV
+@TurboButtonInc offered Adventure Time: Magic Man's Head Games for public VR critique. I found nothing of note to criticize. That was GREAT!
+@FioraAeterna I had a multi-threaded test program that overheated a Snapdragon in 60 seconds.
+RT @TimSweeneyEpic: Oculus Story Studio has released the content and C++ code for their Henry VR trailer on GitHub! This is the future.
+htt…
+@echohausaudio people don't move their head much while using the app, so it wouldn't be very high value
+@pachecod you mean lollipop, right? VR doesn't work at all on J.
+RT @wikkit: Using in-flight internet bouncing off geosynch is the only time in day to day life that the pokiness of speed of light is reall…
+@pachecod note 4 with Lollipop should work. Will check on it.
+RT @postArgus: Don't be a portal to hell, don't be a portal to hell, don't be a portal to hell... https://t.co/dax7Nd5pDE
+@sneakin Explaining = eq? eqv? equal? Is not a high point of scheme advocacy.
+Coming home from work and playing the Super Mario Maker levels my kids made during the day is pretty great.
+@PS4snapshot A lot of us still use Note 4s here, so it should be good for a while yet.
+@_adoroo @norgoth91 @mallmagician On GearVR? Try de focusing it a bit. Otherwise, you may need to wait for 4k displays.
+@norgoth91 @mallmagician the smaller phones have a little more density and a little less FOV. It isn't a large difference.
+@jtfe00 it fits over my glasses (slightly uncomfortable), but not everyone's.
+@mallmagician it is a little bit wider, basically the same as the note 4 vs s6. I wouldn't buy a new phone just for a few degrees of fov.
+RT @pmarca: Accomplishing great things by working smart but not working hard is, as far as I can tell, almost entirely a myth. 😮
+@HomerS66 unfortunately, they use 5.0 APIs for video decode, so it isn't possible
+@MartinField fbx is really slow to load, it isn't a good distribution format
+@Savagefool2 best bet is to fit it in a tweet
+RT @oculus: 15 minutes until the Live Coding Session with @ID_AA_Carmack begins in @ChineseTheatres 1! #OC2 http://t.co/tLsEKb7Fcb
+Getting ready for the vrscript talk / live coding session
+@motorsep now that vrapi is a .so, you could have everything else be GPL. You couldn't use our appFramework/appSupport code.
+Comment seen on reddit: "Betting is a tax on bullshit" Oh, I like that a lot! I often try to nail arguments down to on-the-record bets.
+@casseveritt more likely the phone-specific intra-display variability problem we are struggling a bit with
+@jwjaii in what way?
+@greg76 definitely would have benefits, but it would have to cost at least as much as an unlocked high end smartphone
+RT @oculus: #ICYMI: Watch the #OC2 keynotes livestream replay on our @Twitch channel! http://t.co/jzrQkztKVh http://t.co/OgLtJZsJdx
+People pulling VR headsets out of backpacks to show off their projects all day -- we are living in the future.
+RT @UnrealEngine: Introducing Bullet Train, our new VR experience using Oculus Touch! https://t.co/ZfUt1i8vtd http://t.co/rrNffppVVT
+@grantjbutler both
+Sorry I wasn't more clear, Minecraft is definitely coming to GearVR! Cordless swivel chair play FTW!
+RT @RomSteady: If you liked the announcement about @netflix on @oculus, @ID_AA_Carmack has a guest post on the Netflix tech blog: http://t.…
+RT @oculus: We're thrilled to announce Minecraft for the #Rift! Tune in to the #OC2 keynotes: http://t.co/fmSRmeDvLh http://t.co/Nk6gpwDmrC
+. @notch It all worked out in the end! Working with your baby has been awesome!
+RT @chrisfralic: This is going to be big - @netflix on @oculus #OC2 http://t.co/UqdRF3CQWb
+@hmltn :-)
+RT @oculus: The #GearVR will be available for just $99 on Black Friday! #OC2 keynotes now live: http://t.co/fmSRmeDvLh http://t.co/odh0oUuk…
+RT @oculus: @rotwang @ID_AA_Carmack @Twitch If you have a #GearVR you can tune in using @NextVR_app!
+@tom_forsyth given the time constraint and all the important product / software things to discuss, may not get as deep geek as some.
+RT @oculus: Today at 10 am PDT we're streaming the #OC2 keynotes from the Dolby Ballroom on @Twitch! http://t.co/coMFPh8Bms http://t.co/qpK…
+@eraser851 I think twitch is streaming it
+I still have my voice after five hours of hallway conversations today, and the keynote tomorrow unlocks super exciting topics!
+@MartinField of course!
+@isleb0y You need to ask @bethesda
+RT @dotstdy: Can't link to flat cbloom rants but new post on writing libraries is good! http://t.co/wAXS0kWcJE 09-19-15 | Library Writing R…
+RT @LordDarthNader: @ID_AA_Carmack @TheNextWeb http://t.co/wX1eRduL3w
+
+Lots of great videos of the quad-copters here. Including a learning …
+@LordDarthNader @TheNextWeb It makes my rocket flight control work look like kindergarten scribbling.
+RT @TheNextWeb: Flying robot spiders are here 😱 https://t.co/BBxeFOExFw
+@xinjingclient1a I usually extol the value of diligent work over waiting for inspiration. Work on a variety of tasks and look for themes.
+RT @Gameiversary: Today marks the 23rd anniversary of Spear of Destiny! #Wolfenstein @idSoftware http://t.co/8CAjQOljVq
+Make 2x2 single component texture. After much frustration, remember (again) that GL_UNPACK_ALIGNMENT defaults to 4.
+@IntegerDevourer I haven't watched much in recent years.  I liked Initial D and the original Bubblegum Crisis.
+@dnaltews That is the magic incantation I needed to search for!  Thanks!
+On Android, can you revoke network access permissions from a child process?
+RT @Oculus_Connect: #TBT to @ID_AA_Carmack's keynote! Make sure to check out his live coding session this year! http://t.co/TeyTl5HsJI http…
+@ShannonZKiller @BlitFish Yes, exactly.
+@ShannonZKiller @BlitFish If the position tracking camera isn't set up right, swaying side to side won't be picked up, and many get sick.
+@ShannonZKiller @BlitFish If the application turns the viewpoint, it will be uncomfortable on every platform. Stable DK2 should be good.
+@ShannonZKiller @BlitFish Sounds like position tracking may not have been working on the DK2, or you tried uncomfortable content there.
+@DustinHLand Yeah, but the lottery nature of it still gives me pause.
+@ShannonZKiller @BlitFish When did you try Oculus (which one?) and when did you try Vive?  What was horrid with Oculus?
+My HS science teacher gave me free run in the chemical closet to make thermite. Probably doesn’t happen much now,regardless of social group.
+#IStandWithAhmed but many are missing half the point http://t.co/DXWJyHzakr
+@secti0n9 @handee @trent_reznor I take my personal pride in the creating, not the exploiting, but both are important,
+@Newghandi1 :-)
+@cbxsix the other one is lithium-magnesium -- even better!
+Your reaction to first hearing about the Forge Solid tungsten cubes is likely a clear axis in some personality space. http://t.co/HFRBFYVxPK
+Any better way to get a standalone executable into an Android apk today than renaming it lib&lt;whatever&gt;.so and putting it libs/armeabi?
+@miralrio media@oculus.com
+@FilmicWorlds @UploadVR @MotleyWriter @chinamanblue @olivia_solon wireless beamed power from something nearby
+@UploadVR @MotleyWriter @chinamanblue @olivia_solon I don't expect anything "good" in that timeframe.  Fuzzy low res may still have use.
+@MotleyWriter @chinamanblue @olivia_solon @UploadVR Five years isn't total crazy talk for some kind of crude contact lens display.
+@MotleyWriter @chinamanblue @UploadVR I did. A patent claim does not imply existence (unfortunately).
+@MotleyWriter @chinamanblue @UploadVR where do you see a reference to an embedded camera? This is neat stuff, but not VR/AR relevant.
+@ManvBrain @PopSci Fire away if it fits in a tweet. Actual interview requests should go through media@oculus.com
+RT @IGN: We look back at how Doom revolutionized the game industry http://t.co/zxJh4caKPf http://t.co/RpqxKlt6vw
+RT @VijayTalksTech: Partial transcript of @ID_AA_Carmack's Quakecon 2012 talk, in which he discusses software engineering issues: https://t…
+Getting lunar panoramas for VR courtesy of http://t.co/FanSeMk6PO !  Even Gear VR display is still only 1/10th the photo res from ~1970.
+@casseveritt Next thing you know, you will want a TIG welder, too!
+@casseveritt Brewing has significant overlap with rocket parts.  Graduate to sanitary fittings and clamps soon... https://t.co/nol7cBGEq1
+Have any dynamic languages sacrificed a bit or two of precision from IEEE float for tags to leave floats unboxed? Probably terrible idea...
+RT @dadgumjames: Computer Science Courses that Don't Exist, But Should
+http://t.co/cPST8BNoqH
+@Moonpans @RichardGarriott I saw those, but for VR would need a downloadable image, ideally at 8192x4096 or higher res to convert.
+@phoboslab @schbirid I'm not involved in any of that, but given the touchy circumstances, I doubt it can get in. :-(
+I always thought there was a good VR game to be made with these assets...  High performance and great looking! https://t.co/RzOBZghyXT
+@Moonpans @RichardGarriott Do you have the panoramas available for download to view in VR headsets?
+@schbirid @phoboslab Odd to have no comment, but just the name alone would guarantee a rejection due to trademarks.
+RT @cigitalgem: XKCD on the Martian @SteveBellovin @jswatz 
+&gt;&gt; http://t.co/GuMKeyWrPU http://t.co/1HLMShNxUa
+While carrying son's backpack, I thought "He is luck to have a porter". Only just then dawned on me that was the root of "porting software".
+@EricLengyel @JonOlick I started with Allman, coming to C by way of Pascal, but I made a considered decision to switch to OTBS.
+Even after two years of working with the Oculus Allman style bracing, when I work on other codebases using OTBS it still feels "right"
+@HomerS66 @03lafaye I haven't gotten one yet, but I wonder if you can force the Android window surface to full res before initial show.
+@ramez hard to disambiguate from technical measures, but global ag output does not seem to be heading into crisis
+@ramez But for every field that goes above optimal temp, potentially more land comes into it globally -- Canada, Russia, etc.
+@dakami Rendered motion blur should match the persistence of the display presentation, which is 1 to 3 ms on good HMDs. More is bad.
+@dakami Not in an HMD.  Ultra smooth mouse / stick turning may look "more smooth than real" because your neck doesn't work that way.
+@dakami Don't use motion blur in VR.
+@ramez Do you have a position on rising CO2 levels and warming being a net positive for global agriculture? Ag not the problem, though.
+Open call for topics for my Oculus Connect keynote. I'll talk until they run me off the stage, what do you want to hear about?
+@JonOlick also liking all the standard threading stuff
+Happy that we finally allow C++11 in the Oculus mobile codebases -- tons of places where unique_ptr is a big help.
+RT @rgcjk: @ID_AA_Carmack one of old profs used to talk about this all the time: https://t.co/CQlPnWv3F4
+@CorvusVR Got a link to an mp4 for download to GearVR?
+Audio "visualization" of network traffic might be interesting and useful -- left ear for local, right ear for remote.
+@ravioli_rupert More VR work is done in Unity, but UE4 gives you the source... Go with what you are familiar with.
+@romero @CompSciFact "scaling the task" was a benchmark tactic for supercomputer manufacturers; easier than making everything go faster.
+Software engineering's silver bullet turned out to be "scaling the task" -- do grander things in the same time. https://t.co/QwEkOxguad
+@ramez if only we could have an entrance exam...
+@superfunc @swindsor DrRacket on the PC, but Chibi when embedded
+@TheViRP @RtoVR @oculus specifically designed to not require approval
+To clarify some of the press: VrScript is a platform using the Scheme language. I am not developing a new language.
+@mooreslog On at least three occasions I have started writing an article about car stories. One of these days I'll finish.
+@pabbott0 it is interestingly almost the opposite of single assignment -- single read with no reuse unless you explicitly write it again
+@tom_forsyth Assume a wide, co-located processor, also no need for square arrays. No point to this, just idle thought...
+Consider algorithms for directly programming from a DRAM array -- every read is destructive, and data decays in a few milliseconds.
+The very bottom of my car windshield is bent in such a way that it looks like the view texture was CLAMP_TO_EDGE and slightly mispositioned.
+Saw an odd refraction through a glass pane and my mind immediately went "lightfield rendering artifact"
+@RiskkNeutral An app with perfect performance characteristics doesn't need async time warp.  Few apps are perfect.
+@omglazerkittens same at http://t.co/Dgwh86dJp6
+@DustinHLand A bit of a bend to stability over performance is probably justified at this point. Maybe less C+*.
+I backed it! https://t.co/MxUH4V8T4C
+@Artfey4ik Old consoles were much simpler and slower. To emulate, you need lots more power and a deep understanding of the original system.
+RT @Coatsink: You can always take a look at our #VR #blog about #Gamedev for #VirtualReality! http://t.co/2DqAmR6Ljh http://t.co/O8w5rGPt4T
+Every AAA game should have an envshot option to support this!  Ideally support both equirect and cube maps. https://t.co/D5cp4gbGzK
+@motorsep @idSoftware @machinegames Good idea, can probably be broadly applied to a lot of games! 1536x1536 cubes for optimal GearVR res.
+@WillyWangDev @mundanename if you want to actually navigate around a world it is critical to avoid stick yaw turning for comfort.
+@Cdore101 unlike a lot of devs, I like having the lights on in the office
+@Cdore101 I don't customize my environments -- less work when migrating
+@iPadCaryMG probably confused about a mod that the military did make a few years after doom; they certainly had nothing to do with creating.
+@ramez @pmarca bravo for a futurist admitting being blindsided!
+@notch Try some homework: write a ray tracer in CUDA, Haskell, and Scheme.
+@ProjectLRNJ @tom_forsyth @frederic_morvan the illumination rolls in a band from the left side to the right side, with only 20% lit at once.
+@frederic_morvan "five eyes" per 24 fps video frame. Wouldn't work with full persistence because eyes mismatch, but in LP, never see both.
+Just realized I can probably do perfectly even display of 24 fps movie content in GearVR by doing the frame switch per eye instead of frame!
+RT @DMagazine_CEO: Last year, @facebook acquired @oculus, along with its CTO, @ID_AA_Carmack. Read an exclusive interview with him here: ht…
+My "almost annoying heap of enthusiasm" :-) https://t.co/G5YHD2fNnl
+@HairySphere I was just considering that, but I don't think I can create a second eglSurface when someone else already has it.  I'll try.
+@HairySphere It is an external image, so can't be used as part of an FBO, or texSubImage. Going to have to use a shader and a 1x1 FBO. Sigh.
+@HairySphere Looks like 3.1 only. Sigh.
+@bratschecody ExternalImages created elsewhere in Android
+Am I missing something, or does GL ES 3 offer a textureSize() from shader code, but still no way to query it from C?
+I wonder if an audible code reader for the blind would be more efficient with sound effects for common punctuation.
+RT @xeni: Microscopic zoom-in on a bacterium on a diatom on an amphipod i am so high right nowwww omg http://t.co/oU4Dr2laD7 http://t.co/yH…
+@jtfe00 One of the great features of GearVR is adjustable focus, but it doesn't go far enough for some people. Find a place to try it.
+Finally cracking open JavaScript: The Good Parts.
+@xeryboy @jwjaii the current innovator edition will certainly remain supported -- find some place to try it out and see if you like it
+@nvining @racketlang that is the classic hacker advice -- learn Lisp and C, and you have the full range. I wish I had learned Lisp long ago.
+conditioned ctrl-s after a clap of thunder
+@markuspabst This game is in Racket, not using Unity.  The first game was Unity / C#.
+RT @ValveTime: Happy Birthday to Team Fortress, which was first released as a Quake mod 19 years ago today! #TF2 #Valve http://t.co/iQFU6oZ…
+@AntoineKuhn If you get a chance, give it another download and try again.  Thanks!
+@kevzettler It wouldn't have been sufficient for Wolf/Doom/Quake, but it certainly could have replaced Quake-C nicely.
+@BGamard oops, thanks. Packaging the exe is all Dad's fault...
+@RobbieBC The level editor is built in, no need to take it apart!
+RT @Arminator: @ID_AA_Carmack We had printed Doom3 source code on that paper for our wedding table decoration #CompSciWedding http://t.co/m…
+@raphkoster We hopped around from java to basic to C# (Unity), but I feel really good about Racket / DrRacket as a path to good programming.
+I sort of miss fan-fold printer paper for program listings sometimes. Would like to stretch my son's program across the floor vs scrolling.
+Windows version is fixed.
+My 10 year old son's second game is now available: http://t.co/j6mtXp8fck  I'm proud of him -- it is about 2000 lines of Racket code.
+@toxonics you have to close the window instead of quit, unfortunately
+Windows version of fly apparently not working when Racket not installed, investigating...
+Now I get to show him how there is actually a cleaner 1000 line program hiding inside his 2000 line program.
+@cratesmith that was unclear (heh) -- using a clear for the depth buffer there is just fine.
+@nvining check out @racketlang My wife frets that it isn't a language with job prospects, but I think it is a great way to learn programming
+@cratesmith oh, that is fine -- as long as you don't try to use the rendering both before drawing the UI and after.
+@Zevensoft @cratesmith terrible thing to do on tiled GPUs
+@cratesmith clear is fast, but resolving two images from a single rendering is slow. Each rendering should start with color+depth clear.
+@RobbieBC I thought that was pretty funny!
+@dr4ch @ID_R_McGregor I would be very (happily!) surprised.
+The Nintendo Virtual Boy story http://t.co/Xw0yL5k18u
+RT @Code_Analysis: Please retweet! New supper resource: C++ Hints. http://t.co/gHW0lLiWyj  #bugs #hints #tips #cpp http://t.co/XfJBWbW6ga
+RT @OTOY: Render the Metaverse final winners and month 3 entires now live in oculus 360 photos! https://t.co/J3IBmHI8eq @oculus
+RT @OTOY: Render the Metaverse month 3 winners announced! And - the grand prize goes to... https://t.co/rTtM1UGSiv @oculus @ID_AA_Carmack #…
+@Jonathan_Blow @SP_Of_AND C++ dev on android is starting from a lower baseline; the win from a dynamic remote dev environment is large.
+@Jonathan_Blow You should take a look at Racket.  It isn't the academic scheme you probably remember, and it has a nice working environment.
+@Jonathan_Blow that is one of the things I find laudable about @racketlang
+Maybe asking for proper types in a build system is a bridge too far, but how about at least explicit declarations at the top of a file?
+Nothing like spending rage-filled hours chasing a problem stemming from environment variables to reinforce the value of explicit parameters
+The Render The Metaverse entries have been inspiring for me -- they are a frozen glimpse into the future of VR when we move amongst them.
+Had a really hard time narrowing down the Render The Metaverse month 3 entries to even a top 10 this time. https://t.co/ypWJpO5eSL
+Somehow, the probability of flipping y when interfacing with a new UI or video system seems to approach 1.0, regardless which way you start.
+RT @Mechadon: If your into the Doom community at all, this is very sad news.  R.I.P. Ty :( -- http://t.co/v3oFgSmX2t
+There is probably quite a lot of actionable business intelligence that could be mined from Uber trip logs.
+@ericries @ramez there is a deep truth to the motivations there, but different people can view it as ridiculous or noble
+@paniq @int_SiPlus_void @DebonaireToast the earliest CRT displays were circular, evolved to square, then 4:3
+@ramez That might be true if the point of manned space travel is science.  It isn't.
+@BenSS a really huge pendulum would store energy reasonably efficiently, it would just cost a ridiculous amount per joule stored
+@505omatic the energy storage efficiency should be pretty good, but the cost to build it for a given amount of joules would be very bad.
+It would be terribly cost inefficient, but storing intermittent energy from a solar power system in an enormous pendulum would be awesome.
+@auradeluxe @BSanbizzle @hmltn there is hope in hybrid architectures with remote generation and local presentation
+@BSanbizzle @hmltn @auradeluxe it is possible that mobile will NEVER have the power of a Titan X -- end of Moore's law closing in.
+@mundanename wireless for 360 degree turning, portability, pass-it-around, a bit more resolution, lower cost. Not a win for high end games.
+If you are considering buying a phone for VR, you might want to hold off until after Oculus Connect for relevant information.
+Animation is under exploited in the current crop of VR experiences. Evangelize to the animators!
+@kuston You were watching a video recording --lots can go wrong there. If you get a chance, check out Oculus 360 photos for best resolution.
+@kuston Can you clarify "dull"? The Samsung OLED displays are usually considered quite vibrant and color accurate.
+@kuston it will be many years before HMDs are giving retina class angular resolution, but resolution is only one factor in experience.
+Lots of GearVR announcements coming at Oculus Connect.
+http://t.co/aIH2ws7z3d
+@ramez reading @ErnestCline made me consider some of the holes in my cultural experience
+Despite living a rather geeky life, I had managed to never see an episode of Doctor Who until this week.
+@WBMason image stabilization needs to be disabled for inertial + computer vision
+@Ben_Quintero I'm not exactly finishing last!
+@Ben_Quintero careful -- business provides the resources that lets engineers build the things we want.
+@BrandonJLa do you verify your distortion correction with calibration patterns?
+@jpnKevin_T I still don't see that. A SoC could be potted directly to a metal back plate, but an antenna could still be separate. Why not?
+@jpnKevin_T We have no input with Samsung on such things, but maybe now that they don't have removable batteries they might go aluminum.
+@jpnKevin_T The heat is much more a problem for the phone than it is for the user! Still, I learned a lot about thermal last two years.
+@jpnKevin_T what is the context you are referring to?
+Watching all the siggraph tweets go by makes me miss sophisticated graphics, but mobile VR will be algorithmicly pedestrian for many years.
+RT @TimSweeneyEpic: Google's adoption of #Vulkan for Android graphics should ensure that all Linux-based platforms standardize on Vulkan. Y…
+@dave_doomy you definitely need those, but there are other factors as well
+@cledanjou @CPCHardware @Canardpcredac Nothing is ever at the point where it couldn't be improved. Quake was a little raw, but no regrets.
+@ProjectLRNJ @mirror2mask would be fun to experiment, but I don't think I could advocate for it in good conscious
+@casseveritt @GrandmasterTru @tom_forsyth @pixelmaven yeah, I was assuming an optimized architecture for each.
+@GrandmasterTru @casseveritt @tom_forsyth @pixelmaven I would be very interested how much more GL 1.1 perf we could get vs GL 3 at same powr
+@mirror2mask With mobile required to keep lots of the silicon dark, the case for quirky special hardware vs "just go wide" is interesting.
+@bitblasted the sample positions can be adjusted by lod so they become the same as on a box filtered lower level just before transition
+@tom_forsyth @pixelmaven I remember that, but that is upsampling, not down sampling for mip maps.
+@bitblasted Trilinear is a blend between an aliased and a blurred bilerp. You can arrange samples so you stay a level up and don't alias.
+@D2KX_ yes, that would be bad, and so would any software targeting 60 fps, so I don't recommend 144.
+@ramez I'm pro-nuke and mildly skeptical about exponentially decreasing prices on macroscopic goods, but happy to be show otherwise!
+@D2KX_ I would be surprised if people could tell the difference between 120 and 144, assuming an app that could hold either frame rate
+@AndrewLauritzen @tom_forsyth @pixelmaven on mobile, I wouldn't mind being sampler bound if everything else is conserving power
+@ramez wow!
+@ramez Solar cells produced completely outside China are only a few percent more expensive? Really?
+@tom_forsyth @pixelmaven I'm a bit skeptical of content aware mip filtering, got any examples you can point to?
+@gavkar @pixelmaven I probably wouldn't have cared much pre-VR; the magnified pixels and consequences of aliasing change the value equation
+@pixelmaven it wouldn't have been a drop in win, since you need wider gutters, but I wish we had it now
+@sadler_sc The content pipeline.  Developing megatexture was very painful, and I didn't want to go through it again with geometry.
+If you can do 5 bilerps on a level, there are better ways to sample than exactly emulating trilinear.
+Savage 3D implemented trilinear with 4 bilerps from single mip level, which assumed mips were box filtered, so not standards compliant.
+The standard response is "write it yourself in a shader", but I still think better sampling hardware can be justified, especially for mobile
+@JoonasSaarinen I just might add that
+@daviwil as an output console for my VrScript work, where I don't want to regenerate the entire thing every time a line is emitted
+Considering implementing a bitmap text console with split/wrapping buffer scrolling. Shades of Commander Keen.
+@JeffGreason Moving to Texas?
+RT @tom_forsyth: We have a new SDK on the way. Lots of internal changes: https://t.co/2mraoBvRT9
+@nothings Thanks.  Sigh.
+Does UDP over IPV6 avoid any of the filtering / NAT crap that makes UDP over IPV4 such a pain?
+@garethnelson Zenimax fully supported the GPL code release of RTCW and Doom 3 BFG.  Doubt they would sanction a full Steam release, though.
+Greetings, follower 1&lt;&lt;18 sometime in the last week or so. Oddly coincidental with just getting a "fifth Twitter birthday" message.
+@rabidbot It is uncommon, but not unheard of. Helps if you are in a position where you can get all obsessive about the topic for a year+.
+@timmoelard the prob is that it plays to an external image, not a normal texture. You can copy to a unity texture, but a 4k video is a lot.
+@timmoelard @unity3d make sure that your video plays in our native 360 video player to check for unsupported codec options.
+Vernon Vinge's "programmer / archaeologist" seems even more prescient in a Stack Overflow world.
+@worksalt @oculus @vr_OculusTalk @gearvruk I really wish we could do that, but we can't even read the raw data, to say nothing of the DRM.
+@timmoelard @unity3d Discussing a modest change with Unity that would make this easier in the future. Hacking the SDK example is a start.
+@timmoelard @unity3d Need a native plugin and some tricks. Our 360 player is all native code, but Samsung made MilkVR with unity + plugins.
+@lemoesh try oculus PR channels, or catch me at Connect, where I will surely talk until I lose my voice.
+RT @OliverKiley: These Halls I Walked: An Homage to @Doom and Quake: Big Game Theory @idSoftware @ID_AA_Carmack http://t.co/R0s1L384R8 http…
+@omigamedev you should be able to do that pretty well with just the video
+@hiltzikm Sure, I have a passing interest and familiarity with the topic! Email me johnc at oculus.
+. @hiltzikm That was a Twitter moment -- comment on a technical issue in a book, and ten minutes later the author asks for details.
+@hiltzikm intro: "display text and images mere nanoseconds after they were typed on a keyboard" should be 10+ milliseconds
+RT @Tojiro: People keep asking for WebVulkan, thinking it will magically solve performance problems. You honestly have *no idea* what you'r…
+Just started reading "Dealers of Lightning" about PARC. Concerned when author mentions response in nanoseconds. Six orders of magnitude off?
+Thumping a camera + IMU combo at the start of a test run is the exact computer vision analogue of the movie clap board.
+I'm giving a tech talk at https://t.co/ZNzaAcEddb tomorrow; I am excited to pick their brains about their bold software development efforts!
+@AXPhotograpy I think it was in the neighborhood of $10k, which was also what I paid for each of the two early LCD flat panels I later got.
+@Manwe23 while I think rigorous purity is very valuable in large code bases, scripting languages are largely about convenience.
+I was shocked about the Mario cloud/bush equivalence, and now I learn they are on a repeating pattern... https://t.co/2217MsEywp
+@Sslaxx @stevetovali @unity3d You look more amazing prodding Unity to do cool things, but I think you learn more deeply being code-centric.
+@scar3crowdotcom Note that any sense I have of Id Software is now two years out of date, so I'm not the best person to ask.
+@limbclock no, talking about chip level designs
+@scar3crowdotcom they can always release more later if the community seems vibrant
+@scar3crowdotcom In today's world, better a polished and fully supported, but limited, mode than a full dump with no support.
+Letting go of absolute reliability in computing for a perf win is scary, but real time ray tracing seems like the perfect application for it
+@dvydra I recant "when it's done".  Time isn't everything, but it definitely needs to be weighed appropriately. Ignore at your peril.
+@stevetovali last year was "Angry Face" in Unity, this year is "Fly" in Racket.
+My son has to "ship" his second game before his 11th birthday in two weeks.  Code quality is starting to suffer a bit. :-)
+Surprised to see that consumer LTE chips can, in theory, hit 450 Mb/s with aggregation https://t.co/0eRUF3AGA1
+@KanalasGame don't start with Vulkan, start with modern OpenGL. Vulkan will have a lot of unnecessary low level details for a beginner.
+@deygreyfox Only if the document window were sliding across the screen as you tried to read it.
+@Katerpilet the latest SDK might have shipped with a shim I wrote for it, check the plugin source. New API coming soon for PC/mobile compat.
+@chr1sa @3DRobotics I'm afraid I wouldn't have time to use it in the near future, but I might take you up on it later!
+That does it for my four brave volunteers! Anyone else with an app on the Oculus store want to opt-in for public critique?
+Public VR critique #4: Omega Agent https://t.co/iva30KKNfI
+@AlokVasudev Right, but with a shrink also decreasing unit length, does the energy lost to capacitance go up or down?
+Are wire capacitance losses with shrinking feature sizes increasing in an absolute sense per wire, or just relative to other losses?
+@David_C_McGarry Those cams have more resolution, but the Samsung video decoders can't decode more than a 4k stream, so we can't use it yet.
+@sd_marlow flip one phone around and invert the video
+There should be a "cardboard like" holder and some associated software to make it easy to take stereoscopic videos with a pair of phones.
+Always seems a shame that we convert things out of frequency space on decompression, but sometimes back into frequency space for processing.
+@won3d Enough to think they are neat, not enough to actually do anything with them...
+RT @willdye: @ID_AA_Carmack: I'm sorry, Dave. I'm afraid I ca-- SQUIRREL!!
+@_tomcc it seems almost like some twitter meta-joke that anyone you cross paths with gets copied on MCPE release date questions.
+As we get more power limited, I wonder if analog processing for computer vision and image synthesis could win. No FLOPS in biological vision
+@fanquake there is a multi-billion dollar company waiting to be made there
+@TedMielczarek I recently re-read it. I remember the sequel being weaker, but I am probably going to give it another try as well.
+I rather like the idea of autonomous mosquito hunting micro robots.
+AI won't be HAL, but "I programmed this drone to loiter around my house and scare squirrels with an actuated laser pointer; cool, eh?"
+The tech behind autonomous weaponry is far too dual use to effectively inhibit. We want autonomous drones that can deliver things, right?
+@jterleski @notch @elonmusk we need @pmarca to join us and say there is nothing to worry about anyway
+@notch @elonmusk stripped of religion, I have always thought highly of https://t.co/boR33Xxy9C
+@elonmusk It seems too inevitable.  Arguing against it would be futile.
+Sphericam kickstarter did great, almost over: https://t.co/NsC35SbS84
+RT @oculus: Connect 2 applications are closing TONIGHT at 11:59 PDT! Send yours in before close: http://t.co/eJbn1WzIgP #OC2 http://t.co/pD…
+RT @OTOY: Wow..nearly 100 submissions in July for Render the Metaverse! Beautiful VR artwork.. @ID_AA_Carmack #alexross @JulesUrbach @oculu…
+@_pius working on some more docs this week
+A 220 degree fisheye camera lens that weighed 11 lb! http://t.co/uYX8hq9TJU
+@mepian yes
+I will be doing a keynote and a VrScript live coding session at Oculus Connect this year. https://t.co/7BmnEq65e3
+@m18e @natbro @tom_forsyth mem clk does change on mobile, and half the win would be shortening normal frame time to make room for GC.
+@orrc MUCH better!
+The independent-but-usually-named-exactly-the-same "java packages" and "android packages" are a train wreck.
+@heinapurola @OmegaCombinator @Cybren memory clock is also controllable on most SoCs
+If clock freq change commands had ~millisecond response, you could crank it up to peak for an entire frame when a garbage collection is due.
+@Rocky1138 I have browsed through the docs a couple times over the years, but I am more likely to write an Apple II prog if I ever go retro.
+RT @GPunchatz: 22 years ago I help bring this character to life... The new version looks great ! @QuakeCon #DOOM #QuakeCon2015 http://t.co/…
+RT @jose_pedro_dias: Functional Programming in C++ by @ID_AA_Carmack, restored via wayback machine:
+https://t.co/7rYiejPHB5
+#fp #cpp #artic…
+@sixty4bit resolution is too low right now -- like being surrounded by 800x600 monitors
+There goes my effort to get our VR videos encoded with h265... http://t.co/dth9taIpNw
+RT @saschkaunseld: Wrote down some of my thoughts and lessons on directing Oculus Story Studio's first VR experience. https://t.co/riPV2YOr…
+Even UDP packets are ack'd and retransmitted at the link level on WiFi. Only broadcast packets show the actual link error rate.
+RT @oculus: Early Bird Registration pricing for #OC2 is closing July 27 at 12 midnight PST! Apply here: http://t.co/eJbn1WzIgP http://t.co/…
+RT @tom_forsyth: Happiness is... typing a Mandelbrot into a pixel shader from memory and getting it right first time. It's a big step up fr…
+Everyone have fun at Quakecon, I wish things were clear enough for me to attend... https://t.co/JdEhbYgPA3
+@1Geek My talks are stressful for some in the company, because they are never quite sure what I will blurt out. :-)
+RT @theshep: @ID_AA_Carmack made the list! nice! 10 Digital Innovators Who Are Defining Creativity in a Tech-Fueled World http://t.co/zVsqk…
+Any work done on frame to frame delta compression of GPU command streams for remote applications? Don't concat view matrix, lots unchanged.
+@Sneagan there is talk about some way to deal with enterprise applications, but it hasn't gotten far yet
+@Sneagan you can launch specific apps for the 2D oculus android app, bypassing home.
+RT @oculus: Oculus Connect 2 Registration is now open http://t.co/eJbn1WzIgP! September 23-25th in Hollywood, CA. #OC2 http://t.co/QXf4xGNo…
+@graunked I'm going to try to make the next version I put together public. Probably fairly soon if events stop conspiring against my coding.
+@NathanWBlair @Nick_Craver insulation would make it impossible to run at steady state, so you would only get a couple mins runtime
+The print editions of Scientific American cary some amusingly crackpot ads.
+RT @manisha72617183: OH: Occam's Taser: the most painful explanation is usually the correct one.
+@Cdore101 Most of the developers use Unity or Unreal
+@dave_doomy Performing shading in a realistic way, based on physical processes, rather than just giving artists knobs to twist as they like.
+@Nick_Craver No, essentially all the power going into a computing device turns into heat.
+Disregarding energy, I wonder how far you could push a thermal optimized design on a standalone headset before it limited comfort.  40W?
+@gary_snethen @Fixelectrome A small, hard-to-see overlay that jitters around is not very good gravy.
+@BrandonJLa your tweet triggered it...
+@GameOutLoudCast They wouldn't put me on the F50 waiting list because of my history.  I bought the first one off lease for turbocharging.
+@gavanw @atomontage_com @dave_doomy somewhat mitigating is that then you really want FULL voxels, not just surface reps, which is expensive.
+I'm basically past all the car hot rodding, but upgrading my Tesla P85D to "ludicrous mode" feels like an in-app purchase, and I am tempted.
+@Fixelectrome We are technically much closer to the dream of VR than we are to the dream of AR. AR will be huge, but harder to do well.
+The isotropic directional nature of primitive processes is unfortunate -- I want photon control for VR and molecular control for propulsion.
+@dave_doomy High end gaming is past the knee of the benefit curve from technology, so design  prominence will increase.
+RT @oculus: Please join us in welcoming leaders in depth sensing technology, @pebbleInterface, to Oculus! http://t.co/FniM8iZ2rO http://t.c…
+@dolesistheboss @casseveritt most things done once a year ago are forgotten! :-)
+@casseveritt that used to be me building a Linux flight computer each year
+@gavanw @dave_doomy Two orthogonal questions -- vowels vs triangles, and tracing vs forward rendering. Can construct cases for all combntns.
+@dave_doomy you can do a decent vowel engine today, but it isn't a good idea -- rasterization still delivers better results.
+@romainguy I meant we have neither the photographer, nor the equipment. We are free to get it, but nobody has the time and mandate to test.
+@romainguy yeah, have you tried it? Surprisingly, we don't have a hard-core photographer with a room full of all these things at Oculus.
+@romainguy I want to try a pair of the Kodak PixPro cameras, they at least look like they have bigger lenses. Hopeful for some kickstarters.
+@mattmatkowski software can change the distortion, but not the focus. GearVR has a mechanics focus adjustment that works for most people.
+@romainguy you can see the raw sensor layout (side by side fisheye) if you take an unprocessed video. Would be nice to get not-JPEG.
+@romainguy note that pics transferred by wifi aware only1/3 the bits of pics pulled over USB
+@romainguy Agree the quality is poor, but the convenience is great.  I wish there was a higher end option with much bigger lenses+sensors.
+@casseveritt nations mortgage their sovereignty...
+@romainguy Have you looked into panoramic photography yet?
+@SeamusBlackley what are you building?
+RT @johnolilly: Oops, backwards. Armada (by author of Ready Player One) drops tonight. Appears to be about Space Invaders. GO GET IT. http:…
+@nothings Static image analysis, while very useful, is very different than bio vision. Excited to see all the deep learning for live vision.
+Deep Dream animations are just independent frames,but there should be an analog that really does feedback motion sensing and identification.
+RT @Sarklor: Bit focused on computer science. Few suspect the true horror of modern biosciences. Good. Gooooood. &lt;rubs mandibles&gt; https://t…
+C/C++ wouldn't allow it, but whole program analysis with freedom to reorganize data structures for memory access efficiency is interesting.
+@alexlehmannfilm it made me smile :-)
+@shawndumas I was fairly angry about the Quake Live development. I wanted it to be "move fast and iterate", but got more like a game release
+@eioudi It would take a LOT of compute to run that in real time.
+@VirtuosoChris @oculus yes, we are working on that!
+@ashray_malhotra Enhance the environment imagery in ways to allow people to perform tasks more effectively. Need very low latency.
+@ashray_malhotra Movie set reconstruction. Environment amplification for pass through AR. Emotion recognition and translation to models.
+Started reading the Wool Omnibus. Fun, but an energy conserving pulley system to avoid most of that stair walking is too obvious.
+@Sslaxx @dave_doomy I still want to see VR versions of all the classic games I worked on
+@__scamp if you have a Samsung, you can go to GearVR developer mode per the SDK docs, but the flickering will bother you.
+@timeiskey @higgsy_8i you have to build a VAO for each context
+@DrewDrawed the gameplay is strictly on a 2D plane, but the rendering is done with 3D coordinates.
+@_Kaven_ being able to make machines do your bidding is likely to remain a critical skill
+@jackmott42 archetypes don't have to be completely true...
+@javiermtowers there was a Captain America / Batroc one shot by Gillen a few years ago that I thought was great.
+Happy B-Day America! I celebrate the archetypes of my choosing -- Puritan work ethic, Yankee ingenuity, and cowboy independence FTW!
+@listic SVO raytracing is clearly possible at real time rates now, but the visuals don't offer much of a win over rasterization.
+@samth Considered it. The bulk is intimidating, GC seems worse on Racket, and even LGPL is frowned on for infrastructure around here.
+Downside of Scheme diversity -- bitwise-bit-set? from Racket and bit-set? from srfi33 have opposite orders for the index and value .
+@BrendanEich @kschzt @auradeluxe I desperately hope nobody starts hacking on that for at least a month to allow things to settle first!
+RT @BrendanEich: @auradeluxe @ID_AA_Carmack 2/ sweet revenge on "make it [JS] look like Java" order givers at Netscape. I came to do "Schem…
+RT @BrendanEich: @auradeluxe 1/ I did something once in ten days. Still paying, lol. If @ID_AA_Carmack gets Racket (née PLT Scheme) as meta…
+@auradeluxe @BrendanEich I acknowledge the near-inevitability of JS, but it isn't something I can personally make happen in a couple weeks.
+Not using a stable sort for drawn surfaces can give effects indistinguishable from delta-state bugs.
+@stevenluiting Sorry, I have already overshot my normal speaking quota this year...
+RT @IMGoph: RT @evilpaul_atebit: Possibly the nerdiest joke ever.. http://t.co/Vus9K3JOLZ (h/t @lordscarlet)
+RT @tomglimps: Reminder (for myself too =) .@OTOY's/.@Oculus' #RenderTheMetaverse contest just got into round 3 - don't miss a chance to ge…
+@jigalx @ChristinaCoffin @bitmOO @romero I bring that up when discussing patents--the world would have been poorer if only Id could make FPS
+@pocmatos DrRacket, and that is what gives me hope that it could be broadly used by non-professionals.  I am not an Emacs user.
+@natbro @psygnisfive @avibarzeev I freely admit that I am remiss in not spending some time with the JS ecosystem, but it hasn't appealed.
+RT @avibarzeev: @ID_AA_Carmack Short version here :) I can answer questions tonight.  http://t.co/JnFF8j2W5K
+@SeamusBlackley chem always struck me as memorizing a lot of names that were coined before people actually understood how things worked.
+@renambot @SND_TST I'm guessing they are going full CV depth reconstruction, rather than just image based stitching.
+@avibarzeev No I didn't, tell me more!
+@SND_TST Jump is addressing the harder problem of stereoscopic panoramic capture, at a much higher price point.
+It has been frustrating to not be able to give a clear answer when asked "What camera do I buy for 360 video?". Want an HQ "Super Theta".
+Jeffrey Martin has been good to work with for Oculus 360 Photos: https://t.co/NsC35SttwE
+@23d @oculus @AndroidDev We will, but deprecating old solution while the new one is still in beta (for native devs) doesn't sound awesome.
+RT @AurelioReis: How does Copywriting an API help anyone at all? https://t.co/JSmG9WmetW
+@dpetrov223284 I like working.
+@timeiskey GL contexts that share textures, programs, and buffer objects do NOT share VAO and FBO.
+@ryszu @HairySphere No way would it be able to consistently render stereo 60 on current hardware, but mono 60 or async time warp 30 should.
+@HairySphere I wish I could make a GearVR version. :-(
+@psygnisfive @hypatiadotca @sarahmei Happily at my desk in a quiet office, writing code.
+@ATek10 I have been aware of it for a long time, but I haven't looked at it closely..
+@NYMag @nothings "Fed gvnt might order US military to impose martial law" is not crazy to say, because it has been done, but not recently.
+@NYMag @nothings Sigh. The actual questions http://t.co/MbkaxoLY5Z are abstract, not current or Texas specific.
+@daniel_carvalho I think so. Other games had debug panels, but I think quake was the first full console interface.
+RT @wikkit: @ID_AA_Carmack I don't think your new vision tracking system is going to get wide adoption. http://t.co/HOYuFwEklh
+@dave_doomy AR is going to be HUGE eventually, but I think limited field of view in early models will make many experiences underwhelming.
+RT @cooke82: Wow! @DOOM cake by Elaine Russo :) http://t.co/1VUFCY68D5
+I enabled public comments on my Facebook posts. We'll see how that goes...
+Some technical notes for VR artists https://t.co/FLS9D9ahKk http://t.co/msvH5IukUx
+@dave_doomy Hard to imagine that, but I can hold out some hope that I could be involved with Id Software products in VR in the future.
+@triampurum @jwatte @racketlang I use Typed Racket for server work, but standard scheme for embedded scripting.
+Hungarian notation is broadly reviled in C, but there is somewhat more attraction for it in a language like Scheme without static type decls
+@shaver That is a great turn of phrase, lots of applications elsewhere!
+RT @Gameiversary: Today marks the 19th anniversary of Quake! #Quake @idSoftware @romero @ID_AA_Carmack http://t.co/zfhmM1oqum
+@cwashd Both.  There is fundamentally no correct way to represent arbitrary view stereo with a pair of images. Only correct in center.
+@cwashd stereo panoramas / videos are a huge per-column hack, don't try to physically visualize.
+@cwashd it should be infinity, but it is 100 meters on the Oculus player. The cube maps actually are at infinity in 360 photos.
+@Sslaxx @dosnostalgic @ben_304 Looks right. Walls drawn vertically, floors and ceilings horizontally, all with zero overdraw, then sprites.
+@GROUNDZERO1984 @BobKitten @Spacekatgal Hell no, but I would take a dozen more like Gloria -- one of our top engineers.
+@GROUNDZERO1984 @BobKitten @Spacekatgal I care a lot about merit, and hiring is far from perfect. I can find a little common ground.
+@politirocket Follow the link to the proposed federal code. Aerospace is much more of a risk than gun smithing.
+Reading a comp.lang.scheme FAQ from 20 years ago, it is interesting to see several implementations that are still supported today.
+I still can't decide if I like basic unit square geometry going from 0.0 to 1.0 or -1.0 to 1.0. Lots of 0.5 used in either case.
+RT @VinoBS: @ID_AA_Carmack Could you please help spread the word about the improved OpenGL documentation website http://t.co/J3A4lSBemx ? :)
+RT @ProgrammerWorld: How Crash Bandicoot was fit into 2mb of RAM http://t.co/Ahv5EbohOs
+@aerique The link I was trying to get twitter to understand earlier today points at a trivial VR application in Scheme.
+@BobKitten @Spacekatgal Which qualified applicants that were unjustly turned away lead you to believe we have erred?
+@jfbastien Probably will end up there eventually, but it isn't exactly a drop-in for me right now.
+Reminder, still hiring for Oculus Dallas: https://t.co/JJQjV2O15z
+The web gets assembly https://t.co/CvHqEYwbmL and I'm using a Lisp for VR.  Bizzaro world.
+The fact that GL ES Vertex Array Objects are not shared between contexts just really made me miserable.
+@sneakin @Minecraft On it.
+@sneakin @google @twitter The Android browser does this, and it works well.  The FB App Links also sends you to the store if not installed.
+@kpk Not sure I understand the "outbound link" terminology. If the link names an installed app on Android, build an intent and send it.
+@kpk tap a link, get the "insert phone into headset" message, and immediately be in the same VR space as the poster.
+@kpk Quick way to get people to jump into shared experiences, especially for Gear VR.
+RT @Hooper_777att: So excited to be working with @GettyImages and their fantastic, 360deg content! Just the beginning of great things! http…
+If anyone at twitter is listening, supporting this would be cool: https://t.co/yPetNTNxKF -- should be an enabler of live social VR.
+@IAmKaiserz On FB, that launches my VR app, twitter just goes to the page.
+Test to see if twitter supports FB applinks https://t.co/ORh5AC6ii1
+Test to see if Twitter on Android handles app URI schemes: nethmd://s3.amazonaws.com/o.oculuscdn.com/netasset/office.rkt
+This very much mirrors my experience in scrubbing the Id Software codebase a few years ao. https://t.co/axdhCutaTq
+@fanfare100 @partylethbridge I have moments when I consider what I could do in wireframe on an apple //c
+@doitwithalambda I don't mind being a newbie surrounded by experts in a helpful community!
+@porglezomp I like the typing a Lot, and gradual typing is a great feature. Slow compiles are a bit annoying.
+@neddop The multi-view OpemGL extension we have been working with vendors on will allow that efficiently.
+@CharlieChitty @femfreq I don't have any issue with "shouldn't be considered normal" -- it is trying to stand out, and is an outlier.
+@ineedfocus Presumably the full IdStudio editing environment will still be available, but it was pretty far behind Unity/UE for ease of use.
+@PIXEL_FLUX For any first person experience, being wireless with GearVR and playing in a swivel chair or standing is great!
+I'm sure it has changed drastically in the last two years, but Doom Snap Map was the last project I worked on at Id--great to see it lives!
+@PIXEL_FLUX Yes, DK2, Rift and Gear VR are all OLED.
+@CharlWoods1 i have no idea what it is looking like, but I wish them all the best - do the legacy proud!
+@billykhan @DustinHLand I hope it's great!
+@fraggletastic a human finger should be inherently rate limited enough
+Devices should have a button that says "Forget about that exponential back off or retry timer, send it again Right Now, because I said so."
+@bryanedds @weskerfoot I use typed racket for some of my server side work.
+I am guardedly excited about my embedded Scheme VR environment with live cross development in DrRacket. It is already useful.
+@mbnatwork Non perspective correct quad warping is very ugly for first person architecture. In hindsight, it still might have been better.
+@kragen @sneakin I often think about setting up a virtual triple-monitor Apple ][.
+@sneakin Nope.  Continuously moving your head while letting the text alias would let you see more detail, but you would get a headache.
+@jipkin it would be an interesting project.
