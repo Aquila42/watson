@@ -12,5 +12,5 @@ six==1.10.0
 sumy==0.3.0
 SVC==0.1
 tweepy==3.5.0
-tweetokenize==1.0.1
 wordcloud==1.2
+git+git://github.com/jaredks/tweetokenize.git
