@@ -1,7 +1,7 @@
 from nltk import word_tokenize,bigrams
 import re
 import glob
-import enchant
+# import enchant
 class SocioLinguistic:
     def __init__(self):
         self.emoji = set(self.file_to_list("feature_files/emoticons"))
@@ -10,7 +10,7 @@ class SocioLinguistic:
         self.features_dict = {}
         self.max_values = {}
         self.sent_list = []
-        self.english = enchant.Dict("en")
+        # self.english = enchant.Dict("en")
 
 
     def file_to_list(self,filename):
@@ -120,10 +120,11 @@ class SocioLinguistic:
 
     def slang(self):
         feature = "SLANG"
-        for word in self.sent_list:
-            if word.isalpha():
-                if not self.english.check(word):
-                    self.features_dict["SLANG"] = 1
+        # for word in self.sent_list:
+        #     if word.isalpha():
+        #         if not self.english.check(word):
+        #             self.features_dict["SLANG"] = 1
+        self.features_dict["SLANG"] = 1
         return [feature]
 
     def standard_english(self):
