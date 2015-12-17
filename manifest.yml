@@ -1,0 +1,9 @@
+applications:
+- path: .
+  memory: 1024M
+  instances: 1
+  domain: mybluemix.net
+  name: psyduck-python
+  host: psyduck-python
+  disk_quota: 1024M
+  buildpack: https://github.com/thenovices/heroku-buildpack-scipy

@@ -1,0 +1,1 @@
+web: python -m nltk.downloader punkt stopwords && python main.py
