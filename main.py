@@ -3,6 +3,7 @@
 # to send JSON as a response of a request
 from flask import Flask, render_template, request
 from classify import classified
+import os
 
 # Initialize the Flask application
 app = Flask(__name__)
@@ -37,6 +38,6 @@ def who_we_are():
 def pageNotFound(error):
     return render_template('error.html')
 
-
+port = os.getenv('PORT', '5000')
 if __name__ == '__main__':
-    app.run()
+    app.run(host='0.0.0.0', port=int(port), debug=True)

@@ -36,6 +36,6 @@ def makecloud(name):
         else:
             break
     filename = 'static/'+ name + '_cloud.png'
-    wordcloud = WordCloud(max_font_size=500,width=900,height=600,background_color='white',prefer_horizontal=0.5,font_path="a song for jennifer.ttf").generate(demo_text)
+    wordcloud = WordCloud(max_font_size=500,width=900,height=600,background_color='white',prefer_horizontal=0.5,font_path="a_song_for_jennifer/a song for jennifer.ttf").generate(demo_text)
     wordcloud.to_file(filename)
     return str(name + '_cloud.png')
