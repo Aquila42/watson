@@ -2,107 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e33b6c3a-d6fa-43f0-a7f9-b1d33a0f73bd" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/all_training_file_names2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feature_files/baseline_emoticons" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feature_files/baseline_emoticons.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feature_files/emoticons_common_final" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feature_files/emoticons_unicode_final" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feature_files/emoticons_unicode_reduced" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feature_files/feature_names_age_old" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feature_files/feature_names_final" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/feature_files/possessive_bigrams.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/genderLabels.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/names.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pickle/chi_squared_gend.pkl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pickle/trained_classifier_age.pkl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pickle/trained_classifier_gend.pkl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/requirements.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/0dayMILF_cloud.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/1McUnicorn_cloud.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/215__chris_cloud.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/2nd_proDEUCE_cloud.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/909cowboy.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/909cowboy_cloud.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/ActuallyNPH_cloud.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/Alexandra_Dumas.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/Alexandra_Dumas_cloud.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/Alexis_Wilcox_.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/Alexis_Wilcox__cloud.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/Ashley_How.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/Ashley_How_cloud.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/BarackObama_cloud.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/BeckyWalkerr.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/BeckyWalkerr_cloud.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/BillGates_cloud.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/ColumbiaCompSci_cloud.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/ComradeBrad_cloud.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/Cristiano_cloud.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/EmWatson_cloud.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/EoinColfer_cloud.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/FinFinXrist_cloud.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/GF_CREATIVE_cloud.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/Horse_ebooks_cloud.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/IBMBluemix_cloud.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/JohnMayer_cloud.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/KimKardashian_cloud.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/Markgatiss_cloud.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/MileyCyrus.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/MileyCyrus_cloud.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/Oprah_cloud.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/POTUS_cloud.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/Reverend_Banjo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/Reverend_Banjo_cloud.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/TomFelton_cloud.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/_ArnavKumar_cloud.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/__keek.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/__keek_cloud.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/ajax-loader.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/asdfasd.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/asdfasd_cloud.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/britneyspears_cloud.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/cnnbrk.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/cnnbrk_cloud.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/danieltosh_cloud.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/dril_cloud.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/error.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/female.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/gracevesom_cloud.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/jack_cloud.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/jimmyfallon_cloud.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/jk_rowling.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/jk_rowling_cloud.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/jtimberlake_cloud.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/justinbeiber.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/justinbeiber_cloud.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/katyperry_cloud.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/ladygaga_cloud.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/logo2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/male.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/mammal_champ.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/mammal_champ_cloud.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/marissamayer_cloud.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/mattytalks_cloud.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/ni_cloud.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/nickjonas_cloud.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/nytimes_cloud.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/realDonaldTrump.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/realDonaldTrump_cloud.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/rihanna_cloud.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/rikerR5_cloud.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/rogerfederer_cloud.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/ryanqnorth_cloud.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/sdwatters_cloud.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/selenagomez_cloud.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/serenawilliams_cloud.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/shakira_cloud.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/sundarpichai_cloud.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/taylorswift13_cloud.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/zzplexxx444_cloud.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/TheIsl4nder_cloud.png" afterPath="$PROJECT_DIR$/static/TheIsl4nder_cloud.png" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MileyCyrus.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gary_Offbeat.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/justinbieber.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/realDonaldTrump.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rishina_tah.txt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/watson.iml" afterPath="$PROJECT_DIR$/.idea/watson.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/index.html" afterPath="$PROJECT_DIR$/templates/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PullIdGenTweetText.py" afterPath="$PROJECT_DIR$/PullIdGenTweetText.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/classify.py" afterPath="$PROJECT_DIR$/classify.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/getTweets.py" afterPath="$PROJECT_DIR$/getTweets.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/makewordcloud.py" afterPath="$PROJECT_DIR$/makewordcloud.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/requirements.txt" afterPath="$PROJECT_DIR$/requirements.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stacked_classifier.py" afterPath="$PROJECT_DIR$/stacked_classifier.py" />
     </list>
     <ignored path="watson.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -123,10 +37,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="0.6081081">
               <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
               <folding />
             </state>
@@ -145,14 +59,46 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="stacked_classifier.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="stacked_classifier.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/stacked_classifier.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.9748521">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="43" column="45" selection-start-line="43" selection-start-column="45" selection-end-line="43" selection-end-column="45" />
               <folding>
                 <element signature="e#0#56#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="classify.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/classify.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="16" column="72" selection-start-line="16" selection-start-column="72" selection-end-line="16" selection-end-column="72" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="getTweets.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/getTweets.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="makewordcloud.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/makewordcloud.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -194,6 +140,11 @@
         <option value="$PROJECT_DIR$/stacked/stacked_classifier.py" />
         <option value="$PROJECT_DIR$/stacked/makewordcloud.py" />
         <option value="$PROJECT_DIR$/stacked/getTweets.py" />
+        <option value="$PROJECT_DIR$/getTweets.py" />
+        <option value="$PROJECT_DIR$/classify.py" />
+        <option value="$PROJECT_DIR$/PullIdGenTweetText.py" />
+        <option value="$PROJECT_DIR$/makewordcloud.py" />
+        <option value="$PROJECT_DIR$/stacked_classifier.py" />
       </list>
     </option>
   </component>
@@ -265,41 +216,7 @@
       <recent name="$PROJECT_DIR$/socling" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main (1)">
-    <configuration default="false" name="stacked_classifier" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stacked" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="watson" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stacked/stacked_classifier.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="getTweets (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stacked" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="watson" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stacked/getTweets.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.getTweets">
     <configuration default="false" name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -347,6 +264,40 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="watson" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="getTweets" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="watson" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/getTweets.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="stacked_classifier" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="watson" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stacked_classifier.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -474,19 +425,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.stacked_classifier" />
-      <item index="1" class="java.lang.String" itemvalue="Python.getTweets (1)" />
-      <item index="2" class="java.lang.String" itemvalue="Python.main" />
-      <item index="3" class="java.lang.String" itemvalue="Python.makewordcloud" />
-      <item index="4" class="java.lang.String" itemvalue="Python.main (1)" />
+      <item index="0" class="java.lang.String" itemvalue="Python.main" />
+      <item index="1" class="java.lang.String" itemvalue="Python.makewordcloud" />
+      <item index="2" class="java.lang.String" itemvalue="Python.main (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Python.getTweets" />
+      <item index="4" class="java.lang.String" itemvalue="Python.stacked_classifier" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.main (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Python.main" />
-        <item index="2" class="java.lang.String" itemvalue="Python.makewordcloud" />
-        <item index="3" class="java.lang.String" itemvalue="Python.getTweets (1)" />
-        <item index="4" class="java.lang.String" itemvalue="Python.stacked_classifier" />
+        <item index="0" class="java.lang.String" itemvalue="Python.getTweets" />
+        <item index="1" class="java.lang.String" itemvalue="Python.stacked_classifier" />
+        <item index="2" class="java.lang.String" itemvalue="Python.main (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Python.main" />
+        <item index="4" class="java.lang.String" itemvalue="Python.makewordcloud" />
       </list>
     </recent_temporary>
   </component>
@@ -504,7 +455,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="773" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="773" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -512,18 +463,18 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.503125" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.496875" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32954547" sideWeight="0.496875" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -545,70 +496,6 @@
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="409" column="0" selection-start-line="409" selection-start-column="0" selection-end-line="409" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Python/2.7/site-packages/alchemyapi/alchemyapi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="899" column="0" selection-start-line="899" selection-start-column="0" selection-end-line="899" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pullAgeGender.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Python/2.7/site-packages/alchemyapi/alchemyapi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.06804734">
-          <caret line="899" column="0" selection-start-line="899" selection-start-column="0" selection-end-line="899" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pullAgeGender.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.24556214">
-          <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Python/2.7/site-packages/sklearn/linear_model/base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="227" column="28" selection-start-line="227" selection-start-column="20" selection-end-line="227" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="5.480769">
-          <caret line="409" column="0" selection-start-line="409" selection-start-column="0" selection-end-line="409" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/wordcloud/wordcloud.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.29954955">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
           <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
           <folding />
         </state>
@@ -626,11 +513,104 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/stacked_classifier.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.9748521">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#56#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pullAgeGender.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pullAgeGender.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24556214">
+          <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Python/2.7/site-packages/sklearn/linear_model/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="227" column="28" selection-start-line="227" selection-start-column="20" selection-end-line="227" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PullIdGenTweetText.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3581081">
+          <caret line="35" column="31" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/makewordcloud.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getTweets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classify.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="72" selection-start-line="16" selection-start-column="72" selection-end-line="16" selection-end-column="72" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stacked_classifier.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="43" column="45" selection-start-line="43" selection-start-column="45" selection-end-line="43" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/socling_classifier.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6081081">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+          <folding />
         </state>
       </provider>
     </entry>

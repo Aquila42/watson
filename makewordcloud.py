@@ -12,7 +12,7 @@ warnings.simplefilter("ignore")
 def makecloud(name):
     cnt = 0
     # file=open('age_over54_train/KABarron.txt')
-    file = open(name + ".txt")
+    file = open('extracted_tweets/'+name + ".txt")
     demo_text = ""
     stop = stopwords.words('english')
     for line in file:

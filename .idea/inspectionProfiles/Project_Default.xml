@@ -4,7 +4,7 @@
     <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
       <option name="ignoredPackages">
         <value>
-          <list size="50">
+          <list size="60">
             <item index="0" class="java.lang.String" itemvalue="altgraph" />
             <item index="1" class="java.lang.String" itemvalue="pyobjc-framework-WebKit" />
             <item index="2" class="java.lang.String" itemvalue="pyobjc-framework-DictionaryServices" />
@@ -55,6 +55,16 @@
             <item index="47" class="java.lang.String" itemvalue="pyobjc-framework-QTKit" />
             <item index="48" class="java.lang.String" itemvalue="pytz" />
             <item index="49" class="java.lang.String" itemvalue="pyobjc-framework-ScreenSaver" />
+            <item index="50" class="java.lang.String" itemvalue="chardet" />
+            <item index="51" class="java.lang.String" itemvalue="requests-oauthlib" />
+            <item index="52" class="java.lang.String" itemvalue="html5lib" />
+            <item index="53" class="java.lang.String" itemvalue="six" />
+            <item index="54" class="java.lang.String" itemvalue="Werkzeug" />
+            <item index="55" class="java.lang.String" itemvalue="colorama" />
+            <item index="56" class="java.lang.String" itemvalue="wheel" />
+            <item index="57" class="java.lang.String" itemvalue="cycler" />
+            <item index="58" class="java.lang.String" itemvalue="urllib3" />
+            <item index="59" class="java.lang.String" itemvalue="argparse" />
           </list>
         </value>
       </option>

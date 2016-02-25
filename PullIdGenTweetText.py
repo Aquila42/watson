@@ -1,14 +1,5 @@
 import tweepy
-from tweepy import Stream
-from tweepy.streaming import StreamListener
-from tweepy import OAuthHandler
-from tweepy import Cursor
-import csv
-from random import randint
-import json
-import urllib, urllib2
-from nltk import wordpunct_tokenize
-from nltk.corpus import stopwords
+import urllib
 
 
 def getTweeterInfo(entered):
@@ -42,7 +33,7 @@ def getTweeterInfo(entered):
         img = img.replace("normal", "400x400")
 
 
-    f = open(entered + '.txt', 'w')
+    f = open('extracted_tweets/'+entered + '.txt', 'w')
     f.write(handle + "\n")
     f.write(img + "\n")
     for line in tw:

@@ -41,7 +41,7 @@ class StackedClassifier:
         return predicted[0]
 
     def get_features_list(self,demographic):
-        self.tweets = open(self.handle+".txt")
+        self.tweets = open('extracted_tweets/'+self.handle+".txt")
         self.socling.stacked_socling_init(demographic)
         self.tweets.readline().strip() #twitter handle
         self.tweets.readline().strip() #profile picture
